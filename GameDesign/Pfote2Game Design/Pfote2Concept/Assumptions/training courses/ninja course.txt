@@ -1,0 +1,43 @@
+REFLEX INTENSE SKILLS
+
+ninja training ( platforming )
+	
+n controls:
+shift - tenses for jump or dodge-block, shift release
+
+normal speed
+	tap arrow - smaller steps, emphasize silence
+	shift in motion - dodge
+	
+while running
+	hold shift (strafe)
+	
+	quick release - hop in direction
+	x2 - double jump (really jump)
+	
+	shift + arrow - dodge, jump or side-step
+	
+	jump n'run, platforms
+	run n'gun - jump + pew pew
+	
+	wall run
+	wall run + jump
+	
+	wall kick
+	wall hop, repeated
+	
+	grab/ climb a ledge
+
+	--
+
+standing still in zone
+	shift + (mouse or arrow) zone jump 
+	
+	long jump - double jump from zone
+	
+	ledge jump - target a narrow surface
+	
+	pinpoint jump - flat surface
+	
+	turbo - run up a flat wall + jump to a flat surface
+	

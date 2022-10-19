@@ -1,0 +1,121 @@
+Mental defenses are good. Ludokinesis (LuK) will get through all of them. 
+
+
+GAME with story DESIGN
+Bottom up design.  
+1 Program the basics for dialogue, interacction
+2 interpret the geometry
+3 add the story
+4 script triggers (cutscenes)
+
+Top down design.
+1 write story
+2 block together actions from the story, determine triggers, structure
+3 code story in syntax, with action blocks
+4 program the actions
+5 script ai routine
+6 script story triggers, contextual input
+
+note the audio, graphics, and years of practice in any discipline aren't mentioned. Simply learning to play video games is a potential challenge.
+
+STORY SETTING BLOCKS
+1 Geometry allows basic interaction
+2 Identifying used objects enables higher functioning action
+3 Ads, aka mob or obstacles, create active interference
+4 Decoration, free, create static interference
+
+
+BEHAVIOR-OR-HARD-CODED ACTION BLOCKS
+
+predict: form expectation
+plan with options: The use of tactics, strategy, interacting with mob, ob, Goal, to reach a desired state shows a planning skill.
+
+perform: performance is sound, visual to convey intent, player feedback
+
+result is a transaction, feedback
+success is met expectation
+evaluate the unexpected turns
+
+
+COUNTER PLOT
+From the ending, work backwards, predict ACTION BLOCKS instead of aimless wandering.
+
+"Seven basic plots" (wikipedia): 
+	Overcoming the Monster
+	Rags to Riches
+	The Quest
+	Voyage and Return
+	Comedy
+	Tragedy
+	Rebirth
+
+NARRATIVE PATTERNS are meant to be observed and relied on by the audience. It's like, an opportunity to read between the lines.
+
+	Rule of three, things come in threes, good or bad.
+
+	Good vs. evil, alignment is expected.
+	
+	
+NARRATIVE DIALOGUE
+	STRUCTURE linear, nonlinear, interactive (games)
+	FORM determines the information in the story.
+	POV position and character of the storyteller, in relation to the narrative
+	VOICE "essential" sets up the story for the player. Thought process, reading a letter, retelling experiences.
+	TENSE past, present, future
+
+STATE, PLOT
+Game state reflects progress (of plots), tracking behavior of character, status of all npc
+
+NULL REACTION
+An action in the world has to be forgotten or forgiven for a story to resync with planned events. 
+
+LUDOKINESIS (Lk)
+Intro, mnemonic, reflection, redundancy.
+
+	As an occupational calling it can lead to catharsis, and the belief of something greater.
+	
+	As observation it can be imitated or characaturized.
+	
+	As V.G. Trope, strange rules npc and pc follow reinforce ludokinesis, sometimes affects real life.
+
+LEARNING
+The lesson and behavior modification that may take place through some school of thought.
+
+NPC, ANIMAL
+	CLASSICAL CONDITIONING applies to correlating multiple stimuli to a response found in.
+	OPERANT reward and punishment suits imperative behaviors.
+	LAG a misunderstood, but well meaning delay in response
+	
+NPC, HUMAN COGNITION
+	TOKEN MEMORY of symbols, postures, memes, activates at intro, meme, and mnemonic levels.
+	PATTERNS apply to humans.
+	PATTERN REINFORCEMENT is mnemonic, suits critical thinking behaviors.
+	OBSERVATION is imitation, and may apply to any sense or memory.
+
+
+PC
+	FLOW STATE is where behavior, thought has no difficulty for long periods.
+	REST is the act of simple pleasure, results in entropy over long periods.
+
+	DEATH is punishment with nothing, EXTINGUISHED BEHAVIOR resulting from extreme stress or injury can be perceived as TRAUMA.
+
+PLAYER
+	CHALLENGE should be more difficult than perceived FLOW STATE but easily overcome with OOC SKILL.
+
+	TUTORIAL is a method of intro to player, without interfering with PC. A tightly closed loop that ensures bare minimum excess, with a single success state.
+
+META (ALL EXPERIENCE MATTERS)
+LESSON is an interactive flow state.
+
+LESSON PLAN is a macro that demands extended challenges and flow states.
+
+HARD SKILL can be uncannily weak in some areas. Shouldn't be required for casual players.
+
+EASY CHOICE the result of simply choosing has weight, because there is potential. Only has moral weight.
+
+BRANCHED PATHS or CHANGE OF MIND is a potential for choice.
+
+
+TACTIC is an action that takes advantage of skills TACTIC LESSON use skill to solve puzzles, situational awareness.
+
+STRATEGY, use of INTEL a use of gathering situational knowledge. STRATEGY LESSON a scenario that involves multiple steps, GATHER INTEL, PLAN, and EXECUTE, where any mistake results in failure.

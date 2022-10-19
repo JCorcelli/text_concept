@@ -1,0 +1,16 @@
+
+Direction Indicator : (script) remains in range of character, moves towards target location
+Target Location : placed by selecting 3D target
+
+### 3D targets ###
+Floor Tile : place target location by selection
+
+Work Station : touches character
+	optional
+		place target at designated point
+		open menu
+
+	
+Bunny : open bunny menu, alter selection method until cancelled
+Human : human is set as target
+

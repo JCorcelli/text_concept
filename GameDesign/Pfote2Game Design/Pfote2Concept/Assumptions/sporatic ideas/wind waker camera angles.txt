@@ -1,0 +1,13 @@
+architecture of Wind Waker
+
+level design is a series of scenes defined by interesting things
+
+best is 1 interesting thing
+worst is 0 interesting thing
+more interesting things above 1 is a puzzle
+
+term "interesting thing" just requires a synonym to complete the scene
+
+iconic, historic...
+
+But ultimately it's a powerful mnemonic, an image, or value

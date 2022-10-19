@@ -1,0 +1,69 @@
+ PRE EXPERIMENT PHASE ABSTRACT
+I can test my hypothesis by having as many things flying, jumping, running, bouncing off walls, hovering around, looking for good viewing angles, relaying information to whoever is holding the camera. The holder moves to find the middle ground with the best view and the Character.
+
+The AI camera holder has a goal to watch the character.
+
+Objects with their own goals can look for many different things and try to predict if the camera holder should move with them. Think of some of these as a tidal forces pushing you and others are helpful lookouts.
+
+how many objects are visible,
+how long can they move as-is before the view is blocked, pre-casting
+how much of their gaze is taken up by the main Character,
+how close they are to the camera holder
+where are all the important nooks a bunny-nose can find?
+what are the potentially captivating locations that you can see from where you are standing right now?
+
+    SUPPORTING FACTS
+The program should work without a bottleneck. More objects increase processing expense. Understand Database Relations Many-to-one, and one-to-one allows everything to relay its info and keeps the expense linear rather than exponential.
+
+The setup is N Moving objects, 1 Camera holder, 1 Character, 1-N Directional Indicators, 1 Player Goal. (N:1:1:1-N:1)
+
+I do some research (see below) but don't find anything that aids or alienates the idea. So I further explained it above.
+
+Three C's are encouraging but only proves anecdotally a correlation to player enjoyment.
+
+    RESEARCH
+
+Genuinely helpful, prior research.
+Visibility Transition Planning
+	Synopsis: Precomputed globally. Occlusion and focus points are used with a real-time camera to avoid clipping and getting better angles tracking target.
+	
+	https://www.youtube.com/watch?v=8G0xfyDGLsk?
+	
+	And a pdf.
+	https://graphics.ethz.ch/Downloads/Publications/Papers/2009/Osk09/Osk09.pdf
+	
+	
+Encouraging, anecdotal evidence. Doesn't really prove or disprove anything.
+
+http://tvtropes.org/pmwiki/pmwiki.php/Main/CameraScrew
+
+Three C's
+	http://blog.digitaltutors.com/character-controls-camera-3cs-game-development/
+	Character, Controls, Camera
+	
+	Source Bias: Article lauds the three C's quite a bit, claiming they are the determiner for initial player experience in-game, the predictor of experience throughout the entire game.
+
+	
+
+Similar Topics, Research, Tangents. I'll look at these again.
+	
+Camera was a buzzword in 2009
+	Apparently it was, because motion controls.
+	http://www.wired.com/2009/06/camera-e3/
+	
+Player-gaze Topic
+
+Automating Camera Control in Games Using Gaze
+Cameron Alston, Arnav Jhala 
+2014-06-18
+	http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8864
+	
+	
+
+Research Bias: Skipping tutorials that say "this is a camera in video games" in different words.
+More control than real-life camera? Best examples of "this is a camera" 
+
+real advertisement application
+	http://cameras.reviewed.com/features/the-perfect-camera-only-exists-inside-a-video-game
+
+Predicted Player Bias: Some players may not care if a camera is difficult and would rather have the option to direct it. Will consider strongly.

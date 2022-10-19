@@ -1,0 +1,33 @@
+I set up a super cursor class atm
+	it's a circle outside text - i shouldn't use it like this
+	it's a highlight in text
+
+CursorInfo
+FocalCursor
+
+circle (mouse)
+	rect (hover highlight)
+	
+	I need a focus highlight that doesn't move with cursor or something
+
+highlight
+word recolor
+I could make colored words by copying the text, changing the color, covering the old text
+
+word reveal
+like a lense
+
+x editing
+wiki linking
+
+
+o i set up the 2d cursor now I just feel like I want that 3d cursor to cooperate
+
+
+>	
+have a default selectabstract > cursornode without requiring text.
+I embed a selectabstract > cursortext (currently the main cursorinfo) if I need it, just make the text big enough
+
+the alternative is to check if I hover a selectabstract, then I see if it has cursor info
+
+? maybe I shouldn't always be moving the camera

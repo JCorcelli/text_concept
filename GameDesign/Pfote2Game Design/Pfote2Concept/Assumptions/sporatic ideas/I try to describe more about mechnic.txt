@@ -1,0 +1,15 @@
+MOVEMENT 
+I included a lot of excess movement potential while describing the game to myself.
+
+
+The core movement is actually two options: click or hold the mouse, and Bunneh goes there. Also optionally: wasd or arrow controls.
+
+You can conveniently turn the camera.
+
+More advanced movement is in the works, for fun.  A bunny that can run and jump!
+
+There are more than four different ways to jump set as a goal.  A familiar jump is always available, it's a matter of finding the jump button. But there are also secret techniques.
+
+Even if you aren't great with the core movement, from idle you can bounce or slingshot your way, although it will start off a bit slowly.
+
+There are other powerful options in the works.  What can be achieved by hopping shouldn't be ignored.

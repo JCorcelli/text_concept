@@ -1,0 +1,39 @@
+he says game he means 
+	rules
+	goals
+	conflict
+	
+
+small games are bricks
+
+	M: an innovation revealed as a brick is probably hard to see
+
+make them learn things
+
+goals are created around displayed stats
+
+game is extended by "moves / dimensions"
+
+games are on timers
+	M: slowing the ai down makes it more believable
+	
+working with constraint on purpose "time honored classic creative tool"
+	M: it's easier to identify it as a brick
+	
+conflicted goals : deal damage, don't take damage
+	M: attract repel dilemma
+	
+	
+"It's easy to make a game. Our failure is a complete lack of imagination."
+M: So he means use an experience, and build a game around it... but apparently if you use old rules it's not new, it's an innovation.
+
+I think I can describe this GDC as a game
+
+suggest a problem
+give the audience a goal
+teach them new things
+reward them with phrases like "see, it's easy"
+
+He sums it up with top down, bottom up game design. "the game can be about friendship. use friendship as a mechanic"
+
+M: ok I wrote a story, I'm trying to abstract that story

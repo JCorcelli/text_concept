@@ -1,0 +1,21 @@
+
+verse_item_base : Item
+	children
+	all_die = 1;
+	container_die = 1;
+	container_explosion = 1;
+	
+	dieVerse(child)
+		#item effect
+		if (all_die) AllDie();
+		if (container_die) ContainerDie();
+		if (container_explosion > 0) ContainerExplosion();
+	
+	
+	AllDie()
+		foreach child in children
+			child.alive = 0;
+	ContainerDie()
+		container.die();
+	ContainerExplosion()
+		explodeEffect(container,container_explosion);

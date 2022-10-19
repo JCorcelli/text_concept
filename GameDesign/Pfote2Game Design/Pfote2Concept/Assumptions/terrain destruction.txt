@@ -1,0 +1,27 @@
+there are the skills, dig, ram, and explosive.  These could dig out chunks, but there's also tunneling which should make a neat line.
+
+some areas need to reset, so I can probably record the line already made, allowing reuse.
+
+dig - take a voxel chunk out
+ram - 
+	1 damage random chunks as well as a damage the closest chunk
+	2 dig several voxels, and damage the surrounding chunks
+explosive - 
+	1 voxelize chunk in radius
+	2 vaporize in radius
+	
+	
+tunneling
+tunnel - first cut creates an entrance
+
+	1 cut a given distance for a shortcut
+	2 cut along a plane, and change your angle at will
+secret turnnel - cover the entrance
+
+terrain refresh - replaces damaged parts
+	1 damaged surfaces of buildings, ground
+	2 designated puzzles
+	3 some unstable terrain
+
+what if I try to build?
+	i'll see what I can do. but does it really make sense for a bunny to build?

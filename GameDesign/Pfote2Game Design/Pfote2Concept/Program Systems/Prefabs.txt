@@ -1,0 +1,55 @@
+Camera Rig
+
+trigger (enable, disable)
+	snap, pivot
+			arm (call camera)
+		
+Camera Scene
+
+bunch of camera Rigs called "sensors" arranged in a scene-fit square
+
+
+Manager Rig
+	Manager (name , tag: managers), can be anything
+	
+	Calling Queries
+		
+
+Station Rig
+	Common features
+		Triggers for closeup	
+			FOV"
+				remove outline shader to avoid collision (covers screen opaque)
+				reveal shadow caster
+			Trigger outline container
+		Floor area in default layer
+		Camera Sensor
+		stencils for opaque covers
+		an outline container
+			basic outline shader
+			custom outline mesh
+			other
+	
+	
+	Custom features
+		Register on entry / exit for player log
+		toggle collider layers
+		turn GameObjects on or off
+		play Animator for delayed effects
+		change scene / interfaces
+
+Simple Animation
+	any number of sprites with a script that chooses the animation progress
+	
+Lure
+	Attract / Repel and play animations using many triggers
+	
+	Streamlined Features
+		Warning, appears when main body gets withing hearing range, displays a danger
+		Zone, appears when presence enters zone, displays an unsafe area to step
+		Effect, activates when main body enters zone, pushes presence away
+		Animations, plays until finish, looks cool, should start to trigger with effect
+		
+	Custom
+		Drop indicator after exitting effect radius
+		

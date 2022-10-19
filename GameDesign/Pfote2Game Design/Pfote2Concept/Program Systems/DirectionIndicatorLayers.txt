@@ -1,0 +1,45 @@
+DirectionIndicator distance limited to ConstraintForIndicator
+DesireIndicator
+TargetIndicator goes as close to ghost as possible without passing boundaries on navmesh
+GhostTargetIndicator goes where you click
+
+
+Layers
+	Input -> Ghost -> Target -> Desire -> Character
+					...Target -> Direction (stays close to character)
+
+Influence
+	Input <- player
+	Ghost (Vsible) <- input
+	Target <- Ghost / Events
+	Desire (Invisible) <- Interference {repel - attract - force}, Target
+	Direction <- Desire/ Event (basically his ear)
+	Character <- Desire
+
+VARIABLE INFLUENCE KEY
+Events
+	1 A direct command that sets SelectGlobal.locked = true, denying target from moving towards ghost
+	2 A change of location for target
+	3 Or potentially changing the influence hierarchy
+
+Interference
+	 target location ->
+	 
+	repel: a point that's farther away from this source than target, in the direction of target
+	attract: like repel, but closer than target 
+	force: possibly a script that repeatedly changes direction
+	
+HIERARCHAL INFLUENCE KEY
+Input (keypress)
+	Raycast from camera to collider
+	Hierarchal selection
+Ghost
+	Goes directly to marked coordinates. Manifestation of player.
+Target
+	Goes toward ghost / a secondary target. Indicates where NPC will get stuck.
+Desire
+	Placed on target, gets pushed by external forces. Logic / emotional involvement.
+Direction
+	Physical manifestation of the character's choice (visible)
+Character
+	The thing being controlled by player's input.

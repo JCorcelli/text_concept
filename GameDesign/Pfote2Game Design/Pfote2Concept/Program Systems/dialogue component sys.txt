@@ -1,0 +1,59 @@
+user is tracked: keeping track of who uses
+source is code verified
+	use textfile
+DBoxAction
+Parsed
+	in detail...
+	something points to a stream to perform a more direct action
+
+		1 Scan a stream: I can check if a stream can receive, logically. Paper receives haptic. It take extra steps in a parser during the stream to determine how much is being written ala the third box.
+		2 Use method: basically a standard set of virtual methods. Theoretically writes to a stream with special text triggers, if the method's implemented. I hear it's a good use of oo programming.
+
+		Everything is intended to pass through all potential streams, just in case.
+		A lot of packets will disappear since the remembered streams are limited
+
+		Theoretically writes to a stream with special text triggers, 
+		Always
+		standard:
+		proc hub, triggering all boxes capable of receiving 
+
+		This multiplies the number of text packages, a lot will disappear since the remembered streams are limited, player oriented 
+		
+		NCP behavior
+		it increases the potential for idea mutations, seeing but not hearing what someone says, and behavior triggers when NCPs are actively spying on you.
+		
+	
+Markup (aka scripted action)
+	images in text
+	alter text behavior
+	alter something
+	spawn
+	do something
+
+D box parses and displays
+
+action outside script alters the text. (skip is fine)
+	
+	
+o? knowledge base
+o? memory, concept only
+
+	created- fakeUser (basically I program it, so it is)
+	reflected - user
+	stored - storage
+	shared - stream
+	mutated - mutator
+	corrupted - theoretical behaviors
+	x investigated
+	x altered
+	x tested
+	
+
+KB...
+future knowledge base expansion!
+laws, restriction
+manipulation: opinion (adjective), logic (reusing, training), dismissing, copy/altering(lie)
+noun sense safety, verb (use) mastery, self opinion
+observation (various objects are users)
+thoughts (knowledge behaviors)
+experimenting (validating), and creative source fact or fiction

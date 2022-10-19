@@ -1,0 +1,39 @@
+random mutation is caused by the mutators, so, look at mutators
+
+intentional (preprogrammed or otherwise)
+user manipulation is a behavior that needs to be exhibited through action
+
+*******
+
+fabricator, Create
+deliberate creator of wild info
+
+liar, Lie
+cause deliberate mutations, keeping record of the original to avoid restoring it
+
+1 user has info
+2 user stores a lie
+3 user compares lie to truth each retelling
+
+omitter, Avoid or Forget
+deliberate aversion of stating info
+
+1 user will not access the info,
+2 recognizes it
+3 changes subject
+
+recordkeeper, Record or Spread
+
+1 user saves the info on analogue
+2 user also shares the info (copying analogue, or word of mouth)
+
+terminator, Destroy or Decimate
+
+1 user destroys analogue storage
+2 user accepts improper info equally
+3 user ignores useless inconsequential info
+
+offender 
+
+1 user targets biological storage for lies and wild stories
+2 user escalates until target is decimated dead or some other criteria

@@ -1,0 +1,27 @@
+
+s: markup ideas.txt
+
+split stream, fake user
+	parallel DText, it should spawn a fake user, it can have any properties
+	
+is just an idea...
+modify, DText ... endmodify
+	like a mediaproc, targets a DText to store this in as it reads.
+	this method circumvents filtering
+	
+	it is sensible to behave like mediaproc
+	"add a fresh DText to storage and write to that, it will appear to be like any other DText
+	"
+	or similar to a join
+	"find a recording device (pencil+paper, camera) and target the last DText
+	"
+	this is cryptic
+	"any !readOnly DText not in use, proc or goal
+	"
+
+mediaproc, real user
+	trigger a media proc in user with split text
+join stream
+	modify DText.storedText, it should target another stream's goal text
+just run a method
+	no parsing required? just write a method

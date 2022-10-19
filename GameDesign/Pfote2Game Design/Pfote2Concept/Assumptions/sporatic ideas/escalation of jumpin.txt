@@ -1,0 +1,38 @@
+ESCALATION OF JUMPING
+
+shift jumps, initiative jumps, but people will press space or escape first
+
+
+step 1 - bb bunny
+if you click or press any button to move it says, ok good enough
+
+step 2 - cage
+clicking outside the cage is an auto initiative
+click = you scratch the glass
+hold = you scrunch up, and there's some charge meter
+release 1 = bonk the glass
+release 2 = dangerously, leap out of the cage
+
+reward: scolded, held, placed back in cage, the door's still shut
+
+Q: why'd you jump out? 
+
+A: The motivation is exploring, and it's a couple of clicks, no big deal.  So a faster learner will do this.
+
+Q: this starts the game in the initiative zone. so then, why is there a space button?  
+
+A: I think that I want some way to click, direct my character without jumping, that is stealthy and... won't highlight objects floating in 2D, ie the zone.
+
+a short time passes and the door's opened
+
+What a tease.
+
+Now if you stand near human it could say "mouse and shift." jumps
+
+If you stand near things it'll say "space to zone" "zone jump is easy to aim"
+
+If you stand near things to go inside it says "Hide (E)" Simple straightforward suggestions.
+
+Then you go in your cage and get the "cute" choice, which will make every other choice seem weak.
+
+all this just to JUMP[a] and yet there's not really an obstacle, so maybe jumping shouldn't be the first important lesson.

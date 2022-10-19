@@ -1,0 +1,30 @@
+intentional mutation examples ala "intentional vs. random mutation"
+
+intentional (preprogrammed or otherwise)
+user manipulation is a behavior that needs to be exhibited through action
+
+
+OMITTER
+someone just doesn't want to talk about dogs
+"dogs are cool"
+
+mutation
+"animals are cool"
+"" no comment
+
+lie
+"I haven't seen any dogs"
+
+OFFENDER
+someone really hates dogs
+
+only stores phrases he likes and destroys the others
+eg "dead dog"
+
+any mention of dogs makes them highly interrogative until they hear
+	"I haven't"
+	or one of their stored phrases are used.
+	
+the phrase "love dogs" makes them start griefing
+
+saying "baby" can be mistaken as an offense and the offender is stalked until they return home where someone searches for signs of a dog approximately 30 minutes, no additional action necessary. It's pretty scary.

@@ -1,0 +1,160 @@
+Dungeons.txt
+
+name
+	limits
+	assumptions
+	
+	
+	setups / potential
+
+
+(new) set goals
+	location zoning and terrain can determine if areas are attacked or completely devoid of challenge. Which leads to a more role diversity.
+
+merit based game
+	hard limitation: Traverse on foot. No combat. Non-lethal deterrents.
+
+	assumption: Construction is limited to predictable flat designs and stairs. Could resemble a house.
+	
+	setups that meet limitations include
+	
+	Potential: Low. Exceptional maze designs for beginners to observe.
+	
+	Easy counter: the blueprint
+		
+	t1 skill
+	room (floor) > wall > storage > treasure
+	blueprint > building > explore map
+	trap - deterrent > teleporter, safe pit
+	
+	LOS checking - maze
+
+	Dungeon t1 build instructions
+		1  Add/Remove room
+			Add must connect
+			Remove must not break connection
+		2  Add/Remove wall
+			An open wall is a LOS check
+		3  Teleportation and any other attributed furnishing takes up one whole room by itself
+		
+		4  Make a blueprint even if not originally referenced
+		
+		5  Finish Vault has a one way exit, there must be a finish
+		
+		6  Finish once to enable the vault's storage
+		7  Items dropped are stored in vault on exit
+		
+	t2 skill
+	door > lock > key
+	
+	Dungeon t2 added build instructions
+		7  Add/Remove Door
+			a door must open, or have a key
+			An open door is a LOS check
+			A closed door blocks LOS check
+	
+	t3 skill
+	power > electronic devices > safe electronic deterrents 
+	
+	
+	
+	
+	Map
+		an explored map would just have to jot down where you've been
+		
+	Blueprint
+		a blueprint could cover the entirety of the design for this type of dungeon
+
+	
+	##### GAME GOALS
+	efficiency of construction - original expense vs wage potential. Assume everyone gets the same opportunity.
+	
+	workspace rep. - this is where wage gets earned, so you spend time here
+	layout - goal of your design, ease of use, protection, comfort?
+	transmission of goods - workspace sales ought to be front loaded, cargo is always the vault
+	value of goods - hmm xxxxx
+	theft protection - nobody's going to bulldoze the place, they can still steal for merit
+	
+
+competitive microverse
+	Choose: Dungeon, Platformer, TD
+
+	Monster Lair(Dungeon)
+		a dungeon + monsters
+		an unexplored Monster Lair can easily be far too deadly to risk.
+		
+		Limitation(s): LOS checks, irregular blueprint
+		
+		assumption:
+			this would be the more common dungeon because it can be a puzzle 
+			
+			good for a vault
+			
+			could involve raids
+			
+			there's a discrepancy between techo - muto, and everything between is gray
+
+		Potential: 
+			Monster Harvesting req. biome of monster type
+				Mutant
+				Undead
+				Inclimate weather
+		
+		Easy counter: monster knowledge, high power weapons
+		
+		##### GAME GOALS
+		monster behaviors can be used in place of robotic defenses (well there you go)
+	
+	Platformer
+	Speedy traversal, harder techniques, allow for impossible requirements and skill block 
+		Limitation(s): no LOS, obvious Trap, no Map
+		Potential: non-combat performance testing of advanced technology (parkour)
+		
+		assumption:
+			flying mobs are too good
+			
+			may be very decorative and resemble a dungeon
+		
+		Easy counter: skill, precision jumping
+	
+		##### GAME GOALS
+		speedrun - completion time
+		secrets - unique item spawns???
+	
+	tower defense (TD), heavy weaponry
+		Limitation(s): scale of danger, safe zones, transparency (obvious map)
+		
+		assumption:
+			This is a massive fortification for a planet
+			
+			a house might have a guardian, which makes it a Tower Defended zone
+			
+			but a tower defense can be devastating
+		
+		Easy counters: sneaking, sabotage
+	
+		##### GAME GOALS
+		Game Installment - team defensive location
+		Exploitation - fortifying lawless land
+		
+And...	
+other stuff 
+
+	vault banking? 
+	Loot spawns? 
+	
+	Exploited zone - resources
+	
+	moving objects (monsters), danger
+	
+	player skill is foreknowledge, ability
+	pc skill is usually earned over time, grind
+	
+Destruction? Verse notes.
+	miniverse destruction closes the dungeon.
+	
+	world-based destruction might break it
+	
+	destroying the macroverse would kill everyone
+	
+

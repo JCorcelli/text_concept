@@ -1,0 +1,25 @@
+
+
+Player Selected Target
+	0 Idle - zero sum root motion
+		Ease, <pick a clip> e.g. Monorail
+	1 Active - 
+		0 Rest - brief moment without motion / Idle sub-state
+		(possible tween animation)
+		Step - extremely short distance (with a script?)
+		Walk - short distance
+		Run - 360 degree ground movement
+		
+	2 Crawl - like walking with body close to ground
+	3 Search - walking, nose to ground, periscoping
+		
+	(more e.g. play)
+		
+		
+Possibly alternative states, or would blending another layer work best?
+	2 Delayed - slower animation types
+		0 Rest < pick a delay > e.g. Periscope
+		1 Delay, Mo
+	
+Separate NPC Cutscene type Animations can be accessed directly with Play
+	Busy

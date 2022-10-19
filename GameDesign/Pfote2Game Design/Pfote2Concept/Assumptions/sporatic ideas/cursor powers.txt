@@ -1,0 +1,10 @@
+
+...forcing gameplay into menus would be highly annoying: but if players elected to seek power by menuing then I could ramp up the difficulty, risk - reward
+	this was because I thought I could turn menus into cursor mazes, and then don't-touch-wall mazes, and then maybe cursor gain powers aka spirit powers
+	
+...I could put little traps that the cursor falls into, and without it, your pointer has less power
+	there could be things to drag on screen, and it turns out the cursor is what does the dragging - unless the pointer is a hand
+
+?...At the deepest levels of the psyche the cursor could transform, and the player will make some obvious connection.
+
+...and the reason I don't just react to the mouse is... this is a setup to make the cursor VISUALLY ALIVE

@@ -1,0 +1,7 @@
+VETRINARY
+
+JOB
+	yes, there can be a vet
+	
+ANIMALS
+	all animals caught up in trouble show up here

@@ -1,0 +1,70 @@
+### Nodes
+	Target Location
+		Change Active
+
+### Actors
+
+Bunny 
+	Anywhere
+		Go To Direction Indicator
+		Go To Food
+		Eat Food
+		Nap
+	
+	Visible
+		Interrupts
+			Can Be Pet
+			Can Be Held
+			
+	[in hidden tile] not visible ( this sounds more like a status change )
+	[in cage] Hide, not visible
+	[in cage] Dig
+	[under bed] Dig, not visible
+	
+
+Human
+	
+	Go To Bed
+	Go To Bunny
+	Hold Bunny
+	Hold Carrot out to Bunny
+	
+	[in bed] Reach to Bunny
+	[in bed] Pet Bunny
+	
+	Near cage
+		Use Hay on Cage
+		Use Cage Door
+
+Direction Indicator 
+	Go To Target Location
+
+Hay
+Carrot
+	
+### Stations
+	
+	in Cage
+		Register Food
+		Register Bunny
+			Supply Food to Bunny
+	Cage Door
+		Change Open State
+
+	Bed
+		Register Human
+		
+		
+	Beneath Bed
+		Register Bunny
+
+	Computer Desk
+		Register Human
+
+	TV
+	Lights
+
+	
+	Tile
+		Change Target Location
+		Change Bunny Hidden

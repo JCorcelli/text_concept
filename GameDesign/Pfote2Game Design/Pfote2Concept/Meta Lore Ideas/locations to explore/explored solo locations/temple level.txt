@@ -1,0 +1,31 @@
+TEMPLE
+
+terrain
+	thick sand outside, hard to find the entrance alone
+	
+	rock inside
+	
+obstacles
+	traps
+	
+	
+HIDDEN WORLD
+
+interior of the temple
+platforms
+	greased, floating and moving in thin air
+	
+encounters
+	"midboss" type of keepers
+	
+relics
+
+DREAM WORLD
+different temples like...
+cloud sky palace - climb to it from platforms, and destroy it!
+
+bronze age - meltable, bombable, sentries attacking you
+
+golden punk - meltable, but there is a factory mess
+
+celestial - puzzle, impenetrable

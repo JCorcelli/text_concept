@@ -1,0 +1,19 @@
+SANDCASTLE
+it's all hidden
+it's a temple made of sand, see temple
+	
+terrain
+	walls are easily moved, dug, or exploded
+	
+	colored walls are not an exception
+	
+platforms	
+	greased objects may float in place, retaining a standard shape for the location
+	
+animals
+	out of the sight of humans there are a few smarter animals performing creative feats
+	
+	sea mammals
+	
+food
+	rare foods

@@ -1,0 +1,345 @@
+When controls are this complicated, you should only teach a few the player wants to use.
+
+PRIORITY (CONTEXT CONTROLS)
+
+space - zone options, opens all menus and reveals highlights
+ctrl - temporary zone, only highlights what you hover
+zone gesture system - 
+	hover - observe
+	hover + time - staring
+	... + tapping button - signal
+	... + holding button - focus
+	
+	... + gesture - use context or skill based
+
+		
+wasd (arrow) - directional movement, alt ui movement
+
+
+escape - safe pause menu. ooc options
+escape twice - unpause
+mouse 1, mouse 1 - move, run!
+hold mouse 2 - look
+
+
+SECONDARY (ACTION CONTROLS)
+
+Tense combo
+tap shift - tense (has a subtle observation effect)
+
+tense + shift - jump up
+tense + init self - slngshot
+
+hold shift + mouse - dive, frolic
+
+
+Jump
+move + tap shift - regular jump
+jump + tap shift - bounce / wall jump / double jump
+jump + hold mouse - steer
+jump + click - grab or dive
+
+Speed adjustment
+
+idle, hold shift, move - dash and run
+idle, hold shift + click - dash
+move, hold shift - run
+run, hold shift - strafe, multi jump
+
+Charge
+hold shift, release - charge, can move
+
+charge + shift - stomp
+charge + run + shift - long jump
+x charge + init self - longshot (long dive)
+charge + click - shoot
+
+Way of the bunny
+
+charge + hold shift - auto-stance
+way + move - run
+way + click - sidestep
+way + E - auto-dive
+way + Q - auto-grab
+way + shift - auto jump
+way + F - auto throw / block
+
+Quick
+charge + run - quick (auto-run)
+quick + hold shift - anger, hyper (jumps, stomps, flail, and push things)
+
+Skill
+Tap F - brace / block
+Hold F + hold mouse - catch
+Hold F + tap mouse - parry / counter
+Hold attack + swipe - smash in new direction
+
+
+jump + F - air kick / wall kick, like a rebound
+
+move + F - knock 
+run + F - kick rebound 
+
+Aggression
+tense or hold f - similar to a block
+
+tense + F - boxing stance
+boxing stance + mouse - punch
+
+charge + F - ke ga (kinetic gear)
+ke ga + mouse - ram
+ke ga + F - aim
+aim + mouse - throw
+
+hyper + F - flail
+
+use combo
+tense + E - stand, increases dig range
+stand + click - dig target
+move back two steps - fall over
+
+hold E + click - splash
+
+
+zone, outside zone
+
+space - zone, cancel any action
+hold ctrl - zone modifier, initiative, observe
+
+zone, in zone
+click - signal
+click select... 
+space/escape deselect
+
+
+inventory
+q / i, / Number Shortcut - open inventory
+q / i (holding)- put in inventory (see below for more)
+E / Enter- use object / item, interact
+
+Misc.
+C/backspace - camera mode
+
+optional
+
+Z / J - jump
+X / K - kick / stomp
+Ctrl + arrow - looks at indicator
+
+
+General User Inputs
+
+	Pause (Escape )
+		You need to be in cage, hidden, or undetected for the button to work normally.
+
+	Move/Run/Look (Mouse click / mouse hold)
+		Move - signal character to move
+		Run
+		Look - never interact, signal camera to turn
+	Zoning - Space while idle
+	Alt Zone - Control, for zone actions, without the cancel
+	
+	Cancel - Space / Escape
+		Deselect or defocus
+		Cancel tension, charge power, combos, or running
+		
+	Jump Tension - Tap Shift
+		this makes bunneh tense up, and his next move will spring in the next direction.
+	
+	Run Jump - Tap Shift while running
+		will cause hop or dash, combos may cause binky.
+		
+		
+
+
+	Camera
+		see camera and movement
+		free - sneak
+		freeform - C
+		zone
+		zone disembody spirit
+		tactical
+		eye
+			
+	Inventory - Q, number keys
+		Works best in zone, or with ctrl
+		
+	Use, Interact (E)
+		
+General Zone (No Decision)
+	Space - Change context between Zone, and Movement
+
+
+	Signal mouse 1 - desktop metaphor
+	
+	initiative (use one object on another) -
+		drag one object to another
+		
+		select an object, click another
+		remember to deselect with space
+		
+		
+		bunny = jump, hide in
+		object = move to position, move into other object
+		floor = pan
+	
+	
+		
+	bunny initiative - hidden move
+	bunny initiative + shift - pathing (idea)
+
+Item context (also toy blocks, can't be stored)
+	BASIC
+	Signal - Observe
+	Tap E - Pick Up / Touch
+	
+	Q - Store Item / Open Inventory
+	Drag (Initiative) - Store / Use On / Swap/ Take Out Of Inventory
+	
+	Use Consumable - Alt Signal Inv. ("Yes") / Tap E / Shortcut
+	
+	Take Out - Click + Q
+	Take Out Last - E + Q
+	Drop - Tap F
+	
+	(A > B = drag item A over item B)
+	
+	Store / Assign - A > Empty Slot
+	Use On - A > B
+	Swap - Click A, Click B
+	
+	SKILL
+	Throw - Hold F + Mouse Down
+	
+	Fill with / Place - Held item, Self > T
+	
+	Attack - Tap F
+	
+	
+	CUTE
+	Offer - Stand + Self > T
+	Beg - Stand + T > Self
+	
+	Hit - F. Stance + Click
+	
+	Held bag - 
+		Signal to open in zone
+		Empty to ground - I Bag > Ground
+		Aggressive throw empties bag
+		
+		Store in bag - Item > Bag
+		
+		--Item in bag
+		Click to put in hand
+		Alt click to activate submenu
+		Store in bag - Item > Empty space
+		
+	Any container - signal to open in zone
+	
+	knowledge - Key item, 'stance'
+	
+Dialogues State / Journal
+	you can puzzle in front of people talking, but there's an indicator that you should zone to avoid missing anything.
+	
+	dialogues + zone -
+		can't invade
+		
+		options to click
+		directional keys
+		number shortcuts
+		
+		example:
+		1. listen closer
+		2. interrupt
+		
+		various prompts and options appear in dialogue and journal 
+		eg. Jerri: I don't know 7*8 _
+		Choose: 45, 54, 56, 58 ( press 3)
+		Jerri: It's 56 of course.
+		Bunneh: I knew it! I got it right.
+		
+		journal can be scrolled, reviewed, and revised. But the momentary impact is faster.
+		
+Dream
+	Specific menu / select system
+	
+MINIGAME
+	1 frogger 3D
+	camera control limited
+	frogger - keyboard to cardinal directions
+	signal to ninja jump out
+	
+	2 in 2D
+	no camera control
+	signal or keyboard
+	
+	
+	
+BUN DECISIONS (CHANGES, BASIC, ZONE)
+	Otter Cute - 
+		Actions shouldn't be blocked (escape always works)
+		Idleness causes dream world mechanics (journal, time of day)
+	Otter Cute Zone - 
+		Knowledge elements are all enabled
+		Initiatives are all magic empowered
+		Spirit is empowered and can leave range, see through walls, etc.
+		
+	Being Cute -
+		Standing still hides you from suspicion
+	Being Cute Zone -
+		Signal sets a flag on/off
+		Signal selects a human, they perform initiatives for bunneh or interact with flagged objects
+		
+	Rampage -
+		head flicks of rage
+		Regular touch causes damage, idle nibbling
+		Running smashes things and flings them
+		Shift while running slam-binkies
+		Shift when standing still make him stand and throw punch
+	
+	Rampage Zone
+		Immediately stands to box in zone (time limit)
+		
+		Signal can't interact with knocked down objects
+		he's very bad at hiding
+		
+		
+	Pew Pew
+		Makes pew pew paws idle
+		Can only hide with E
+		
+	Pew Pew Zone
+		Stands with pew pew paws
+		
+		Signal fires hears
+		Initiative teleports bunneh, his afterimage remains for a second
+		
+	Thoughts
+		Clicking any thought bubble triggers it
+	Thoughts Zone
+		You see a multitude of thoughts fly past the screen, clicking sends them to reality
+		
+		
+	Wings...
+		It's like a buff
+		Can't jump if there's a random jump in progress
+		
+		Zoning freezes time
+	
+	Formula
+		you always run
+		shift makes you blaze up
+		
+	Formula Zone
+		you always run FAST
+		shift becomes brake
+		camera handles like a car
+		
+		
+	Bomb
+		E picks up, and places the bomb
+	Bomb Zone
+		Set the location of the bomb
+		
+	H.B. /Zone
+		E, or signals only work on one goal

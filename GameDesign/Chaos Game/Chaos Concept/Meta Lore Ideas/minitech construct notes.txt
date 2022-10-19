@@ -1,0 +1,101 @@
+The common factor of minitech is they aren't blocking, and require a construction to be present.
+
+hideout
+	require terrain
+	Microverse
+	choose color (slight opacity)
+	
+	options:
+		defense: look out without being visible
+		attack: reveal to ambush
+
+tunnel
+	requires hideout (A)
+	safe terrain connecting A to B
+	choose color (slight opacity)
+	options:
+		quickly view the other end of tunnel
+		
+house
+	Limit: limited to inhabitable biomes, uninhabitable biomes automatically erase spawn points
+	
+	requires shelter
+		habitat, natural or artificial
+			artificial shelter: 
+				struts + roof
+				
+			or natural shelter: cave ceiling, forest canopy
+			
+		spawner 
+			types{ child, clone, etc}
+	
+	color is determined by material
+
+	
+	options:
+		spawn priority, disable
+		
+portal
+	requires a high tech power source
+	
+	two exits connected by magic
+	extremely visible!
+	
+	options:
+		teleportation
+	
+VR nexus
+	requires a high tech civilization and
+		internet connection?
+	
+	Should bear some similarities to a regular nexus... simply portal hubs
+
+	options:
+	internet attacker / defender (special roles)
+		
+	admin 
+		VR Reset : respawns everything
+		VR Off: Turns it off. Wakes up players.
+	player
+		computer game logic in a computer game
+		
+		
+pocketverse nexus
+	requires: initial host verse
+	
+	exists on its own
+	(As self contained verse)
+	
+	admin
+		NX Build: quick building interface
+		
+		Attack: 
+			NX Flush: everything is forced into macroverse, or exits {random, specific}.
+		
+			NX Punishment: placeholder, imprisonment
+			NX Demolish: Heavily damage those trapped inside, random exits and nexus demons are spawned.
+		
+		Defend:
+			NX Lock/Unlock: Closes/Opens respectively the nexus portals to the inhabitants for a short time.
+	
+	player
+		regular game
+		
+		
+		
+	options:
+		random nexus portal
+
+microverse micronexus		
+	fits in pocket, drops to ground if enter self
+	(As microverse)
+	Defender
+		M-NX Hide: While visible the inhabitants can spectate like it's a hideout.
+	
+		M-NX Escape: the inhabitants can break out and get teleported to a nearby locale
+		
+	Attack
+		M-NX Break: Ejects or kills the inhabitants.
+	
+	Option: Reveal - deploy it to hideout
+		

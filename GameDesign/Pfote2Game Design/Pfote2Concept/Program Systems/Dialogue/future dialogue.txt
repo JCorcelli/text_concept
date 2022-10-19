@@ -1,0 +1,37 @@
+
+AUGMENTED DIALOGUE GAME
+
+ JUST WRITE, AND I WILL PARSE IT LATER, THEN I WILL WRITE THE METHODS
+ 
+ 
+The conversation [should be] cleverly displayed.
+	easy to look at in code
+		parse
+		read after being filtered
+	
+	dialogue box
+		text with prefabs 
+			image, icon, deliberate link, misc. ui input
+			
+	option box
+		???
+		location
+		conversation
+		linked info?
+		[variable]hidden option
+		???
+
+I should add elements I can click in the text
+	
+the known data needs to be auto-linked.  Clicking opens a memory log
+	wiki metaphor
+		hyperlink to page
+		page association
+			similar proper nouns
+			timeline
+		just like wiki there can be multiple pages, multiple sections
+	
+		
+the options or thoughts generated are something to be premade, and should be reviewable.
+
+puzzles are replayable.

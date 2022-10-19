@@ -1,0 +1,70 @@
+My idea
+	The behavior lookup should be by location, not by activity
+	When people are in a location, they behave based on that location
+	Similar. When people are dressed a certain way, they behave that way
+
+Behavior Tree Ideal
+There is a main behavior
+It is enabling and disabling sub behaviors
+It is altering resource states (semaphores)
+
+AI coroutine
+	dependency lookup
+	{
+	var
+	var
+	var
+	}
+	
+	behavior tree
+	{
+	func
+		condition
+			func
+		condition
+			func
+		return
+	}
+
+Sequence
+	Does everything in order until it fails
+
+Selector
+	# Each letter is a sub-tree
+	# A is highest priority D is lowest
+	
+	# Deals with local and unexpected failure
+	function PickTask
+		A not ready
+		B fails
+			Bails
+		C never called
+		D never called
+	
+	# Deals with success
+	function PickTask
+		A not ready
+		B not ready
+		C succeeds
+			Bails
+		D never called
+
+Semaphore
+
+	function AreYouBusy?
+		answer = (you.status == busy)
+
+Decorator (could be a sequence with mutliple checks)
+
+	function IsItNoon?
+		answer = (game.time == noon)
+		
+Parallel Composite
+	function ParA (technically a collision or distance check)
+		frame1 try to pick up fruit
+		frame2 try to pick up fruit
+		frame3 try to pick up fruit
+	function Parb
+		frame1 try to get closer to fruit
+		frame2 try to grab fruit
+		frame3 observe fruit closely

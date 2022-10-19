@@ -1,0 +1,25 @@
+
+
+offscreen (2d)
+
+2d far-away it will look bigger
+
+3d up-close it's weak, distorted
+
+
+
+	color / visible
+	scaled/ visible - by distance (2d)
+	
+	scaled to distance?
+	
+
+update
+
+Is the sprite on screen?
+check the assigned region
+
+	y
+		do 3d method
+	n
+		do 2d method

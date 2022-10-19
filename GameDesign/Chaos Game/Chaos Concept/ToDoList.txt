@@ -1,0 +1,512 @@
+initially ignored ideas (convoluted or out of order)
+	
+	? toggle inventory on/off, the choice to use items on click
+
+	if I just draw walls and floors on freeform, they can snap together
+	
+	voxel los (is like item los), individual parts of a voxel could even check los
+		1 with texture atlas, works fine
+		2 with triplanar, would be simpler
+		
+		It comes down to whether the calculation is fast enough
+	
+	
+	
+	
+	xxxxx
+	hi, me. the selectionmanager's fine. Until I can find evidence GetButton is a dictionary or a string check, it's not worth thinking about.
+	 
+	thought: "hey, listen. The purpose of the initial dungeon designer is not to look pretty, but to function like a streamlined facility blueprint.
+		"Adding walls may be an important step, but doing anything related to freeform comes later."
+
+		
+	Metaprogramming thoughts
+	I keep thinking I can complete my old grandois designs based on this programming dynamic. (do it?) finish the job first.
+		
+	
+	I'm pretty sure I have an interface / oo programming dynamic that's functional
+recent action/goal:
+	D. UI
+
+	Drag - actually want something like drag on all the time so I can look around.
+	Paste Layer - if something like paste layer is active it can take the drag function. dropping it in place will require a widget or another shortcut thought.
+
+	if I place rooms and walls with the same tool it's... 
+		making the snap decide what Im placing with freedraw
+	
+
+	o The itom brush
+		I can use trigger+itom this+trigger+rb.kinematic
+	
+		1
+		public static bool IsTouching(Collider2D collider1, Collider2D collider2);
+		
+		I use a ping to force itom reconnect, it's the easiest detection method.
+		
+		
+		
+	
+	PSEUDO
+	
+	o each tool needs a script connected to the workspace hub that directs it to start/stop on/off
+
+		tool need to read this^
+		key shortcuts maybe
+		
+		It should be a lot like 
+		
+		Drawing in paint.
+		
+		Selecting a file/folder.
+		
+		Resizing rects in inkscape
+		
+	
+	keyed shortcuts: sending a message works fine
+		
+		
+		
+		
+		
+		
+	
+	Set room / itom behaviors
+	
+		on selection - the main action is selection
+		> on right click, 
+			E a menu for selected itoms popup
+			E = extension, toolbar stops
+			
+			x generic - bleh
+			
+			E specific itom 
+			step 1: specify which itom, because it could be rooms I selected
+			
+			step 2: option menu. It's a menu that requires a definition for each itom.... weee
+		
+		selection + layers
+		on button combos - 
+			ctrl+x cutting -  delete hidden layer, ghost, place in visible paste layer
+			ctrl+c copying -  delete hidden layer, copy into hidden paste layer
+			
+			ctrl+d duping - copy into visible paste layer
+			ctrl+v paste - immediately move marked object
+			
+			
+			modifiers
+			1 paste layer - 
+				has a raise/drop widget
+			
+				on creation the old paste layer is destroyed
+				should change layers, 
+				move when shift+dragged
+				drop on insert, 
+			
+			2 ghost marker - creates a group of hidden objects, 
+				on creation it reveals the old group, 
+				when paste layer is inserted it is destroyed (or just forgets)
+			
+		\
+		
+	tools x scripts
+		o buttons - recolor, darken if tool is active
+	
+		o rect tool
+			o cover bounding elements
+		
+			o drag, move bounding elements
+				there's also a top handle
+			
+			o rect, edge decoration
+			
+			o scale, handles
+			
+		o snapping
+			o the closest 
+			1 room
+			2 wall
+			appears to be marked if close enough (could use physics)
+			
+			also the snap target will follow mouse if both snaps are off
+			
+			
+			
+			
+		o draw
+			add or remove, walls, rooms, whatever it touches
+			
+			1 free
+			2 line
+		select
+			o 1 mouse click
+				deselect, select one thing
+			
+			
+			o 2 multi-selection
+				dragging
+			
+			3 modifiers
+				1 shift+arrows 
+				2 like shift+ drag
+				
+				
+				3 ctrl + click, sel/desel
+			
+			4 a selection widget.
+			
+			option 1 the chosen itom (corresponds to option3-2), or blank
+			option 2 the room the itom is in(corresponds to option3-1), or blank
+			option 3
+				The menu
+				pane 1 every room in selection
+				pane 2 every itom in selection
+				
+				could be empty, no selection. updates on the fly
+				
+			The Menu
+			selection options - room/itom pane
+			1 room options - first half
+			
+				? show all named rooms
+				? show all visible rooms
+				show selected rooms
+				deselect all
+				
+				rename
+				find by name ( named rooms only)
+				
+				-> show itoms
+				
+			2 itom options - second list half
+				? show all visible itoms
+				? reveal itoms by type
+				show selected itoms
+				deselect all
+				
+				varies from one itom to the next
+				
+				search (default names)
+			
+			
+			other context
+			
+				personal (allow copy only)
+				1 your prefs by memory
+				2 your existing constructions
+				
+				non-personal
+				realtime (access point, allow modify)
+				1 current workspace - this is updated to reflect what this workspace knows
+				
+				
+				2 noncorporeal - avatar teleportation (directly affect in 3D builder)
+			
+			
+		copy
+			fix the icon
+			
+			I see multiple selected, that's confusing, should be a select feature.
+			
+			1 copy, paste (I guess)
+			2 cut
+			3 copy itoms (I guess)
+			
+			It's a little vague
+			
+		extension
+			various reasons to swap functionality, and swap back
+			
+			if I'm placing an item it may make sense to drag it... or click it in, and that would be interfered with.
+			
+			1 start
+			2 end
+			
+			it's unclear what save/load does. Maybe this'll be more record/play, for macros? tool bookmarking is pointless atm.
+			
+			3 save
+			4 load
+			
+		
+	? itoms affected by selected frame
+		unselected frame disables click interaction.
+		
+	itom sprite behavior
+		the itom could change color to indicate it's hovered
+	
+		
+		I can have a cursor that moves for basic click function, when nothing's selected.
+			how about keyboard? I thought it was going to be in the map.
+			
+			
+		? easier selection: Itoms under the cursor or under a dragged selection could be listed as a generic list.
+		
+		
+	
+		
+	minimap / radar
+		a map bound to the selected area for quick view
+		
+	world map
+		a detailed map of a region (with your location and possibly other locations marked)
+
+
+	
+		
+			
+		
+	
+	catalogue
+		1? could be a simple menu, premade
+		2? could be scripted (list the options)
+	
+		I might want something to calculate size based on the grid content
+	
+	make shortcut easier? 
+		I could bind something to appear if i press a shortcut. Then it'd cover the whole thing and I can missclick all i want.
+		
+		
+	
+		
+	
+	WORKSPACE Idea
+	1 in-house workspace system
+	
+		have a menu of current tools which mirrors the following
+			one click focus
+			two click hide
+		
+	
+		workstation open tools (prob perma)
+		
+			hide tools at distance
+			
+	2 outside workstation tools
+		
+		basic menu system
+		
+	
+	CATALOGUE IDEA
+		If I just ordered a key I want an associated keyhole or item of its type recommended, but if it's a red herring, allow dismissal (blacklist)
+	
+
+	Must manually sort cards
+	figure out how the generic list can be used
+		The first generic list uses messages, and it's probably good enough
+		
+	Creator that reads the selected item. It can tag an item however it likes.
+		I didn't make creator yet
+			
+	
+	ob list plan (for anything)
+		If creator reads the number tag then it can be represented however I want in the list.
+	
+	make creator -> ob list 
+	
+		the message indicates a proper action for the creator to take. 
+		
+		ex: basic action
+			"item", "back", "close"
+			
+		if "item" then the creator can check the item number and respond with any behavior.
+		
+		The actions back and close are common menu actions
+	
+	the 2d map strikes me as DM gold, but I won't remember why. Here's a memo.
+		
+		A player could be designing or managing a map in 2D, while existing in 3D. 
+		
+		The player could also be controlling elements with a bird eye view from far outside danger, the remote presence of a super villain.
+
+	
+		
+	
+	workspace, school of thought:  3d is just as fun as 2d
+	
+	
+
+	
+
+
+	
+		
+	make that 2d designer
+
+		
+		
+	thought "	auto mapping - I want a limited and a complete map possibility" 
+		Should be doable, 
+			1 with blueprints a builder makes a dungeon map.
+			2 the builder then enters and alters the interior, continuously updating his own map, this makes a "realtime" map where he hides everything.
+			
+			Confirmed construction -
+			3 on commission blueprint is autogenerated and stored at construction workspaces. It can be read, altered, copied (maybe not), distributed elsewhere
+			4 a dungeon looter makes their own map if they go in blind.
+			
+	? Perfecting the 3D builder use case
+		1 The starting platform shouldn't break in any way.
+		2 dungeon need simpler ways to avoid time consumption
+			a. case non- sensitivity
+			b. creating a dungeon list to select from
+			c. creating a portal list
+		
+		3 logical exit ?
+
+		
+	LOS checks might be mandatory in future, but for now it's only sensible for dungeon, when I want things to vanish
+		eye, center of body, limbs 
+		small object center
+		large object convex
+
+	
+
+	
+	see dungeon.txt for dungeon build instructions
+	
+
+	I been doing a lot of writing
+
+	
+		
+	^repeat Dungeon arena building
+		Need a designer, much faster for setup
+
+	
+	
+	
+	
+	Menus... not really done
+		item menu:
+			o programming: selecting an item sets it to recent and selected. 
+			o view: A preview of its name and customized name, please.
+			
+				option 1: continue, or automatically display
+				
+				option 2: new document
+				
+					customize the item
+				o option 3: load
+					
+				
+				other stats considered: # left, materials it uses, # owned, your time spent, most noted
+		
+		OLD NEWS
+		level menu:
+			thought " the way warps work atm will break it "
+				rather than a __dungeon scene name__, the warp level needs to correspond to a __dungeon spawn list__
+		
+			(I can save items including but not limited to level geometry)
+			
+			fast travel for testing: makes sense if there's only one scene and I don't want to physically walk the realm testing level
+			
+			future: individuals place dungeons in one HUB world
+
+	
+	
+
+	
+	
+		
+	
+	Item Design / Customizing
+	an interface for the next part
+		o 2D case 1. Forms.
+		
+			an unspawned custom "spawnable" object
+			
+			indicate what is active (name, important parameters) at the top of a document
+	
+	
+		? 3D case 2. Installed Items.
+		
+			the already spawned object
+			
+		
+		Case 3. a "build" interface for each thing
+		
+		
+		menus may be loaded from resources 
+			o menus could be preloaded
+		
+		x script that makes sure only one interface of a type is open at a time (this could very well be 3D)
+			it should be able to be accessed for:
+			widgets 
+			
+			o standard menus
+				made a generic list 2D
+				working on more 2D
+				
+				warehouse 3D
+			
+		inventory, case 1: an inventory for constructions, forms, and tools
+		
+			
+		item manipulation, case 2:
+			the option to
+			1 modify a thing
+			
+			2 attack a thing
+			
+			3 copy a thing by parameters
+				
+		Room for improvements, case 3?
+		
+			size/rotation, strategic, decorative
+			
+			build times, planning, workflow
+			A warning if it's unalterable, ^
+			
+			stages of work, design, building
+			stages of damage, fixing
+			
+			item tool - tools that enable workspace functions? Secret items that function as tools?
+			
+			item mods, upgrades, or improved versions
+	
+			
+	
+	
+	the big jump script called throw isn't really suitable or functional
+	
+	end
+	
+		
+	
+	
+	
+		
+		
+	
+initially accepted credence:
+	ONLINE?
+		unless I append a user ID to the name like hell_22 by pfotegeist. exit1@hell_22 by pfotegeist there will never be multiplayer!
+	
+	cameraISSUEandANNOYING!
+		improve the camera since it doesn't really follow subject accurately.
+		
+		wagon: lock onto character and turn when aimed
+		
+		fixed pan view: move specified direction, zoom in on aim
+		
+		cinematic view: varies
+		
+	
+		
+			
+	don't try to hard on menu placement
+	+ Wait until I'm saving stats
+	
+
+	
+	
+	
+	
+	reset outside a combo menu is bad design
+	
+	
+	I want to allow as many ludic interface as possible
+	
+	PERFECTION is a long way off (x=not trying)
+		x physically accurate animations
+		x physically accurate shadows
+		animated 3d textures
+		x LOS based rendering

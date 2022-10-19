@@ -1,0 +1,101 @@
+
+/// ###################################
+/// STORY ARC1 #########################
+/// ###################################
+
+"TCH."
+
+"..."
+
+Alien Points at a 2D image on the screen and a 3D object 
+
+He patiently waits, up to 10 seconds, he gets tired looking by the second.
+
+///// SKIT1: THE ALIEN RAN OUT OF PATIENCE /////
+
+"Record log. I broke my navigator somehow. Now I'm stuck here alone in a dark cave.
+I'm not sure how long it will be before I can find my way out, and I think my only option is to repair the navigator.
+The journey is almost certain to be treacherous. The challenges ahead remain yet unknown. I do not need food or water because of my subdermal implants. I can only pray those still work at this rate.
+Without technology to guide my hands and feet, I must rely on my own ingenuity and cunning. All alone.
+
+
+Naaaviigaatooor.
+*sob* *sob*
+Naaviigaator.
+NOOOOO!
+NOOOOOOO!
+NOOOOOOOOOO!
+WHY!!!!!!!!!!!CH CH K NIAAH
+UHHoooo Uhoo Mmmmmnnnhya. Mnnanak
+Navigator... I can't.. fix it. I can't live without you."
+THE ALIEN DIES
+
+///// SKIT2: THE ALIEN RAN OUT OF PATIENCE BUT HAD A MOMENT OF HOPE/////
+
+Navigator. You're alive - and functional!? Why didn't you say anything? Oh, nevermind that, that's not right. I wasn't thinking right. Tell me what to do. Give me directions and keep me motivated.
+Alien Points at a 2D image on the screen and a 3D object 
+
+He patiently waits, up to 10 seconds, he gets more agitated by the second.
+
+///// SKIT3: THE ALIEN RETAINED HOPE/////
+
+It seems my navigator is not reliable. There must be... a loose wire. It's a malfunction or a connection problem. I'm getting lag. Yes.
+...
+Yes. No.
+It's not my Co-pilot's fault. My dear, sweet companion.
+I should have never opened my email at work.
+It's time I make a stand!"
+
+IN AN ATTEMPT TO SELF-NAVIGATE, THE ALIEN DIES WHEN HIS UNREALISTIC FEAR OF FREEDOM, UNRESTRICTED MOVEMENT CAUSES A PANIC ATTACK, KILLING HIM INSTANTANEOUSLY.
+"hierk!"
+DIES
+
+////// AFTER CLICKING
+
+Navigator, I'm glad you're with me or I wouldn't know the difference between my eye-wipers and my toe-fobbe."
+
+There are strange things everywhere. I'd like to know my surroundings better, could you look around for me? You know my eyes are problematic. Thank you.
+
+Encourage me, comfort me, tell me where to go. That's why your'e my co-pilot. Co. is for comfort, cooperation, and companionship.
+
+You could give up. I'll ty to manage. I don't think I... are you still there?
+
+///// SKIT 4: THE ALIEN DIED WHILE YOU WERE AWAY /////
+IF SOMEONE EXITS THE GAME WHILE THE GIVE UP OPTION IS VISIBLE.
+THE ALIEN IS CLEARLY DEAD WHEN YOU RELOAD THE GAME LATER. ON THE BIO LOG IT READS.
+
+"No that's fine, that's fine just give up if you want. I'll tell you how things went when when you get back.
+Please don't tell me you're really gone. I was joking, joking. Nav.. no Copilot. No..
+Alright. I'll just... find something to do while I wait. I've discovered a strange, OH MY GOD!!!
+!!bzrrrk!!hurk!!"
+DIES
+
+
+After a short walk
+
+"You're such a good sport, navigator. 
+I have a more positive outlook on life now.
+Instead of giving up, how about we take a break once in a while? OK, that sounds much more relaxing."
+
+///// SEVERAL SITUATIONS ARE ENCOUNTERED WHERE THE ALIEN MAY /////
+
+////// DO SOMETHING POINTLESS
+	LOOK AT STUFF THE ALIEN MAY COMMENT ABOUT
+	1. SOLVE A 2D PUZZLE USING A 2D UI
+	2. SOLVE A 3D PUZZLE USING A 2D UI
+	3. TAKE A BREAK and survive by doing nothing until navigator returns
+
+///// FALL
+	Alien screams "NOOOOO!" Bangs into the ground below and cries. It loses 1 health and if it has 0 health it DIES.
+////// BE ABDUCTED
+	alien repeatedly yells: I come in peace
+	girl: &#w*!@?3
+	girl: ^!$% !@@@# ^&*($@@#
+	[girl hits alien]
+	[girl abducts alien]
+	It loses 1 health and if it has 0 health it DIES.
+	If the alien is alive you see him behaving like a doll for the girl.
+////// ESCAPE
+	"Mission accomplished" I hope you enjoyed that.
+	
+	

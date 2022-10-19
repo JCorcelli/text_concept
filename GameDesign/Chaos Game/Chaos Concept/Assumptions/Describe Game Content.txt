@@ -1,0 +1,102 @@
+I'm a ? : various things to come!
+I build stuff
+I build to overcome
+I discover
+Then I build to entertain myself
+
+I'm a ? (Nobody cares)
+
+I build stuff. 
+human standard: twigs and mud piles
+	animal bone points
+	sharp rocks.
+
+
+	
+	
+construction properties ( use exclusive arbitrary resource piles)
+	eg.
+	construct mats
+	organic (food)
+	art / research grade material, 
+	refinement - atoms, alloys
+	
+
+
+I can make modular 2-d objects that fit into the chunks. I call it minitech.
+sky limit
+
+interfaces
+	sky limit. Graphics programming though.
+
+microverses (from a planet)
+	# Can be upgraded with house furnishing and called a home.
+	# Can be destroyed by damage taking place in its macroverse.
+	
+	hideout : A modular chunk without an outer sprite. Can be revealed, 
+	
+	house : At least one dedicated spawn point and a roof. Can be attacked directly.
+	
+	tunnel : connects two positions
+	
+	portal : connects to one other portal
+	
+	microverse / micronexus : a contained nexus with all the capabilities of the world outside
+	
+	(smaller)
+	"metaphysical" systems
+		mini games, interfaces
+		micro games, idle game windows
+	
+macroverses (from space)
+	(smaller)
+		planet
+	
+	space
+	
+	(bigger)
+		d-Rift ...dimensional rift... some things should be indestructible
+
+pocketverses
+	# self-contained
+	indestructible, unless reality is altered
+	
+tech /
+	Microverses
+	Civilization
+	Etc. ( Research, sky limit )
+	
+outfit / augment the PC
+	change color / shape
+	expand usefulness
+	expand power
+
+	
+I build stuff that can destroy stuff.
+
+equip /aug the PC
+	tools
+	
+	weapon types
+		improvised
+			tools... low damage, high pain, easy to recover
+		simple
+			... high damage, lasting effects
+		ver dead weap
+			heavy force... death and dismemberment
+		weaponized
+			science
+			
+			
+I discover
+	all the above
+Then I build to entertain myself
+	useless things in early stages will outpace the starter item efficiency
+	eg
+		binary electronics replaced mechanical calculators
+		
+		medicinal herbs replaced alcohol and endorphine stimulation
+		
+	and thus atomizers can replace giant trash compactors for cubing things
+	
+	a lot of useless stuff wastes a lot of time, and that's all it does. The best

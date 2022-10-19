@@ -1,0 +1,110 @@
+nodes as personal choice
+
+Right now I'm interested in menuing features. An unnecessary fun, but why not ?
+
+Summary: 
+Lists follow a pattern, a line. A ui that follows a pattern, not a line, can be a menu.
+
+Background:
+The plain desktop metaphor is a standard organizing system. Someone thought paper, folder, and files were the goto relative trend. I haven't had a desk in my house since I moved to an apartment. We can do better. It's simply not for everyone.
+
+Tip: Try the search option, less of a headache.
+
+Individual taste equals fun.  It just takes a building block mechanic that offers menus. It's not something I expect to find in a game outside treasure chests.
+
+A memory relies on symbolism.  There's no standard memory development.
+
+The highest scoring mnemonic is the mind palace. A mind palace relies on innate navigation skills through landmarks the person using them placed, long term memory development in advance. There have been 3D desktops, they're not programmed well enough.
+
+
+
+Anyway this is literally a building block idea.
+Example:
+
+node-node
+node
+node-node-node
+          node
+          node
+     node-node
+     node
+	
+potential pattern construction - just a repeater. Make a pattern on the left and new memories would repeat on the right.
+n n->    n n  n n
+n n   =  n n  n n
+nnn      nnn  nnn
+
+An image (or ASCII art?) Can be produced from the pattern. For greater context, this image would be ideal as a "complete set" or mechanically functioning item.
+     
+     mmm
+     m m mmm
+mm mmm mmm m mm
+ mmm       mmm 
+  mm mm mm mm
+  m        m
+  m    m   mDONE
+
+(it's a feature)
+
+
+This is real, organic. A more confusing, and pretty representation is presented to us with fractals straight out of nature.
+
+Small scale: nature tries to produce a pattern that almost repeats.
+nn
+n      nnn
+nnn  n n nn
+  n  nnn 
+ nn    
+ n    
+
+Large scale: result can be as confusing as the previous feature.
+
+
+Why add this?
+a symbolic meaning / a mnemonic device
+a greater functionality than its sum
+simple menus are boring
+
+Why would this be beneficial? Besides fun?
+
+Information constructs are almost accidental. 
+
+
+Slowing down a learning process to force people to think in a way I'd understand annoys the hell out of me.
+
+
+Also a couple of scenarios take place here.
+1 Activity for the player. 
+They chain their info in ways that make sense to them. They prefer to organize with images named what they aren't.   A unique building block they made appears, validating their experience.
+
+2 Game extension.
+This is way more secretive and mysterious than outright text. People have spent their entire lives enjoying cryptic entertainment. We can never run out of different kinds of paper just take it. The main dilemma is if I start to make a cryptic story now it's a new big part of the game.
+
+....
+I have some things to do which push a new system of information like this down the list, but it will come up again whenever I'm thinking about endgame content, finishing the nodes, or UI.
+
+Priority of things to do from now until if I feel like it.
+
+1
+Upgrade nodes to non-unidirectional lists. This is the post.
+
+I then use this list to finish the bunny memory log, because the current list is just a list.
+
+2 
+The bunny memory needs a very standard type of page format that'll auto-generate from new memories: indexing, reference to important memories, and discovery as-you-read what bunneh knows.  Then if you highlight and click things outside the wiki it'll find a page. You can see how much bunneh understands, and maybe why he won't leave his hay at night.
+
+This will take a while because a lot of magic thinking starts here. Going through and editing is something like self-reflection, you start to lose if bunneh's sad.
+
+At this point the dialogue communicates directly to memory. I'll start progamming sources of dialogue and see where that leads.
+
+3
+
+After all this I can go clean up ui prototype. 
+
+4
+Other stuff. Misc. controls and camera.
+
+5
+Less important stuff.
+
+(This is too much don't post it)

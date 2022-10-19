@@ -1,0 +1,61 @@
+text source scenarios
+
+PRE-SETUP
+
+text - unread, markup
+user - source is added
+stream (d. box)
+
+STEP 1
+proc original text
+	user.proc
+		person.name
+	sourceproc.biological.spoken
+	
+	
+	specify variables required
+	
+##text ready ###
+STEP 2
+	
+
+stream 
+	stream.parse
+	redparser.biological.stream
+	
+	variables for stream state
+		hearing
+			physical distance to user
+		eyesight
+		storage type
+			tired - theta
+			relaxed- alpha
+			alert - beta
+		memory cues
+			priming
+			interference
+		time since last memory cue
+		memory buffs
+			emotion
+				relation to user
+			knowledge
+		
+		
+	
+##stream parsed text##
+STEP 3
+
+store
+	mutantmedia.biological
+	
+	standard variables
+		memory grain
+		storage type
+	
+	
+##now available to be parsed or mutated again##
+STEP 4 (called every use)
+
+mutate
+	mutator.volatile
+##alters stored media##

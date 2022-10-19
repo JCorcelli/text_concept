@@ -1,0 +1,20 @@
+conquering planets
+	race will employ nearly permanent terraform to destroy or dominate a planet's ecosystem. This is both a natural victory and invasive antagonism.
+
+character meta
+	a player's experience will contain knowledge above the 'average' skill level of the npc's. This allows the separation of casual player, resembling npc, and power gaming players.
+	
+godhood meta
+	a player controlled godlike alien will often wield knowledge and manipulative powers bordering on exploitative. Empowered characters can't help power gaming.
+
+war
+	demolishing planets and universes to end all reality is a naturally occurring process. Threat narratives create war. Learning how to blow up a parallel dimension will trigger what exists there to attack first!
+	
+respawning
+	whether it's 
+	a planet
+	you as a character
+	you as a god
+	the universe itself
+	
+	stuff needs to come back somehow! a spawning system must persist.

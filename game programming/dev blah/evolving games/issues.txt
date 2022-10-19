@@ -1,0 +1,63 @@
+There are some issues that arise from the concept of "an evolving game" and I'll attempt to address what I think of and any that people suggest. Mostly I think of this as the first go to so I can look back and see if there was anything I write about the concept now that may have changed.
+
+
+In descending order by fun [concept first, sales last]:
+
+Issue: The system, what's that again, it sounds like a conspiracy theory
+
+The system is just a way to refer to the games, the database, the software bridge between the two, and what players who interact with any game on the system may be connected to. Ok, it sounds like a conspiracy theory about as much as any huge unstoppable force has.
+
+
+Issue: Inevitable flaws
+Every generation of gaming has flaws, players try to cheat. It will happen, and it will be hilarious and inventive. The system will let them. The best discoveries are accidental.
+
+
+Issue: How this is going to work. A brief explanation.
+It all begins by letting users enter text. All it takes for this to function is a program that understands one written language at a time, instead of key words. This continues indefinitely with people reading the text and reevaluating it until the accuracy of the program's output resembles flawless storytelling.
+
+Issue: That last part was way too short, more...
+Take a look at Captcha, the developers are geniuses as far as I'm concerned, I don't like to laud anyone on a personal level too often. They already have such a language system budding in Duolingo (but maybe nobody's pointed it out).
+
+Issue: This will never replace existing games. It is an attempt to create a new kind of game.
+The system will initially be inaccessible to new developers. There's no way for this to be produced and shipped like a band aid either. If developers wish to maintain a personal artistic license they will keep away, we stil have retro games, some sell, some are still developed, they are never replaced.
+
+Issue: I know fun games will evolve, what about the other games that become abandonware?
+Have you ever looked around Wikipedia for things to edit? Competition and the demand to share opinions and facts is integral to being human. Badly written stories and poor graphics are reused every day because they compel some meaning. Even incomplete games can be viewed as such, they are incomplete stories. Any incomplete story remaining in your mind becomes a part of it, the system is no different.
+
+Issue: This idea may not seem new to a reader
+Show me the game that already exists and does exactly what I described and not just one of the things at a time. I'll thank you.
+
+Issue: Artificial Intelligence Doomsday Goodbye World
+The games evolve, not the core program, no true AI is possible from my comparatively simple plan here. If the core program would actually change it'd quickly stop working, this is fundamental to understanding how programs work.  Programs can't learn, programmers tell them what to do and the program repeats it, with variations in input processing time and output.
+
+Issue: User input devices
+This isn't integral to the concept, but it's a beginning. The end users input alphanumeric text, they'll upload sound, images, multimedia, anything that can be parsed and reused by the program.
+
+What's important is users input more data in the form of evaluations. This is every day stuff on the internet. But now it has importance.
+
+Issue: Who makes money from the games, the users? Developers? The system?
+That's actually a very abstract problem at the moment.
+
+Developers deserve payment for their game, and they need to know exactly how much they'll get.
+
+The game system will need to be funded to maintain expenses.
+
+There are current online applications that allow consenting users to participate and earn money.
+
+Issue: If we make it right now, this instant, without looking ahead. How does this make money?
+
+Obviously it wouldn't, this isn't a get rich quick idea. I wouldn't let someone who's seriously thinking this touch the concept. The initial development would be costly, the crowdsourcing would generate free research, databases would grow. Money is a failing here and there's no estimated time before completion.
+
+Some of the things users have already contributed to crowd sourced games has saved research time, which is equal to money. They never even had to know about it, and they never got a dime back. Examples of crowdsourcing games: Foldit, Galaxy Zoo, cerberusgame.
+
+Issue: Nobody's going to make this right now without validation
+
+I'm not able to sell it to myself.
+1. It can be made
+2. Someone will pay for it
+
+
+Issue: Monetization and Customers
+Monetization of hard work. The ideas I have for the system produces games. The system itself improves by playing games. How can this be priced correctly? I'll have to break this into a new blog entry anyway.
+
+Monetization of data is better. After it's completed, other companies will have uses for human data, and unless they're into games they won't reproduce it the same way.  It will have uses I can't really understand, and I wouldn't need to.

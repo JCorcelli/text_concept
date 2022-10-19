@@ -1,0 +1,23 @@
+Reverse gaming
+
+the concept
+I came up with the second generation a few moments ago. If any previous generation is incomplete there's no way for this to function. 
+
+Now I'm writing science fiction. We do not have the technology.
+
+When something happens while telling a story, people may become intrigued and make revisions. There is an understood flexibility in the rules of the story, and we'll make our own adaptations. After the first generation is matured there is a already a system that understands these things, but it needs to be taken a step further.
+
+This is not the same as virtual reality, but it may be related. When a user interacts with a game, it is possible to record metrics. Metrics include physical locations players reached, and what options are picked, and possibly any other in-game stats that may be broken down into statistics. It is really hard to think of a good use for all of these metrics when the game is already done.
+
+Similar to drawing an animation. The game creators will provide the key frames, they define the game and link specific events to cause and effect, the end users will simply enjoy the game and then possibly log their "what if" back into the cause and effect. This makes it a better game.
+
+Still drawing from the crowd sourcing concept, specialized user made content can be created that defines the in-between frames (visuals and programming). 
+
+Combine the metrics and content creation. When a player simply acts out a new solution, rather than suggesting it, the new metric is recorded. Now here's the beauty of this. The game developer's assistants, a special user, a programmer, an artist, one of the end users, whatever they may be referred to later can learn someone tried something completely new, and ludicrous, and wrong, and then they will create content to make it right.
+
+Currently science fiction at best, a fully integrated system could "tween" the animator's and previous content. Specialized users, or the "animator's assistant" will be more suited. For the same reason virtual reality is just not done, this isn't happening any time soon. But if you refer to generation one in this series, maybe you'll understand how it works a little better now.
+
+In its final stages, it would be very possible to play a game "backwards" like a video tape, because the cause and effect are modular. This solves the problem of why we can't have true time travel in video games. This also solves the complexity of develping open world games. This doesn't quite solve our lack of content required for virtual reality. Well, chances are the third generation will involve all those things.
+
+specific logic
+The cause effect database of the past generation in gaming has matured, I can go play just about any text game online and feel like I'm interacting with an incredibly creative game master who knows every rule. I can even suggest things and sometimes the GM can tell me it won't work, and the reason why. Now the specialized users who make content for video games have been using these ideas more and more. We need a better program to quickly bridge the two.

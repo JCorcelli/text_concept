@@ -1,0 +1,47 @@
+MOVEMENT
+
+arrow (wasd) - move
+
+Mouse
+move, run
+look
+	
+	basic location to move around in
+
+arrow (wasd) - move
+	obstacle course
+	
+SPATIAL JUMP
+shift to jump
+space to zone
+	platform.. furniture
+
+OBSERVATION
+c for camera
+space to zone
+	show a room
+
+UTILITY
+q / i for inventory
+number keys for shortcuts
+	need items first though
+	
+	
+e / enter to use
+	press button
+
+ESSENTIAL ART
+f - kick / stomp
+
+	hit this
+	pounce on it
+	
+	
+	stomp on this button, or jump on it, can press it but come on
+	
+	stomp to get attention
+	
+	kick while jumping
+	
+jump / kick
+	walljump

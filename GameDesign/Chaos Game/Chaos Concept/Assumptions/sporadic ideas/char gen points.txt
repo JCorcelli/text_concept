@@ -1,0 +1,8 @@
+Just have everything generate randomly including the name.
+
+You spend exp points to mutate stats, or directly alter letters of words.
+ex.
+
+Jvyne (change v to a for a point, erase e for a point)
+
+energy 30, 1 point per extra energy point

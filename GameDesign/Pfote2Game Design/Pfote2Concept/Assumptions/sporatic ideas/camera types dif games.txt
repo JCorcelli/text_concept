@@ -1,0 +1,15 @@
+3d person movement
+1 unmotivated camera movement doesn't look where the player wants.
+it could be affected
+redirected
+unable to look
+or become cinematic
+
+2 motivated camera (normal) looks exactly where the player wants
+in this case the character and onscreen content is secondary.
+Cues are required, outside camera cues
+The player is essentially 1st person with the character moving at their whim so they lose importance.
+
+1st person movement
+1 unmoctivate isn't impossible but it's  more like a fight
+2 motivated is the player controls and everything follows

@@ -1,0 +1,17 @@
+personality by traits
+
+easy (garbage in garbage out)
+	mature
+	unassuming
+	robotic (not intuitive)
+	
+medium (trial and error)
+	humorous
+	asinine
+	imitator
+	
+hard (overactive imagination)
+	
+	immature
+	antisocial
+	intuitive (assuming)

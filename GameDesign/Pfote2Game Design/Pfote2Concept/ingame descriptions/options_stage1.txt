@@ -1,0 +1,22 @@
+#cast = bunneh, jerri
+option
+bunneh: I quit. I hop away. Bunneh off bed.
+action leave bed
+action end date
+jerri: You're no fun.
+
+option
+bunneh: Flick feet in outrage.
+action hop
+sound hop
+response (Laugh)
+
+option
+bunneh: Stare meaningfully.
+
+option
+bunneh: Stare meaninglessly.
+
+option
+bunneh: Pretend to be alone.
+action flop

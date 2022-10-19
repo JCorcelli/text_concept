@@ -1,0 +1,51 @@
+antitrope
+[quote]
+anÅEtiÅEtrope (an'ti-tr?p),
+An organ or appendage that forms a symmetrically reversed pair with another of the same type, for example, the right and left legs of a vertebrate.
+[anti- + G. trop?, a turn] 
+[/quote]http://medical-dictionary.thefreedictionary.com/antitrope
+
+
+Sounds good. Actually what I've been thinking of are anti-ish mechanics that open up an option for new styles of gameplay.
+
+anti-stealth, uses stealth mechanics.
+
+
+icon
+using little icons you can indicate what you think about.
+the "needs" behavior model could somehow be connected to this.
+example: there's a heart icon. When the need for love is on your bunny's mind, the icon can move to him or appear over him. Pretty self-explanatory if you see it, right?
+
+The icons would serve as notification / feedback of what you 'think' so that your ai actions will make more sense.
+
+behavior (brain) model
+this model is a combination of desires that an entity has. It has no purpose other than to measure how much demand any one need has.
+
+behavior (action) model (incomplete)
+this model is a description of the specific actions an entity can take to meet needs. Seeing how the ai is largely incomplete this isn't done.
+
+
+door
+You could have non-literal figures visible at doors, this way the other rooms are occluded and you get significant information by interpreting the figures.
+bun
+if you guide someone into a wall with a mouse cursor they'd fall over and become disoriented.
+remake the black rabbit that is not very cute. Have odd warbling sounds, tunes, and some digging.
+level-based puzzles (like pac-man) may actually be a second route
+
+good/evil (to somebody else)
+someone's alignment could be interpreted through color variations easily, example: being pet badly may have 0 consequence, purring adds +1 good align. and encourages someone to pet more, biting will add +1 bad align, and discourage them from petting.
+
+fall over sometimes
+when you bump things, that'd be a really bad idea irl, and I think it's a good idea from the start
+
+play an educational game to benefit a non-educational game
+
+
+should social games force accidental contact?
+in a virtual 2D community the answer is as simple as having players walk past eachother's houses on their way to a new quest.
+no force. During a loading sequence any open houses can appear, sort of like RoS, they don't have a physical location.
+
+capture the fortress, one fortress commander, the rest invade
+
+
+giant darkened zombie beasts towering over buildings and a dangerous path between them

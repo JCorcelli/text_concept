@@ -1,0 +1,60 @@
+BASIC ITEM COURSE
+
+sales pitch:
+you must learn when to drink, when to eat, and when not to
+
+if you start doing random things, hitting, throwing, don't blame me, I never taught you those things.
+
+item uses
+	Priority 1: common sense: observe all, good taste, bad taste
+	
+	Priority 2: uncommon sense: heavy blocks, toys, bags
+
+
+inventory
+	--- physical inventory
+	storage, a bag
+	
+	shortcut list (selected items)
+	
+	held item (max 1, initiative ready)
+	
+
+--- item use guide (standard ui guide)
+	item on the ground
+	item on hand
+	
+	items in a box
+	storage extraction (signal storage)
+	precision storage (alt signal storage)
+	
+	items in a bag
+
+Item context (basic)
+
+	basic
+	signal - observe
+	e - pick up, use
+	q - store item / open inventory
+	
+	creative use
+	
+	take out - q, signal
+	throw - hold f + mouse
+	drop - tap f
+	
+	drag - various context
+	
+	any container - 
+		alt signal to open in zone
+		signal to remove first in stack
+	held bag (zone)- 
+		--item (grond or held)
+		store in bag (first in stack) - Item > Bag
+		
+		--item in bag
+		signal to put in hand
+		alt signal to activate menu
+		store in bag - Item > Empty Slot
+		
+	

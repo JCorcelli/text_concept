@@ -1,0 +1,36 @@
+
+Bed
+	"creak"
+	interacting with human
+TV
+	"jingle" turning on
+	"tvch[various]" loud and quiet tv channels, based on set volume
+Computer
+	"nnnn" a fan noise
+	"bzz" an electronic noise
+	
+
+Laptop
+	silent
+Door
+	wood
+Cage
+	hay
+	
+Wood
+	"crack" being bit / ripped
+	
+Window
+Desk
+	"wooddrawerslide" open/close drawer
+	"wooddrawerclose" finish closing drawer
+Lamp
+	"switchclick" on/off power switch
+	"humm" lightbulb humming
+	
+Ceiling Light
+	ref Lamp, similar
+
+
+
+	

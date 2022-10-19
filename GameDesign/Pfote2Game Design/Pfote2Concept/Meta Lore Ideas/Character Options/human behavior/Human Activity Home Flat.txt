@@ -1,0 +1,75 @@
+if there's a goal it'd be the last action in a behavior tree
+
+instead think of a routine headed by the goal (for organizing)
+
+Active Behavior, aggressive
+Cage bunny
+	target = bunny
+	LookFor
+	Catch
+	Pickup
+	PutInCage
+	
+Fix furniture
+
+
+
+
+Passive Behaviors, sample
+wait
+no task, random tasks
+	random movement
+		room = GetCurrentRoom
+		goto room.RandomLocation
+	
+	annoy bunny
+		if seeBunny
+		SayBunny
+	
+	past time 3
+		if room = cage.room
+		RefillCage
+	
+	
+time 1 or needBunny
+	pick up bunny
+	LookForBunny until time or seeBunny
+	
+	if seeBunny
+		target = bunny
+		CatchTarget until time or targetIsCaught
+		
+	if targetIsCaught
+		pickUpTarget
+		PetBunny
+
+time 2 or needFood
+	eat
+	GetFood
+	SetFoodOnBed
+	EatOnBed
+	
+time 3
+	GoTo cage.room
+	RefillCage
+	
+time 4
+	GoTo bed.room
+	Goto Bed
+	until time
+		while notTouching or not time
+			if canSeeBunny
+				Reach to bunny
+			wait
+		Play with bunny until time or notTouching
+
+time 5
+	laptop
+
+time 6
+	sleep
+	
+time 10
+	if room = bed.room
+	LeaveRoom
+		ShooBunny

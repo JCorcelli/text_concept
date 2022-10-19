@@ -1,0 +1,223 @@
+this is dialogue
+	starting a dating sim game
+		game is dynamic boxes
+		
+	jerri talking to bunneh
+	bunneh choosing a response
+		options are dynamic box 
+		sub options open prompt
+concept: 
+1 jerri continues to the next step when you choose to on the app
+2 options will test the ui, but only one step of response (for simplicity), and escape to the options again.
+
+shit I started writing pseudocode. it's just for the computer then.
+
+
+#Step 1
+[power_on]
+
+#computer
+proximity widget: select
+	time:late
+		[staticbox]it's late
+		
+	
+	[DATE!]
+		staticbox:
+		
+		stats: exp
+		
+		running: off / Stage n of 4
+		
+		mode: wait
+		[datesim_wait]staticbox:"wait mode"
+		dynamicbox:
+			[datesim_step > 1] option:back[--]
+			[datesim_step < 4] option:continue[++]
+			option:end date [!DATE][date choice]
+			option:quit app [!DATE][datesim off] 
+			
+		[datesim_real]staticbox:"realism"
+		dynamicbox:
+			[datesim_step > 1] option:back
+			[datesim_step < 4] option:continue
+			option:end date
+			option:quit app
+				jerri: no. mine.
+			
+		skip
+	
+	#!DATE
+	staticbox:"use computer"
+	keypress:use opens computer window
+	computer window
+		dynamicbox:
+			option:datesim
+				choice
+				setup
+					relation status: level 1
+					location:	???
+					weekday:	???
+					event:		???
+					ambience:	???
+				
+#Step 2
+				start date
+					#Step 3
+					[has not played]wait mode. use app to advance date. 
+					
+					real-time. survive once to unlock
+					#Step 4
+					[has played]
+						wait mode. use app to advance
+						
+						real-time. is automatic
+						
+			option:power off [!DATE]
+
+now that is all implied.
+
+
+[DATE!]
+						
+[datesim_on]proximity widget:
+	[!inzone]staticbox:"zone to listen"
+	
+	[inzone]:
+		dialogue window
+		date widget
+			stats : level 1
+			running : off / stage n of 4
+			mode : wait
+			
+	
+
+time:late
+	let's quit now, time for bed. [!DATE]  Try earlier.
+1
+	Hi.	(speaker: in dialogue window,
+	memory log,
+	staticbox:out of dialogue window.... implied)
+	
+	Hi bunny.
+	
+topic: [fur, ears, bed manners, treats]
+	
+real-time:
+	[datestep_time > 60][++]
+	
+bunny:off bed
+	hey-you're no fun. [!DATE] Date over. jerri:touch laptop
+	
+option:
+	1 I quit. I hop away. Bunneh off bed.
+	2 Flick feet in distaste.
+	3 Stare meaningfully.
+	4 Stare meaninglessly.
+	5 Pretend you're alone.
+
+2
+	pet, bunneh:ears up and purr.
+	Do I even deserve you?
+continue topic
+offer new topic
+real-time:
+	[datestep_time > 60][++]
+	
+option:
+	change topic
+
+3
+	hold,tickle, bunneh:I feel weird. I will not flinch, I'm tough.
+	point at something
+	ignore
+	kiss
+	hold on chest
+	
+real-time:
+	[datestep_time > 90][++] skip
+	[datestep_time > 30] test
+bunny:off bed
+	[datestep_time < 30]
+	jerri:get bunny [realism][datestep_time = 0]
+option:
+	1 Thump.
+	2 Look angry.
+	3 Charge!
+	4 Kiss.
+	[tickle_game]5 Don't flinch.
+	
+4
+good:
+	pet.
+	[datewait]pet. bunneh:get off the bed "she'll handle it." 
+	[all passed]continue step 3 behavior for a minute
+bad:
+	Jerri:send to cage
+	Jerri:stand up, get bunny, put in cage
+	
+bunny:off bed
+	[datestep_time > 90]
+		[datewait][++]
+		[datereal]jerri:get bunny
+			has bunny[++]
+
+option:
+	Get off the bed.
+
+>4[!DATE] Date over.
+
+date over prompt / 
+status
+	first time, no zone: relation level 1 - Why. You. Didn't. Even.
+	Real-time available.
+
+	first time, normal relation level 1 - 
+	You tried.
+	Real-time is now available.
+
+	wait mode: responded each step relation level 2 - You've got the hang of it.
+	
+	You did it! Take the real-time test.
+
+#step 5
+realtime: 
+	relation status titles
+	
+	Left early level 1 - nice to see you
+	you failed, try not to leave so Soon?
+	
+	Title: Acquaintance, do I know you?
+	
+	Stayed level 2 - are you stuffed?
+	try being more responsive.
+	
+	Title: Friend who cares.
+	
+	Responded level 3 - now we're talking
+	you're almost there.
+	
+	Title: Endured the trial of love.
+	
+	Passed level 4 - she's in love. 
+	think fast, the date is just beginning
+	
+	Title: Gold star winner of cuddles.
+	Title: Cupid of bunny land.
+
+# Step 6
+jerri closes laptop [close dateapp]
+get bunneh if he's away
+1
+	talk about the app
+	"I uninstalled the dating app.  It's getting boring."
+2
+	pet nose. bunneh:sniff sniff, purr
+	"You can't change me."
+3
+	reveals sinister aura and "gun".
+	Play pew pew 40 seconds.
+4
+	"You're really cute lately. Do you know we're moving to a new flat?"
+
+Bunneh pees on the floor... at night. "my fate, my choice."

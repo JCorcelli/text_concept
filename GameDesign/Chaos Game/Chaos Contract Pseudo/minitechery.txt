@@ -1,0 +1,53 @@
+
+##check use(target, tech)
+##	if (target.upgrades(tech))
+##		return 1
+##	return 0
+
+#ifndef 
+#minitech.use
+# crap
+
+use = minitech.use
+
+
+action : tech hideout(target)
+	# an invisible house
+	if use(target, "hideout")
+		tech it
+
+menuaction : select plot
+	onclick 
+		minitech.selectString = selected
+		use(target, "tunnel")
+	
+action : tech tunnel(target)
+	start select plot menu!
+		
+#a menu each case wouldn't hurt, but it could be incredibly redundant to draw/code one every time
+	
+action : tech house(target)
+	#make target a house. It's just a hideout that comes with different options. Could be a base of operations or upgraded to a mobile platform to deploy your spawnpoint.
+	
+	use(target, "house")
+		
+action : tech shelter(target)
+	#make target a shelter. This is some very high tech equipment! Converts objects into something suitable for habitation.
+	
+	use(target, "shelter")
+	
+action : tech nexus(target)
+	#add a nexus entry way to target. Nexus technically exists elsewhere and everywhere.
+	use(target, "nexus")
+	
+action : tech locking(target)
+	#add a lock to target
+	use(target, "locking")
+	
+action : tech comms(target)
+	#add a radio or tv to target
+	use(target, "comms")
+	
+action : tech propulsion(target)
+	#strap rockets to target, make it go
+	use(target, "propulsion")

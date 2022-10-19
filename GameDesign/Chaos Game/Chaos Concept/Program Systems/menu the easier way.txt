@@ -1,0 +1,38 @@
+Probably a better way to handle menus in a hierarchy.
+
+There's a start menu. 
+	Only one menu of this type can be open.
+	
+
+For each menu. 
+	Focused elements.
+	Shallow child hierarchy, a single sub-menu takes focus.
+	When this opens a menu, this must close.
+	The start menu should be easy to reach, within 3 cancels or a restart.
+
+pseudo:
+
+@ any menu
+goto 1a
+
+reveal 1, reveal 1a
+
+search backward (assume the menu goes deep)
+	if I'm at 1a, do nothing
+	
+	if I'm at 1, open 1a
+	
+	end of search
+	
+	
+	reveal 1, reveal 1a
+	
+
+menus
+1
+	1a
+	1b
+	1c
+2
+3
+4

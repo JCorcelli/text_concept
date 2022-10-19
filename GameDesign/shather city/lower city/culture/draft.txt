@@ -1,0 +1,24 @@
+KEY: what %demographic do
+	expenses
+	expectations
+	experiences
+	behaviors
+
+	
+all
+	expenses: food
+	expectations: legal
+	experiences: passive interests
+	behaviors: friendship, annoyance
+	
+children
+	expenses: toys, beginner education supplies
+	expectations: lack of common sense
+	experiences: zero to minimal
+	behave: insecure, disconnected
+	
+adult
+	e:	caretaker, hobby, environmental
+	e:	goal, coop, secure, adjusted to current social env.
+	e:	various (random), education, commercial influence, external stimuli (older gen.)
+	b:	major. expectation, minor. self directed, out. various

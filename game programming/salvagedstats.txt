@@ -1,0 +1,114 @@
+
+
+On my Plate
+	drawing bunnies for emotional, personality expression
+	visuals
+	design the text-bubbles for story
+	
+	doors that open... physics (cleaner) or scripted (faker)?
+	doorway information, for occluded rooms
+	
+	
+	occlude individual rooms
+	! when npc is near door
+	
+	
+	
+Additional design or scripting
+	waypoint A* taking agent size into account
+	wandering character, for small bursts
+	wandering character, using the A* or other waypoints for events
+	HUD, what is purpose other than debug?
+	
+About Unity
+	packaged Event System for button presses
+	image effects like antialiasing
+	alternative to physics, character controller
+	
+	effects
+	trail renderer - won't need to 'draw' anything myself
+	line renderer - requires two positions
+	projector - casts materials onto objects, like a cool shadow
+	
+	COOL http://wiki.unity3d.com/index.php/Scripts/Controllers
+	
+Visuals
+	
+	if all else fails, destroy symmetry, create disorder
+	
+	
+Require Adjusting / Redecorating
+	text-bubble script uses ( not mine )
+	CAMERA
+		SmoothRotate - look between two objects (awesome #1), Look from center of room, look at center of room. look from bunny at goal (overly directed). capture gaze by forcing look
+	I can put the camera frame on a zipline and smoothly transition it 
+	postprocessing effects on camera, multiple camera + effects for effecting separate room
+Require Scripting
+	stylish drop shadow (animated)
+	safe in prop (exit positions), refocus narrow to the prop location
+	camera tricks &
+	switching camera FOR SPECIFIC REQUIRED EFFECTS
+	
+	
+Player Stats
+	PENDING
+	
+	REMINDERS
+	[no linear progress measure]
+	DONE
+	tired
+	awake time remaining
+	hidden
+	hidden by prop
+	exit is safe
+	near door
+	current room
+	known rooms
+	known rooms (stale)
+
+Extraneous
+	texture doorways - I have real walls, and I have real doorways, this only sounds like a good idea for modularity or magic portals. Or bunnyhole cutouts.
+	lerping color intensity to simulate light, or animated textures
+	2D minigame diversions - think converting 2D program to 3D space on a plane and changing the game's controls
+	interactive textures OR decals in game
+	HUD - for text and safe visual effects
+	being cute "opens doors" also literally
+	mini story - "resist the carrot"
+	camera movement through waypoints and arrayed sensors
+	camera layering
+	check tween class for huge array morphing: http://wiki.unity3d.com/index.php/Tween
+	check mouse gesture class: http://wiki.unity3d.com/index.php/Gesture_Recognizer
+	for board-games. A 2d grid based movement: http://wiki.unity3d.com/index.php/GridMove
+	entire outer-world hub as a racetrack
+	
+
+"JUICYNESS" (as described at https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+special effects actually
+do not understate the impact
+	color
+	animation
+		impact
+			stretching
+			flashing colors
+		movement
+			tweening
+			easing
+	randomness
+	sound
+	particles (eg puff of smoke, trails)
+	personality - face expressions
+
+defined frame rules for 2D-card animations
+	#1 all frames must be the same size
+	#2 animation oriented interactions need to encompass the area they'll appear in. (no extra programming, just position and play)
+	#3 use a single time base for all time-related events
+
+	tips
+	#1 tip (render 15fps)
+	#2 tip reserve pallette colors, if limited?
+	#3 tip approximate shadows, to see where something touches ground
+	#4 connect loops and transitions with the final frame (duh?)
+	#5 use fewest expressions necessary and make them on a seperate layer
+	#6 vary sharpness and saturation to enhance depth illusion
+	#7 moving hold, avoid it by having some part continue to move
+	

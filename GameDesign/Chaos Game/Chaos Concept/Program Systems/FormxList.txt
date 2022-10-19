@@ -1,0 +1,84 @@
+
+I only save one selected item backup (I could... pin it)
+initial accepted master idea
+	when using
+	PREVIEW - an uninteractable version/view
+	OK - replace all values with previewed ones
+	CANCEL - close list
+	Reset/Replace individual values
+	
+	the final potential is to bring in multiple forms "previews"
+		Achieved, and they're not just previews.
+
+	and compare values across the list.
+		No values worth comparing.
+	
+
+	Organized workspace
+	having multiple forms open is not going to work perfectly without keeping a desktop. I mean a workspace. An easy way to keep clean. 
+		Maybe later!
+
+Pseudocode (dated)
+	load menus should just work
+
+	assume one form at a time
+	that load button on forms though... it's a thinker
+		inherit/reference list creator
+			destroy list
+				1 automatic on destroy
+				2 a time after closing it
+			
+			click {
+			open: if closed
+			close: if opened
+			}
+			
+			select item => spawn a form preview (no load button please)
+				press ok : send signal up
+	ok pressed:
+		replace with the loaded form
+		
+
+Done:	
+	Form UI Load list
+	as a player. To be sure I selected specific items.
+		x have the saved file recolor. x nah, it autoselects it
+		o favorite file recolor, mark.
+		o change the selected document somehow
+		o add name around the save area so I know what's open
+		
+		
+	o a (proto) preview on list select, non-interactable other than drag
+	now let one preview exist at a time.
+
+	o form using list to load:preview/ok/cancel
+		- I can actually open multiple forms to "preview" manually, but this is slower than falling down a list.
+	o add discard.	
+
+
+
+
+	o Made a lot of changes to form x list interface.
+		pretty much every function in FormLoadExitS
+		
+		mark for deletion
+		undo prev mark
+		unmark
+		save  (deleted thing)
+		search
+		update list on form save
+		list scrolls regardless of new or not
+		
+		unique element property, force a hashed list
+		
+		? (not implemented) determine if I hide or color/mark things for deletion
+			easy, just needs list and button
+		
+		open button / it copies
+		
+	
+	o // now I want some way to force the form to load without changing the autosave.
+		uhh well, save it?
+	
+	o // there needs to be a "use" save. 
+	there needs to be an inventory

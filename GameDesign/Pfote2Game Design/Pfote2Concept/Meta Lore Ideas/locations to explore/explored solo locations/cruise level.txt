@@ -1,0 +1,23 @@
+CRUISE SHIP (it's probably too big, ought to be a LSL game)
+
+pretty much the same setup as a few locations except it's not entirely stable
+greased terrain
+	1 each location rocks back and forth
+	2 the place makes ocean noises
+	
+time limited
+	it's a cruise, it's not out there forever
+
+QUARTERS - house with tipped over furniture
+GALLERY - paintings like you hang in a house
+BAR
+DINING ROOM / RESTAURANT (it's like a kitchen)
+CLUB ROOM
+EXTREME OUTDOOR SPORTS
+POOL
+BOILER ROOM - like factory
+
+
+HIDDEN WORLD
+DREAM WORLD
+so basically it's the ship except the physics go completely off the rails

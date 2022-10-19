@@ -1,0 +1,4 @@
+
+Starting as a literal written form.
+
+A way to customize items through many optional / required preferences.

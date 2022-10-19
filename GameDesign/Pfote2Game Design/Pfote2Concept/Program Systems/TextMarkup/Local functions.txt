@@ -1,0 +1,28 @@
+user.{
+	select 
+	addstorage
+	do / *
+	}
+	
+parser .
+{
+	countdown
+	sleep
+	wait
+	escape
+	escapeafter
+	randomtext
+	erase
+	
+}
+	
+parser.{
+	countdown
+	sleep
+	wait
+	escape
+	escapeafter
+	randomtext
+	erase}
+
+end,origin 

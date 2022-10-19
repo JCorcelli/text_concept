@@ -1,0 +1,28 @@
+
+city - site
+	appeal ()
+		secrets
+		events
+	culture () 
+		draft
+		Experience
+		Wilderness
+	life ()
+		animal name
+		family res surname
+		res name
+	passive interests ()
+		compass points of interest
+		wild flora or fauna
+	city summary
+
+magic
+	real magic
+	false magic
+	history
+	the laws bunnies live by
+	
+story - game
+	game story
+	cast
+	skits

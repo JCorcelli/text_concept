@@ -1,0 +1,732 @@
+
+2021
+
+	Writing a personal language.
+
+December 30, 2020
+	Upgraded Unity, worked on dialogue system
+	#archived: dialogue feature progress.txt
+
+Changes to datesim prior to now
+	getting started datesim
+	o datesim UI/script enhancement
+		make a prefab in text and generate it with {name}
+	
+	"zoning"
+	1 dia: on/off with space "menuing"
+	  step 1 : zoning: allow 3D movement
+	  step 2 : check proximity "hard zoning"
+
+		
+	remember 3D click can use a lot of similar functions as 2D click
+
+			
+	3	
+	make a new scene, and solidify the laptop interface
+	it's a ui state, loads prefabs
+	has effect on a global hub
+	x2
+
+	4
+	laptop app, outside the dialogue
+		datesim.exe
+		available in proximity
+		settings,etc
+	
+	laptop datesim app
+		settings
+		the date background
+			basic choices - fuckton of ambience
+			random stars
+			relation level gating ()
+				
+	5
+	now in 3D? (seeglobal dialogue)
+		memory log
+		speech
+
+	6 perfecting
+		speech zone
+		camera
+				
+			3D Camera
+			o	limit the look distance during freeroam and it's ok
+				
+			3D Move
+			o	force a single plane movement, so long as I'm holding the button (meh) I should really design the level to look nice instead
+
+	
+		game
+			real-time- Basically, works even if you're not in zone.
+			
+		interface - obvious, easy (until it's not )
+			start menu - easiest
+			
+		find repeating elements and add some flare (besides buttons idk)
+
+December 7h -
+October 28h - December 7h
+	Dialogue System (without the memory )
+
+October 22n - 28h
+			
+			
+	script markup:
+	o <DatesimBunneh_Hop> would be a prefab
+	x <DatesimBunneh anim:DatesimHop> is a prefab, with parameters
+	o Preferably this loads smart and runtime.
+	
+	datesim UI/script enhancement
+	
+		o datesim interface
+		o ds dialogue ( random )
+		o dia topics, just a few extra dialogue possible
+		
+		o bunny responses, below the dialogue
+		
+		
+		o Use/Show The End date Stats
+			See if they work?
+	o
+		animations, scripts, and game state manip (wait mode)
+		dia options? 
+			o option use = color
+			o more dialogue!
+		o -	enums for this small prototype
+			1 script per action, pass a message, and populates other components working independently.
+		o	2 enums per action- the way to go, because I want to know when I say something important...
+		-	
+			
+			1 text, script - creates a scripting precedent
+			2 .... not really another way to put it
+		+	a data structure
+			1 same as text, script, really
+			2 offers unexpected results (for me, unfortunately)
+		
+		o ! script-blocking inputs - dependent on ui state
+		
+
+		o widget... color - it's a cool effect, on enable/message, hover, click-select
+		? what to do, when one clicks any generated text - 
+			o hover - is it important text?
+			? click - ask later
+	
+		o sound? - 
+			o animated
+			x script
+		
+		markups for reading text
+			o prefab name, square only
+			parse preferences
+			
+October 3rd 2018
+	I wrote a lot down the past month or two
+	I organized the folders
+	
+	
+	
+Week of Oct 20th 2017
+	jerri.animation
+		pose = state ( animation state )
+		
+		pose.stand
+				.walk
+				.idle
+				.reach
+				(both arms, move body)
+				
+				.hold (script or separate model)
+				.admire (look down)
+				.stretch (look up)
+				.give (what I'm holding)
+				.bend
+		
+		pose.kneel
+				.left
+				.right
+			pose.crawl
+					.walk
+					.idle
+		standing -> to bed 
+			o crawling
+			entering with a default pose
+		pose.inbed
+				faceup
+				facedown
+				side
+				.idle
+				
+				
+				.side.laptop
+				
+				edge
+				.idle
+				.reach
+		crawling
+			idle
+			basic
+			turning
+			
+				
+	edited reaching animation
+	
+	looking
+		head weight
+		lookX/Y
+	reaching 
+		reach weight allows walking
+		or "Kneeling_Reach" state + substate >0 start kneeling
+		reachX/Y, substate = 0 to stop reaching
+		carry changes the reach to a carry
+	when to crawl / kneel
+		crawl to move
+		kneel to look
+	when to stand still or idle standing
+		while sweeping or emote
+		
+	added an animator controlling interface HUB for crossfading and playing states in jerri's animatot
+		
+	Behavior tree
+	finish pseudo for the human's logic
+	
+	test and display jerri's animations in the test level
+		1. prep animator
+		2. make abstract
+		3. make control interface
+		4. "script" calls to interface
+			as buttons
+		5. behavior leaf nodes use calls
+
+	jerri.btree
+		any movement/walking
+			o target based movement
+			no goal (unhindered delays) 
+		
+		reaching for
+			/ looking at goals
+			
+		bunny (or other), 
+			o movement/strategy to reach bunny
+			o reach for bunny
+				pick up bunny
+				o pet bunny
+				handfeed bunny ( she would need g.food)
+				play with bunny
+			
+		bed, 
+			o laptop
+				use
+			o sleep
+			idle near (any movement can handle it)
+		cage (low door),
+			open
+			close
+			refill water
+			refill hay
+		door,
+			shoo bunny
+			o open
+			exit (incl close)
+	
+	jerri reaching for something (i try phys ob)
+			
+
+
+
+----------
+	moving audio listener, bunneh's walking effect is pretty much full volume as soon as this is the case
+
+		
+	effects that play (so the player can easily understand)
+			
+	state changes
+		When she wants bunny (situational irony)
+
+	conditions
+		sight / hear
+			eg when she says "Bunny" that is a condition
+		proximity
+			signify proximity matters
+			I suppose I could state this with a timer
+		
+	crit/opening/chance
+		chance: an action can have a very different outcome
+		introducing a tool that will cause a very simple outcome
+		
+	anticipation 
+		prior to any of the above, there can be an anticipatory notification
+			
+	
+	without staring at the game for 10 hours straight the bunny movement actually looks pretty good and oesn't need to be adjusted for physics
+	
+	jerri's walking animation nearly done
+	set up test scene
+	
+	
+	Using the node editor provided online 
+	ver. 1 using a loosely formed node tree to represent the hierarchy, for easy overview(ext node class + hotkeys)
+		tree
+		+ bookmark, nav hotkeys
+		+ transit nodes, "ready" and "connect" + "go"
+	
+	node editor
+	
+		1 node referencing -- game object
+		3 update tree in inspector to fit node tree
+		
+		? 4 template-group editor
+			node to load/alter template
+		
+		
+		5 load a tree to look like tree in inspector
+		
+		
+up to Apr 17 2017
+
+	Set Up Behavior Tree in Jerri.Context.
+
+	I always make a separate class/prefab before edit. I guess I could break prefab instance in editor.
+	****
+	I need to review how I was sending messages.
+	I need to review how the routines work. I can probably improve them some.
+	
+	
+	
+	AI use strategies and response strategies: In this case I interpret strategy as a behavior that takes resources.
+		
+	NPC.Context 
+		Global resources
+		NPC HUB : list the active named strategies
+			
+			Behavior Tree Root
+				b. tree (tech. any node can be a tree)
+					conditionals 
+						named strategies
+			Local Resources
+				
+				Body (Animator+Nav Agent+Rigidbody )
+					Colliders
+						eg. arm length, feet
+					Meshes
+
+		
+	Behaviors found in a tree below the HUB class.
+	1. submit "name" on enable. a string indicating the behavior.
+
+	2. behavior tree nodes, well, consider which ones I actually want to use.
+		
+	Fiddled with the camera swing. I think it works now.
+
+
+
+	made BeStateHub_Jerri for wants...x
+	
+	-> individual tree calculations or lookup table? Lookup table... ya know, whichever is easier at the time. (I was tired thinking about it.)
+	
+	Of course... I need to write the actual methods tasks require to succeed.
+	
+	
+	identify methods of type (question)
+		o wantBunny
+			o nearBunny
+				petBunny
+				comfortBunny
+		o wantBed
+			nearBed ?
+			onBed ?
+			
+		nearCage
+		
+	
+	storing variables/strategy in HUB would be potentially better for reuse.
+	
+	leaf nodes (operators) / modularizing
+		some regular coding
+				
+	it'd be better to have 
+	actors change behavior and set variables using a behavior tree
+		the behaviors they don't respond to are left up to the player to identify.
+	
+	primary flow (before bunny responds to Jerri)
+	Jerri responding to Bunny
+	Bunny looking at things to eat, until time up
+	
+
+
+up to Apr 8 2017
+	made gif of nose wiggle
+	
+	CAMERA WORKING
+	camera zooms quickly, and extends to assigned targets, gritty motion with rapid changes
+	
+	bunneh walks/turns real well now
+	
+	2D/3D/magnets
+	o 2d thing
+		
+		o hover
+		o click / toggle
+		o lock / hide, 
+			simple as disabling appropriate control
+		o physics
+			o collision 
+			o fling
+			o slingshot + solo module
+			o slip out of grip (forced release)
+		o drag-drop -
+		o on other 2d thing ( required collider 2d, trigger requires rigidbody 2d )
+		o and pick it up again from the dropbox / droptarget / catcher
+		
+			
+	3d thing 
+		o basic collision / distance check to activate functionality
+		
+		mouse
+			o hover
+			o click / toggle
+			o drag
+				o work while active
+				o limit to range
+					o alt: no limit if held
+					
+					oo extend
+					o no slippage, move back in range if held
+				o disable limit, but use the same actions....
+					
+		physics
+			o imitate the 2D module
+			o slingshot / cannon
+			o interest: difference of moving from an origin vs camera
+			o problem: difference of moving screenposition vs worldposition
+			o vexing: similarity of HingeJoint2D and HingeJoint (eg the limit of 1 axis), ends up using SpringJoint, wobbles.
+			
+		drop effect 
+			o hover range warning
+			o drop within range of a trigger (eg. the selection limiter)
+	3d thing 
+		instance and storage (untested in 2d thing)
+			o spawn on click
+			o limit spawn with item manager, a bit too simple
+			
+			o spawn when clicking a charged dispenser 2D or 3D
+				o the dispenser can store the exact object
+
+	made a more abstract class for dropper/droptarget
+	
+	Magnet
+		o switch between 2d and 3d behavior
+			I accomplished this by switching objects
+		o Still be holding it if there's a switch while I am pressing the button
+		o A mouse-hover for speciic targets is now very easy to check. A drop-hover is not as clean but uses the dropped object's collider.
+	
+	Better canvas collision
+		o A 2d token instance representing my cursor.
+			Makes more sense for multi selection. Well hey it's there now, I can change it as I please, and change what it does as I please.
+			
+
+	surprised by the fact I can use my activation while holding button combo instead of clicking on things, and it isn't terrible.
+
+	Some basic scene loading	
+	o Take a bare room.
+		load the objects from another scene
+		delete
+		repeat once
+	
+	cover current view with menu
+		2d	
+		x UI, easy, canvas grouping
+			Maybe for final, with animation
+		change the scene to blank room
+		
+		change the scene
+		
+		x 3d
+			Optional. why? 
+				x 1. if I prerender a 3d scene I could use it like it's a 2d scene.
+				2. I can change to a different 3d scene, between loading. (ala Assassin's Creed)
+	
+	^ done with a sequence 
+	
+	Satisfied the requirement of persistent objects with one easy script. 
+		Can't be duplicates.
+		Won't automatically destroy.
+	
+		
+	sprite magnet, aka aprite indicator, aka compass
+		I want to try to get all sprites on one canvas. * 
+		why?
+			Keeping track of two things is irritating. So the parent eg the physical object should plant its magnet object, or an instance of it. "I can totally do this, I've checked."
+			
+	*-> all on one canvas.
+		spriteboard / spritemanager. A solo that sprites connect to.
+	
+	
+	spriteMagnet done in compass format
+		it's just a cool compass
+	spriteMagnet that has a "slide" effect on rigidbody. It's basically the same as the regular sprite magnet. Only it interacts with 2d physics while the rigidbody is enabled.
+	
+week of Mr 19 2017
+
+	adjusted basic action subscribers so the final method is "OnAction" instead of "CallToAction"
+	
+	disabled the test action for jerri getting out of bed
+	
+	I determined I don't need to check who is calling, because I don't have a complex actor pipeline. Now every action is static.
+	
+	made my sprite animations a bit more complicated with synced layers no biggie
+	
+	created "Effect Checklist" I'll be surprised if it actually comes in handy without modifications.
+	
+	
+	Made some effect decisions
+	h. reading behavior with effects
+		general	state
+			she basically walks towards him, or sleeps. Should be trying to pet or pick him up.
+		important
+			change to minigame would require programming a game for Jerri, which seems like a nice idea, but I will program one for bunny first.
+		
+	
+	Digging Minigame
+	I can draw a 3d mesh with a 3d brush and a correctly sorted array because of a buttload of work.
+	
+	Checklist:
+		x try animating by shape keys
+			hard
+		
+		draw tunnel signature
+		o	draw an arrow basically
+			done in 3D meshes
+			
+		model simple den
+		O	did
+			materials needed
+		o add texture to the trail renderer
+			I can make the edge softer 
+		o add texture to the 3d signature
+			x I can draw directly to it in blender
+				that's a big texture, and it was easy to tile it
+		
+	I've got a transparent cutout shader... Yeah! (I think I prefer it to the other options, idk though)
+	
+	o compare a cutout animation to the current script animation
+		Both have merit, but #2 is less likely to break, looks awesome.
+	
+	o see if you can make a "wipe" effect by adding a different cutout value
+	Added animPlaybackControl
+	
+	o set up a.pb.c ^ with a stop,play,rewind
+	use a.pb.c ^ either sample % or play at speed, idc
+	
+	SHADERzsz1 improved
+	bunny front paws and belly fur mesh anim adjustment
+
+	
+	o circle at the entrance of dig
+	o Room for image / color would let me use a "door" effect.
+		more complex stuff gets me nowhere
+		
+	worked on dig
+	
+		designing the dig
+			o I can walk up to it to start, 
+				delay would be nice
+			3D is passing, missing entrance / ending point, and a room texture
+			
+			o Animation of collider and image, 
+				it can do it all
+			
+		 
+			o avoid falling
+			
+
+week of Feb 25 2017
+	h. '
+		proto:
+		
+		simple pacing walk in room (NPC-nav ping-pong)
+		get on bed
+		goto edge
+		get off (from edge)
+		speech "effect"
+		routine, a class with accessors. I can goto BED, EDGE, FLOOR, and IDLE atm
+		'
+	represent routines (used "nodes" for starter)
+	routine class accessors
+	
+		method to request nearest EXIT or STATE, return bool if valid
+		TIME until next action is complete
+		bool for if it is DONE
+		
+		(the script doesn't really do this, it's the thought that counts)
+	
+	adjusted movement
+		agent follow transform will ghost through non-collider scenery (I like it).
+		can use rigidbody forces to push nav things
+			bunny can jump when startled
+	timer that does any event in time, clunky Unity GUI 
+	
+	get stuck climbing in cage. adjusted bunny's movement with slight upwards forces simulating a hop.
+	
+	learned about static implicit conversion so I could list some strings in array, and they become actioneventdetails.
+	
+	increase in visual 3D effect
+	
+	Made BillA, a less specific class than BillText
+	Made a class to set bunny pose
+	
+	set up static strings for actions (hack, dependent on actors being literal). Likely to be overturned by a really realistic RPG where actors need ID, and name changes. Would be cool.
+
+really offshot from the week of Feb 21 2017
+
+	rescaled things, for physics (issues arise)
+	i know I click on things now
+	limit selectable objects by distance to a selected collider 
+	camera swing patience
+	
+	particle effects (possibly better than using animator) for sound. Less is more.
+
+	makes more sense to have the warning ring visible, as an easy setting.
+	
+	make annoying sounds spiky
+	i drew thought bubbles (took some time)
+	updated bubble image
+	added a spriteIndicator script, an initial stage of magnetSystem, combines several things
+		+ later I can make a hover that swaps it with something interactive
+	
+	I updated the TelevisionSet model. I think the dots are too close together. The trigger to set the active textures aren't much different than before, but they can be accessed and moved easily now.
+		+ Changed outline textures to empty squares (looks like train tracks)
+		
+	Having deferred shading makes the shadows less expensive.
+	fixed swingarmmain.cs so "mouse 2" sets rotation to the current viewport angle (smoother transition)
+	
+
+
+		
+moved long BEFORE....
+drew gui
+
+added both mini and animatable heart bubble. looks ok
+added forward-backward animation script
+thought bubble in 3D space
+
+
+start screen basics, the black and white chalk stuff, easy to read and see
+
+
+bunny running towards camera looks so cute
+
+outlines / see-through effects
+
+the art feel is almost right
+added a test for global sound event, looks like it works as advertised, not thorough
+
+added dotted line meshes (broken up and wide works for most things, but not small things)
+	a 3d line looks bad for this (it's a mesh that points at camera) it would work great for "curves"
+
+alternate type of scenes, but they all looked really bad in 3D
+3d is immersive but Fixed/Iso/2D is easier to style
+
+
+room signal refresher
+
+texture atlas for whitebeard
+
+Just changed what places the indicator so it's always on. I can use the "place target" script to activate/deactivate it still.
+animator has some back and forth to it for more complicated things, like I want to do 
+
+
+
+Learn Difference: Mesh / Pixel(visual, GPU), Path / Collider (Logical, CPU) 
+animations
+implement NPC animbehavior (I did walk .. run .. pewpew idle)
+bunnyThirdPerson control and read animator parameters
+Bunnythirdperson is the most sensible interpretation of the routine "Move" action
+
+set up a stealth system, lights and words
+
+Re-adjusted bunnyroutine, now it's routinebunny... almost exactly as it already was, it's an NPC trainer, basically. I just need to know what is going to happen in the game, and set up routines for all of them with flags that determine if they're on/off.
+
+bunny menu
+	a spherical collider is now around him
+I set up directionLagger/wagon
+
+
+Selection system
+I decided... a class like Selectable is good for storing static variables
+	... I don't really need anything but 2d-3d magnets that represent button clicks on screen and in space. I can analyze them at any time.
+
+	It's actually easy this way
+
+found interesting things the animator could be useful for
+potentially less scripting, fewer update calls
+
+thought about making the camera nodes connected and interpolate based on that
+thought about changing the nature of the camera assistant so it'd only follow the nodes likes that. I should make sure the context is taken into account.
+
+thought about pivots, for rotating in circles
+
+no "circular cut" pipeline without unity pro
+tried lighting, a lot
+adjusted camera holder's rigidbody
+simple, enjoyable, automatic camera rotation
+added player controlled look rotation
+created a limited smoothtransform that checks for collisions
+began layering in the mechanics folder
+
+made repelling force, called DesirePhysicalForce
+	1. tweaked repel and attraction against a navmesh agent, could be buggy
+
+<combine with a stencil filter>
+Thought if I make something I can rotate 360 I get many different random sides. also a sprite strip would work. 
+
+made some mesh circles (obviously not great for pixel-perf render)
+update bunny texture
+adjusted the animator states and runtime scripts 
+	bunnythirdperson now determines substate 2 or 21
+	ai charactercontrol now sends Move * distance
+
+altered script for bunny turning (future turning needs to look realer anyway) * I figured out why the animation wasn't applying turn. The script provided... animator update wasn't applying turn
+I guess there will be more back and forth in the animator for routines
+re-evaluate effect potential
+	Pushing the desire indicator with forces is a good way to simulate "desire"
+	The "direction" indicator seems to convey the player's intention more than the bunny's
+adding interfaces makes a receiver
+added hyperactive" in bunny be triggered by repellable
+added a TriggerExitDropsIndicator script, with SelectGlobals in play atm this works fine. It sets a position away from noise.
+script wasn't applying rotation onanimatorupdate, changed
+I decided an animation for hovering isn't important unless Bunny is playing continously, in which case he could react to the mouse pointer
+made routine wait longer, ~40 seconds, default (always context)
+put things on the screen when I click on bunny, "option space," a placeholder for UI until it's important
+applied the animate open/close, unity's selectable animations, to a sprite menu
+
+human model, Jerri Mercury
+modified the hi-res UV so it shared texture (so technically it doesn't look good)
+I'll accept as is, but don' repeat mistakes later
+anim.... 
+	posed ears
+	breathing
+	scripted movement more
+sound...
+	min. 2 sound, for each thing I think would make noise
+	volume adjusted for majority
+	corrected fannoise loop (removed click at end)
+	I've used ducking for the ambient track
+	
+using a safe-region check on a sliding and a second camera I can keep something in the screen while looking towards another position. (no zoom function)
+
+I adjusted the human's mesh/armature for the game's humanoid armature.
+	
+
+	made a beginning effect group
+	monobehavior scripts break, don't use them
+	animated an opening sequence (weak), with animations
+	
+	bunny's walk moves relative (scripted in routine)
+	made run a double-click
+	
+	The gui can block things if I check for a currentSelectedObject
+	put stuff (cubes) with physics in cage
+	
+	
+	
+	

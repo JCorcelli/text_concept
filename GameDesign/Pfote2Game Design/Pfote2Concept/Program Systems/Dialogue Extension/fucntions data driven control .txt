@@ -1,0 +1,46 @@
+
+This is an alternative to finite state machine control. One that is data driven.
+
+ JUST WRITE, AND I WILL PARSE IT LATER, THEN I WILL WRITE THE METHODS
+
+
+WHAT I WANT HERE
+
+important: the parser should handle logic per frame. This would be spur of the moment, only.
+
+control statements: escaped, or not escaped?
+	these are basically extreme mutators. They would be escaped in memory, or they'd be chaos.
+	
+	
+	{if {condition} {then} {else}} 
+	
+	{while {condition} {dothis}} hmm...
+	{repeat 10 "booyah "} filter not equalling stored text because it's not information.
+	
+knowledge use - having a string at cached memory
+	
+	{if {cache subject} yes I remember}
+	
+variable use - having a variable opinion of subject
+	{if {opinions var} {Opine var}}
+	
+var assignment - taking info over current info
+	{if {thinking} {ReplaceRecent green red}}
+	
+	string operation
+	
+	string interpretation (as state)
+	
+
+I could use memory references.
+
+	people's first names
+	""
+	Jess
+	Jack
+	Mark
+	""
+
+
+	{if Jack in people's first names yes I know Jack}
+

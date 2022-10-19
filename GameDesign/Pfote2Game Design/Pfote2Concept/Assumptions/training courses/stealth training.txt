@@ -1,0 +1,40 @@
+hiding spot (A)
+	going inside things - visible
+	
+	e - quick hide
+	initiative Bun > A - dive
+	
+	
+	
+	swap (hidden movement)
+	intiative A(Bun) > B - swap
+	signal > B - swap in range
+	
+shadow (S)
+	darkness blends
+
+	
+	hidden dive
+	Sa > Sb - hidden dive
+	S > Cover - not visible until cover is searched
+	
+	light dive - diving from cover 
+	
+cover (C)
+	something above you
+	
+	Bun > C - slide under
+	can walk under normally
+	
+	lost cover - looking directly at or moving the cover will lose it
+	
+hidden object (O)
+	hiding in plain sight, near like-objects
+	
+	Bun > O - get close
+	e - blend
+	
+	can't be spotted
+
+suspicion effect
+	# someone will retrieve suspicious bunny, even if they're not mad

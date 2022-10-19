@@ -1,0 +1,73 @@
+### Nodes
+	Movement: Click? Target location, set active
+
+### Actors
+
+Bunny 
+	not interrupted
+	Anywhere
+		Direction Indicator exists: Go To Direction Indicator
+		Bunny is hungry: Look for food
+			& sees food: Go To Food
+			& touching food: Eat
+		Bunny sees food: sniff food
+		Bunny is tired: Look for safty, Go To Safty
+			& (hidden or haven): Nap
+		
+	Visible
+		Pet or Held, Interrupt
+			
+	in cage or under bed
+		Bunny is energetic: Dig
+	
+
+Human
+	not interrupted
+	Anywhere
+		tired: Go To Bed
+		
+		
+		bored: Go To Bunny
+		touching bunny: Hold Bunny
+		Time of day: Hold Carrot out to Bunny
+	
+	In bed
+		bored: Reach to Bunny
+		touching bunny: Pet Bunny
+	
+	Near cage
+		Time of day for hay: Use Hay on Cage
+		Time of day to wake up: Use Cage Door, open
+		Time of day to sleep: Use Cage Door, close
+
+
+Hay
+Carrot
+
+
+### Stations
+	
+	in Cage
+		Register Food
+		Register Bunny
+			Supply Food to Bunny
+	Cage Door
+		Change Open State
+
+	Bed
+		Register Human
+		
+		
+	Beneath Bed
+		Register Bunny
+
+	Computer Desk
+		Register Human
+
+	TV
+	Lights
+
+	
+	Tile
+		Change Target Location
+		Change Bunny Hidden

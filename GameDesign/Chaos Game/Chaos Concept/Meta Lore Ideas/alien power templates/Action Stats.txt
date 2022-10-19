@@ -1,0 +1,404 @@
+action stats.txt
+closer to pseudo than "training.txt"
+
+The basic actions that each type uses to accomplish tasks can be described in few words.
+
+Techo
+	
+	They basically invent the items.
+	To use items you didn't make, train.
+	
+	1	Use item adv.
+		A basic action that implies an adequate motor coordination and understanding.
+		
+		Advanced! Simple deduction and (suvived) tests quickly enable new item use.
+		
+		Misuse item
+		Jumbled, misunderstood item? Outright abusing a device has results.
+	
+	Relevence: Only a techofile should attempt to hack or steal from a techofile.
+	
+	2	craft
+		A basic action taken with open hand, tool, at a location, and with appropriate materials.  The result is an item.
+		
+	3	sabotage (break)
+		mess up an item, its future use will have different results.
+		
+	4	train (knowledge)
+		very quickly enables production and item use, may involve info sharing and observation.
+		
+	5	compute
+		trained algorithms can be recalled with the outcome, if you have the variables
+	
+	6	deep thought
+		add cipher to items, makes them unusable unless they're deciphered or trained with enough
+	
+	7	harvest
+		get materials from underdeveloped planets
+		
+		Relevance: a conquered planet is completely automatic
+	
+Muto
+	
+	1	Early warrior
+		At the start of life this alien can fight without fear
+		
+	2	Inherit
+		At start of life you gain most if not all skills passed down. (Can also eat a dead parent to claim lost skill)
+		
+	3	Engrave self
+		Same powers of a talisman, permanently etched down to the bones.
+		
+	4	Gene manip (forge)
+		craft genes and alter physical form
+		
+		craft - premake injections with organic material and some basic research (eating things usually)
+		
+		self - alter your own physical form (not genes), can easily add wielded items
+		
+		other - alter something else's genes & physical form
+		
+	5	Gene storage
+		physical stature and power can be augmented with large amounts of genetic material, but it is a trade-off.
+		
+	Homunculus skills
+		its original alien abilities
+		
+		slaved - can only do things you can tell it to do (strong is better)
+		
+		mission mode - will perform a task with every ability, even some you don't know about
+		
+		random - can have random skills it's often a non-existent alien
+		
+		alien imitators -
+			become imitation form
+			become original form
+			optional stealth skills
+		
+		adept - augments abilities of the original alien copy
+		
+		adv. adept - combine dna with an augmented clone for different results
+	
+Warmonger
+	1	Early warrior
+	2	inherit
+	3	engrave self
+	
+	4	Rage
+		Willingly harming self for great power
+	
+	5	Death options
+		# do or die
+		# kill x
+		# capture x
+		# harvest x
+		# never be caught by x
+		# etc
+		
+		or die
+		
+entertain
+	1	laugh
+		raise the spirit of another enter, or maybe annoy them
+		
+	2	muse (flaw)
+		gain experience by learning, can also be replaced by fad
+		
+	3	spirit journey
+		gain spirit
+	
+	4	examine
+		observe a target
+		
+	5	imitate
+		copy the flaw of another enter
+	
+	6	enter detach
+		become a detach
+		
+	7	enter selfish
+		become a selfish
+	8	tell story (entertain)
+		
+	Detach (adventure)
+		1 examine
+		2 learn
+		3 tell story (mnemonic lesson)
+		
+	Selfish
+		1 examine
+		2 fight (criticize)
+		3 ostracize (kill)
+		4 tell story (about death and symbols)
+	
+lago
+
+	1	pray
+		Generate spirit. Opens themselves up as a godly channel or vessel.
+	
+	2	teach
+		Transmit knowledge directly to a participant learner with language.
+	
+	3	lore - alien culture
+		Learn about aliens in the most intimate way, their history (actions), stories, and symbols.
+		
+	
+	4	symbol Craft adv.
+		Create and imbue various symbols. Adv- Symbols grant power regardless of deity power.
+	
+	5	xeno-research - science
+		Study alien biology, technology, and behavior indirectly.
+	
+	
+	6	interpret 
+		{Weapon, Medicine, Document, etc}, rather than immediately detecting a threat they will interpret alien actions.
+		
+		Relevance: looking for every opportunity to make diplomatic relations invites trouble.
+	
+	Symbiotic Actions
+		with lore - 
+			spirit is granted
+			magic is granted
+			
+		diplomacy
+			capable of learning what aliens want, and grant it for missions
+	defile
+		symbolic power
+	
+	godly
+		contact alien deity
+	
+Elemental
+	1	level up
+		basic action granted for training with physical skills. Allows for greater power.
+	
+	2	channel power
+		regain lost power from surroundings
+		
+	3	use skill
+		Use physical skills. Physical skills may involve balls of energy, lightning arcs, or breathing fire.
+	
+	4	adapt
+		change elemental attunement through exposure to a dangerous environment
+	
+	Evolutions (adv actions), lose adapt skill
+	
+	Kinetic actions
+		1	spar
+			playfight with another, involves extremely fast movement and parkour. Without a spar partner you can only do time trials.
+			
+		2	kinetic (replace skill)
+			energy becomes physical forces like push/pull, ramming, and extreme speed maneuvers
+	
+	Exceed actions
+		1	store energy
+			overcharge, increase the impact of your powerful skill
+			
+		2	disperse energy
+			release all overcharge
+		
+		3	powerful skill
+			relies on stored energy and dispersal to make all skills extra powerful
+			
+	M-tap
+		1	detect magic source
+			
+		2	magical skill
+			Magic can be used if skill is trained and collected. 
+			
+			Resembles the casting of many different element types.
+		
+			godly powers can be used if autonomy is granted by a deity (uses a portion of the god's powers).
+		
+		
+		
+	
+solo
+	Just as capable as origin species.
+	
+adventurer
+	many if not all aliens may opt-in to be an adventurer. They are limited by some hidden stats.
+
+	Learn!
+		Acquire a non-advanced version of most actions. Can't learn abnormal alien abilities.
+	
+		eg Use Item
+			use items and weapons at or below your techo equivalence skill and training.
+		
+		
+	
+steampunk
+	
+	
+enslaved (temp)
+	no adventurer
+	
+	1	Forced Skills
+		any skill known to the slavers can be forced on this alien, requires a training session.
+	
+	2	Forced interpretation
+		an anti-diplomacy skill
+		
+		makes every occurence be interpreted as good or bad
+		
+		make even the most dangerous item desirable, safe, or edible
+	
+inverse chattle (temp)
+	
+	knowledge granted by gods, or stupidity
+	
+	1	Forced Skills
+	2	Forced interpretation
+	3	Offering
+		matter and life can be converted directly to spirit energy. A little reminder that your life is for the lord.
+		
+ABNORMAL
+en (cat.)
+
+Mimicry (en macro game)
+	Actions are dependent of the verse origin.
+	
+	
+	Example of a shop Mimic
+	1	Convert
+		Change any shop into this type of shop
+		
+	2	Build mode 
+		Change the shop's appearance, build a shop at available location
+	3	Enable
+		Open the shop for visitors
+	4	Owner present
+		Owner appears to be available. May create an imitation of the owner (npc).
+	5	Capture
+		Prevent occupant from leaving. Occupants are turned to slaves if they agree.
+	6	Devour
+		Occupants are replaced with npc if they're dead.
+	
+	7	Mission mode
+		Slave chars are given a basic mission
+		
+Creep (en essence material game)
+	
+	Over time nearby land turns into this essence matter. May convert or kill life depending on type of creep.
+	1	Upgrade (cost points)
+		Change between creep type
+		Add functionality
+		
+	2	Convert
+		Convert or devour any selected object over time
+	
+	3	Build
+		Make a supporting structure, based on game type
+		
+	4	Attack
+		Destroy target
+	
+Versery (en micro game)
+	Some basic actions rely on verse origin
+	
+	
+	1	Build * 
+		assume a character with verse build options. * may not apply if build is disabled
+	
+	2	Copy
+		assume an avatar to
+		Duplicate this verse
+	
+	3	Capture
+		Take over another verse (resembles someone stealing it)
+		
+	4	Convert
+		Invade a nearby verse, transform into this type of verse and take it over.
+		
+Microdominion (en blood game)
+	en types in blood, causes zombies
+	
+In-Verse (cat. untiered)
+
+	1	Base building
+	has a sub (helper alien race)
+	2	Commanding NPC
+	3	Define Missions for sub
+	4	Observe dimensionally
+		Moving outside of an avatar form so you can pass through dimensions
+	
+Deus ex machina
+	See robot or VR actions
+	
+Planetary
+	1	Become maker
+		Found an alien race (sub)
+		
+	2	Build
+		Base building on self landmass
+		
+	3	Place landmark
+		Generate a landmark and put it somewhere
+	
+	4	free space travel
+		move self without cost in space
+		
+	5	devour
+		consume the matter of a dead planet or star
+	6	Mission
+		Control sub npcs, generate a mission for sub pcs
+		
+Starly
+	1	Become maker
+		Found an alien race (sub) at avatar's location
+			a  spawn on star, starts elementals as exceed that can't go far
+			b  spawn in space, starts elementals as avatars
+			c  spawn on planet, starts elementals with an M-Tap leader, but future elementals start plain
+		
+	2	Toggle M-Tap empowerment on/off
+	3	Spread
+		Creates material essence pool at avatar location
+	4	Place landmark at avatar location
+	5	Become/recall avatar
+		Avatars can possess and be destroyed
+	
+	6	Mission
+		Control sub npcs, generate a mission for sub pcs
+	
+
+Material Essence
+	1	become maker
+		Generates an animal or alien that will feed off it
+	2	spread
+		Imbue nearby land, animals, idols
+	3	inhabit animal (strictly npc)
+		Animal becomes free avatar of essence
+		
+		some optional godly abilities
+	
+	
+Incorporeal Essence
+	May use godly powers near any sanctified symbols
+	
+	Basic
+	1	incarnate avatar
+		avatar has a selective action to behave godly 
+		
+		can sanctify others
+		
+	2	contact other deity
+		it's not always a good idea, but you can try to combine spirit with another deity
+	3	combine spirit
+		one becomes two gods, but symbols retain individual favor in case spirits disconnect
+	4	Mission
+		Control sub npcs, generate a mission for sub pcs
+	5	Dimension shifting
+	
+	Example: Godly Actions (some abilities shared with godly creatures), always available to avatar
+	1	Build
+		Make a construction
+	2	Reform land
+		Creates a material deposit of some type
+	3	Enrich land
+		Makes all harvest grow incredibly fast
+		
+	4	Invulnerable death
+		Avatar enters a visible energy state on death that can communicate and perform godly actions, but loses its basic alien actions
+	5	Magic
+		Resembles elemental powers, can be used like a scalpel or a hammer
+	

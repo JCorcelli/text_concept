@@ -1,0 +1,21 @@
+Technically. The text is the state. (see  finite memory )
+
+
+function ideas, also see markup magic
+text user assignment
+	
+	{user is Jess}
+	{target is Korna}
+
+I DID IT AGAIN, BUT DO I WANT TO? This is what the parser should check.
+finite state machine (control flow suggestion)
+	{start} - a sandbox variable mode
+	
+	set {user volume 12} psst psst psst
+	{end} - reverts
+	
+x	{set 1 {user volume}} - this totally uses a variable {1}
+	{if {user volume} 12} one frame
+	{while {user volume} 12} per frame
+
+is volume even real?

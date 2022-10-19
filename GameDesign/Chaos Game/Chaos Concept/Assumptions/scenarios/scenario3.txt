@@ -1,0 +1,21 @@
+set up house
+set up resarch (sc 2)
+
+You've entered the golden era of your race. Conquer the planet with your secret power. (eg uproot all organic matter and convert it to metal, techofile)
+
+goal: racial power
+
+objective 1: discover secret power (various)
+objective 2: discover verse
+
+objective 3: 
+	observe and alter a microverse, for science. Godhood. Sandbox style.
+		sub: employ
+		sub: enslave
+		sub: build
+		sub: modularize
+		sub: destroy
+		
+	enter a macroverse, accidentally or through science (eg dimensional rift or space exploration respectively)
+	
+	discover you live in a microverse

@@ -1,0 +1,14 @@
+I just thought, having the entire game play at a certain difficulty, similar to the license grade in racing game "Kartridier tm", would be the right way.
+
+New players may want a short tutorial, and when it's evident that they can't compete in all out battles they'd give up.
+
+I start a rank F puzzle game, and the puzzles are easily done through following tutorialish steps. A rank E puzzle game would be similar. Speed becomes important, and there's a slight dip in the points gained by win or losing.  
+
+Next part rank D introduces a fairly important mechanic, which is never used but doubles the earnings for success, invalidating E and F ranks.
+
+Finally, arriving at rank A and S, it's difficult and assumed you master every previous mechanic, so it's impossible to even accidentally finish without them. The points earned could be doubled, but only first place would be worth it, making it only profitable to the best, but always worth trying.
+
+
+Reality scenario
+
+In practice, an action based game could perform like a puzzle game. If speed can trump technique, the fastest beginner wins every rank E. If grounded technique is necessary in rank A, people who rank up will lose out only if they stop.

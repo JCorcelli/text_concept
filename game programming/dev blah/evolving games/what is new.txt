@@ -1,0 +1,47 @@
+I'd like to coin "empirical cloud games," and "ethereal cloud games" as synonyms for "games that evolve from player input." The reason I choose these two phrases is self-evident, plain English.
+
+The games are separate from the system required. In previous and future entries I will need to refer to them both quickly. I will refer to "concept" without specifying often in future and past entries and this may make it a little harder to read, I apologize. Please understand that empirical cloud games can't truly exist without the system, and the system won't function properly without the games, they are separate and reliant, there is a symbiotic relation forming this concept.
+
+I sat down to start reading about human computation games for the time I usually would have typed earlier in the morning. I found a very interesting research paper.* I encourage you to read it if you have any interest in Human Computation games. I may have a cooling off period while I familiarize myself more, by playing them, and determining if any are actually fun (for me). I will be able to differentiate them much easier once I've played. After writing this entry, I will distinguish an important difference.
+
+Here I shall define important differences between existing types of games or other programs and empirical cloud games, games that evolve from player input. I will also talk about the system that is required, and compare it with reality. I would attempt to compare the system with any other applied programs to establish a difference, but I'm lacking a reference, a robot comparison or any one collaborative knowledge database is not nearly close enough, other than as an example about how people interact with it and how complicated the algorithms would be.
+
+
+Comparisons regarding an Empirical Cloud Game
+
+GWAP
+Games with a purpose (GWAP), human-based computation games are very similar to empirical cloud games. They also serve my purpose as a proof of concept why players will participate playing, and the importance of letting them.
+
+Human based computation games require players to input very specific data, new content must be tailored for the purpose. This heightens the speed of research gained, but it denies freeform from the gameplay. The purpose and game content is limited to the researcher's needs.
+
+Empirical cloud games take advantage of users creating content while playing. In turn, the games are unpredictable and allow human-level evaluation of both actions and storytelling. the content is flexible, allowing player creativity. The games themselves would not all be programmed with a purpose other than entertainment.
+
+
+Comparisons Regarding the System that will allow Emulation of a Human GM (game master)
+
+REAL WORLD
+Real world game design is my comparison to the system. Both the system and spoken word require storytelling. Games teach the players to perform and improve skills required to be better at the game, and these skills may apply to reality. Concepts evolve over time and new innovations emerge which improves the enjoyability and the effectiveness of the original games.
+
+Someone writing a story about cats that live on the moon would get a very limited opinion about whether it works realistically or as an amusing concept from reading it to different people one at a time, or even to a crowd of people. Either way, only one opinion is available at a time. On a forum, a slightly better range of responses and comments is expected as each individual has a chance to voice as much as they like.
+
+If the system is submitted a story or paragraph about cats that live on the moon, it delivers an educated response based on any references it has. Over time the story is reviewed by every user who encounters it while they play games, reading cat/moon stories that the system connected, users make comments and revisions to any passages they encountered. The story is rewritten to an extent, the rewrites that do not match old content are in turn evaluated. The submitter reads and uses the new information to suit their own needs.
+
+HUMAN OBJECTIVITY
+In the real world opinions strongly depend on a greater range of senses other than logic, social standing easily holds as much influence as validity in an argument.
+In either world, no one's guaranteed to recognize opinions objectively.
+From the system's point of view everyone's submission is equal, and you don't necessarily need to know who you're reading from.
+
+PROTECTION of GOOD and from the BAD
+The outlying good (useful) and bad (confusing, enraging) elements are more likely to attract attention.
+
+If a story about cats is representative of a good story many people like to hear, they are more likely to listen and give a response, which in turn may result in the story being retold to them again.
+This allows the system to recognize the response as an indication of specific user interest in cats, and many different but similar stories are more likely to be suggested. The story will be rated higher and occur more often.
+
+If a story about dog poo is representative of a bad story very few people like to hear, they are more likely to ignore it and anything very similar will not reach them. If a specific author is coercing the system somehow they'd quickly be blocked and unheard from by a majority, but they'll continue to be as creative as they like and other people who want to hear it will rate it highly.
+
+If some content is not making sense, it will remain unrated, or it is rated low enough it is very rarely suggested or displayed until it gets revised.
+
+In the real world, a person isn't guaranteed to go away and the legal and civil solution to disputes against human annoyances is blocking yourself in away from the source, a self-restricting policy.
+
+* Frontiers of a Paradigm - Exploring Human Computation with Digital Games by Krause et al,
+http://dm.tzi.de/fileadmin/user_upload/AG-DM/03_research/02_human_computation/OnToGalaxy.pdf

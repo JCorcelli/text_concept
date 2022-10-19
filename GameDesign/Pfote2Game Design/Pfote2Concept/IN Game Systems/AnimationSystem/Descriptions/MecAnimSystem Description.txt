@@ -1,0 +1,8 @@
+uses Mecanim in Unity
+
+layers control a model skeleton, they can override or add a mask on other layers
+layers contain states
+each state is like a video clip
+	transitions between states
+
+a tree can have sub-trees (same layer)

@@ -1,0 +1,34 @@
+title, description
+
+hop
+	"thump thump" occurs when feet slap the floor
+	option: HARD surfaces increases volume
+	"tick tick" long claws change sound
+	"shuffle" occurs when feet touch a soft substance
+
+thump: ref. hop
+
+eat
+	"crunch" first bite
+	"chew" in mouth
+
+drink
+	"slurp" lapping water
+	"plunk" face in water
+	
+grooming
+	"shhik" moving paws on face
+	"voom" itching ear with hind leg
+
+laugh
+	???
+
+purr
+	a bunny's tooth purr
+	
+grunt
+
+digging
+	wood scratching noise
+	
+SPECIAL context

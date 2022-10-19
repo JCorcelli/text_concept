@@ -1,0 +1,185 @@
+flavor text?
+
+Techo
+	1  train
+		action allows reading and observation to learn other discovered skills.
+		
+	
+	2  tech combat
+		simulated, weaponry is high powered and technical, often remote
+	
+	
+	3  covert (deep thought)
+		simulated and real. some info can be advantageous.
+		
+		recognizing info and locating targets for one example. Can involve dissembling and dissemination of information.
+	
+	
+	4  use item
+		practice enables more items to be easily used
+	5  craft 
+		memorize which items you want to use, can be augmented by an assembly line
+		
+	6  sabotage (tinker)
+		practice tweaking items for sometimes explosive results
+	7  compute
+		practice, what variables are important to predict the future?
+		
+	8  verse building
+		depends on verse. Can greatly influence locations and methods of training.
+	
+	9  dissemination
+		manufacture and spreading of information. Actions disseminate info automatically. 
+		
+		Dissembling and disseminating useless info is the only way to prevent someone from finding your secrets.
+	
+muto
+	1  mixed combat
+		due to incredible strength they rely on direct hand to hand combat for muscle enhancement
+		
+		gains experience, also a given for gene storage
+		
+		can become technical and incredibly powerful with gene powers and adventure knowledge
+	
+	2  faction combat
+		faction pvp combat missions take place (sub-race competition)
+	
+	3  gene manip craft
+		long-term practice can result in valuable gene assets
+	
+	4  Homunculus
+		Depends on what you get
+
+Warmonger
+	1	Live combat
+		It's a do or die kind of life
+	2	Deathmatch
+	3	Endurance
+	4	Gauntlet
+	
+Entertain
+	complicated rules...
+	
+	1	mingling
+		practice talking, laughing, and imitating flaws
+	
+	2	examine testing
+	
+	3	enacting flaw
+		practice!
+		flaws may be entertaining, stupid fads, or hazardous for everyone.
+	
+	4	imitation
+		can be manually done or easily done with the imitate command. to become detached and not appear aloof some practice is necessary
+	
+	5	world-view
+		when detached or selfish,  a world view is the first step in your dark future
+
+	6	storytelling
+		learning stories will make your told stories all the more entertaining
+		
+	7	fighting
+		can be covert, opportunistic, brutal, mobs can be assholes and join in faction based fights
+		
+	8	demagoguery
+		through storytelling and imagination new world views and obsession with greater powers awaits the listener
+		
+	9	zealot
+		following a pretend god is just as likely to get you killed as following a cult
+		
+lago
+	1	penance
+		a physical endurance training
+	2	teach
+		practice?
+	3	lore
+		try not to get killed but manipulate lore and disseminate it to spread your faith
+	
+	4	symbols
+		rng
+		even great symbols can become corrupt, or a strong god (who doesn't like you) will be summoned on creation
+	
+	5	alien races
+		can become incredibly complicated in the future
+	6	interpret
+		while this replaces most aliens' innate instincts towards friend and foe. This can also put you in sticky situations if you don't recognize a covert enemy.
+	7	diplomacy
+		a little safer than lore because you don't get direct with alien beliefs
+		
+	8	combat
+		physical combat may be highly technical and improve fitness. Or apply to hand to hand street fights. 
+		Does not apply to alien combat or war unless extremely sketchy situations occur.
+
+elemental
+
+	1	level up (rpg mechanics)
+		gain experience for repeatedly using abilities, may involve hurting things
+	2	environment knowledge
+		better use of adapt and channeling
+	
+		look around, learn and memorize good environments
+	3	skill use
+		practice
+		
+	
+solo
+	mixed, can imitate many basic actions, some advanced actions, and is potentially inverse
+	
+adventurer
+	
+	mixed, may involve permachange, losing origin actions, can imitate almost every race's basic action
+	
+	eg convert to a cyborg, physical damage, mental damage
+	
+steampunk
+	
+
+enslaved
+	the leader may invoke live pvp, war, or training at will. But generally training consists of work and targeted advertisement.
+	
+	1	working
+		back breaking work, greatly reduces skill acquisition opportunities
+	
+	2	forced schooling
+		learning various ways to think
+		a  you believe what leader believes
+		b  what skills are available to you
+		
+		
+	
+inverse chattle
+	
+	no change in ordinary practice
+	
+	training usually will include spiritual boons for
+	1	symbol carving
+	2	gathering to fortify more landmass
+	3	penance
+	4	worship
+
+ABNORMAL
+	everything's there at the start, practice makes perfect
+	
+	listing abnormal aliens and some flavor text for posterity
+
+en (cat.)
+	Mimicry
+		Try to be or sell something that attracts victims
+	Creep
+		don't die
+	Versery
+		espionage and stealthy actions will help a take over without anyone noticing
+	Microdominion
+		even dead people can be discreet, so when the zombie blood takes over don't groan and ask for brains
+
+In-verse (cat.)
+	Deus ex machina
+		just try out everything machines can do, trying to bust a move and not get defragged
+	Planetary
+		founds an alien race and pretends to be a floating rock in space that instantly builds into a neat civilization, maybe take a nibble off its moon, not so fast there, you get caught
+	Starly
+		not being suspicious overlord of an entire star system is impossible, overpower the little people 
+	Material Essence
+		try not to taste good
+	Incorporeal Essence
+		it's an all out territory battle royal

@@ -1,0 +1,29 @@
+DIALOGUE data sets
+
+
+person
+	name
+	
+	<LISTS>
+	skills - make actions available
+	availtopics - statements like "do you like [topic]"
+	knowlocation
+	knowperson
+	
+location
+	
+	
+BIG DATA SETS
+current game state
+	logical set of variables for "now"
+	
+ JUST WRITE, AND I WILL PARSE IT LATER, THEN I WILL WRITE THE METHODS
+ 
+god game state
+	set of variables to enable everything
+	
+list saved game sates
+maybe list memory game states
+	set of variables to reflect a memory
+	include a spoof variable
+	include alterations to real variables

@@ -1,0 +1,6 @@
+Actor	
+	performs actions
+Action	
+	granular description of an actor's behavior
+Routine	
+	modular behavior comprised of actions

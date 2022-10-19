@@ -1,0 +1,115 @@
+Let's look ahead now to once the system has been developed up to the point a team must recognize they lack manpower. The system would exist, but what comes next?
+
+It seems natural, someone would program the first empirical cloud game. Although this game may be  a chat with the system. It may have the simplest imaginable rules. Maybe the system will manage to break the rules in a single move.
+
+THE NEWLY FORMED SYSTEM
+
+It is tabula rasa. It is a big incomplete system with an apparent human side, a preprogrammed understanding of communication, unconnected peripheral database nodes, and empty content database. This makes it similar to a new born human brain and many untapped senses.
+
+From there it is possible to rapidly save stories, rules, and as much premade content data as you like to the content database. If the database were a human brain, uploaded data would be instantaneous observations lacking context. The purpose for all of this observation needs to be brought into every single applicable context, not just one.
+
+As a rule, this is too much information for one person to account for, therefor the useful observations that may be uploaded to the system by a team of experts will be incredibly limited to specific views and context that are possible to gain through trial and error.
+
+At this point it's time to let the system grow another way.
+_________
+What I am writing is an excellent example. I made an observation in 30 minutes that has taken over 14 hours to bring into context. I understand that one observation on too many levels to account for now, so I focus on relating it to one thing before putting it to bed, game development.
+_________
+
+Just a quick recount.
+
+Once the human GM emulation system can be understood and built, it follows reason that it will reach the point in its development where a large group of experts is inadequate for rapid development. This point in development, lacking experts, is one of the bases of the system's creation. Collaboration with a community is the key to raising it in these stages.
+
+For this system, regardless of who develops it, the first generation of games that evolve from player input will be a necessity. Or else the system will grow so slowly from just a team of experts that by the time it meets every expectation I considered, technology and humans would have advanced to the point the expectations changed; the system may have been surpassed in different unpredictable ways; or the funding and manpower behind its development became insufficient. This is a very long time indeed.
+_________
+I suggest not to entertain the idea it could be developed in secret.
+_________
+
+
+
+THE FIRST GENERATION - BEGINNING
+
+It is my belief that the first generation of empirical cloud games are now just out of reach to stand alone programmers. Why? Because the system would need to be reproduced for every single stand alone game. The growth of the stand alone intelligence would be limited to just one game's rules, and the few people who used it. It would always reproduce the experience of that game and never show creativity.
+
+The first generation of empirical cloud games are likely to be programmed by the system's developers, as a means to an end. As I mentioned; stories, rules, and premade content can be uploaded, but the purpose of so much content in every context imaginable would take too long to program.
+
+
+CAUSE AND EFFECT
+
+Of course, more and more can be told through mathematical representations, formulas, and endless specific examples from history and literature. One step outside of this bubble of useful information and it suddenly has no meaning, I bet this reminds some people of school, that would be right.
+
+Along with many observations in the form of uploaded data, the new system will need to begin experimentation and grow from it. Or else it ends up in this meaningless contextless world every time it is allowed to try something new.
+
+Empirical cloud games are likely to begin by practicing telling stories. Games described literally are the easiest examples open for experimentation because text is so easy to manipulate. Graphical games would have to be interpreted, which means more information reaches the player than the system is able to control, and the player is no longer conversing with the system.
+
+If a player responded to the system, then the system would learn the effect its own actions caused. Observations alone would create more data, but the data should always have a place to be tested.
+
+Players immersed in a story will take actions that seem relevant to them. It can be said the story caused their actions. The result is a chain of cause, cause, and cause. For every cause there is an effect, even if that effect is also another cause.
+
+Before the system has matured from the first generation, while it is learning cause and effect, it will be able display an understanding of how to use words and reproduce and create stories as a response to players or commands given to it. To reproduce a story well without duplicating it directly, you'd need to understand every cause and effect, not only its contents.
+
+
+
+
+THE FIRST GENERATION - INTERMEDIATE PROGRESS
+The system understands some cause and effect and is full of text content. At this point in its development, I expect some of the following would be true:
+it would emulate a GM properly in common situations
+it has the ability to remain conversational at all times
+it has the ability to explain why, when asked about some effects in cause and effect
+it can recreate text games with rule restrictions from the null and void to absolute, depending on how restrictive the game environment requires
+it recognizes some similarities between scenarios based on context
+it frequently mistakes new scenarios as 'similar' based on repeated content
+it recognizes all duplicates of its content
+it understands exact copies
+it is able to produce its own unique stories through amalgamation of content so it would be dissimilar to any one story
+it cannot produce or properly use brand new content (eg. it won't make new words without understanding them, and it won't understand meaningless words), but it may store it for experimentation.
+
+At this point the power of the system may be recognizable, but it still won't meet enough expectations. After a while though, 'some' becomes 'all but the rarest' and it will begin predicting all but the least common player actions to the extent it can emulate a GM and the many roles. ( See 'What is the Human GM Emulation System?' to understand this more. )
+
+
+
+
+THE FIRST GENERATION - NEAR ITS END
+
+When something happens while telling a story, people may become intrigued and make revisions. There is an understood flexibility in the rules of the story, and we'll make our own adaptations. After the first generation is matured there is a already a system that understands these things.
+
+The system should be able to do it all, with only rare mistakes, almost as though it were a human.
+
+
+STORYTELLING
+A story would be definable with a few key elements, anyone who can define required content has this power, and then the story is randomly amalgamated.
+
+REVISION
+A story on file would be easily revised per individual taste. If someone stops reading and points out a part they want changed. This would be possible.
+
+GM'ing
+A set of rules is all that's necessary and the system will be able to monitor, guide, and display an entire game in text.
+
+ALMOST TOTAL FLEXIBILITY
+The players will play a game and their actions will allow the system more growth, as well as more content if a player attempts something new, in turn the games are altered and improve. Special users may log a 'what if' and see what impact it has on a game when the system is able to predict it. Fully fledged developers will be able to think of completely new ideas.
+
+This system fully supports the concept of empirical cloud games. Granted, at this point it only learned from text games, so its understanding of mainstream games (as we see them at the time of my writing this) is limited to tropes.
+
+SEEDED GAMES
+
+This is more likely to be a text game (or an interactive story generator) than anything else. But the possibilities as endless.
+
+This concept is similar to drawing an animation. Game designers will be able to provide key elements and some related content. They may define rules and the importance of each rule. They may force specific events to occur in an exact order. They can specify an effect no matter how improbable will occur if something were to happen. Then the in-between can be filled.
+
+The system will be able to produce this with little effort on the designer's part because it is able to fill in all gaps with random content while the player is playing the highly flexible randomly seeded game/story.
+
+
+
+
+END OF THE FIRST GENERATION - PLANNED GAMES
+
+Enough obscurity between text games and graphical games remains that the system won't be able to directly translate between words and graphics. Clearly, there is an untapped market which no system is able to reproduce wink wink.
+
+The least common puzzle games, tropes, phrases, etc. are likely to remain ambiguous namesakes in the system's content database. At least until someone makes the reference and someone else explains it (Now picture the emulated GM nodding his head. He won't forget.).
+
+This is the opening scene for the second generation of games, which I won't go into detail about right now.
+
+A game full of its own unique graphical content is still hard to produce. These games may take advantage of all the capabilities of the system and at the same time require restricting its control to the point it learns slower.
+
+There are numerous things that developers will want to be paid for: Unique content the system isn't allowed to copy, hacks (such as highly irregular seeded games), unique GM controls per-game would be more difficult than simple text, and newly designed pipes between the system and player's content input to allow the system the sought for understanding.
+
+More on this later in the second generation, when the system finally begins working with mainstream games.

@@ -1,0 +1,35 @@
+FACTORY (GENERIC)
+
+owner could be at an assembly line
+
+FOOD
+refrigerator - people's lunch at work
+
+MACHINES
+driving machinery lifting / dropping
+	
+	
+JOBS
+	boxing
+	unboxing
+	
+	
+	conveyor belt, assembly
+	QA
+	manager, computer and people
+	
+	cargo driver
+	cargo hauler
+	
+	stock manager
+	
+	customer service
+	janitor
+	
+HAZARD ENGINEER
+HAZARDS
+heat sources
+	oven
+	furnace
+water
+crushing

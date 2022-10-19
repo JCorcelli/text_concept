@@ -1,0 +1,14 @@
+MOVEMENT - SIMPLE
+Here you can walk, run, and jump.
+
+You can do a basic jump many ways, your choice.
+shift, click - a normal jump
+
+mouse then shift - the run and jump, simple and a good vertical dodge to jump over things
+
+space and...
+drag release - dive and dash
+shift, click - slingshot a little farther than a normal jump
+
+
+I keep telling myself jumping is not the most interesting mechanic.  Ultimately, it's fun, and just as important to the story as breathing.

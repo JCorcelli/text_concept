@@ -1,0 +1,65 @@
+Deprecated. UI program.text has a better description.
+
+
+Library
+	Static class	
+	e.g. JerriActions
+		say_bunny = "Jerri.SayBunny"
+		string[] say_bunny[,etc.]
+	
+Manager instance, instance might change ?
+
+Context.Jerri
+	Physical/Animator
+		effect hub
+			effect
+			
+			
+Context.Bunny
+	Bunny.Snapshot
+		Animator/Rigidbody/Navmesh/Routine
+			Mesh
+				Main
+				Shader1
+				Shader2
+			Targets
+				Rigid Colliders
+				Hooks
+				Relays
+			
+		Logical
+			Colliders
+			Listeners
+			Calculators
+		Spawn
+	.
+	Seconds.BunnyLogic
+	Bunny.Deprecated
+				
+		
+hub group/trigger
+	logic
+		listeners
+		listeners
+		listeners
+			other logic / listeners
+send (looking for anything named "target")
+	
+targets
+	"target"
+	not_target
+
+		
+Script
+send-receive pairs won't require an "effect"
+instead of a "receive" I can just set location.
+
+specific string variable
+string literal misspellings will be seen by complier. A static variable for example.
+
+
+parents are easy to find. 
+	I can transmit a message to the parent
+	have listeners in the group.
+
+A folder hierarchy where related assets are close together, but still logically sorted by folder.

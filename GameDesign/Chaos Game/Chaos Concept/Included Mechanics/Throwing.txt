@@ -1,0 +1,15 @@
+A "throw" effect which uses physics
+
+problem: 
+	auto-moves to true target
+	solu; break the movement and set the true target point when it ends
+	
+alternate mechanics abound:
+	higher climbing
+	walking on walls
+	gravity shifting
+	flying
+	teleporters
+	jump/ super far jumping
+	fast travel (on-rail)
+	smashing the player with BIG THINGS will also incur physical throwing

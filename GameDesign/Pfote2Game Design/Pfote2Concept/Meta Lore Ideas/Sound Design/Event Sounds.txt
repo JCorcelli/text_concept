@@ -1,0 +1,29 @@
+(less complex)
+simple
+complex
+jingle
+chorus
+music
+(more complex)
+
+Start of Scenes
+	
+	Menu
+	Continue
+	scene
+
+Daily Routine
+	Start of day
+	Time to eat
+	Free roaming time
+	End of day
+
+Script Actions
+	bunny emote
+	
+	story noises
+	musical scores
+	ambiance
+	menu clicks
+	player clicks
+	boundary-check

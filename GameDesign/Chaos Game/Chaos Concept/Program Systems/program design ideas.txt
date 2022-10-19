@@ -1,0 +1,35 @@
+UI
+	optimizing menu ideas
+		/ icon instead of text opens more space
+		borders direct eye
+		open in the front
+		optional compact
+		
+	styling UI decorative 
+		backgrounds
+		animate delays
+
+PROGRAMMING
+using the new oo programming school of thought
+
+
+OO Dynamic Communication 
+
+Hub
+	send/receiver A
+	
+	decorator
+		decorator
+			send/receiver B
+	
+A needs to communicate with B, the parent has a Hub which they both recognize and communicate in 
+	c# they each subscribe to a delegate when active, and unsubscribe when inactive
+	in other languages they may call a method which utilizes a list
+	
+Hub class methods
+	delegate onConnect () - int gameObject
+	delegate onMessage () - int int
+	connection() - message, gameobject
+	send() - channel, message
+	
+All that matters is the information is consolidated, it can be made safe, it won't take long to set up.

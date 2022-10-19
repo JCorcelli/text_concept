@@ -1,0 +1,17 @@
+
+
+
+
+name
+age
+location of birth
+identifying marks
+history
+family history
+place of current residence
+past residence (where applicable)
+personality
+acquaintances
+property ownership
+secrets
+appearances

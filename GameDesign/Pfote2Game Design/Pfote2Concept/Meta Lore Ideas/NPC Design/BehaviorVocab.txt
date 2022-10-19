@@ -1,0 +1,20 @@
+
+
+VOCABULARY
+
+many of these components interoperate and coordinate
+
+supplied by Unity
+animator - a visible rendering of all actions in game
+colliders - physical touch detection
+player input - user input component
+rigid body - a simulated physical body in game
+
+custom
+action manager - a system manager to be subscribed to
+actions - enumerated and (hopefully) easily tested list of actions an npc can perform
+
+register - reaction, changes a parameter in actionhandler based on what character is doing
+
+routine - automated checklist design for ai
+ThirdPersonBunny - movement routine for Bunny

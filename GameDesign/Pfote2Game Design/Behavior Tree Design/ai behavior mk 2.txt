@@ -1,0 +1,35 @@
+basic ideas
+1
+a behavior can be turned on / off
+2
+a ruling behavior is run, calling all others, and it can turn them off at will
+
+vocab
+1 behavior - each trunk of a tree is a "behavior"
+2 Action - A sequence of small scripts in quick succession (low response)
+
+vocab, behavior type
+1 Priority - A quick response, variable dependent state. 
+2 Routine - A routine behavior is set to check a timer. 
+3 Activity - A group of actions with an endpoint goal.
+4 Elegance - Actions ready to escape activities.
+
+Really I want it to play like a program.
+I think true to realism would be modulated variable for activity and alertness
+		
+thought delay - idleness
+reaction delay - if something is happening, how long to notice
+action speed multi - base action speed shift, for animations and delays
+ 
+list of activities
+current activity
+
+
+Priorities would be always on, responding to stimuli. Modulating based on activity.
+
+Example: see smoke, you stop all activity and look
+
+Routines play out, and end activities that pass their sentry value.
+
+Actions are played directly.  An action should finish before a new action.
+

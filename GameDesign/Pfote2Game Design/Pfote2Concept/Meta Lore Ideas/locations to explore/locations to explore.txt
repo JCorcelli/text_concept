@@ -1,0 +1,36 @@
+General idea of physical locations.  Reached by your own bunny power.
+
+Level: Second flat
+	livingroom (cage)
+		safe
+		edible plants
+		secrets
+	kitchen
+		annoys kitty
+		trash bin
+		refrigerator
+	hallway
+	bedroom
+	bathroom
+	big closet
+		shortcut
+	lounge room
+		big tv
+	foyer
+		chairs
+		party
+		
+level: First room
+	bedroom
+		bed
+		chair
+		secret cavern
+		
+Level: Yard
+Level: Grove
+Level: Cavern
+Level: Outdoors
+Level N: Portal (fantasy) world? For different furniture
+Level: Magical Dreams
+Level: Imaginings
+Level: Tutorials

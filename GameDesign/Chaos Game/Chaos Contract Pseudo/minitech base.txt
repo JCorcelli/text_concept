@@ -1,0 +1,20 @@
+
+minitech_base : item or action
+
+	inputName = ""
+
+	minitech_whitelist list[]
+		
+	check use(target, tech)
+		if (target.upgrades(tech))
+			return 1
+		return 0
+		
+	check upgrades(tech)
+			return;
+			
+			##if !tech is in minitech_whitelist
+			##	return
+			##	
+			##switch
+			##	do something if it's ""

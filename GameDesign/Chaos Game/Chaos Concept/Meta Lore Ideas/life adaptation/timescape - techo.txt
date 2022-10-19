@@ -1,0 +1,339 @@
+
+
+This unlikely animal (Using a Techo mindset) starts flat on the ground, so its legs are short, but its arms are long like an ape.
+
+wen-nit
+	
+
+	final name
+		""
+			Went(no significant change, they use hand-signs)
+		""
+		
+	skill - 
+		symbol hand
+		pointing
+		handy
+		
+		
+		
+	name - wen-nit
+	
+	faith - sweet, solid, gravity, glimmer (water)
+
+	0.1
+	
+	conflict - animal
+		They're very weak, animals prey on them since they're small.
+		
+	conflict - shadeless
+		Losing shade is instant death due to the presence of some flight predators.
+	
+	0.2
+	conflict - heat
+		This forces a self cooling variant when there's limited water.  They evolve something like metal pocks that act as heat sinks.
+	
+	
+	conflict - boredom
+		Those who dislike repetition tend to die off.
+		
+	resolution - hand games
+		Practicing in hand symbols repetitively was a natural ritual. Imitating other's hands is something of a fun behavior.
+		
+		Recognizing and disliking the repetition, a variant hand ritual is displayed to newcomers.
+		
+		The hand rituals become complex and disparate, the actions having no meaning anymore.
+	
+	culture shift - hand words
+		They work out from ritual and sign out actions, names, warnings. Before now, pointing was heavily relied on to direct eyes, pointing takes on a meaning itself.
+		
+	0.3
+	hand culture - holding things
+		Rather weak, the hands they used to play with were just as good for holding.
+		
+		Holding things became a sort of pride.  A game was difficult to work out.
+		
+	faith change - now they trust hands
+	
+	0.4
+	discovery - glimmers as rare stones can be harvested with some effort
+	
+	the life giving water can be stored for access when animals are gone
+	
+		
+	New artisan - ward
+		Tries to store and hide everything glimmering like water
+	New artisan - hoarder
+		Tries to maintain a stock of valuables. Much of which is edible and as valuable as water.
+		
+	New artisan - stone thrower
+		Throwing stones, and not hitting weak animals scares them off
+	New artisan - stone throw
+		Throwing MANY stones, makes bigger animals scared
+		
+	0.5
+	discovery - natural fires, fire cracker chems
+	
+	refinement - storing chems
+	
+	new artisan - geologist
+		attempt to categorize rocks 
+	
+	holding rare rocks gains high respectability, but there's a tendency for it to get stolen when dropped
+	
+	material theft runs its natural course
+	
+	new artisan - jewel thief
+	
+	0.6
+	new artisan - alchemist
+		Recognizing stones do not contain the natural elements, a different cause is determined
+		
+		The alchemists work trial and error.  The often come to trade terms with wards.
+	
+	culture addition - trade
+	
+	new artisan - jeweler 
+		material forming
+		
+	0.7
+	material refinement is discovered by alchemists in the old age and jealously guarded to raise their standing
+	
+	0.8
+	A resource war breaks out. If they won't share, then we simply take.  That's the mentality of the common Went.
+	
+	affected members - ward, hoarder, jeweler, chemist, geologist; all of which stock their goods in some way.
+	
+	
+	Hand culture rebuttal (from 0.3) - 
+	It's a firm belief that what you hold is yours, but once it touches the ground it's not.  The wards become more competent at hiding their storage, but hoarders lack the technology to store perishable goods.  As a result there are few, but excellent hideouts.
+	
+	A recruitment for those with ambition or less secure hideouts becomes commonplace.
+	
+	0.9
+	Culture - Work
+	A natural barter and trade economy formed.  Going deeper, labor is offered for a price.
+	
+	Some rare material is loaned to workers to hold, in return they all stand unified and help eachother.  This sometimes results in games, manufacturing forts, all kinds of things.  The Ward in charge is no longer at risk and everyone benefits.
+	
+	Culture - Grouping
+	Some aren't happy unless they get the right material so they stick with wards they know.  After socializing they are comfortable around others they recognize.
+	
+	Note: The alien has been around the same area for a long time.  It just hasn't felt natural to migrate.
+	
+	0.10
+	Culture - Mob Rule
+	
+	new artisan - mob organizer
+		Some effort from organizers to gather more people impel a competitive nature.
+	
+	Conflict - Outfighting, mob warfare
+	
+	Various organizations are ambitious and aggressively confront each other.  The result is predictable.  When they are holding something the side holding more wins.  If neither side holds anything a harmless hand game decides the victors. 
+	
+	For some time, this trends, until wards and organizers are victorious.  They are even recognized as winners by joining hands, a symbolic unity.
+	
+	Culture - Government
+	
+		Symbolic leadership
+		
+	Even with the governing powers of Wards and Organizers there are many challengers with their own mobs.
+	
+	0.11
+	
+	Conflict - Outliers
+	With a disenfranchised life, many individuals escape the conflict zones and leave with as much as they can carry.
+	
+	New Artisan - Manufacturer
+		This person has a strong interest in supplying others with baskets, bags, and wheels.
+		
+	new artisan - Munitioneer
+		Using some simple manufactured goods, they devise a way to turn even the simplest rock into deadly ballistics.
+		
+		Still too weak to defeat monsters, inaccurate for small prey, it's deadly against their own kind.
+		
+	new artisan - Tool Ward (Tord)
+		Making the most of manufacturers, they get sharp utensils, try different shapes, and determine the most useful.
+		
+		In combination with alchemists, very influential Tords discover and spread more manufacturing goods.
+		
+		hammer, nail, chisel, knife, etc.
+		
+		needle, thread
+		
+	Culture - Crafting 
+	due to complex hand rituals, crafting rises as a commonplace skill
+	
+	0.12
+	
+	Culture - Art
+	Culture - Literature
+	Some carving and masonry gives fame to chiseling stones.  Like hand rituals, the stone carvings start out as repetitive art, and symbolism, gradually it derives a meaning.
+	
+	Although symbols inherit the world at this time the old ways remain.  The symbols are used to bolster the governing bodies, and locate hidden Wards.
+	
+	0.13
+	
+	Civilization Emerges
+	
+	Lacking much strength and having well organized governments the populace form a defensive perimeter and permanent settlement.  Something that a few outliers had accomplished long ago.
+	
+	Historical - Wage of Antiquity
+	There have been artifact banks and housing long since the wards began dominating the resource artisans. Caches of relics and rare material become a thing to search for.  Then they start digging for it.
+	
+	1.0
+	A long LONG time past. The Wage of antiquity is like a dream.  
+	
+	The artisans rise to be the best, to kill animals, to kill each other, to grow in number, to become impervious to nature, to gather massive resources, to entertain, and escape nature all together.
+	
+	Civilization goes through many conflicts, grief, revolutions.  The emerging civilization from this egg call them-self the Metal Wage.
+	
+	name change: Metal Wage
+	
+	They socialize to fear nature and work in hierarchal groups, merit or experience it's unclear.  The planet transforms into a garden of stone fencing and verdant glass scenery.
+	
+	
+	Gardens can provoke the image of green pasture. But in reality they are mostly bio-formed plants (engineered scenery) and cold metal.
+	
+Metal Wage
+	1.1 Wage Group Renaissance
+	
+	Wage - A group that has members single-minded to better the species.
+	
+	Tech Wages - 
+	
+	Mechanical Wage - Inventions that reduce physical labor.  Greatly 
+	
+	
+	Life Wage - Food design.  The disconnect from physical need tests common survival instinct.  Unless food's properly made and advertised, it's useless.
+	
+	
+	Metal Wage - Uprooting the Environment, secluding Wards to safety and at the same time, forcing them to make records to uncover their property.
+	
+	
+	Culture Wages - 
+	
+	Service Wage - Population design. Seeing the people as a colony, with individual skills they work well only under certain conditions.
+	
+	Inscribed Wage - Guild management.  Recruitment to other wages.  History. Records.  Physical copies of literature.
+	
+	
+	1.2 - The Anti Wage
+	
+	Although detrimental to the species. A desire to fight change imposed by wages arises. Spearheaded by the Wage of Ward.
+	
+	Wage of Wards - Countering the metal wage from the start, but only made public centuries later.  After earning insurmountable capital, the secluded wards ally to protect their assets.
+	
+		They go so far as to erect impenetrable defenses around even their smallest land plots.
+		
+		Protecting their own body is a trivial task: Personal force fields, armored escape pods. They even have scouts that imitate them: clones (?.0 Bio-Engineered Clones), robot imitations,  holograms, impersonators.  And each one as representative of the original to legally persecute assailants; so long as an imitation doesn't claim resources, in which case a personal team is sent to dispatch it.
+		
+	Culture push - So many imitators.
+	
+	Relevance Wage - Counter to Wages as a whole.
+	
+	Mutant Wage - Counter to the Service wage, the mutant wage deigns a total disregard for life as the correct path.
+	
+	Viral Wage - Counter to scripture, they attempt to generate useless information and corrupt the old records, including replacements of older physical copies.
+	
+	Power Wage - This wage deems physical beauty above mechanical.  They sell cybernetics and common utilities in a mundane package, contrary to the flashy and obvious nature of newer tech.
+	
+	Due to their similarity to mechanical wage an blurring the nature of machines and animals, this was quite a shock.
+	
+	1.3 Cyberpunk Gen.
+	
+	Due to backlash against the Power Wage there is a split between "pure" mechanical followers (wearing power suits at best) and cyborgs with metal limbs. 
+	
+	The Wards take action. First to disband imitator rights to save costs.  They make a full defense initiative.  Their personal armies and androids are quite capable of hiding on their own until needed. Next they expand to outer space where their words are law, and they can own their workers.
+	
+	Many baffling artifact colonies and archaic symbols of power rise. Cloning procedures act as proverbial necropolis among armadas of trained weapon masters.  Teleportation rigged with weapons become magical totems, summoned by spells. 
+	
+	Eventually in this chaos exotic matter is uncorked and burned like oil.  Psychic signals are detected, and it draws the Wards in. And lastly, dim'not, the mana of the gods is just barely out of reach.
+	
+	2.0 Wards (Cryptic Aliens)
+	
+	1.4 - Alien conflict; "We taste good!"
+	
+	Desperately seeking to harness the universe, the Metal Wage become well known economic tyrants. They're also something of a delicacy due to their weakness, they resemble the weakest of animal infants, delectable, ever so pleasing to eat.
+	
+	In a defiant gambit a Wage is formed that seeks to classify itself and serve the Wards as ambassadors.
+	
+	We taste good! and Me Too! - They coincide, the Me Too!'s don't volunteer to be eaten, but rather act as yes men.  The We Taste Good!'s outright prostrate themselves to be devoured by toothy beasts, which can sometimes change their mind, due to the unlikely nature of this prey.
+	
+	Despite this Wage's best efforts they aren't targeted any more than their unwilling home worlds.
+	
+Wards
+	2.1
+	Wards, their clones, and workers become an offshoot of the Wents. As soon as Metal Wage started their clandestine nature plus a civilization favoring minutia allowed it.  
+	
+	Once their word becomes law, the factions are completely altered from their origin planet. Many of which are clones of the wards, they're no longer Wents.
+	
+	2.2 - Covert Ops, Trade
+	From ward to ward, a clandestine warfare takes place. Due to a dislike of vulnerability, the threat response of every last ward makes them something like immortal pseudo-gods in their machines.
+	
+	
+Bio-Engineered Clones
+	?.1 - Active
+	With full knowledge what they are, the clones are borne fully formed in vats, molds, metal gardens, naturally, and memetic viruses.  Some exist on naturally uninhabitable planets.
+	
+	?.2 - Death of Origin
+	After surviving a long time, they either terminate or seek a signal, a tell, which indicates if the original has died or been forcibly guarded.  After which point they replace the original in duties until future generations support them once more.
+	
+	?.3 - Resurrect
+	A new "original" can be borne with the accumulated knowledge of many clones before it, fully capable of enacting a hive mind role, or going into hiding once more.  This may take place through synchronized mind downloading or psychicly.
+	
+	?.4 - Terminus
+	At the point of a failed resurrection, the closest relative of the original is granted full clone access and make it at their discretion. At this point the active clone army is inactive.
+	
+	?.4a - Rogue Clones
+	At the time of terminus, clones that aren't disabled are given autonomy, and kill each other on sight out of a paranoid greed.
+	
+	
+Machines
+	3.1 Self-replication
+	During the Metal Wage, in order to supplement their weak physical workforce, many robotic entities are viable.  This is a list of self-replicating entities
+	
+	Auto Factories - Produces between accessories and fully fledged androids
+	
+	Androids - capable of building other machines
+	
+	Mint-Acid - a DNA altering substance, converts living organisms
+	
+	"Grey Goo" - colonies of matter altering machines
+	
+	3.2 Emergence 
+	Machines can make biological entities, vice-versa, and machines evolve survival tactics like any other life.  
+	
+	The old artifact gardens often burst into life with levels of threat: from boxed-in ai cores that grow out of vogue turning from cohabitation to borg vampirism. Toys that calculated calendar tasks one day can command armies the next.
+	
+	The monstrous defenses of old wards can eclipse cities. The auto factories can supply planets.  The androids that stir trouble will pass on memetic contraband and computer viruses afflicting Techo eco systems and causing Robos to rebel.
+	
+	
+	A machine can be as efficient and as deadly as its program. The most dangerous is self replicating machines, as one mind and with exact measure of their own capability they grow like bacteria.
+	4.0 - Machine Symbiosis
+	
+Machine Symbiosis
+	4.1
+	
+	Symbiotic machines use an array of survival tactics
+	A. Altruism. 
+	Strive to keep their host alive risking itself.  They seek faith and trust to be granted, as a species.
+	
+	B. Selfish. 
+	Stay alive, only warranting aide to a host with no cost.  Avoid appearing dangerous.  Accept help from host, and take excess power.
+	
+	C. Leech. 
+	Attach, and combine, guaranteeing mutual survival, as long as host can power. Appears very dangerous and uses power to enhance.
+	Take-over is considerably deadlier.
+	
+	D. Pact. 
+	Mutual survival / death. Help, enhance, and consider host's interest equally.
+	
+	E.. T.E.A.C.H.E.R. (Take, Enhance, Absorb, Chase, Harm, Enrage, React. )
+	Take host's body over, enhancing as much as possible. When host is used up it can escape and live on its own.
+	It performs a hunt kill routine with excess energy to draw more victims in, which it attempts to infect.
+	
+	....
+	Different symbiotes thrive off different aliens better, but techos get the brunt starting from their own home planets.
+	
+???	It's not like you need hands or tools to produce machines, but this is similar to ape/human learning.  Also it's unclear if they ever talk, or discover electricity here, it's clumped in with mech. wage which would have covered simple machines and hi-tech simultaneously.

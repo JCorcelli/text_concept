@@ -1,0 +1,38 @@
+o land forms
+o shape for play
+o plan for loading with layered zones
+
+Make a generic Brick building with layers
+ geom
+ make geom functional, just build on top of other stuff before moving it in
+ texture
+ decorate
+ 
+prefab
+ copy
+ cut
+ redecorate
+ 
+ remove loose geometry
+ animate
+
+initial city model, building plans
+	maze-like city
+	curves
+	layering a city
+
+textures - one atlas, animate huge details
+
+indoor means there are walls in all directions
+	also furniture has see-through versions
+
+outdoor means the camera must have a visible angle
+	natural trees must be tall enough to go above camera
+	
+
+create an enclosed area outside that will behave like indoor
+	barriers must have a see-through version
+	
+	the rest of nature can always disappear and stop calculating
+
+try to imagine what greased terrain is like. animate?

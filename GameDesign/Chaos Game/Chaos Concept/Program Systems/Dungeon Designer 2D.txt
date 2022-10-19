@@ -1,0 +1,339 @@
+The 2D designer is meant to be a streamlined top-down version of a level design. Should be able to make a basic maze-like dungeon without trouble.
+
+-Some things aren't able to be blueprinted or automatically built, and shouldn't be an option. e.g spawnpoint
+
+Self Imposed Rules
+	rule 1: it's all business, like an idle game's interface
+	rule 2: data it creates should compatibly- enhance the 3d designer
+	
+	rule 3: cut away any pretentious misinformation, please
+
+Disadvantage of a 2D designer
+	1  interior design options will be lacking, and must be seen in 3D for effect. Can be indicated with a color tint.
+	
+	2  Assorted items will be hard to discern from a distance.
+		This can be overcome with some zooming/preview function
+	
+	x 3  3D redirection (gravity pulls don't exist though), nevermind.
+
+Advantage of a 2D designer
+	1  Speed
+	2  Abstraction, I can take what would be confusing in 3D and make it mundane.
+	
+Abstr.-Some placement should be tile-based to minimize decision time
+	Rooms take 1 tile
+	
+		1 Room = Floor Transports (Stairs, Helpful Teleportation), Engines. 
+		1 Wall = Large obstructions... Door
+	
+	When adding floor transports, an indication if there's a room.
+		red should be reserved for blockage
+
+-Decide how big the basic Top design is
+	A room is about 5x a building player's avatar size
+	How many rooms per floor 8x8=64? - essentially 20 seconds to traverse an empty floor
+	
+
+Floor tools
+	use focused view
+	
+	clone view
+	select floor
+	move floor
+	zoom between tile and max size
+	insert a floor before/after
+
+TOOLBAR (vertical)
+	use room cursor
+		
+	Basic room tools
+		wall/room snap tool - determine if wall or room is adjusted
+		
+		Select
+			room options
+			
+			drag - select multiple
+			move multiple
+			copy multiple
+		
+		tool
+
+		1*  Drag Cut Tool > cuts walls
+			2 click interface
+		2*  Freeform Cut (cut out walls)
+			one click, or drag
+			 
+			* Alt-click fill
+			
+		copy
+			select (may resemble freeform tool)
+			copy, a button and ctrl+c both work
+			paste
+				needs layer, or paste as floor
+		
+		Keyboard basic CAD shortcuts
+		
+		
+	
+			
+CATALOGUE ITEMS (horizontal?)
+	TAB 1
+	Full tile use - tactically displayed so you don't grab smaller items first
+	
+		1 stairs - take up tile and force a one-way exit, may be tricky to build
+			require room, floor
+		2 elevator - takes up a tile, but can be entered any direction
+			req room floor
+		3 teleporter - can go anywhere, takes up a tile
+			req target teleporter
+		4 exit
+		5 vault
+		
+		? 6 extended power source - powers mechanizations
+		
+	TAB 2
+	not a full tile, open a list, individual items may have preferences in the future 
+	
+		obstructing volume - may need to use big selection menus
+
+		1 decoration - statue, pedestal
+		2 work bench - computer (req power), anvil, desk
+		3 storage - desk drawer, chest, free closet
+	
+		4 item pickup - key, battery (power)
+		
+		? 5 plug - keyhole, outlet (power)
+		
+	TAB 3
+	wall replacement - take up a full wall, makes wall easier to destroy
+		
+		1 door
+		2 large window - wall doesn't block LOS
+		
+		
+	wall carve - placed in wall sections, takes no room.
+		
+		1 archway (open door)
+		2 small door
+		3 wall closet
+		4 peep hole - reveals adjacent room while accessed, allows for very small characters to access
+		5 window - wall is sectioned
+		
+	? O... More options for room 
+	
+		- Workstation, labor
+		
+			public/private
+		
+			Contracts
+			Payment
+			
+		Terrains
+		Monster
+		Cages
+		
+		...
+
+-Save preference
+	If you can copy it, you can save it. 
+	
+	With that said, the dungeon form lacked anything worth copying, until now.
+		need a copy/paste buffer
+
+		
+Done::
+	PSeuDO
+	{
+	o a sync from button to hub
+		
+		first connection: anything that connects pings the hub, which forces all the buttons to connect to it eventually
+	o Set on/off params
+		on selection
+		
+	Set tool behaviors
+		!1 case-by-case, since I have yet to truly exploit mask clicks properly and my button handlers change based on mood...
+		
+		on focus (the drag needs to be hovered for correct effect)
+		
+		on selection
+		
+	}
+		
+	o UI doesn't self-collide so I set the ui to that... for now. Held tools are in default.
+	
+	o now I want the snap to keep a list and go to the closest thing
+	
+	o the brush tool turn off on release
+
+	o draw 90 degree by default
+	
+	o snapping to wall/room is next
+		o snap tool done
+	
+
+	o abstract button's not working out well, have something that detects hover, place in the drag area (router or similar)
+		the select mask... I just need things to check if it's hovered and it'll work as well as a delegate.
+
+	o all scaling is now... ok
+	x drag-hold doesn't take rotation into account like the scroll rect can, setting the pivot to the center is probably easiest
+		Setting pivot is NOT easy
+		o Instead I should make a pivot or do the math (I had the math already)
+	
+	o as it is, the buttons connect, the other thing doesn't. hmm. How about signal 0 has everything reconnect?
+		
+	
+	
+	o I separate the tool clicks from the rect operations better.
+	
+	o  I want a manual rotation tool, Transform.RotateAround looks good enough, so this won't take long
+	
+	x? The screen rotation isn't working, I always have physics as backup. 
+		the tools should face me if I'm being technical anyway.
+	
+			
+			
+	
+
+	made an abstractanyhandler
+	o totally corrected the line tool
+		compared the rotatearound, it lacks something to do with the angle its parent is facing
+	
+	o tool <-- parent's rotation?
+		This selects and stops. The select line stays rotated.
+		
+		ignore parent by setting this tool's rotation to zero.
+		
+		The stopped line doesn't ignore the rotation
+		
+	
+	xxx There's a line2D component
+		wrong, not 2D
+	
+	
+
+	o every button in the toolbar sends a message to a specified channel
+		all the messages are in one list
+		all the channels are in another list
+		
+	I setup the hub scripts for hub messaging. 
+		o All button have GetMessage
+		
+		
+		o buttons have a GetBool (considering they're either up or down, or just send on click)
+		
+		o Radio buttons, 
+			! they need a hub placed in the element above them
+		
+		? a static class would be a fine alternative for game-wide messaging
+
+	o consider canvas group to toggle interactability and alpha, so I'm not double programming that function.
+		considered, it'll work well for minimizing
+	
+
+	Itom (new) sprite behavior
+		vocab: itoms = item + atom, smallest symbol for item.
+				Generic itom symbol
+
+		when a room is 
+		
+		1 in scope... some active frame = hub. set interactable
+		
+		SelectGlobal.activeFrame ?
+		
+		2 big enough for an itom to be visible and hovered. ~2px
+			o scaling... itom checks if it's big enough
+			
+		
+			o I want to see the itoms
+			
+			o I can determine when this condition is met after zoom
+			
+		x standard option problems:
+			x a button recolor functionality, but I don't want to block
+			x The autonavigate seems to work but it'll really cause trouble
+		
+			x mimic selectable keyboard navigation
+		
+	x go remove the transform check from fpscrollrect 
+		nah I decided logically it can be easier to locate here
+			
+	x now try a content fit, which would allow me to add new stuff
+		sucks without layout groups. I could try custom 
+	
+	
+	o room scaling with draghandle (if I don't do this then it's less useful)
+	
+	Floorplan:  The grid needs to be scaled with a script.
+		Can scale with transforms
+		
+	o itoms affected by drag or resize 
+		o 1 - check if the room's big enough for each Itom
+		
+		o 2 check if itom in scope
+			outside mask = no
+			
+		o 3 each room could be itom, which saves me from event raycasts
+			yes, but no extra shit
+		
+			example: a fullscreen nullify the whole itom advantage.
+	
+	There's a rect scroll window tool
+		add content fitter to the "content"
+		mask the scroll frame
+		have all items in the frame complimented by itoms
+		(pretty much super window now)
+		
+		it'll do for the catalogue horizontal scrolling
+		
+		object lists just need to populate
+
+		it'd work fine for the generic list if it followed the cursor.
+			could copy that functionality, I know it
+			
+		o I think it works the same way as drag-hold + interior bound
+			It absolutely replaces those things as long as... 
+			
+			o add something that'll fix the positioning on rect resize
+			
+			
+	####  Builder UI  ######
+
+	# so it turns out if I get the world space sides of a rect I know where it is in screen space.
+	
+	
+	hub can now delegate with a router base class.  If I really need a parent object to detect a click, then that object is in the way.
+
+	for fun...
+		,.. can the alpha cutoff texture move? indeed it can. 
+	
+	scale
+		o scale for the drag layer works
+		
+		o scale needs to correct position
+			> I don't use the drag here, hmm
+		o scale needs to trigger drag correction
+		
+	o resizehub is now sending an update message
+	
+	o need to prevent drag/ rescale off screen so the top won't get messed up
+	
+	o fix select drag so it works
+		and visible o
+	
+	
+	o make the dotted line selection y 4-8 images (a manual slice)
+	
+	
+	setup cutting tool drag
+	experimented with color inversion
+		o I want to try again with the cutting tool
+		
+		I cover the inversion with a black dotted line
+		on black bg the alpha turns white
+		
+	did a lot of the design in unity
+	
+	o room tools
+		add/remove room/wall
+		
+		

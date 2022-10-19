@@ -1,0 +1,38 @@
+
+
+This isn't a text based game. It's leaning closer to a dynamic data action and dialogue - based game. But that's just a fancy way of saying stuff happens and the game world is supposed do things, feedback loop intensifies until Player gets involved.
+
+Anyone who wants to solve the game at a higher level would probably gravitate to this text element underpinning the action.
+
+
+More programmer stuff
+I've noticed my markup is almost lambda functions, following the lambda pattern {[func] [variables]} and how exactly the parsed text gets evaluated is still up to what those functions are, no compiler.
+
+Eventually, like right now. I noticed if there was any need for variables I could do a string search at any point.  This also allows for redundancy in text, and potentially the contradictions I so hoped for.
+
+Basically any string is a struct
+
+people's first names
+""
+Jess
+Jack
+Mark
+""
+
+literally anything imitating data
+"
+John Goat is a cat
+John Goat was a goat
+John Goat built a bridge
+John Goat was Bad Squid
+John Goat isn't really a cat
+"
+
+I haven't decided if a text like this will get stored, it's an example.
+
+Although string operations aren't super fast... and at load time, more data means longer load times.
+
+Prediction: I have to consider if a dynamic game is more important than a playable game? Actually I have an answer, it will depend on just how well the mutations are programmed. I imagine the faster the mutations hide data, the harder it is "finish" a goal in time before it becomes unreachable, making the game harder.
+
+
+PLEASE DON'T BRAG, ME

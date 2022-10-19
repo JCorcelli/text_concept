@@ -1,0 +1,16 @@
+POTENTIAL ALLIES
+Cat that's annoying increases emotion super fast.
+
+Robot - ai technical navigator, hacker, info source.
+
+Super friend, easy mode ally
+Super bad, frenemie uhh, he is a temporary creature
+
+active
+	environment control
+	guide
+	labor
+
+passive
+	emotion
+	storage

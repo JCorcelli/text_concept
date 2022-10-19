@@ -1,0 +1,30 @@
+instinct often wroks against the best possible outcome because rather than the best outcome later, we want the best now.
+
+humans who fight for a resource they want have an animal's instinct, that's to say, 
+
+the resource goes to the animal with the greatest advantage
+
+but then there are more advanced strategies from game theory
+
+
+
+Compete for resource
+	1. greater advantage - the animal with merit will earn the resource
+	2. Ally advantage / prisoner's dilemma, ally and betray your allies
+	
+Eliminate the resource
+3. war of attrition - the animal who needs resources the least can wait out everyone else, even to their own detriment
+	a prevent acquisition
+	b destroy the resource
+	c attack competitors
+	
+The best possible outcomes
+Share
+	Equal Shares - Everyone ignores eachother and takes what they can
+	
+	Hierarchal - Everyone takes what they need, as determined by a resource controller
+	
+	Prisoner's dilemma - sometimes someone doesn't get the resource
+
+Increase resource
+	A competitor with greater advantage steps down, allowing the resource to be distributed.

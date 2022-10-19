@@ -1,0 +1,39 @@
+
+
+TYPE 1: LIST RIGHT MARGIN
+Memory.
+	Memory.Link [page] [text] #wiki link
+	Memory.Remember [molecule] # remember state
+	Memory.Option [] # it's like Insert [option]
+	Memory.Insert [prefab]
+	
+TYPE 2: PAGE
+Wiki.
+
+	{Wiki.Index} no footprint, goto line
+	
+	{Wiki.Ref memory} a button that has footprint, opens to text
+
+	"{Wiki.Link page text="icon or box"}" will send you to to page without a footprint
+
+TYPE 3: THOUGHT
+	-Magnet "Sprite"
+
+C#
+	Thought.
+	Thought.Packet (transform target, vector3 spawnPosition)
+	
+	Thought.Blank (ThoughtWidget position) -Basically, floats at spawnpoint
+	
+	Thought.Memory - Button
+	
+	Thought.Idea (ThoughtWidget target) - use target when clicked
+	
+TYPE 4: DIALOGUE ZONE
+
+Zone.
+	{Zone.Open [chat]} # would force a chat to open in selected Dbox?
+		
+	{Dbox Dialogue} - probably exists, but it's not visible without proximity
+
+	{Insert [chat] [args]} would add a widget "chat" with args into the text (Probably the wrong thing)

@@ -1,0 +1,47 @@
+
+wiki proposal
+namespace wiki
+
+a word script knows what's where in basic text, at any point it can be used to open up a memory page. The marked text shouldn't get in the way, can't be rich text.
+
+Wiki.WordLink
+1 main use
+	on hover ,
+	o	calculate text cursor position
+	o	track word (visible in text)
+		
+
+2 on click (in or outside wiki) do a memory search
+	I know what was clicked!
+	
+	{special} word in text
+		a prefab
+		
+		image idk.
+	
+	a link?
+	
+3 knowledge
+	"Bunneh" is a word
+	"Jerri" is a word
+	and they get their own pages, of course "Bunneh" is the main character, so info on him will be slightly skewed
+	
+DESIGN
+memory wiki
+
+make UI
+	open/close
+	history ascending from right
+	recent at top
+stream a page related to "word"
+
+now on click I stream a page. was that named page linker?
+
+
+USERS
+
+	list user names, search to find all info
+	or rather find a user name, search
+	
+	people will say each other's names all the time. How does it associate the word with the name? It's fucking difficult.
+	

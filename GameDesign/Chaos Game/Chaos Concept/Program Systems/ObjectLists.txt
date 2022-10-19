@@ -1,0 +1,28 @@
+lists
+	catalogue items
+	inventory
+	
+	
+SUMMARY
+With the generic list abilities I don't have a lot I need to do.
+
+A selected item is queued for action (Wait for USE message)
+
+1  CATALOGUE
+	
+	A catalogue instances an object from a premade set and places it in an unsorted order during build.
+	
+	The item is clicked and sends a message with its name, name reaches the creator by default.
+	
+2  INVENTORY
+	inventory items pass their name and action when dragged in/out, drop, select
+	
+	an item dragged in is equivalent to picking one up off ground in any rpg
+	
+OBJECT LIST IN GUI
+Req.
+	catalogue items are presorted, and object roots are named
+	
+Goal
+	Won't require a creator of strings.
+	

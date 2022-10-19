@@ -1,0 +1,31 @@
+
+PARADISE, SAFE HAVEN
+the beginning location. You're allowed to return at the very end of the game?
+
+SNEAKING
+
+There are blue flowers which bun can hide near. The green grass is also tall enough to sneak under unnoticed.
+
+There are annoying birds.
+
+LIES
+When bunny lies are enabled they can be used to trick other animals.
+
+
+SCENERY
+Make it nice and pretty.
+
+FRIEND BUDDIES
+There's an occasional bunny who will buddy up and help you dig holes. You can do any simultaneous tasks with them (if there are any). 
+
+RETURN
+After long journies altering your view of the world. Paradise can be a different place.
+
+beginning
+	Paradise.  the best corner of the best place
+	
+other
+	somewhere between innocent and occult training.
+	
+Final
+	the leadership in ruins, beliefs skewed and unreliable.

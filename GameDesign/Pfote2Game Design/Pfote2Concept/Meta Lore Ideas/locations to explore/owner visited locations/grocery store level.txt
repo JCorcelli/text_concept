@@ -1,0 +1,14 @@
+GROCERY STORE
+
+Everyone can come here to purchase basic goods
+The variety is a bit low compared to dept. stores though
+
+JOB
+	checkout counter
+	various dept.
+	
+FOOD
+	basic foods on shelves
+	
+ANIMAL
+	closely monitored by security you can't get in, or out without your owner

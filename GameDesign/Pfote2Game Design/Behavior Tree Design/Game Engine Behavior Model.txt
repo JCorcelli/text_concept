@@ -1,0 +1,15 @@
+Reconsidering the Game Engine
+
+Behavior Tree:
+	The main behavior is driven by the game engine
+	It is enabling and disabling sub behaviors (The routines)
+	It is altering resource states
+	
+Routines:
+	disable /activate tasks when resource states are correct
+	
+	
+Parallel Composite: all physics, all distance checks
+Decorator / Semaphore: all stats, all flags
+
+Selector / Routines: tasks that are active may be additional behavior selectors

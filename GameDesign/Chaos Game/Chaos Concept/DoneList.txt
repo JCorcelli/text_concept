@@ -1,0 +1,189 @@
+Climbing
+Exits
+Throwing
+Doors
+FastMovement/Teleporting
+Dungeon Walls / Cave / Section Visibility
+
+
+
+done:	
+	
+	misc. UI
+	{
+	been working on the 2D UI, and I think 3D UI elements pretty much always behave with similar logic so this is going well.
+	
+	x I could use a sprite swap to change squares
+		nope, it needs every option checked
+
+	x colliders instead of "images"
+
+	o need min size
+	
+	o drag limits min/max for any given side
+	
+	
+	o cleaned tool menu
+	
+	
+	o resize handles
+	o focus brings to front
+	o overhaul of abstract select (not really)
+	}
+			
+	
+	Building Dungeons / Constructing in general
+	{
+	I need that arena build mode, for less boring design interface
+		o the default dungeon scene (aka Dungeon Init)
+		o a place that exists without it (Dungeon HUB)
+		o a build mode
+			needs items that correspond to construction
+				Begin referring to previous ideas
+		o something to place a wall, floor, or whatever else is going in it
+		
+		
+	made the save interface, put it in the prefabs
+		- alternatively, save anything by adding a generic save
+		
+		
+	o make the dungeon build tool work
+		o tool collider
+		o check if I'm in the correct room
+		o option if I'm modifying walls, deleting room, etc 
+			(mouse 1,2,3)
+			
+	Dungeon Warp Item 
+	o thought " the way warps work atm will break it "
+		rather than a __dungeon scene name__, the warp level needs to correspond to a __dungeon spawn list__
+		
+		
+	old news !! if the scene is unnamed in DungeonVars, the item will fail!
+	o spawning items <- o an interface to select items
+		
+		
+	Game Design, 3d space
+	o thought "for 3d objects I need to fix the push/pull or just consider if the avatar was holding it how far it needs to reach"
+		o fixed it. there was an actual programming error related to what direction a pulled object goes in.
+	}
+	
+	MECHANIM REFLECTION
+	think "I guess I'd rather write a script than rely on animator sometimes. 
+	(don't I already have something for that? The behavior tree)."
+	For the animator to matter, I'd need something excessive.
+		thing's i've used animator for:
+		dumping animation lists.... resource.load
+		mech's transition. I can't imitate it. I can improve it by passing time variables though.
+		mech's layer
+		mech's masking
+		basic play functions. I can improve by setting speed variable. I can pick state.
+		
+	x checked out a free tween suite DOTween but it may bug seeing as it's compiled? not worth it.
+	
+	? ease of use: have a script activate tweenmolocals for animation sequences
+		do this if animator gives me more trouble
+	
+	
+	o Test Event Timer
+		seems to work
+		
+		
+		! issue discovered with unscaled delta time, it increases while editor is paused. That's probably not a real issue... normally.
+		
+			FLOW PROBLEM: really fugly in inspector and a little hard to read because blank events still take up a block of space. 
+			The size needs to be limited, or an easier way to manage it, otherwise it's just a really cool animator (limited to what unity events can do).
+			It'd probably be easier to read in script
+		Solution: would be replace it with something besides unity events. Like... how I handle the list.
+	
+	o made tweenmolocal, it contains tweens, but needs to be activated. Currently no pause/resume, but I don't care yet.
+	
+	o adjusted desire indicator so it'll run ahead, much like ghost. direction indicator still doesn't do much.
+EXTRA
+		I could probably do cool shit later for "augmented feel" like calculate if something can reach where I want to go.
+ISSUE		
+		Currently only the player's saved if they fall off map.
+		
+	ISSUES (under carpet now)
+	{
+	
+	I think something's up with the camera's update. Can't automagically reproduce it.
+	
+	
+	if char's not grabbing or touchingground he's jumping or falling. the falling controls need to be weaker. if jumping's a thing it'll be a different game.
+	
+	}
+	
+	
+	for event (assuming it's not recorded)
+	o add method of opposing natural time, probably with a time multiplier, then I'd just check if it's rewinding or not. As to how the scripts interpret the scaled time, I guess I'll just deal with it.
+		o set up time scaling
+		o compile it or it doesn't work
+			o and fixed bugs
+		
+		o I need to write a unitytween clone that performs one tween on call
+	
+	o check unitytween instead of animating menus
+		I liked what I saw.
+		> Actually it's really clunky inefficient not reusable and 
+		
+		need something that calls a tween without storing their start or delay time
+			i have a timer program
+				make it reversable, eg call a reverse event, and it's set
+			
+			need a stop / play control script to finish it though
+			
+	made the character incline movement a little more controlled. also updated grab, gyro motion.
+	
+	kinda worked the avatar so it wouldn't stutter while moving. done
+		fixes were: some execution order, avatar interpolation
+		
+		what about camera though?
+			not really perfect
+			Maybe iterate cam backwards until I'm in view.
+			
+	as a player. To be sure I selected specific items.
+		o change the selected document somehow
+		o add name around the save area so I know what's open
+		
+	o Q: how much of the item load script is reusable?
+		A: THE WHOLE THING
+	o 	after examining the whole thing,
+	o 	
+	o 	I should change ExitS to Spawnable and see if it works the same
+	o 	
+	o 	x the fact I don't have a dummy spawnable with the "prefabName" property prevents it from being entirely reusable.
+	o 		everything works if it's ref'd as Spawnable, the type method still works.
+	
+	
+	wrote FormHubConnect, an auxiliary messenger system for multiple buttons. made an example "...Connect"ExitS, and it appears to work if needed. use onConnect for applied behavior final [requirecomponent (TypeOf(Co... bla) ] or just forget it and drag the game objects in.
+	
+	
+	FormxList almost works
+	List stuff: see lists	
+	
+	
+			
+
+	o move could always click at a height the same as the character's if it clicks nothing
+
+	o look/move needs update
+		it updated with plane
+	
+	
+		
+		
+
+
+	GENERIC GAME STUFF THAT CAME AFTER IT WORKING AND AN OBSESSIVE NEED TO PERFECT THE CAMERA
+	***
+	o press r to reset
+	o fixed "bump" that occurs while walking between colliders
+	o	and fixed again (needed to script the avatar's contact point and float the collider a little bit (It will still bmp something that sticks out by 0.01 though! IMPORTANT TO BE ACCURATES!)
+
+	o add respawn on fall
+	o flat pitfall dungeon (key controlled)
+		xa "fight?"
+		
+	o segmented dungeon (by height)
+	o 	pitfalls drop you to lower levels, there can be shortcuts
+		x more importantly, I don't see the end of the level at the beginning and can't predict the outcome.

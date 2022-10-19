@@ -1,0 +1,92 @@
+I'm going to flesh out the organic and earth-like system and consider how it'd translate at the bottom.
+
+power source (energy)
+	light - highest speed capacity of space
+	matter - organics are easily constructed on a molecular scale
+	exotic matter (non-organic) - impossible to make, but easy to use
+	psychic (subspace) - an exotic meta energy that surpasses light in speed
+	dim'not - a meta force that surpasses logic, aka godlike.
+
+organic life fuel (food)
+	nutrient (catalyst) | poison (kills)
+	light (most abundant free energy)
+	
+	food (aka lipid, stored energy)
+	
+
+tech free (t0) - anywhere
+	minerals
+	light - energy from star
+	
+	
+environment / climate dependent
+	hydrogen - 99% of a star, and all matter
+	various atoms based on temperature
+	
+discovered (t1) - rare part of environment
+	Earth-like
+		wood - burn
+		oil (old wood) - burn
+		gas - combust
+		chemical - combust, spark
+		lightning
+		sociable, tamed animals
+	
+	misc
+	paradise planet (built)
+	corrupted (by tech)
+	
+tool (t2) - built with simple tools and knowledge
+	electricity (simple metallic objects)
+	wheel (artisan)
+	fuel (chemical refinement)
+	heavily salted food
+	
+artisan (t3) - built with skillful use of refined tools
+	
+	liquid storage - biofuels and chemicals
+	
+	battery - stored electricity
+
+dark civilization, human (c1) - passing down the refined tools (like a job level up), no written history or genetic knowledge
+	req: mundane and refined language + memory (stored knowledge)
+	post scarcity - storage
+	
+
+refined c2
+	fire/cooking tools - heated food
+	crafting tools - more tools, art
+	
+artisan c3
+	cooked food - taste, health, surplus power, de-evolution (flatter teeth)
+	
+	etc?
+	
+golden civilization, human (g1) - compulsively recorded history, 
+	req: information is mundane
+
+refined g2
+	energy is over-abundant (evolution is outpaced)
+	energy storage is somewhat refined, safer and less costly use
+
+artisan g3
+	all forms of available energy and matter are detected, but some are useless
+	new conceptual energy is devised
+	
+future civ, human (f1) - good and bad outcomes
+	really fat people - selfish people store all the energy they can
+	really crazy people - self-important people lose all desire for energy and convert the human race to return to nature
+	psychic powers - some freak chance mutations enable psychic energy manipulation
+	becoming gods - meta energy (like dim'not), or a full conversion out of the physical realm
+	miserly - using highly advanced technology to make a new scarcity free civilization, and gathering all the power of hydrogen and light from stars
+	exotic matter - discovery of untold power, resulting in all imaginable technology advances and a power source more abundant than light
+	
+Template
+	before c1 (aka t1) the alien race wouldn't be perceptible
+	the most abundant/ easiest form of any tech becomes desirable
+		eg matter radiation is better than light radiation (it's all UV)
+	a race can redefined 'bio' or 'organic' to exclude carbon and oxygen, but this eludes human understanding of biology. So other forces such as 'psychic' and exotic matter play a role.
+	
+	dim'not seeps out from the void, discovering dim'not is akin to becoming god and escaping civilization
+	
+	

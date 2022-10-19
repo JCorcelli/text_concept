@@ -1,0 +1,28 @@
+ENERGY SYSTEM - PHYSICAL
+I think if I want to make Bunneh a more thoughtful character I should limit his physical ability.
+
+Stamina - heats up and depletes when overheated. Get in the shade and rest.
+
+Heart - courage and strength. Heart protects you from getting sick. Food.
+
+Sleep - A good nights rest recovers all.
+
+VERBATIM
+
+HEAT
+Heat maxes out before stamina depletes.
+The lost stamina is gone until he sleeps.
+
+HEART
+It's your nose, silly. Major annoyance, decisions, and danger are in conflict with your ultimate goal towards happiness.  But it's so exciting.
+
+SKILL
+Any impactful skill can come at a price.  Maybe there's something more important than your energy.
+
+EFFECT
+Running is the most expensive option.  Hyper adds double heat.
+
+Sneaking is the easiest time to rest, some movement skills like diving require energy.
+
+Talking would use no stamina.
+

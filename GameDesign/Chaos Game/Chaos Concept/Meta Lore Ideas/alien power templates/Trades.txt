@@ -1,0 +1,147 @@
+Techo
+	the complex technology trade
+	
+	internal
+		can cooperate
+		can compete
+	
+		knowledge is power, knowledge takes time
+		token money system
+		
+		ease of use modifications >> Set a personal warehouse to autosell/buy things
+		
+		advanced tech state >> material is as good as the completed items
+	
+	
+	external
+		can trade
+		
+		can produce excessive amounts of items
+		
+		high value advanced tech
+			robots
+			micro electronics
+	
+Muto
+	The diverse gene trade
+	internal
+		can compete
+		can fight for blood
+		
+		trade is strained - they prefer to infight for genetic superiority
+		
+		genetic complexity is power
+	
+	external
+		import
+		they want gene samples, knowledge of targets to capture
+		
+		export
+		they will export live animals and legal workers
+		
+	
+Warmonger
+	The death trade
+	
+	no internal trade
+	
+	export junk, possibly private armies
+	
+	import
+		They want weapons
+Entertain
+	Flavor of the week trade
+	internal
+		can cooperate
+		can compete
+	
+		stories
+		
+		token money system
+		
+	external
+		export whatever they can
+		
+		import shiny
+		
+lago
+	Symbol trade
+	internal
+		spirit is power
+		some merit for penance
+		food
+	
+	external
+		export
+		access to native trades after learning the xeno lore
+		
+		workers grant blessings to alien race and can communicate with their deity
+		
+		just about any blessed symbol
+		
+		
+		import
+		receive spirit from alien deity
+		
+		just about any alien symbol
+	
+Elemental
+	Energy trade
+	internal 
+		power is power
+		various power sources
+		
+	external trade is rough
+		export inert raw materials
+			Kinetic warriors
+		
+		import power sources
+		
+solo
+	internal N/A
+		
+	external
+		contracting
+
+adventurer
+	mixed trade
+	options may depend on initial race
+	
+	external
+		can be mercenary
+		contractual work
+		
+
+steampunk
+	remodel trade
+	options may depend on initial race
+	
+	items originated from a "steampunk" alien will have a distinct appearance regardless of its purpose
+	
+
+slave
+	dictatorship
+	
+	internal
+		resources always distributed to accomplish the leader's goal
+	external
+		export/import generally attempts to remain economically independent
+		
+		exports are limited
+		
+
+inverse chattle
+	dictatorship
+	a real deity knows all, and can smite
+	
+	internal
+		everything belongs to deity
+		
+	external
+		export symbols and stories about the deity
+		
+		import whatever is allowed
+
+ABNORMAL ()		
+en (fake trade, it eats people)
+in-verse (accepts spirit, doesn't really do anything else that normal aliens don't)

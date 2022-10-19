@@ -1,0 +1,36 @@
+
+
+Interrupting Actions
+	an action can be interrupted
+	default: routines will stop
+	alternative: the routine will not affect any declared resources, but my still continue
+	the stopped action will start from its beginning if it isn't programmed to resume
+	
+NPC Routine
+	
+	1 Start 
+		read NPC data
+		close
+	2 Determine most desired action
+		weigh NPC conditions
+		determine desired actions
+	2 Try
+		<tip: determine what action is most important and plan ahead>
+		
+	
+	Data
+	In Scope
+	
+		NPC character sheet
+		Present NPC conditions
+		NPC action data
+		
+	Out of scope
+		Player Objectives
+		Past / Future conditions
+	
+Player Routine
+	1 Check objectives
+	2 Determine how to achieve desired condition
+	3 act
+	

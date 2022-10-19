@@ -1,0 +1,35 @@
+
+[Theoretical] Games that evolve from player input
+See topic here:
+http://www.gamedev.net/topic/650994-theoretical-games-that-evolve-from-player-input/
+Original title "The most scientific game."
+
+Prologue:
+I will write journal entries instead of posting to the topic now. I'll be rewriting some of the content or elaborating. It's mostly for fun, I need something entertaining to write about and avoid repeatedly bumping my own topic at the same time. The entries I make are not based on any intentional research, so I'll be citing few hard facts. They are all creative writing. If someone asks I can only say straight out "It just came to me. An hour of typing later I explained the idea by making some references and started to eat breakfast."
+
+I started the topic partly as an experiment since I was reading copyright law recently. The idea is realistic, it's just not something I see myself programming right now, or even in 20 years. Like writing a new Google search engine, or the Cleverbot that fools people into believing it's human, a Wikipedia sized pool of objective opinions, and memes with the survival rate of a Cheezburger... many levels of software complexity combined with human influence. Only this is once it's finally applied to game development, which will attract essentially the same user base. Heck no, I'm not programming this.
+
+What's the experiment?
+First of all I wanted to see if anyone would respond to the topic. Nada. I received zero external input other than observing the idea is plausible (all those things I said last paragraph), and as far as research goes, the reason I started on this is because I heard a lot about what games CAN'T DO. 
+
+I'm adamant about this, games CAN DO ANYTHING, it just hasn't been implemented, simulated, or conceptualized correctly, or fast enough yet. So, yeah, even subconsciously I formed an argument before I woke up in the morning.
+
+
+Summary:
+Some people talk about tabletop games, GM'ing role-play games like Dungeons and Dragons as the de facto limitation on our hard coded games. If you try to do something really clever the programs will not recognize this, it's just not possible and nothing happens. A human GM will think of an explanation why not, at the very least, they may kill you for it.  But this limitation remains constant only as long as games are "hard coded". We have people in the game industry trying to reproduce predefined rules of old games, tabletop or retro arcade style, CONSTANTLY. They don't have enough time or experience to reproduce a human GM, nobody does.
+
+Also I want to get this across now, this won't produce a true artificial intelligence. But it does fuel a paradigm, the software will be reprogrammable by non-programmers.
+
+The premise was how games will emulate a GM (I never said that in the initial topic, but I felt this self-explanatory). It can accept just about any input and reuse it, evolving. Taking everyone's ideas and trying them at least once, it is the most scientific game. You begin by creating a database, games are programmed to interact with it and the user. The software that connects the games and software will parse input from the user and store it. As many people who interact with the system at any point in time will have the opportunity to input cause and effect by playing any connected game and disagreeing with what is or is not possible.
+
+
+This is a system for games that emulates human creativity (the GM) by starting with preset rules and then crowd sourcing data until it appears to understand cause and effect, more than the average human would (it will emulate a GM afterall). The more users who have influenced the system the merrier, more interactions will make it more accurate.
+
+More about what a game will be like, and less about how it does it. When someone who does not know rules to Dungeons and Dragons wants to play, they can load up Dungeons and Dragons from the database once it's programmed in, stay connected to the database that knows all the user input for a more human experience, and let the game system GM their game session. The player needs an input that translates to text at first, future input technology may change this ideal, any data suffices. 
+
+From the player's point of view: The game appears to be creative and organized (if desired it could be less organized and make a lot of assumptions and preset decisions to help new players), it accepts the player's information in any order and asks about info that's missing, it'll start the new player out in common situations to teach them the game, it will reuse situations anyone ever thought of if the opportunity arises, it'll know all the rules and then some, it will be able to answer like a human would to any OOC remarks, and it will punish and reward players for doing clever things that weren't even in the rules.
+
+I wrote about the first and second generation of games that appear to logically progress from this concept so far. To develop the second generation you definitely have to have something similar to the first, and so on.
+
+I could use a little help anyway:
+Until I learn otherwise this idea's original and entirely mine. Please notify me if someone else thought of this before December 2013, or if you see anyone using this idea in the future.

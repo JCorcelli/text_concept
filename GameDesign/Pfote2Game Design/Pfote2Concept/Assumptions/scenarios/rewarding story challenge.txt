@@ -1,0 +1,28 @@
+This is a story challenge / goal
+take skill, and some practice
+
+
+
+KEY ITEM
+1 unlock access to boss
+2 allow you to beat (otherwise impossible) things
+3 benefits for having key item (shortcuts)
+
+BEATING A BOSS / CHALLENGE
+1. boss
+keepers that imitate the behavior of owner... but primarily throw you out of their dungeon
+
+2. challenge
+exciting events that occur in a common area (retry at endgame)
+
+3. prestige?
+given for excessive actions, eg diving to the deepest dungeon room
+
+reward for scenarios:
+	1 unlock content
+	2 get the "real" key item, upgraded version that can be used outside
+	3 get a unique buff (stat buff) or skill (eg double jump)
+	4 a common buff (heart container)
+	5 uncommon (book)
+	6 equipment
+	7 craft material?

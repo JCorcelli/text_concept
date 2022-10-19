@@ -1,0 +1,50 @@
+BOUTIQUE (DEPARTMENT STORE)
+
+
+STORIES TALL
+	1 elevator
+	2 escalator
+	3 center balloon
+	4 scaffolding
+	
+	
+OBSTACLES
+	1 racks
+	2 baskets
+	3 shelves - high and low
+	4 shopping carts can double as item obstacles
+	
+ITEMS AS OBSTACLES
+	signaling - there's so much, that only the top items in stacks register.
+	
+	toy stacks - you walk on them and sometimes you sink in them
+	ball stacks - bouncy, slippery
+	racks of "card" shaped objects move like tilting furniture
+	
+	
+ITEM
+market - 
+	buy human goods
+	sell items
+	play / buy video games
+	
+GAMES
+	1 there are modern electronic games and consols for sale
+
+	2 display minigames are galore, trying to market sold goods, and games
+
+HIDDEN WORLD	
+THEFT
+
+	the physical goods are easy to take
+	cash registers
+	bunny thieves - a nickname for humans who mistake you for a great stuffed animal
+	
+dream
+	thieves!
+	things throwing toys
+	crazed mobs and sales
+	
+RARE MARKET
+	the bazaar - trades items 
+	some resold items can be rare

@@ -1,0 +1,81 @@
+BEDROOM OBJECTS
+bedspring.aup, 
+	recorded 
+	1. slow on-off, 2. fast on-off, 3. shifting while on bed
+	
+wood (knock)
+woodslide
+
+bedspringimitation
+fannoise
+	
+electric-ting (like a supercharged conduit)
+reallyannoying (static, sounds not exactly, but like a modem)
+reallyannoying2 (static, holds longer)
+tvOn
+tvOff
+woodcrack -cc0 Freesound.org - "Crack of branch 3.wav" by Adam_N
+	biting wood, for taking bites
+drybranchescracking -cc0 Freesound.org - "dry branches cracking.aiff" by SoundCollectah
+lampclicks -cc0 Freesound.org - "LampClicks.wav" by ViaTorci
+
+
+BUNNY
+thump
+	knock
+
+sneaking / grooming
+
+	gentle brushing sounds - cc0 Freesound.org - "WindLeavesRustlingPLUSTrainOct262012.wav" by kvgarlic
+	-> brushing (snip), brushingFeet (hi pit.)
+	voomEar 1&2
+		
+crunching
+	Freesound.org - "Carrot Snaps and Crunches.wav" by lolamadeus
+	Freesound.org - "Crunch" by wubitog
+
+drinking
+	Freesound.org - "Slurp.wav" by Adam_N
+	Freesound.org - "Water drop" by Elfman-Rox
+
+	Freesound.org - "Water Splashes / Liquid splashes" by Renjility
+
+HUMAN
+squeakyfootstep..1 and 2
+Freesound.org - "SwallowingLiquid.aif" by timgormly
+shoe
+	humanshoes[slow, fast, heel, toe]
+foot on wood
+	humanfootWood
+	
+grooming
+	humangroomHead... 1 and 2
+	
+taunt
+	Freesound.org - "ha ha ha ha ha ha ha ha" by contramundum -> laugh_snickering.ogg
+	fart
+	catpurr
+	
+	Freesound.org - "mhm.mp3" by gnimpl
+
+EVENTS
+
+
+menu
+	continue, menu1
+	droplet, any click (can trim trail)
+	
+
+EXTRA
+
+heartbeat 
+meow 
+	3 channels (sounds like aaht!? but may be cat noise)
+ocean / faucet
+
+Male laughter
+	Freesound.org - "Ridicule (laughter men).wav" by the_yura
+
+***
+cc0
+https://creativecommons.org/publicdomain/zero/1.0/

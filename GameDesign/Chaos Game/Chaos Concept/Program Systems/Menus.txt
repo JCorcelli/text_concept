@@ -1,0 +1,80 @@
+pseudo scenes
+	title screen
+		nn menu
+	HUB level
+		n mechanics, items, usage
+		nn sorted piles
+		
+	user levels
+		nn menu
+		one scene
+		saved levels (dungeon spawn list)
+			nn geometry
+			nn mechanics defined in HUB
+			
+	item creation
+		nn top menu
+			n form
+
+considerations
+	icons are smaller, good to preview a selection
+	text is well defined, always include it
+	no-nonsense
+	
+	menus that spawn menus should work singleton. barraging the player with a bunch of forms is an idea to complicate it though.
+
+No Nonsense Option Menus (no new challenge)
+	the standard menus aren't a game. they shouldn't bug or glitch. 
+	
+	1 starting game: eg title screen menus
+	They should be complete in their own scene at opening.
+	
+	2 huge lists: eg travel, eg user saves, eg item piles
+		are daunting and tedious normally. lists are the anti-stress game organization.
+	
+	3 ...
+	
+Nonsense Menus
+	Any commonplace task can be made difficult. 
+		
+		Any logical puzzle like pipe dreams can be deeper. They are the basis for an original game albeit.
+		
+		Any skill puzzle Like picking a lock can require more precision. Or tasks (time dedicated to require endurance).
+	
+	Menus themselves can represent hard to use interfaces, which is where nonsense menus get involved. A mistake could mean selecting the wrong thing (illegible menus), or not having something to press with (you have claws, and it's a touchpad!).
+	
+Donelist:
+		view item customizations
+			list saved names, resets
+			saved name : properties # change the menu
+				
+				
+			script for each item required to 
+				get the properties displayed
+				merge the properties with the spawning item
+			
+			
+			custom item saves
+				default prefab # basically, what I have
+					<-interface to change properties before spawning one
+					<-interface to examine spawned item
+						x x-interface to modify/ link (item specific)
+				custom saved properties
+					<-interface to save property to preferences 
+					
+
+			o INTERFACE PSEUDO
+			menus (also dict : key : item) (also + scripting)
+			+ menu swap, from main, display list
+			###
+			1 change scene
+			o virtual scenes : scene : spawned items
+				dict scenes
+				list <spawnable> spawned items
+			+ menu swap, display list
+			###
+			o 2 select item
+				default item = new <itemtype>
+			o item customs: item name: prefab
+				dict item customs
+			+ menu swap, multiple guis

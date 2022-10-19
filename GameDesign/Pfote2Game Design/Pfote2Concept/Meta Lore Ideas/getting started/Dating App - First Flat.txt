@@ -1,0 +1,61 @@
+
+This'll deal with the settings
+
+thnk of cliche locations: 
+
+LOCATION
+level 0: school gate, alley, 
+level 1: grocery, parking lot, subway
+level 2: mall, restaurant, movies, home, museum
+level 3: cruise ship, beach, rafting, tree, empty flowery field
+level 4: spaceship, space, fantasy, castle courtyard overhang, battlefield (golf)
+
+WEEKDAY
+level 1
+mon - thu
+
+level 2
+fri - sun
+
+
+EVENT
+none, vacation (magic buff)
+
+AMBIENCE
+level 1
+music: slow, pep, pop, none
+
+
+level 2
+music: bird chirps
+
+light
+candle, lantern, day, night, sunrise, sunset, eclipse, stars, full moon
+
+sky
+in the open, no sky
+
+misc:
+space ships,  flying birds ( annoy bunneh)
+
+level 3
+music: rock, groov, jaz, club (make the test easier?)
+
+level 4
+music: 8bit 1, 2, 3, drums
+
+light
+aurora
+
+sky
+space x (exploding planets)
+skyx
+flying fish, flying carrots, fighting ships (epxloding)
+
+
+AMB(OUT), first flat
+a nightlight
+music: radio, tv
+bed:
+toys
+clothes

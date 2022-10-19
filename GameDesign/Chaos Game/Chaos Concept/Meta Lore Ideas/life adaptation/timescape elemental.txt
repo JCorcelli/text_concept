@@ -1,0 +1,194 @@
+
+
+The elemental comes from an origin species above evolution, this starts at 1.0.
+
+foo
+	
+
+	final name
+		""
+		foo
+		""
+		
+	skill - 
+		flight
+		limbless
+		whistle, blow, splash, burst, clap, or snap to make sound
+		
+		communicate with energy fluctuation
+		
+		
+	name - foo (fu')
+	
+	faith - foo 
+	
+	1.1 - Foo seeds a planet
+	
+	Foo is foo and it comes from foo. It goes to rock, it can survive.
+	It goes to cold, it can't move.
+	It goes to hot, it bubbles and shrinks.
+	It goes to liquid, it dissolves and dilutes.
+	
+	It's a bad place.
+	
+	1.2 - Adapt
+	
+	Foo goes to liquid and it doesn't dissolve, it absorbs.
+	
+	Foo stays on rock and it absorbs.
+	
+	Foo continues to adapt to cold and hot until it survives.  But then, foo either survives one or the other, or neither.
+	
+	Note: This is a quick adaptation, the planet now has a mix of starting foo, Exceed, and basic Elemental species.
+	
+	1.3 - Convert
+	
+	Landmass is converted by elementals to match their extreme adaptations, and it's marked to warn foo.
+	
+	Foo boosts their production by spreading prism seedlings.  The seedlings near Exceeds sprout as a pure prism.
+	
+	Prism spawns from initial seeds are gathered and collected in groups. In time the prism energy is exuded. Foo use the planet like a giant battery, a furnace, an ice cube, and let the foo evolve.
+	
+	1.4 - Specialize
+	
+	2.0 Kinetic - strong and skilled labor, master of the planet's ecosystem. Their bodies are combinations of the planet's refined matter and exotic prism.
+		rock + prism
+	
+	3.0 Exceed - Bodies are almost pure energy, based on power received from foo.
+		water, fire, ice, rock
+		
+		any combination of these on the planet, after learning to adapt, the next extreme can take a long time.  
+
+		dim'not + shrine
+		Receiving dim'not at a shrine forms an eternal connection to the planet.  An exceed can manage the spheres they connect to.
+	
+	4.0 M-Tap - Close to foo, they can detect exotic energies like M-Tap, close to the planet they can detect alternative power sources.
+		Some elementals worship foo and endure hardships so they're gradually given dim'not for their effort.  If foo discovers even the smallest dim'not out of its reach in the future, it can be worth an eternity of its own power today.
+		
+	Note: foo knows everything that's not current or future
+	
+		
+	new artisan - crystal farmer
+		specialize in harvesting and growing special formation (crops), that grow with radiated prism energy.
+	
+		
+	new artisan - prism smith
+		forms magical weapons out of rocks and prism, similar to what kinetics are made of.
+		
+	new artisan - mason
+		someone has to build to worship foo
+		
+	1.5 Science Revolution
+	Crystal Science - Free reign of crystals allow trials to make use of them.
+	
+		Some immediate uses are: highly explosive crops, repusling shields, heater, freezers, light, etc.
+	
+	new artisan - geologist 
+		Better categorization of rocks makes for better farming.
+	
+	new artisan - crystal wise 
+		some of the crystal / prism properties are highly useful. Some crystals are exceptional and the wise can differentiate and define uses.
+		
+	
+	A surreal civilization of power conduits and crystalline caves sprouts up.
+	
+	1.6 Elemental Science
+	
+	new artisan - Magnition
+		Focus on quickly conducting all kinds of energies to storage and foo containers, to empower it.
+		
+	Conduits in particular let prism and crystal energy flow, first in dangerous arcs from one conduit to the next, then small strings of conductive materials, then through tubes like liquid. Gradually the energy transport grows stabler and produces less radiation.
+	
+	The different types of energies are highly diverse due to impurity.  This only increases the demand for fields related to its enterprise.
+	
+	
+	new artisan - Practice Elemental
+		someone who becomes highly attuned to conduits can conduct similar energies safely.  This blurs the line between skilled power elementals and exceed. 
+		
+		For comparison: 
+		Exceed become power, they generate it continuously after adapting. They can control it, or become it. Limitations are anywhere from visible quirks to complete loss of tangibility. 
+		
+		Elementals can learn to control power, exactly like Exceed, through practice and remain completely normal (Art + Magic).  A power abuser risks adaptation or complete self-destruction.  They lack the power of altered form.
+	
+	new artisan - Crystal Power Magician
+		Someone who uses crystal wise practically.  This is called talentless magic because it requires no affinity or sense for energy to use crystals.  Although, it still takes practice.
+		
+	new artisan - (Kinetic) Speed Junker 
+		These elementals can fly. A junkie uses energy as propellant formulae to fly ROCKET FAST.
+		
+	1.7 
+	Culture - Construction
+	The rocks and metals of the planet are way harder than the Elemental's natural skin.  They can use it, with some help from stone and fire Exceed.	
+	
+	artisan - (Exceed) Metallurgist
+	artisan - (Exceed) Material Craftsman
+	
+	artisan update - Rocket Junker
+	In order to go faster, with or without wheels, propellant has become quite powerful. What junkers needed was some way to survive the flight. A chassis big enough to fit one speed junker is easy work, the propellant and igniter is safely separated now with containers.
+	
+	The rockets are popular for unmanned flight as well, although someone performing safe practices isn't a qualified junker.
+	
+	Culture - Ex Elemental Renaissance
+
+	
+	Refine the materials, become uniform. Exceed are becoming those refined materials in time, similar to how fire exceed become pure heat or ice exceed can become sub zero.
+	
+	Refining down to uniformity of matter and energy is seen as elemental.  Although they can't invent their own matter, foo seeks more exotic matter in this universe.
+	
+	1.8 - Space
+	Foo can now safely exit the planet with propulsion technology plus batteries.  Space is deadly, cold and solid material exceed have a chance to survive so long as they remain perfectly still.
+	
+	With spaceships, or something like spaceships, it's way safer.
+	
+	Culture - Planet Colonization
+	
+	They go to all the planets immediately and foo seeds them the same as the first.  They discover heavier (in proton) elements, more diverse elements, and eventually, exotic matter.
+	
+	Note: An exotic matter exceed can't imitate is unlikely, information is an example, robots, genetics, M-Tap, Psychic. Pure energies are limited to gods.
+	
+	1.9
+	
+	Culture - Rare Matter Science
+	
+	In order to determine if matter is rare or exotic it's transported to planets with the most adapted exceed, where they may attempt to manipulate the matter, purify it, or adapt.  Through this discovery method it becomes simple to reproduce rare matter, so a purpose for it can be determined.
+	
+	new artisan - (M-Tap) Magic Artificer
+	
+		The art of true magic uses one of the exotic matters discovered in the universe.  However, to contain it, a godly power is required.  For this sole purpose artificers are trained by foo.
+		
+		Artificers can (preferably) secure, contain, enchant, disable, or destroy true exotic matter.
+	
+	new artisan - Magician
+	
+		They use the artifacts provided by artificers.
+		Some of the potentials of exotic matters are innate: unlimited power, knowledge, materialization, immunity, invisibility, intangibility, solidification, liquification.  
+		
+		Some exotic matter can be programmed "enchanted."  Despite not knowing the true purpose of this matter, many things are possible.
+		
+	1.10 Discovery - Alien life
+	
+	
+	Along with aliens the discovery of exotic matter takes on a new meaning.
+	
+	Organic life is an exotic matter.
+	
+	Manipulating alien with Magic does not make them happy.  Elemental life in general is severely detrimental to most organic life because of radiation.
+	
+	Manipulating exotic matter life has similar properties as programmable exotic matter.  The targets malfunction when they cease to upkeep a base need.
+	
+	1.11 Alien resource
+	
+	Foo discovers dim'not can be generated by aliens with certain conditions.  More importantly, they can extend foo's power the same way foo could on its own and let it collect dim'not from them.
+	
+	This highly useful resource creates a tense atmosphere, because they could also fight against foo.
+	
+	
+	??? I guess I could write about Exceed and the other adaptations separately.
+	
+5.0 Elemental Adventurer
+	Having discovered aliens, adventurers can learn all kinds of things from alien culture.  They can spread belief in foo.  They find resources known well to aliens who have worked for countless years.
+
+
+	They have to follow alien customs, and adapt to hardships.  The result is something like an elemental body with the training of a Techo Civilian (usually), so they have common sense and language.  Their loyalties may change, but there's little a sole adventurer can do.
+	
+	They can adapt e.g. Exceed that co-exists as wind, rock, light. However, this doesn't break the bond with foo.  Wherever they go foo can see and foo can seed their planet with prisms.

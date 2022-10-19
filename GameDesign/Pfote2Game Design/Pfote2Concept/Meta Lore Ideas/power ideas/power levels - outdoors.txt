@@ -1,0 +1,168 @@
+POWER LEVELS - OUTDOORS
+basic skill level progression. maximum level would require you understand the controls. before that ranges from coax, engage, challenge
+
+LEVEL 1
+
+coax / the mundane
+
+terrain -
+	safe, coax - climb or jump for small rewards
+	
+	zero visibility - show yourself for small interaction. move around to find things.
+	
+	hiding spots - quick travel
+	
+	
+	flowers 
+	hollows 
+	grass 
+	
+	
+food - 
+	healing 	sun and heart berry
+	fun 		grease family 1 - coloring
+	nuisance 	water jets - pushing
+	sparkle 	carbonated water - visible
+	
+animals - friendly, helpful, skittish
+interference:
+squirrel > lizard
+bird
+
+dream - puzzle theme, obstructive, harmless
+
+
+LEVEL 2 
+
+voluntary / introduction to big mechanics
+
+terrain
+	slopes
+	easy height management, 2-3 jumps high
+	voluntary visibility	
+	
+food - curative, gunk
+	mush formula
+		healing
+		speed buff
+		illusion
+		
+	cheese	inedible, talks too much
+	
+	
+	
+animal - unfriendly, sneaky, annoying
+	pig		dig, bombs walls, terraforms sinkholes
+	cat		hides, startles you
+	birds	squawk, increase threat level
+	
+dream - sneak theme, timed movement, annoying monsters
+	action segment
+		damaging bombs
+		bomb rock veins
+		rock growth veins
+		
+		weak monsters
+		
+LEVEL 3
+
+engage
+terrain
+	ladders
+	platforms
+	falling can cost a few seconds
+	hiding spots are present
+	
+	
+food - buff, debuff
+	hyper shroom
+		stuns you in terrain
+		power to ram and ranged stunner
+		
+	banas 	lure, buff; banana or flag, music, shiny
+	
+	sharp gras - pain
+	blade grass - eat for shield
+	saber green - eat for sword
+	
+	
+
+animal - daring, thieving, bullies
+	
+	dogs	get close to get scent, second time they shout and leave, increasing threat level
+	squirrels	take your thing you carry
+	wild bunnies	bullies on shrooms
+	
+dream - item obs and monster
+	item
+	thrown orb
+	
+	ob.
+	immortal barriers
+	moving platforms
+	
+	monster.
+	canceller - stuff in the way of jumps
+	bird - various, shouting, bullying
+	
+	sword.
+	fiend - sharpened body
+	knights - short human, sword skills, oppressive force when they see you
+	
+	
+LEVEL 4
+
+challenge
+terrain
+	greased effects
+	
+	artificial for purpose and effect
+	dig deterrent
+	
+	unwanted side-effect for failing a maneuver
+	lengthy recovery
+	
+food - morphing, penalty
+	grease family 2 - special effect on terrain
+	
+	challenge family - course or puzzle based effect
+	
+	dizzy jun - underground shrooms, dig
+
+animal - punish, restrain, entertain
+	people - pick you up and try to rescue you, you are brought to a shelter or vet
+	
+	threat mob - various mobs that respond to threat level now fully act
+	
+	grease mob - perform a trick with grease 2
+	
+dream - 
+	morph ghost - monster with grease power, up to level 3
+	
+	bana.
+	gate keeper - closes a gate
+	siren - force your view
+	
+
+LEVEL 5
+
+punishing
+final - to stay here, you can't fail
+
+terrain
+	themed environments
+	morphed and unnatural
+	
+	skill requirement
+	
+food - engineered, and sheer power
+
+	grease family 3 - devastating effect on terrain and potentially animals, morph/reset, damage/ reform
+	
+animal - unlimited interference
+	
+	they try to throw water at you
+	they stop you from reaching special foods
+dream - unlimited danger
+
+	demon harbinger - instantly transform world into nightmare

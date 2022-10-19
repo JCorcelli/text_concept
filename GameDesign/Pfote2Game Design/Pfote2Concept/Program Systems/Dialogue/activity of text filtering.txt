@@ -1,0 +1,24 @@
+steps of text filtering
+
+user proc dialogue
+
+stored "abc"
+streamed ""
+goal "bac" is already mutated by user
+
+
+while stream isn't at goal
+proc
+"b-ac"
+misheared by stream
+"bhf"
+interrupt
+"bf.."
+
+streamed "bf..."
+stored "bfs"
+
+storage handles "bfs" its mutator active
+last user = user
+
+mutate "bfsh" in 2 minutes unobserved, mutates to silence if observed more than 6 times, mutator dies after rest. last user = "". 

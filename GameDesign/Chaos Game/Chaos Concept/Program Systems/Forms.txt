@@ -1,0 +1,32 @@
+literal forms with organized information visible on them
+
+o 1. desktop metaphor (desk m.) with a piece of paper that turns
+	saved preference / spawner
+2. desk m. as individual property slips that turn
+	for 3d instance
+
+	
+visually coded "properties" (eg Type A:Z teleport form) in-game. This increases the sink potential for purchasing multiple.
+
+1 In terms of forms the type probably doesn't improve the item, but better items would be found on better types. Maybe they allow you to specify a novelty.
+
+2 For eg color coded orbs, an obvious difference would be red:fire, blue:ice. But maybe some things not so obvious darkbrown:mud, darkbrown2:slush.
+
+		
+DoneList:
+	ExitSForm""
+	
+	P problem: I'm thinking: "explicit navigation if I set every item when it's generated. OTHERWISE it'll look bad.
+		OR write a script."
+		
+		
+	S solution: updated save as to save everything. warns about overwriting. I could probably make this more clever
+	
+	o problem:
+		1. a load button on the form is really strange.
+		2. a save all vs save as is somewhat misleading
+			remove the save row
+			
+		3. overwriting the autosave is dumb. 
+		
+			Well actually the autosave is the save I use. I should make DONE clearer.

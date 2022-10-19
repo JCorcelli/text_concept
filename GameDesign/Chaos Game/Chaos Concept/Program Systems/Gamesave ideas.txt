@@ -1,0 +1,38 @@
+Where do you get all the materials?
+
+Interaction
+	workstations should handicap the user for the enormous boost in productivity
+		eg building an engine doesn't allow you mobility to hide in a corner while carrying a huge metal chassis
+		
+		owning a store advertises when the owner is in it, for thieves to go elsewhere
+	
+Item Form
+
+	continue session... like when I use backup to continue one item, but with multiple
+		needs a close all option then
+	
+		probably won't be obvious how nice this is until the actual usage matters
+		
+		There's also the likelyhood that I can and will save a 3d building interface like a dungeon.
+			
+Saving:
+	open UIs
+		If i'm actually saving a list of open 2d graphics: the position, rotation, and stack position will matter
+	
+	more data to track:
+		o last selected preference
+			but nothing's coded to follow it
+			
+		favorite items
+			like... marked, easier to find than normal
+			could just use the current save list
+			
+		
+		inventory / vs / build
+			inventory sounds limited. On the other hand, a teleporting device isn't.
+			
+			I can save an inventory when I know for sure what it is.
+				Like... how abstract should it be. How much micromanagement?
+			
+		using / vs / equipping
+			I can use one thing. I equip clothing, like an inventory bag.

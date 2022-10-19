@@ -1,0 +1,17 @@
+maybe the dialogue zone should NOT use a standard layout, but instead different pictures involved with the scene.
+
+see ui state for programmatic level info
+
+dialogue zone
+	a tailored ui state that takes keyboard inputs	
+app
+	a mini window
+widget
+	if you're close enough to use
+memory log
+	a lot of specific things go in here and it can be a pain to sort.
+window
+	laptop open can take window 
+	
+proximity area
+3D clickable

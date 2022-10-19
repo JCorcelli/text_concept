@@ -1,0 +1,70 @@
+thinking about this for an individual game takes an unusually large amount of concentration.
+
+logic is a learned behavior
+sense is a natural talent.
+
+First type of game will be a maze. I'll call it "Mistry".
+
+The sense can't be any tougher than action based time limit or a deadly obstacle.
+
+Here's the use case in a streamlined 
+
+###Mistry
+level based system. failure reduces level by one.
+
+find how to navigate
+navigate safe maze
+increase difficulty each success
+maze is bigger
+there's a pit (obstacle) next maze
+no pit. there's a maze with doors.
+there's a spike, which blocks a direction for 1 second, and moves out of the way for 2 seconds
+after 20 seconds the first room fills with water. you drown in 5 seconds (25 safe time).
+
+### Mistry 2
+Next will be an RPG with puzzles that require a different skill to be displayed before incorporating it into a maze.
+
+There's a design challenge.  Important factors.
+
+1 What skills are integral? 
+	Patience. Danger recognition.
+
+2 What skills do I want the game to require? 
+	None.
+
+3 What skills are optional? 
+	Timing. Reading. Critical thinking.
+
+Qualifying 1: It is a maze, requires patience. It will have obstacles.
+Qualifying 3:
+	The timing can get even tighter if the player voluntarily takes more difficult routes.  A reward system can be implemented, like shortcuts.
+	
+	Critical thinking can be added by improving performance through voluntary planning and solving problems.
+	Talk to several NPCs:
+	the smarter one may be a guide.
+	a much simpler challenge can be offered.
+	A map reveal for a very difficult maze.
+	
+Assume the game progresses like Mistry 1
+
+1	Make easier
+	There's a merchant that sells maps, or you can get a free description.
+	There's a child who plays in the maze and knows of treasure.
+	
+2	Make harder
+	Angering a gang add obstacles
+	Following disreputable guides places you in dead ends of a maze
+	
+3	Shortcuts
+	A shift in the maze can make it longer, but a well timed dash through shifting walls can shorten it.
+	
+	A shorter path can have more obstacles.
+	
+Other elements:
+Level design takes a while to create good mazes.  It's even longer to add extra dangers and shortcuts.
+Art can add confidence in the game's design and display competency that's easier to see.
+Music has an underpinning affect on audiences.
+
+Additional art can improve the NPC.
+Writing can improve the NPC dialogue. It can also greatly enhance the critical thinking required, and balance difficulty of discussions.
+Playtest will confirm if timing / challenge is worth it.

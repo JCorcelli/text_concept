@@ -1,0 +1,41 @@
+concepts
+space zoning - shifting: press space key and the view changes, also prevents drag movement
+
+signal - select: click at appropriate distance
+touch - trigger: touch and press prompt key 
+initiative: zone and drag
+
+programmed checks
+	# I'll recommend a base class to inherit
+	
+	flag method - flags
+		
+		(is zoned) - for initiative
+		(can see)
+		(is touching)
+		
+	
+	User
+		key press
+		
+		drag
+		click
+	
+	
+	-action-
+	
+Summary
+	A context interaction
+	
+Assumed Use
+	
+	signal
+	Click from anywhere. some change happens, preferably it's big enough to notice.
+
+	touch
+	Pressing E next to box at prompt. Bunny goes inside.
+	
+	initiative
+	Bunny dragging to box. Goes inside. 
+	Item dragging to box. Adds item.
+	Item dragging to bunny. Picks up (wears as hat), eats it.

@@ -1,0 +1,101 @@
+states to check each button press
+
+SINGLE
+
+think of it as 
+selecting focuses one object
+all button presses are focused on that object's shortcuts
+
+if nothing's selected then "root" is actually selected
+
+...
+MULTIPLE
+
+for inventory selection only
+	
+	
+...
+menu
+	item
+		item
+cancel (common)
+
+
+	
+spirit (in zone)
+	code:
+		selected
+			cancel deselects
+		no selected
+			cancel zones
+			
+
+character - add a script to set position to 0,0
+	body - position to spawn point
+	resources - position 0,0
+		code:
+			stats
+			selected
+				what buttons do, 
+					read status
+					take action
+	
+	
+zone:
+	what is selected?
+		(cancel)
+	what is hovered?
+	on signal
+	on drag
+		start object
+		(cancel)
+		end object
+		# try to act 1 on 2
+		
+item
+	body (3D)
+	resources
+		/inventory *
+		
+		spawned -
+			trigger near body - prompt "use"
+			
+		code:
+			stats
+			what item does when acted on
+				eg
+				"observe"
+				
+				"use"
+				drop
+				throw, impact varies
+				
+				
+				initiative - varies
+			what item does over time:
+				eg
+				if active
+					combust
+					
+				eg
+				fade 5 seconds, despawn
+				
+				eg
+				potion brews, spawn item B, despawn
+	
+inventory * - should be a list of behaviors
+	code:
+		on hover - hover icon
+		on signal - equip / hold
+		alt signal - menu
+		initiative - varies
+
+	image
+		icon
+		hover icon
+		
+	alt signal menu
+		code:
+			what buttons do
+			
+

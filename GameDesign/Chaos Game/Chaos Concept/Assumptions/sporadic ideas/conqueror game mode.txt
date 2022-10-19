@@ -1,0 +1,16 @@
+conqueror game mode.txt
+
+played like a roge/ hardcore 1 life
+
+a vote is cast and the winner is the player with highest points if enough living players vote to end it.
+
+the dead players go play a different game and the result can be viewed later
+
+
+should be a time limit, a power limit, etc. like an RTS game match
+
+point gains
+
+	luck finding high prestige locations
+	being incredibly successful
+	player manipulation or npc manipulation

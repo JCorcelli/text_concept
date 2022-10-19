@@ -1,0 +1,70 @@
+DATE SCENE CIRCUS / FAIR / CARNIVAL
+
+It's a big event. Only weirdos come alone.
+
+point of interest
+	rides
+	games
+
+other features
+	prizes - stuffed animals
+	animals
+	balloon
+	junkfood 
+
+BEHAVIOR TO IMPLY RELATIONSHIP
+
+blind date (stage 1), PRIDE
+	offering advice
+	no sale - phoning a friend
+	tunnel (1 person)
+	
+friend (stage 2),  ENVY
+	obsessing over friend
+	compliments
+	
+date (stage 3),  GREED
+	demanding prizes
+	keeping winnings
+	interrupting
+	grab - physically touching
+	
+childish date (stage x),  GLUTTONY
+	eating
+	balloons
+	getting on rides
+	going through tunnels (2 people)
+	
+DATE (A>B mechanic)
+
+BLIND
+1:1 Obstacles
+	1 Want to be with friend, make several phonecalls.  Phonecall is not interrupted unless bunny stops it.
+		Actually meeting the friend, nominating this to envy.
+		
+	2 Try to escape through tunnel. Otherwise lose the date's interest.
+		Solo, weirdo.
+		
+	3 Giving advice, like the date is just work. Interrupting friendly conversation.
+2:2 Obstacles
+	1 Talk about friend.
+	2 Try to escape with friend.
+	3 Force a fake rule.
+
+With these hard obstacles in the way of a blind date, normal date behavior slips through the cracks.
+
+ENVY
+Friends just talk and change the subject to the other person. It gets real boring.
+
+They can watch people.
+
+GREED
+Want to play game. Have to wait.
+
+Want a prize. Have to play well.
+
+Get closer to date. Have to talk.
+
+GLUTTONY
+Unfair. Orchestrate the event.
+Spend a ton of money.

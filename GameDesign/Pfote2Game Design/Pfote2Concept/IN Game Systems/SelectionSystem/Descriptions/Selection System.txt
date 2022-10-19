@@ -1,0 +1,5 @@
+UI
+element : part of layer
+active : visible and selected
+layer : element that hides and reveals a group subsequent elements
+

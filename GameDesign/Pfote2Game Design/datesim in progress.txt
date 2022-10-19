@@ -1,0 +1,361 @@
+the process of making the datesim interface, from laptop to drawing ambience, back to the imagination zone
+
+####################
+###3DDDDDDDDDDDD####
+
+1 dia: on/off with "space" easyzoning
+o  o o step 1 : zoning: allow 3D movement
+  
+o	o step 2 : check proximity - 
+	
+o	o step 3 : make use button press the button I can click on
+		
+	Important steps for the app game
+		start app
+		start date
+		zone in/out
+		
+	I'm supposed to 
+	p	1 open the laptop
+	o	2 open the app
+		3 setting the date - this displays changes in the datezone
+		4 starting the date - 
+		x forcing zone use
+			for better illustration
+		o zone in/out
+			display imagination
+
+remember 3D click isn't different from 2D. it looks 2d on screen
+
+	
+#################### a little broken, but the parts are there
+###2DDDDDDDDDDDD####
+
+3	
+make a 
+o	o new scene, and 
+	make the laptop interface basic
+	
+		
+it's a ui state that 
+o	1 needs to be "quit" - cancel button.
+o	2 load prefabs as apps, displays in task bar
+	
+o		o sim app
+		power control, script
+o			o make it permanent, bottom right
+			shut down...toggle
+o				o function
+x				realism
+x			reset
+				needs script, or animation, for power-on power-off animations
+		a blank app window
+o			window dragging
+o		taskbar icon, visible when app is on
+			o uses listener, good enough a trick as any
+			o open/close/minimize
+			
+o		I should be able to close the task icon
+?		future maybe let the taskbar manager create task listeners
+		exe would generate the window, icons, etc for full 
+		x realism
+4
+laptop app, outside the dialogue
+
+! it's complicated: 
+o new scene
+datesim.exe app icon
+o	import / grab the date interface
+
+	
+	there are multiple scripts with critical variables
+?		date zone - 
+		dialogue zone
+			hub ...
+			listener (ref:hub)
+?		laptop - 
+		dialogue zone
+o			window
+o				hook, hub
+>					widgets
+					reuse all the widgets
+
+					
+				o+   need a hub connect
+				o+	when I send a message to the new hub the hub has to relay message the var/hub.
+o	app window hub- 
+		hook + hub
+o	dv-listener - for ease of use
+	
+x	clones
+(try a prefab next time)		
+	
+o	where's the hook? 
+o		something that can be turned off when the laptop turns off
+		
+		o the listener - can listen for power message and "close"
+	
+	game settings,etc - on laptop
+p		need buttons
+o		generate or handmake the interface
+		(hook updates as soon as it's connected)
+		
+p		ambience needs a preview really
+o		preview
+		
+o		location - 
+			o access
+?		would be cool to change during
+		
+o		day
+o		event
+		
+o		the step counter
+		misc buttons
+o		random - fix access on day/location
+o		revert / Undo All (same effect)
+o	 	submit
+o		next , back, exit
+
+		
+		
+o		ambience
+		
+			
+		o	a type of radio hub
+			p	group scroller (varies?)
+					custom radio button
+					access enable tabs, make them lighter?
+			p	group of sprites
+					access allow object to appear
+			p	show all button
+				clear, random
+				
+		o	drag, like icon over preview
+		o	press on preview
+		o	reparent to ambience canvas?
+			
+			appear in master canvases
+		o		preview/dragzone works great
+				the position, size, and ... behaviors need to be preprogrammed
+				
+				version 1
+		o		preview
+		o		 adds eraser collider
+		o		 adds default drag 
+				 
+				
+				these should have active and pasteboard objects
+				app - date on
+				imagination zone
+
+				finally the imagination zone can have ridiculous emergence
+				
+		o	erase right click? 
+		sprite needs a unique identifyer across? or? replace every time?
+			
+		o	I made a selector, it sets its child as the dragged
+			
+		o	If I could set said child, and initiate a behavior, that'd be even cooler
+		o		how about, "ambienceBehavior", MakeReal, in the child
+			allows deletion
+			
+				OnSelect/Deselect is for groups
+				
+				allows randoms
+		o	places objects in a list
+			
+				onchange might help remove the object
+				check relatin/level?
+				
+				delete amb preview = update
+				
+				now each child can have its own behavior
+			
+		i	brush
+				"ambienceBrush"
+				o script
+				grouped sprites
+				
+		i	note: kinda works like particles
+				using per frame
+				...
+				o jitter the position 
+				and size...
+				
+			I want to have a size adjustment based on canvas size
+				
+			o a type that'll randomly pick from the children
+				"ambienceGroupRandom"
+			
+				
+		
+		the ambience size is WRONG
+		the bg objects need to be RESIZED
+		
+		there should only be one of VAILABLE BG SPRITE
+		
+		need to resize
+		
+		o need public method calls for a correction script so it's easier to use
+		correction script for parent rect size / position
+		
+		o	normal size in parent
+			o normal size
+				o based on sprite
+				x based on other choice
+			o normalized size offset (.5x - 2x)
+			bools
+			o sprite dimensions
+			o parent rect size
+		x	auto correct position
+		o	manual call
+			
+		o	Fix method
+		o	reparent method 
+		 
+		o just don't alter the enable
+		o	copyTo method 
+		o	clone method (for copyTo)
+		
+		
+		o  all canvases now need a "ambience zone"  that can copy objects from their variable hub
+		
+		
+		
+x		x the "load" commits a small crime of lag
+		
+		x try drawing to a texture on submit, have the trails become the paint
+		x tried and failed paint because holy fuck it's complicated and the texture's source is not even readable by default
+		
+x		x	check for add canvas
+			consider simply moving the window
+			avoid turning objects on quickly, if they're unnecessary
+		
+		 x all ambience now needs to look good
+		
+		there might be an easy to way to create a png...
+		
+o	connect var and task (it only needs to change app_on)
+	
+	
+	
+REVISITING ISSUES	
+	
+fix bugs:
+
+	o important the option recolor temporarily broke
+		this was caused by a debounce when two similar apps interact with the variables, causing simultaneous update
+	o	1  (used): telling it not to update one of them
+		
+	?x	2 (not used) : designating connected, controller (not update the disconnected ones, not acting without control)
+	
+	
+
+
+	bug: 
+	the animation options do nothing
+
+
+	potential bug: 
+	the relation is realtime but the text isn't, the level access should be level
+
+	bug: 
+	the relation resets each end date
+
+menu (setting) fixes
+	o  click for some buttons, press for others ? not entirely arbitrary but odd
+	
+	o I want the option I press to slide to center
+	
+	o I want the keyboard to move the focused option
+		o yeah
+		o now select the focused option
+			maybe
+		
+		
+	tapping direction on keyboard should speed up the option
+		yeah I can do that, just check if it changes and increase the speed
+		
+	
+	there's a potential need for a cursor to appear, or for tab to move between options
+	
+	I dislike unity's auto-navigation system
+		it's a mess, and pressing space to back out of menus is awkward
+
+		
+o	I added functions to select global, and it'll work with select abstract. Since pretty m ev thing else checks input. I don't think it'll break much.
+o	I changed select abstract to abs.anyhandler (it handles buttons)
+
+I want some kind of "focus" like, if I click anything it sets the whole stack focus
+	1 hierarchy - logical, phys. collision - ui interception
+		check if selected is child
+	2....
+	3 ui - pre-focus
+		keyboard focus, for active use
+		common use:
+		a click takes focus, 
+		danger:
+		remove focus as soon as the node is not interactive, or disabled
+		extra:
+		take focus when activated
+		
+	don't mix things that take keyboard inputs without requiring focus
+		(huh, yeah, that'll cause problems)
+
+Ludic Beautification
+o 3D decoration - laptop
+	a 3D version of the 2D UI
+	o I move it into world space, force one frame of lag after killing the alpha to hide a delay, no problems
+	
+	
+
+Datesim 
+
+old problems to correct
+
+x	the conversation is fake 
+	- it won't matter
+	
+	I should review/finish the text parse, if only to make writing easier
+	
+	
+improve these and it'll look nicer	
+o	1 highlight
+o	2 I need to make it a scoll rect
+	
+	
+	3 effects
+		add "snap" effect. A black bar to show interrupting. 
+		
+		think of more
+	4 recognize ambience
+	5 alter options based on proposed dialogue states
+		game on!
+	
+	6 the end screen is boring
+	
+Datesim/ other interaction in 3D world
+
+	resource of bunny
+	
+		memory log - reference to event (of playing datesim) and the things said in datesim
+		future: the truth / lie sys.
+	
+	speech widget - speech at the bottom
+	BillA - speech at head of user
+	pop - text at options
+	zone - signify options to signal
+	
+	real-time? Basically, makes the game look real
+	
+	human personality - require daily kiss
+	
+	3d ambience
+
+	
+	
+Final Fixes
+fix the camera control
+zoning / cancel behavior across UI
+keyboard controls in menus

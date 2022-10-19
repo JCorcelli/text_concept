@@ -1,0 +1,61 @@
+ELEMENT
+
+manual node sorting? moving elements.
+
+new element is anchored
+the list is auto-scrolling
+
+1 drag
+start dragging the element 
+	auto scroll needs to stop. When does it start again?
+
+2 detach
+drag detaches element immediately
+	everything below it must move up
+
+3 surf
+drag or "arrow" surfs all elements until you're in end position, or outside
+
+(scroll options move the list, surf steps through it)
+	
+4 attach
+move any detached element
+	stops the auto scroll
+	touching list begins a surf
+	releasing anchors it
+
+
+
+ATTACHMENT PROPERTIES
+
+1
+detached objects must stay on screen
+
+	a drag option tends to be a tab. 
+	I can check what the dragged thing's doing
+2
+anchored objects can be hidden
+
+	
+	
+BREAK
+
+items vs elements
+	elements store items
+	items aren't visible until open element (eg they're hidden )
+
+
+
+	
+ITEM
+
+tabs could hang behind the elements, revealing widgets
+widgets are between text
+widgets are taking up the whole element
+elements can be items that appear when an element is open
+
+
+ITEMS affecting ELEMENTS
+
+1 a widget is necessary to open an elements
+2 a widget would be necessary to modify an element, 

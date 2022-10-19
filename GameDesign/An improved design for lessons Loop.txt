@@ -1,0 +1,145 @@
+An improved design for lessons? Loop
+
+I tried to describe an adaptation of this idea to [u]Hungry! A Story[/u] but the rest has been a process, which arrived here.
+
+Rote gets boring. Mnemonics alone lacks a concrete purpose. Obvious solution, use them both. Less obvious solution, use them both every time there's an important thing to remember.
+
+[b]INDEX[/b]
+Summary
+Hungry! A Story
+Generalized 
+Vocabulary Lesson Example
+TL;DR
+
+
+[b]SUMMARY[/b]
+This is a simplified explanation.
+
+I test, rote engage memory, add at least one detail
+II mnemonics, code long-term memory
+III discovery, creativity, mastery, self-directed learning surpassing those initial steps
+IV redundancy, rest, try again
+
+
+
+[b]HUNGRY! A STORY[/b]
+This could be how a game looks (see below for deeper explanation).
+
+
+I. Basic
+	I'm a bunny.
+	
+	There's not much grass. I try to eat an apple but it rolls away.
+	
+	I will go hungry without that apple so eventually I figure out how to sink my teef in.
+	
+
+II. Mnemonic
+	
+	There are an excessive number of apples along my path. A few are in oddly out of reach places. Really, nothing to worry over.
+	
+	Some things I eat aren't really apples, but the same thing works if I am hungry.
+	
+
+III. Explore/ Progress
+	
+	Now it's not like apples are new, but the lack of grass is. In the direction I'm going, there are plenty of apples, and little grass.
+	
+	There are also a lack of apples over time. If I take a break to consider my next action I can avoid being hungry. I can ignore the hard-to-reach apples still, but maybe it's safer to try.
+
+
+IV. Redundancy
+	I see an apple, the sub-par grass abundance has left me famished. Luckily there's a downhill area where apples tend to roll.
+	
+	I suddenly feel like I've been here before...
+	
+	I bid farewell to apple desert. Only to return later, when I'm ready.
+
+
+
+[b]GENERALIZED EXPLANATION[/b]
+I keep breaking down the early study so this is less and less appealing as I go on.
+
+
+I. Basic Adequacy
+	1. Test long term memory, providing incomplete information. Should be quick and easy to pass.
+	
+	2. Gather the forgotten or new info to short term memory. Short delays, rote imitations, until it can be nearly repeated without source.
+
+	3. Skill factoring. Recognize nuance, context, or minutiae involved that is bordering a student's neveus. Break impossible lessons down into easier pieces.
+
+
+II. Use Mnemonics, Code to Long Term Memory
+
+	1. Structure (Story Structure) is a user friendly service/mnemonic device, easy predictions are emotionally fertile. 
+
+	2. Establish context, reference the new by detailed definition, indication when tangible, location, observation, anything that differentiates it from current knowledge.
+
+
+	3. Use metaphors, use of well-known to add context to an unknown, especially the intangible, anything that integrates current knowledge.
+
+
+	4. Broken down into small easy steps, a big complex thing is only a matter of time to learn.
+	
+	5. Apply the interests of the learner, as many points that can be hit at once, to spread a deep seeded connection.
+
+
+III. Exploration, Self Reflection
+
+	1. Discovery stems comes from the desire to explore.
+	
+	2. Creativity. Theories. Hypothesis. Manipulate minutiae, recognize and subvert patterns, seek unexplored avenues to reach the new new. 
+	
+	3. Display pragmatism, an ability to deliberately reach a specific outcome. A demanding test, or a challenge without foreseeable end will require this.
+	
+	4. Masters speak of a daemon guiding their actions. Consider what was learned recently, and take a momentary rest.
+
+IV. Redundancy
+	At a future time continue building from this foundation challenging the longer term memory. 
+	
+	Start from 'I.'
+
+
+
+[b]VOCABULARY LESSON EXAMPLE[/b]
+
+For every word I want to learn I go through all this in about 10 seconds.
+
+
+Part I: basic
+
+1. Test by definition
+
+2. Rote memorize new words
+	multiple syllable words are particularly hard to remember
+	
+3. Challenge memory (no hints or cheats)
+	I try to remember each difficult word I pass until the memory fades. I will encounter them again soon.
+	
+
+Part II: I create mnemonics very quickly using whatever I can
+
+1. Nuances; tonal, spelling, hearing
+2. Reference by image, use in sentences, using the definition
+3. Breaking the word down to syllables
+4. Metaphors, imagining stories, references to interesting context
+	
+
+Part III: self reflection
+
+1. Trying to own the word, creating more mnemonics, use multiple words. 
+
+2. Pragmatism. Sticking to proper syntax, imitating the use exactly as I've witnessed in past. Trying to think of situations it'd come up.
+	
+3. Deciding how difficult it was to reach this point. I'll take a momentary break if it's incredibly difficult. I completely stop from self imposed limitation.
+
+Part IV: redundancy
+I use a 'flash cards' program, so I'll explain how that works.
+
+Old cards are displayed, and I grade fail or pass. A pass auto sorts old cards back longer and longer intervals. I can also edit the cards manually, at any point.
+
+Words I think I memorized recently are sorted to show up with the old ones the next day.
+
+An old card becomes new again manually if I have a failing score. New cards will always appear again after I read through old cards, closer to the front than any other not yet graded card.
+
+[b]TL;DR[/b] use rote and mnemonic practices together. Rote challenges memory, the mnemonics you learn, and create for yourself codes to long term memory.

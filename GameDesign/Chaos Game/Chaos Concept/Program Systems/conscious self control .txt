@@ -1,0 +1,47 @@
+Thinking about mechanical systems.  The goal should be to move from dev to outsider quickly so it becomes a mundane part of development.
+
+a short system like this can be daunting if I try to consciously retain it for long. That is the job of a computer, a number of small simple jobs.
+
+outsider - every thing's mundane, passive, functional in appearance.
+
+player - when I can affect it, it matters.
+
+dev - it's a job list.
+
+programmer - it's an algorithm.
+
+checking for cover (player)
+
+bunny
+	hidden in box
+	visible to light
+	under cover
+
+
+checking for cover (programmer)
+
+bunny (scripts)
+	each box has a rig, it is solid, it can be entered
+	
+	light sources are passed to a list
+		each light source is tested against every visibility indicator
+	
+	cover has a collider
+		each visibility indicator checks each cover
+
+overview (dev, a too close look)
+jerri (systemic check)
+	light, sight
+	box, seen
+	canopy, alert status
+	
+... light, sight
+	move direction, catch if coming to
+
+	distance from nearest hiding spot
+
+	check for close wall, then trace back to see if you can reach
+
+
+
+outsider - A bunny is hiding from some woman.

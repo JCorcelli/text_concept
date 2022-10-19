@@ -1,0 +1,38 @@
+First impression. Asynchronus multiplayer, crowd sourcing, text based game(s).
+
+This introduction seems long winded. Skip to "Cause and effect" to see the first generation of this idea.
+
+In its very nature the game will require constant input and have no end because of constant review and revision.
+
+How I concluded this would be fun. 
+First of all, the text based genre doesn't seem to connect well recently. But wikipedia ranks 6th in the world's global popularity for visited web sites*.
+
+Users are either going there to edit or find out something new. If they didn't need to, or they thought it wasn't fun, they wouldn't, they'd go read a dictionary.
+
+General Logic
+
+Crowd sourcing solves problems. Games require players to solve problems. Video games can be solved by crowd sourcing.
+
+Crowd sourcing makes problems ... so games can be made by crowd sourcing.
+
+We can observe in meme or genetic evolution. Only the strongest survive.
+
+So who's up for a debate?
+More to the point, any concept this logic results in will follow:
+
+
+Cause and effect "pairs"
+
+This concept is intended to result in a database of cause and effect that expands so large there is no one place in the database you can access without encountering a new puzzle, riddle, or joke. A single browse may result in deeply complicated games one person cannot properly solve without "cheating", but an open ended solution input system (text for now) can both accept and reveal all past user's attempts.
+
+It utilizes one of the weakest and most primitive forms of puzzle gaming to its own advantage, direct user text input. It throws away the worst part, any solution is allowed to be entered, any other outcomes to that solution can later be polled and determined.
+
+End game, someone may sit down and begin typing the "new problem" into a database. They press send and two hours later the system has concluded this is not a new problem, it found 281 past instances of similar problems with 12,000 uniquly input solutions that have been reduced to 3 similar ones.
+
+specific logic
+Different problem solutions can have different outcomes. It is possible for 100 players to think of 100 unique solutions with its own new outcome, the most common solution and its outcome pairing is usually the most applicable (due to probability). It is possible for 100 players to cause 100 different pairs, the most common pair is the most applicable.
+
+
+
+
+* http://www.alexa.com/siteinfo/wikipedia.org

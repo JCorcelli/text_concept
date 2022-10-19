@@ -1,0 +1,47 @@
+THE SCIENTIFIC PART
+Summary: two pillars are being built. Pillar A supports a wall which saves the town infrastructure. Workers keep the wall up by rebuilding it. While Pillar A is up, the workers can work on other things.
+
+
+Design:
+Actors by Priority:
+	Pillar A
+		supports wall
+	Wall
+		protects infrastructure
+	Pillar B
+		supports wall permanently
+	Infrastructure
+		supports town
+	Workers
+		rebuild one thing at a time
+
+
+	The actors exist, they become a subject of the story acting on them.
+	
+Program:
+	The workers ... could be a semaphore variable in an ai manager class, an actual animated object, it depends on what I'm going for here (it's not clear in this example yet)
+	
+	A building class with variables. 
+	optional: A graphic class (pretty standard utility now)
+	
+	overkill: A professional game development suite. :D
+	
+
+Story Conflict:
+	Pillar B needs to be built.
+	
+	Pillar A falls down frequently because it is directly facing hurricane winds.
+	Wall is damaged as long as Pillar A is down.
+	The infrastructure is damaged slightly, just from existing.
+	
+Positive Resolution:
+	Pillar B is built.
+Negative Resolution:
+	The town is destroyed.
+	
+THE ARTISTIC PART
+how the program gets made and how the story is written, 
+
+Bugs
+
+everything else

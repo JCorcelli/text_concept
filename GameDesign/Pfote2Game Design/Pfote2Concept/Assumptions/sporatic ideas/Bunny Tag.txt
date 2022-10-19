@@ -1,0 +1,9 @@
+Summarized
+
+	Rabbit touches you and yells "Tag"
+	
+	You're compelled to chase and touch the rabbit again.
+	
+Assumed Use
+	Add a rabbit NPC module
+	Add a tag module - when activated overrides necessary behaviors

@@ -1,0 +1,36 @@
+data set
+options based on states
+
+STATES
+god mode
+	not important
+
+player experience
+	meta
+
+character 
+	surroundings
+	personal affects
+	
+level
+	general story
+	relation level
+
+current discussion
+	topic cues
+	location, knowledge
+		things in the area
+	spoken text
+		related things
+		
+OPTIONS
+	various become available to make a text analogue of real time options
+	various are available as suggestions to the dialogue state
+
+RESULTS
+discussion responds
+	interrupting, forgetting the topic and changing focus
+	repeating, wasting time until exhaustion
+	change in states, continue, end date
+	
+enter next stage in date, and try to access the previous stage for cues

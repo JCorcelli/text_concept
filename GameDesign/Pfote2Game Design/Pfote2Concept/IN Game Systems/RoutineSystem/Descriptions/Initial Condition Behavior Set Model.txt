@@ -1,0 +1,126 @@
+pseudo code:
+	Abstract CheckConditions
+		is this condition ok?
+		yeah it's possible
+	
+			is this condition ok?
+				I do it now
+			this delays the action a little
+			
+			is this condition ok?
+				try it in 1 second
+			this delays the action a lot
+				try it in 3 seconds
+
+CONDITIONS OUT OF ORDER				
+ready
+at the farm
+buying cows
+drinking milk
+at home
+
+
+DESIRED CONDITIONS
+full
+rested
+happy
+
+BEHAVIORS TO REACH CONDITIONS
+eat - full
+sleep - rested
+various - happy
+
+How can I act?
+1.	Am I
+		ready
+		not ready
+	I'm ready
+2.	Am I
+		rested
+		full
+		happy
+	I'm rested
+	I'm not full
+How can I be full?
+1.	Am I
+		eating
+		drinking
+	no
+	Where Am I?
+		at home
+		at the farm
+		at the market
+	I'm at the market
+	How do I get full from here?
+		(buying cows, milking or eating them)
+	
+AI BEHAVIOR BACKWARDS (in order to B I need to A)
+	These are actions/tasks
+
+	Milk cow - take cow back to barn - buy cow - spend money - select cow - find cows
+	
+AI BEHAVIOR FORWARDS (TASKS)
+	In the tasks are conditions/code
+
+	I'm at the market (always true)
+	Find cow
+		cow in view?
+		yes: [select cow]
+		no:  failed
+	Select cow
+		cow = none (or a list of cows by quality)
+		second cow = none
+		
+		for each cow check
+			produces milk?
+				no: next cow
+			disease?
+				yes: next cow
+				
+			cow selected?
+				yes: measure quality
+					arrange by quality
+						better than cow?
+							yes
+								second cow = this cow
+								cow = this cow
+								next cow
+						better than second cow?
+							yes: second cow = this cow
+							no ...
+						etc
+				no cow: cow = this cow
+					
+		cow selected?
+			yes: 
+				[make sure this cow is here]
+				[spend money]
+			no: failed
+			
+	Spend Money
+		barter?
+			no: [buy cow]
+			
+	Buy cow
+		have enough money?
+			yes: 
+				money --
+				[take cow back] to barn
+				
+	Take cow back
+		traveling? (Error, this changes my location, so this structure is compromised slightly)
+			yes: wait
+			no:
+				.. skpping small details..
+				put it in barn
+				>feed it
+				>[Milk cow]
+	Milk cow
+		pale ready
+		cow  ready
+		
+		milk it
+		Milking?
+			yes: wait
+			no: I have milk
+	

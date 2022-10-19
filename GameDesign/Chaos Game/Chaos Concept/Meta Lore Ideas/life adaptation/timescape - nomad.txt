@@ -1,0 +1,151 @@
+ugar
+	
+
+	final name
+		""
+	
+		""
+		
+	skill - 
+		vocalize
+		mold any digested matter
+		
+	name - ugar
+	
+	faith - water, light, green
+
+	0.1
+	conflict - swamp
+	
+	0.2
+	conflict - thinness (hunger)
+
+		Thinness is social stigma. Overeating becomes necessity.
+	
+	1.0
+	trend - k' (k - stop) sounds nice to many ugar
+	
+	rename race - uukar
+	
+	identify pleasant things -
+		ululate k'
+		
+		literally makes k' sound to identify pleasant things
+	
+uukar
+	1.1
+	trend - naming
+	race. some want uk'glar, ug'kar, unkgar and few actually refer to themself as uukar. This is a sign of mind diversity (pop 50+).
+	
+	self. while most refer to their race, some want a name to differentiate their family from others.  This is a sign of internal conflict.
+	
+	1.2
+	thinness (danger) escalation - 
+	
+	thin people get sick
+	
+	thinness becomes an excuse to excommunicate people
+	
+	many die from stigma and poor health (pop 35)
+	
+	hunting becomes a necessity since scavenging is limited
+	
+	
+	1.3
+	stereotype -
+	hunters are denoted as thin, they are given a name
+		ououo (thin/ hunter)
+	
+	
+	thinness is further stigmatized out of desperation
+	
+	culture - 
+		a culture of grouping
+	groups ranked - best - worst
+		fatties, the in-group
+		hunter, multiple groups
+		thins, excommunicated
+	
+	identify bad things -
+		ululate ou (ow)
+	
+	1.4
+	
+	discovery - trappable animals
+	
+	revolution - hunters begin a booming culture
+	
+	refinement - imitating the natural traps
+	
+	new job - trapper
+		tries to catch similar animals in one local area
+	
+	new artisan - trainer trapper
+		called k'ouo
+		
+		shows anyone the trapper skill out of delight
+		
+		
+	
+	
+	job separation
+		trapper (animal farmer)
+		hunter (animal finder)
+		
+		scavenger
+			picks up dead animals and free growing vegetation
+	
+	1.5
+	
+	hunter towns (pop 250)
+		a mix of thin and hunters
+	
+	scavengers (pop 15)
+		a mix of "fat" upper class.
+		now they are becoming thinner
+		
+	conflict - grossly outnumbering fat scavengers the thinner people stop contributing.
+	
+	1.6
+	culture shift - fat scavengers become trappers if they can
+	
+	class divide - 
+		fat - revered people in individual tribes are notably fatter, and receive gifts
+		worker - people who enjoy work
+		moderate - people who raise children and work some of the time
+	
+	1.7
+	conflict - class strife
+		fat v moderate
+		fat people entice moderates and begin to quarrel as their behavior is similar, but their treatment is different
+	
+	1.8
+	discrimination
+		workers are discriminated, despite the fat v moderate divide a scapegoat is determined
+	
+	New class - 
+		nobles
+		commoner
+		
+	land claims
+		The nobles declare land arbitrarily
+	land deprivation
+		commoners can no longer rest on land owned by the nobles
+	migration
+		commoners leave the ancestral easily habitable landscape and form nomadic tribes
+		
+		The nomadic tribes call themself uoukok, eventually.
+		
+	1.9
+	conflict - culture extinction
+	
+	the nobles become thin. They are wiped out when a nomadic tribe discovers the ancestral land and sack it.
+	
+	2.0
+	Nomads split off and form uoukok, which comes to mean nomad
+	
+uoukok (means: nomad)
+	2.1
+	Meritocracy - competition, and increases secrecy inside tribes. Artisans are coveted and knowledge is shared less often.
+	
+	

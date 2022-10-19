@@ -1,0 +1,31 @@
+BAKERY
+there's at least one baker you'll meet
+
+a lot of owners could cook at home
+
+a lot could buy stuff here
+
+FOOD
+	
+	ingredients
+	artificial made foods
+	
+BAKING TYPES	
+	grain + sugar + butter = bread
+	
+	chocolate + any = chocolate
+	sugar + bread + egg = cake type
+	cake + frosting ...
+	
+	and so on
+	
+JOB
+	they work there
+	
+CUSTOMER
+	they come to buy 
+	
+ORDER
+	there could be a written list of orders
+	if they lose it they can call someone
+	if it's rewritten?

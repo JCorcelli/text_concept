@@ -1,0 +1,23 @@
+
+Written in the order I read about them:
+
+shiva engine
+C#
+http://www.xnadevelopment.com/
+	Microsoft only, support is gone
+Pygame
+C++
+	http://www.sfml-dev.org/
+		Useful library
+	C4 engine
+		3D
+		http://www.terathon.com/
+Inform
+	Text adventure game
+	
+	
+	
+
+Tiled ( a 2-d tile thing), also uses shapes
+
+	After comparing, the conclusion is it truly targets devs of tiled games. I have no purpose for it.

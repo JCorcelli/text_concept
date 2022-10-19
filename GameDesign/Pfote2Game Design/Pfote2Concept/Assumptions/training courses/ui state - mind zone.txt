@@ -1,0 +1,20 @@
+UI STATE - MIND ZONE
+
+3D
+Mirror Basic controls
+
+Things May Change
+Skill
+Movement
+Inventory
+
+2D Avatar, barrier entry
+
+arrow (wasd) - move
+Mouse - aim
+click - grab and carry
+drag self - enter door
+drag other - push through
+
+space to retreat
+

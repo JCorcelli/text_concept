@@ -1,0 +1,150 @@
+name
+	origin
+	staples
+	adv offshoot race
+
+BASIC CATEGORIES
+Techo
+	organic origins
+	
+	adv. schools of thought, hi tech, clandestine activity, physical weakness, powerful items (weapon, healing, scientific, etc), minutia based talent advancement
+
+	Robo
+		hi tech origins
+		
+		Adapted to meet various needs.
+		
+		Machine Symbiosis
+			Auto-adapts to survive
+		
+	Cryptic
+		clandestine + minutia origin
+
+Muto
+	organic origins
+	
+	diverse xenothropy, adv. digestion and chemical refinement, organic model manipulation
+	
+	Imitator
+		organic model origins
+		
+		Clandestine
+		
+	Adept
+		organic origins
+		
+		various skill
+		godlike, streamlined, psychic
+
+Warmonger
+	various origin
+	
+	Cut from a mold by an upper tiered race. Incredibly adept at retaliation and vanity.  Lack of motivation.
+	
+Entertain
+	organic origin
+	
+	Randomness, Adv. infighting, flaws, obsession.
+	
+	Detach
+		random origin
+		
+		Adv intuition
+		
+	Selfish
+		war origin, xenokiller
+		
+		Obsession with symbols, stories, and death
+
+Lago
+	organic origin
+	
+	Diplomacy, adv. alien and xeno lore, spiritual beliefs, adv. symbols
+
+	Godly
+		spiritual origin
+		
+		Spiritual embodiment
+		
+	Defile
+		symbol origin
+		
+		Attachment to and manipulation of symbols.
+		
+Elemental
+	namesake origin
+	Extreme adaptation, power xenothropy, level up adaptation, self weaponry
+	
+	Kinetic
+		physical adaptation
+		
+		Dexterity, body language, technical infighting, physical self weaponry
+	
+	Exceed
+		energy adaptation
+		
+		High energy self weaponry, elemental embodiment
+	
+	M-Tap
+		magic adaptation
+		
+		Magic wavelength detection, weak magic power
+
+Solo
+	Unique origin and alien race
+
+Adventurer
+	Any alien race origin
+	
+	adv. training
+	
+Steampunk
+	Any origin
+	
+	brand appeal in all design
+
+ABNORMAL - reality shifting origin
+en (category)
+	origin/name is the verse it comes from
+	
+	Adv. verse manipulation
+	
+	Micro
+		blood verse origin
+		
+		A blood microverse
+	
+in-verse (category)
+
+	Deus Ex Machina
+		all tech origin
+		
+		techo subversion, physical autonomy demands, resemble Essence in VR, generate robot avatars
+		
+	Planetary
+		all matter origin
+		
+		founds an alien race (sub), delegates for sub, planet-wide control, bound to space or larger, start with planet propulsion
+	
+	Starly
+		all matter origin
+		
+		founding an elemental alien race (esub), empowers esub, star-wide control, controls planetary avatars of a very wide range in space, start with avatar
+		
+	Essence
+		all reality origin
+		
+		
+		Material
+			Uncommon fuel
+			
+			Exhibit godly energy but lack direction, a greater alien race may harvest them to retain their own power.
+		
+		Incorporeal
+			
+			Lore: Generates an in-verse sub-race. Wishes to be heralded by all alien races.
+		
+			An essence may be present and weakly interact until it receives devotion. Until then it simply generates an avatar based on the host worshippers it wants to gain.
+			
+			A deity has godly powers even without its avatar.
+		

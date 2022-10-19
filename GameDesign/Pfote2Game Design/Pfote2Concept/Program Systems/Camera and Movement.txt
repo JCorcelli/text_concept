@@ -1,0 +1,70 @@
+
+target is avatar
+
+Rule: keep the face of target on screen
+
+Free - sneak - default
+	1 a camera follows with movement
+	2 camera walks ahead of movement, slightly
+	
+	3 look turns the camera
+	4 ctrl behaves like zone
+	5 shift makes bunny sit still, and when you hold look it'll walk, but it returns on release (movement is reserved)
+	
+freeform - choice
+	Pressing "C" could swap in freeform
+	camera follows with some adjustment
+
+	obstacles - camera would be best with character in center
+	
+	race - face the "lane" you drive in and turn with character, see distant obstacles
+	
+	bird - like obstacles but camera would pan far ahead
+	
+	fight - or the target you choose 
+		signal = target
+		camera over the shoulder
+	sneak - camera should keep angle best for viewing
+	
+zone (regular)
+	1 signal, hold to observe
+	2 similar to sneak
+	
+zone (empower spirit)-
+	pointer locks at center
+	1 enter first person
+	2 wasd moves in space like walking
+	3 turn the camera look normally
+	4 signal normally
+	5 jump pushes you into air, wasd camera pans and zooms
+	
+	
+
+tactical path (reserve for minigame and map)
+	camera follows a set path
+	1 it's locked
+	2 it's outside the normal distance
+	
+a cinematic eye 
+	1 should watch for cues. 
+	2 while I'm not running it can halt if the bunny halts
+
+	3 observant - could  watch very closely on something, augmented even, predicting its next move
+
+target skewing
+I need to keep the mouse in the same spot most of the time
+maybe this would give a necessary "fear" effect? Losing control.
+
+controlling
+outside a lot of things could be moving
+This would mean I have to turn before I walk
+
+
+I think if I open a screen, I want some way to get closer, how?	
+	observe
+	
+turn fast. 
+	no, the game's easy on the eyes.
+	
+turn while I run.
+	no...

@@ -1,0 +1,10 @@
+GRPHIC ART
+
+the first room was experimental I wanted to see how difficult the 3D modelling would be. 
+
+There are features that took a while to figure out.
+
+There will probably be two 3D styles, the style to add small detail, and a more impressionist style with low detail over a wide area so you can make easier decisions.
+
+
+Also there's going to be 2D styles, an abstract image for illustrative use, one that's more fit for a video game, and there's one more that is UI effects that makes the 3D area more palatable.

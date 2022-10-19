@@ -1,0 +1,27 @@
+ARCADE
+a quick lore of a "marketplace" style arcade
+
+PACHINKO
+
+you purchase ball bearings, and you can get points in return
+
+points in parlor= preserved foods, dolls
+points next door = money
+
+DREAM WORLD
+DON'TPUSH
+You're trying to push out baddies and save your pachinko self from falling into a pit. This can be accomplished by catching in a basket.
+
+CRANE GAME
+you play to get a prize directly but it's rigged
+
+DREAM WORLD
+THE PRIZE
+	similar crane theme, and you're worth the token
+	
+	but the more cranes coming for you the harder it is for a stuffed animal to escape
+	
+	they come from every direction until you're caught. earns minimum 1 dream token, and you wake up caught
+	
+COIN OPERATED MACHINE
+get food?

@@ -1,0 +1,36 @@
+Actors: various bunnies
+
+Display: Bunnies won't sit still
+	in school
+	at attention
+	in the middle of a discussion
+	
+	...?
+	
+SCHOOL
+"Sit down everyone sit down."
+
+Many bunnies are wandering around a small hill.  There are cleared out spots and grassy spots.  Some stop on grassy spots, some stop on clean spots, others keep moving as if they can't find a seat. 
+
+Cut scene
+
+Open back with everyone in grass seats.  A lecture begins with one bunny talking.
+
+""
+
+One gets out of their seat and wanders around.
+
+"Miss pinkberry sit in your seat."
+
+The wandering bunny stops and doesn't move.
+
+"I won't have that. Sit."
+
+The bunny gets back.
+
+
+ATTENTION SPAN
+
+bunnies that sit still a while may rest, this engages them in the longest sitting.
+
+things that make them move erratically are desire, hunger, discomfort

@@ -1,0 +1,465 @@
+(copy of civilization timescape. 
+up to nomad it's indifferent.)
+ugar
+	
+
+	final name
+		""
+		Uoukok (Bad, Good)
+		""
+		
+	skill - 
+		vocalize
+		mold any digested matter
+		
+	name - ugar
+	
+	faith - water, light, green
+
+	0.1
+	conflict - swamp
+	
+	0.2
+	conflict - thinness (hunger)
+
+		Thinness is social stigma. Overeating becomes necessity.
+	
+	1.0
+	trend - k' (k - stop) sounds nice to many ugar
+	
+	rename race - uukar
+	
+	identify pleasant things -
+		ululate k'
+		
+		literally makes k' sound to identify pleasant things
+	
+uukar
+	1.1
+	trend - naming
+	race. some want uk'glar, ug'kar, unkgar and few actually refer to themself as uukar. This is a sign of mind diversity (pop 50+).
+	
+	self. while most refer to their race, some want a name to differentiate their family from others.  This is a sign of internal conflict.
+	
+	1.2
+	thinness (danger) escalation - 
+	
+	thin people get sick
+	
+	thinness becomes an excuse to excommunicate people
+	
+	many die from stigma and poor health (pop 35)
+	
+	hunting becomes a necessity since scavenging is limited
+	
+	
+	1.3
+	stereotype -
+	hunters are denoted as thin, they are given a name
+		ououo (thin/ hunter)
+	
+	
+	thinness is further stigmatized out of desperation
+	
+	culture - 
+		a culture of grouping
+	groups ranked - best - worst
+		fatties, the in-group
+		hunter, multiple groups
+		thins, excommunicated
+	
+	identify bad things -
+		ululate ou (ow)
+	
+	1.4
+	
+	discovery - trappable animals
+	
+	revolution - hunters begin a booming culture
+	
+	refinement - imitating the natural traps
+	
+	new job - trapper
+		tries to catch similar animals in one local area
+	
+	new artisan - trainer trapper
+		called k'ouo
+		
+		shows anyone the trapper skill out of delight
+		
+		
+	
+	
+	job separation
+		trapper (animal farmer)
+		hunter (animal finder)
+		
+		scavenger
+			picks up dead animals and free growing vegetation
+	
+	1.5
+	
+	hunter towns (pop 250)
+		a mix of thin and hunters
+	
+	scavengers (pop 15)
+		a mix of "fat" upper class.
+		now they are becoming thinner
+		
+	conflict - grossly outnumbering fat scavengers the thinner people stop contributing.
+	
+	1.6
+	culture shift - fat scavengers become trappers if they can
+	
+	class divide - 
+		fat - revered people in individual tribes are notably fatter, and receive gifts
+		worker - people who enjoy work
+		moderate - people who raise children and work some of the time
+	
+	1.7
+	conflict - class strife
+		fat v moderate
+		fat people entice moderates and begin to quarrel as their behavior is similar, but their treatment is different
+	
+	1.8
+	discrimination
+		workers are discriminated, despite the fat v moderate divide a scapegoat is determined
+	
+	New class - 
+		nobles
+		commoner
+		
+	land claims
+		The nobles declare land arbitrarily
+	land deprivation
+		commoners can no longer rest on land owned by the nobles
+	migration
+		commoners leave the ancestral easily habitable landscape and form nomadic tribes
+		
+		The nomadic tribes call themself uoukok, eventually.
+		
+	
+	2.0
+	Nomads split off and form uoukok, which comes to mean nomad
+	
+	???.???
+	conflict - omen
+	
+		Large vicious animals appear endemic on the land of the nobles which drives them into a corner.
+		
+	conflict - culture extinction
+		Sometime after they grow thin, nomadic tribes encounter
+		the nobles and wipe them out.
+		
+uoukok (means: nomad)
+	2.1
+	Meritocracy - competition, and increases secrecy inside tribes. Artisans are coveted and knowledge is shared less often.
+(end/ timescape nomad) begin Lago seed (see training)
+	
+	2.2
+	Lore is heavily sought. Lore is used economically, to define a tribe and determine ancestry.
+	
+	new artisan - loremaster
+		shek'kk'k (or shek)
+		aka the chieftain
+		a loremaster will teach another and they'll split, while retaining their old lore.
+		the ones who attempt to stray from meritocracy have weaker loremasters
+	
+	new artisan - loremason
+		merit ranks: 
+			kuokos, kuos, sheuok, sheuo
+		merit words: k'k'k, kok, ooouuu, u'uo (demerit)
+		
+		aka storyteller
+		They craft highly engaging stories based on current events and formulate massive banks of redundant words, forming a thick sense of understanding
+		
+	2.3
+	merit demands, morality -
+	
+	Society splits the loremason ranks by merit.  The loremason profession is somewhat useless if anyone can do it.  Storytellers are either entertaining, truthful, or they're demerited, thieves.
+	
+	shek - chief, only needs to remember one story so split tribes will identify
+	
+	kuokos - medicine man, knows visual rituals and is very fat and entertaining
+	
+	kuos - wise fortune teller
+		May memorize stories including the shek's. Authority on recent events. Predicts future events with startling accuracy.  Tells past events in clarity.
+	
+	sheuok - liar / storyteller
+	
+		Seen as something of a stupid kuos. The rank is the extreme low of society, lower than a child. Takes charge of kuos's job if allowed.
+		
+		Frequently tell omens and mistake facts while omitting important details.
+	
+	sheuo - cheater / thief
+		
+		Being branded a sheuo is a threat and a life sentence if you're outcast.  They are branded with mental disorders and kept thin before being ostracized.
+	
+	Conflict - culture purge
+		Many stories told are dismissed as the few remaining hunters begin to teach children.  Some of the children have a rebellious nature and the stories are blamed.
+		
+	2.4
+		
+	masteries in hunting emerge, greatly diversifying artisans and making merit murky among hunters
+	
+	weapons
+		thrown rocks, sticks, quickly built traps are safer than hand to hand combat
+		
+	leadership	
+		The numbers who follow one fair leader often do well.
+	
+		They use symbols, along with language to convey meaning.  Some leaders even tell stories of seemingly impossible feats, and they give merit to the sacrifice.
+	
+	penance enhancement
+		merit is granted to anyone who accomplishes goals. Even greater merit to those who endure absurd penance.
+		
+		Physically the penance shows on their body.  Their skill greatly improves overall.  It becomes a form of self teaching.
+		
+	duels
+		peer to peer training is accomplishes through safe duels. Highly technical dances and coordinated acrobatic feats rise as well as brutal endurance.
+		
+	2.5
+	Internal conflict / tribal war
+	Tribes with hunting mastery take over tribes that are failing.  This also results in tribal warfare, when some simply wish to battle at full force, which they cannot do in their own tribe without demerit.
+	
+	dominant strategy 
+		stabbing becomes the easiest way to kill opponents
+	emergence
+		social manipulation rises.  A bloodless coup, by stealing a tribe's story and making false claims against the chief are as good as stabbing one to death.
+	
+	Animal territory conflict
+		attacking animals and removing deadlier ones from future nomadic lands makes various tribe survival easier.
+		
+	2.6
+	Stories about dangerous animals, great warrior, and the tribes who defeat them dominate the mental landscapes. The defeated are forgotten.
+	
+	culture advancement? - Bloodsports involving murdering more and more dangerous animals emerge.
+	
+	2.7
+	Religious rivalry - Symbolizing great beasts, tribes form a religion. Rivalry among tribes to uplift their symbol taking precedence over attacking any other's animal symbol.
+	
+	Lore Shift- Storytellers begin to embrace spirit animals, and tell of speaking with them for guidance.
+	
+	3.0
+	other species emerge, called collectively Ouvat  They are unable to mix without mutation due to inbreeding and split off.
+	
+	2.8
+	
+	Art Trend (animal biology)-
+	Artisan, Biologist-
+	
+	Animal variety is closely examined.  The bio. report the observations among their tribe. 
+	
+	Metaphors are concocted to bolster someone's appeal with the same observations. Metaphorical descriptions are more symbolic, through ornate display. A token is taken from an animal and worn as garb.
+	
+	Crime, Theft-
+	Specifically theft of a symbol.  Despite its high rate of occurrence it is low threat since it's said "we take from animals."
+	
+	2.9
+	
+	Crime, Pretenders-
+	A new kind of cheat. Someone who's committed theft and worn the symbol as their own.
+	
+	They will commit many atrocities to increase their standing in various tribes. Always, the token stolen is displayed outside the victimized tribe, so it's unrecognized.
+	
+	Refined Observation - Animal behaviorism
+	
+	Rather than what animals look like, the observations become more of a mimicry game.
+	
+	New artisan - Beast warrior
+	
+	As a means to assert dominance daily.  Refined "combat sports" take precedence among skilled hunters who seek entertainment.
+	
+	The combat skills of animals, although nonlethal, can be adapted for lethal means against those who are without. Butting heads, scratching, wrestling. All martial disciplines falling under animal behavior, and combat.
+	
+	
+	New trend - entertainment, combat spots
+	
+	2.10
+	new artisan - Beastman
+	A beast warrior who's fully fledged and seeks personal entertainment by fighting animals, sometimes bare handed.
+	
+	Conflict - weak hunters
+	
+	The most common activity, hunting, is seen as a necessity. But newer weaker hunters are determental in the face of experienced beast warriors.  Although they accomplish their goal, taking down even large animals, they don't do it with finesse.
+	
+	Due to this trouble the Beastmen and Beast warriors shun weak hunters.  In almost any conflict the weak hunters are overwhelmed by force, regardless of numbers, technical sports dominate firepower and low skill weapon mastery.
+	
+	Note: weapons are probably stronger than beastmen but to risk killing such entertaining warriros is foolish
+	
+	Resolution - restrict hunters
+	
+	Only feast occasions give hunters a chance to display skill. The rest of the time they practice for a chance to become skilled. This res. allows the beast warriors to die or rise against warrior animals.  Te beastmen bring huge bounties of meat and gain merit daily, proving their insurmountable skill.
+	
+	2.11
+	Historical Renaissance (Lago)- Time of Penance
+	
+	This time is marked by the death of species. Animals purged from the land. Massive beastman emergence, tribal, violent, quick to enmity.  Highly technical warfare.
+	
+	Finally, a nature of penance and symbols of great deeds arise.
+	
+	New artisans - 
+		Symbol craftsman (word: k'aan)
+		Priest (Symbolic, hsa)
+		Preacher (Ref. Storyteller, Symbols, hsaou), aka teacher
+		Warlord
+		Butcher (vulgar, ommou)
+		Monk (discipline, kssa)
+	Tribe ranked professions -
+		Chieftain
+		Medicine Man
+		Storyteller
+		Bungler / Idiot
+		
+	Meritocratic Arts -
+		Cheater (high risk, high interpretation skill, the exsitence is covert and dangerous)
+		
+		Beast
+			Beastman
+			Beast Warrior
+		Hunter
+		
+		Thief (failed cheater)
+		Poisoner
+
+	Slang - 
+		Beast (k'krii like a shriek of fear and envy)
+		
+	
+	Symbol Craft
+	Symbol craftsmen blossom out of almost every tribe. They use old hand-down weapons as tools in their youths form carvings. Symbols boast the image of an animal, or a tribe, and enamor all.
+	
+	Thief
+	The jealousy, the greed that erupted out of have and have-not spurned greater meaning of Theft, and punishment.
+	
+	(penance doctrine)
+	All those who observe the impure motives in others see it in themselves as well. They take on secluded lives for years, and even continue solitary training.
+	
+	Priest
+	Priests take up symbol worship. A high levelled craftsman forms the base of their faith.  The priest tends to the symbol for life, seen as a servant, they become prized for their lack of ambition and trustworthiness.
+	
+	Preacher
+	Activists of faith. They extoll the virtues of the symbol directly to the public.  They also scrap for food and wealth without care for their own good.
+	
+	Monk
+	Individuals who seek reclusion to the extreme. Ambition and wealth are seen as vulgar.  Monks themselves hold their own personal beliefs.
+	
+	Cheater
+	With the theft of symbols and lore, a very intelligent thief can pass off as anyone.  They even use a rare high level interpretation skill.
+	
+	Poisoner / Butcher
+	Disregarding life, few kill for sport.  They can easily find a place in this time of discord.
+	
+	
+	"Story of the renaissance"
+	Having killed off many dangerous animals Beastmen and warriors are collectively "Beast." Seeing how they are the most dangerous force known.
+	
+	The weakened tribes with thin useless members are limited to unskilled hunters.  The weaklings gradually recognize their impending doom and take up symbols, penance, religious views.  Some gifted individuals who would otherwise perish in hopeless flourish.
+	
+	With the stage set, intrigue sets afoot among tribes.
+	
+	The warmongers, chieftains and priests who take up death gods become the embodied symbol of anger, and synonymous with Beasts.  This enrages Beasts, and furthers their destructive nature.
+	
+	Few Beasts take up penance, even for a short while, and those who do hone their art with the help of a few teachers.  After acquiring said skills, the renown of penant individuals skyrockets. 
+	
+	Deadly Beast counterparts who emerge from penance display absurd robustness in every corner of the world and become Warlord.
+	
+	2.12
+	Historical Renaissance (Lago)- Time of Du'u'uo
+	
+	The economy is unstable, thinness is a great danger.  Beast and Uoukok fear luck, symbols, the unknown.  Due to exhaustion the desires of respected artisans have lessened.  A fear of death remains.
+	
+	So not to appear wealthy, and display humility, everyone greets with a sorrow-filled tone of Duuuo.
+	
+	Penance is called du'u'uo, but the ones who endure it are named k'iii.
+	
+	Any breath of Beast or Warlord is hushed and taboo.  They, in the face of destiny, are the bringers of change (word inflected as "ouk?").
+	
+	K'iii are those who fear nothing. They seem to accomplish feats of strength and knowledge beyond Uoukok or Beast. They are the symbol of Ouk (god of change).
+	
+	The tradition of life is one of torment and distrust. Life is merely pain for some. Death is a welcome change.  This story, and stories like it are spread like wildfire, even among those unaffected.
+	
+	2.13
+	Dawn of civilization
+	
+	Outbranching cultures of the Doukok disavow Beast traditions. Symbolism and craft swell, along with penance.
+	
+	Interpreting the meaning of Uoukok, they call this way of life "kok" for "good" and "uou" for "evil".
+	
+	High level manipulation and idolizing of symbols persuade people that penance is the kok way. 
+	
+	Abstract meanings are all split between kok and uou.
+	
+	Hunters and scavengers are absentminded Duokok, their duality is good and evil in small doses.  The Beast (k'krii) are pure evil uou.  To recognize and avoid appearing uou is to embrace kok.
+	
+	Note: in this setting Cheaters and their skilled interpretation are granted incredibly low risk, high reward.  Even bumbling storytellers are granted reprieve.
+	
+	
+	Valued "good" behaviors (Lago)
+	
+	Penance - Caretaking, farming, cleaning, hand reaching symbolic of listening
+	
+	Crafting - Altars, peace totems - said to imbue strength, courage, etc
+	
+	Prayer - Claims of visions, empowerment, miracles from prayer make this action popular
+	
+	Teaching - To share knowledge with others.
+	
+	Lore - Not only to share, but interpret symbols and other tribal behaviors.
+		Lore masters are more often capable of diplomacy than any other artisan.
+	
+	Valued "bad"
+	War - The change beast brings
+	Pain 
+	Symbol dessecration - Although this becomes very common during this time.
+	
+	
+	Prominent Cultures - 
+		Symbiosis, natural or abstract
+		Diplomacy, trade
+		Science, xenology
+		Religion, symbol
+		Penance, craft
+		Lore, storytelling
+		
+		
+	The roots of civilization for (Lago) the Uoukok begin here. 
+	
+3.0 Lago seed
+	
+	Through conflicts they've discovered a distate for danger.
+	
+	Through merit and obsession they've emerged a civilization.
+	
+	The artisans spill into teaching, and their skills are spread almost evenly so that each remaining soul gets a piece of the original sin.
+	
+	
+	3.1 - Emergence of Lago Religion, or "Kok"
+	
+	Prophets and craftsmen of kok begin to walk as Uoukok do.  In the face of logic honed and wielded through rhetoric, their actions are boundless.
+	
+	They all encounter different things that empower them, they all know it is kok, but still, they aren't kok.
+	
+	
+	3.2 Emergence of Lago Symbiosis
+	
+	Large groups of symbolic worship gain strange powers. Those reaching to the stars are set on by star aliens.  Those caretaking trees are seen conversing, and learning akin to child and mother.
+	
+	Any great worship are soon wont for nothing.  Almost to a fault.  They still respond to other Uoukok in turn, act as channels and guides through the world.
+	
+	3.3 Lago Knowledge - Penance, Symbol Craft, Trade, Diplomacy, Lore, and Science
+	
+	A great number of artisans over time discover perfection has a cost. Practice over time is almost required to find truth and true knowledge.  This practice makes worldly goods almost meaningless.
+	
+	Knowledge is power.
+	
+	3.4 Conflict - The defiler
+	
+	In time the power laden symbols are defiled by an unknown entity. This unheard of act changes the view of symbols to something not just worth worshipping, but now capable of being destroyed, they must be protected.
+	
+	Fully enabling defilers of symbols to determine a danger to their ways of life, they find it's real.
+	
+	Uoukok seek outer-alien cultures for greater knowledge, and preparation for survival.  They seek symbols on all planets as a means for symbiotic survival.
+	
+	
+	??? Open for improvement

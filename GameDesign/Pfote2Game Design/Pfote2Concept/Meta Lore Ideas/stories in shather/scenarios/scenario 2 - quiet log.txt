@@ -1,0 +1,29 @@
+SCENARIO: LEARN MANY THINGS
+
+You eat stories for 5 minutes. (this might be 30 stories)
+
+observe [bike]
+It has wheels
+It's not moving
+Nobody's around
+It has no smell
+it has a ??? taste
+
+"use" it doesn't do anything
+
+observe wheels
+It's wheels
+
+facts
+"I saw wheels"
+"wheels can move"
+"wheels is alone"
+"wheels has no smell"
+"wheels has ??? taste"
+"I can't use wheels"
+
+modify thought
+"I saw ???" > search: bike, no result
+or assign
+search: vehicle. signal the bike
+"I saw a vehicle"

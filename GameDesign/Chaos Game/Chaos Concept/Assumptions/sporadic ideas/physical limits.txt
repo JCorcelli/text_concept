@@ -1,0 +1,30 @@
+stuff like stamina drain for simply walking could be implemented to give weaker, untrained aliens a risk for going outside. 
+
+stronger, trained aliens could make enormous bursts of speed or strength, by comparison.
+
+there could also be a natural regen speed, based on health stats. 
+
+health stats
+	energy - immediate
+	food - long term energy
+	stamina - stored energy
+	
+	organ
+		biorhythm
+			vulnerable - active
+		damage
+		catalyst
+		horomone
+		
+	nutrition - benefits
+	
+	endurance - stamina regen
+	strength
+	reflex
+	
+	dex
+	
+	item skills - item familiarity
+	weight resist - item weight reduction
+	weight
+		net weight

@@ -1,0 +1,70 @@
+An empirical cloud game will require and promote new potential standards. The standard addressed here is that in order for games to evolve from player input the games must be sustainable and change through player input, not a developer. Also, in concluding this, what impact such a standard has.
+
+It's important to differentiate feedback and input among some other terms.
+Here is a short glossary of some terms related to games, the meaning I have for them.
+-------
+input is anything that is entered into a game from a player
+
+feedback is any communication with a developer from a player
+
+metrics are a standard of measurement used to understand why players do something in the game
+
+experience is feedback to the player from the game that teaches or improves their skills related to the game
+
+player experience is the perceived feeling a player has from playing the game
+
+special skills are skills that are uncommon to anyone who has not played the game yet, but may be obtained through experience (a big factor in difficulty)
+
+other skills are skills that are common, and those that parallel a target demographic's lifestyle
+-------
+
+When games do not change without a developer the only impact a player has is given through feedback.  Games are traditionally updated from feedback at any stage of their development to improve player experience. Some feedback is also received through player input while they play, in the form of metrics. Although not every game adheres to this philosophy strictly at all times.
+
+Players with special skills, or developers, are required to improve current games (e.g. Happy Wheels, Transformice; custom maps / uploading / voting systems). A voting system is frequently employed in the game to rate content from specially skilled users in order to maintain overall content quality and improve the game.
+
+Users who make custom maps, storylines, and other modifications including scripts, plugins, graphics, etc. can be regarded as skilled, although they often work for free for their own enjoyment they are doing the same work as a developer. Skilled players may also be developers, but their experience allows them to create content through modifications whether they are playing the game at the time they create it or not. The modifications therefor will not meet the required standard.
+
+For games to evolve from player input, feedback and input cannot be confused.
+
+Games of this nature should change over time without feedback, and without developers changing them.  This substantially alters any one game's metrics, a more dynamic approach to game metrics will be required to understand the smallest changes.
+
+__________________________________________________
+
+
+What about a game with a target demographic of developers? They would have skills to change it while playing.
+Rhetorically, if the target demographic of a game in the current market were game developers and the game was about development and maintenance of the game which you could actually see after it's been voted in, the net gain wouldn't sustain its original developers at market equilibrium.
+
+Due to this, an educational game for developers fails meet the new standard's sustainability requirement. Although it may be possible to develop, it would be a case meant for charity.
+
+__________________________________________________
+
+
+
+By meeting the previous standards the following will be true:
+
+1. The type of game designed will be an empirical cloud game.
+
+2. People will be impacted which changes their view of new and old games.
+
+3. Regarding the developers...
+    *The software development life cycle (SDL) for these games is not the usual. Their developers do not necessarily maintain or improve them. So from the developer's point of view the game development is: Planning, analysis, design, implementation [, maintenance] [, repeat].
+    *Developers of empirical cloud games do not need to frequently update their games after one release to meet unexpected demands.
+    Developers of empirical cloud games will have more free time.
+
+4. Regarding the players...
+    *A new player requires no knowledge of the game to generate new content. The content generated will always be different, weighted by every player every day since the GM emulation system came online. The SDL from a player's point of view: play, experience [, repeat].  
+    *A new unexplored player experience for veteran gamers.
+    *New content is created by players to replace content that may have broken or ruined the game for some reason.
+    *New players will have a choice between games that evolve from their input and the current available market.
+    
+5. Regarding society...
+    Doesn't a new idea always scare someone?
+6. Me...
+    I don't see a reason not to remain anonymous if someone else is going to do this.
+    
+
+As a rule of thumb, I can't predict exact consequences. Over time some standards that were expertly declared may be recognized / defined by the players and not the developers.
+
+Players will define the games, literally.
+
+I hope you liked this entry. It'll hopefully mark the beginning of my explanations of the system that emulates a human GM.

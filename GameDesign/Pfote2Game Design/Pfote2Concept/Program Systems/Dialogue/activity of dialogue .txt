@@ -1,0 +1,20 @@
+activity of dialogue (if player's memory present)
+
+"ACTION" possibly words
+text media procs
+	?display in d. box
+	?add to memory (a d. box)
+	
+	dialogue progresses
+	
+d. box
+	displays the text, if present, creatively
+	
+	
+memory 
+	save state (can load with remember)
+	snippets of recovered memories, like options
+	
+	
+state
+	grain of memory or reality

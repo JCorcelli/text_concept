@@ -1,0 +1,57 @@
+
+Garden - generating power ups
+Dungeon - discovering abilities
+
+Minigames - would involve UI shift
+
+Adding Promise -
+	1. avoid interfering with player
+	2. highlight new thing
+	Reveal/ itemize/ iconize/ game
+
+Make Billtext stuff -
+	Gui bubbles - to be clicked
+	sprites
+	effects
+
+
+
+Fear / Surprise emergence, 
+	running away to hide = fear
+	
+	running to the side = surprise
+
+spriteMagnet 
+	A more confusing gui
+		
+
+Letting bunneh control camera?
+
+Unknown object, shader? and effect
+
+	
+Animation buffs
+	should have a status
+	
+	delays in bunny response
+	extra slow turning
+	playful animations
+	
+animate/soundboard anything that's doing something
+
+	
+
+CAMERA FUNCTION: a lock-on
+	a lock-on ticket system. For camera hogging options.
+
+INTERFACE, MENU
+	see concept work.
+	
+	see dialogues
+
+SEE-THROUGH EFFECT
+	extra meshes with see-through textures for most things
+	
+	it just needs to be a general shape if it's decorative
+
+	

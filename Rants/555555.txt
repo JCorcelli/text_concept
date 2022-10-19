@@ -1,0 +1,44 @@
+
+ABCDE * A = EEEEEE where each letter is a single-digit
+
+
+
+E ?= 2, A could be 6
+6BCD2 * 6 , now B needs to make 36 become ~20, not possible
+
+E ?= 4, A could be 6
+6BCD4 * 6 ,make 36 become ~40, now B * 6 needs to be 40, nope 
+
+E ?= 5, A could be 3, 5, 7, 9
+3BCD5 * 3 , make 9 become ~50, now B * 3 needs to be 410, nope
+	oh
+5BCD5 * 5 , make 25 become ~50, now B * 5 needs to be 250, nope
+7BCD5 * 7 , make 49 become ~50, now B * 5 needs to be ~10, passing
+9BCD5 * 9 , make 81 become ~50
+		
+E ?= 6, A could be 6
+6BCD6 * 6 , make 36 become ~60, now B * 6 needs to be 240, nope
+
+E ?= 8, A could be 6
+6BCD8 * 6 , make 36 become ~80, now B * 6 needs to be 440, nope
+
+only one answer based on what I think is correct deduction
+ 
+
+7BCD5 * 7 , make 49 become ~50, now B * 5 needs to be ~10, passing
+A = 7
+E = 5
+
+go right to left
+
+5 * 7 = 35, D * 7 needs to end in 2, D is 6
+6 * 7 = 42, C * 7 needs to end in 1, C is 3
+3  *7 = 21, ( B * 7 ) + 2 needs to be > 10, < 20, and end in 5, 9 is 65
+
+79365 * 7 = 555555
+
+there, it was trial and error
+
+I don't know where they got this algorithm from, byju's?
+
+guess the number and divide by the muliplicitive

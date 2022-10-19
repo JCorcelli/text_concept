@@ -1,0 +1,30 @@
+
+
+Interrogative Message Headers
+*	who			: Character
+*	doing what	: Action
+*	when		: Timestamp
+*	where		: Location (eg here, in station)
+*	why			: reasons  (eg : bumping into the wall, a routine about making cake )
+*	how?		: NPC. items, knowledge, skill, emotions [,misc detail]
+*	messages	: keywords / extra
+
+Recorder Protocols (recorder not existant)
+
+#	silent		: this is not recorded
+#	empty		: there is no data
+- called by macro actions ad-hoc (multiple times)
+#	alter		: change a record
+#	insert		: add records
+#	delete		: erase a record
+
+Keywords
+Some kind of predetermined keyword for a game environment
+
+Routine Protocols 
+- usually called by actions
+#	beginning	: an action is starting
+#	interrupted : passive action, this is interfering with the routine
+#	completed 	: an action is ending (success or failure)
+
+

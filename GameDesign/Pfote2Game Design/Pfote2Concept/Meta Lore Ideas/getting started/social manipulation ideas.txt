@@ -1,0 +1,104 @@
+you use the zone to signal
+there will be puzzles
+
+soothing aura
+kitty talks with bunneh
+	- bunneh is annoyed by excess
+
+cuddles - put others to sleep
+ferocious attack - maim, disabling the target and increasing your threat level
+
+COMMON
+	
+	DAILY ROUTINE
+		opinion
+			keeping up with friends
+			
+		
+		IMAGE
+			meet people
+		
+		SELF IMAGE
+			bills
+			entertainment
+			sleep
+		
+	VISITORS
+		interrupting meals
+		visually distracting decreases events
+		making kitty upset
+			- event
+
+PERSONALITY BASED
+	someone with personality has a higher self image
+	
+	GOING OUT
+		unique events
+		unique behaviors
+	GOAL
+		events they can't miss
+	
+	AVAILABLE
+		flags change personality availability
+		
+		
+EVENT
+	DATES
+		opinion is everything
+		his/her image
+		his self image
+	PARTY
+		mood changes meeting chance
+	DRAMA
+		reveal secrets 
+			romance event - distrust or intimacy
+			
+		ask for help (online)
+			advice - casual
+			personal reaction - friend comes to visit
+			
+		plant idea
+			personal motive
+			blackmail
+			enmity
+	
+INFO
+	FRIEND INFO
+		keep track in lists
+	NAMES
+		placeholders
+		
+	DISCUSSION
+		just be in the room
+	WHISPERING
+		get closer to listen
+		
+	STORY
+		in theory people have stories
+		
+DIRECT MANIPULATION
+	date scene
+		location
+		dotw - business, play, magic
+		event
+		subtle mood primer - mood setting
+		
+	relation status
+		acquaintance, 
+		friend, 
+		dating,
+		semi permanent together
+	
+	personality
+	emotional manip
+	physical manip
+	dialogue manipulation - choosing options, 
+	
+	puzzle manipulation 
+		direct behaviors outside dialogue options
+		improv. - finding puzzle pieces
+	benefits
+		making opinions
+		things to plan on later
+		listening to stories
+		world knowledge gathering

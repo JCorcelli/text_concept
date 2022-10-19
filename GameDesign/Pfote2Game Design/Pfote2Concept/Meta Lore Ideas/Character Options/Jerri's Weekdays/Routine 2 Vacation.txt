@@ -1,0 +1,49 @@
+Vacae routines (no work)
+
+
+Weekdays
+
+*** 1
+	Cage Open
+	
+	MID
+	Play
+	
+	NIGHT
+	Sleep
+	
+*** 2
+	
+	Cage Closed
+	
+	MORN
+	Leave
+	
+	MID : NIGHT
+	Return with friend
+	
+Weekday + Weekend
+
+	Visitors all day. Non-introduction.
+	
+	Their behavior should vary. examples:
+*** 1
+	Jim (playful )
+	calls jerri Kitty
+	talks familiar
+	uses her computer and joins her play
+	overly affectionate
+	pets bunneh's nose
+	
+	2
+	Cam (secretive )
+	smells like dogs
+	well dressed
+	acts businesslike
+	plays and ignores bunneh
+	
+	
+	3
+	Mitch (wealthy )
+	smells like sour dough and stuffy sugar
+	pets bunneh's back often

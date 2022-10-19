@@ -1,0 +1,88 @@
+'''
+	Data
+	In Scope
+	
+		NPC character sheet
+		NPC conditions
+		NPC action data
+		Messages 
+		#	busy		: it's impossible to try an action
+		#	ready		: action has completed and no new action queued
+		#	beginning	: an action is starting
+		#	interrupted : passive action, this is interfering with the routine
+		#	completed 	: an action is ending (Add Keyword success or failure)
+'''	
+		
+		
+class AbstractRoutine
+	var status = active
+	var actionManager;
+	
+	
+	Init
+		subscribe Receivers Pre & Post
+		
+		actionManager = ActionManager.instance
+	
+	
+	Pre
+		// action has started
+		look for Messages in string actionData.message //  delimiter {}
+		is it 
+		beginning
+			status = running
+		completed
+			//instant action is completed
+			
+			CallToAction
+		busy
+			//some other routine has interrupted
+			status = stopped
+			
+		
+	Post
+		// action has stopped
+		read actionData.message
+		is it 
+		interrupted
+			status = stopped
+		ready
+			status = active
+		completed
+			// successful action
+			AlterConditions
+			status = active
+		
+		is active?
+			CallToAction
+	
+	// commands that can be invoked
+	Sleep (seconds)
+		status = stopped
+		Resume after seconds
+	Suspend
+		status = stopped
+	Resume
+		if stopped
+			status = active
+			CallToAction
+	
+	Abstract AlterConditions
+		// recent action was completed
+		desirable condition is no longer the current one
+		is my health low?
+		is my heart low?
+		do I have amnesia?
+		
+	Abstract CallToAction
+		is this condition ok?
+		yeah it's possible
+	
+			is this condition ok?
+				I do it now
+			this delays the action a little
+			
+			is this condition ok?
+				try it in 1 second
+			this delays the action a lot
+				try it in 3 seconds

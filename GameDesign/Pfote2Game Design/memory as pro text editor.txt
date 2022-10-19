@@ -1,0 +1,181 @@
+set didn't work on the Unity vectors I was assigning
+
+o pictures add indent
+
+o vertices are efficient
+
+z
+I have to get my string for the cursor from somewhere else
+o	I just need to save this info
+		i_paragraph 
+		i_line
+		i_word
+		i_char
+		
+	calculations
+o		string searching
+		hover checks
+		
+		
+			o paragraph
+			
+			o line
+			
+			o word
+			o char
+			
+			
+!		using selectabstract
+			1 hover component
+			2 give me the first thing I touch
+			
+			any artistic text - only char distance matters
+			
+		o highlight rects =
+			whatever rect hit
+			
+			use the cursor info text
+			o backed as c.info.textunity
+			remade with the castpoint function
+				o lines understand me
+				o paragraphs are good
+				o word 
+					highlight
+				o edit carrot
+				
+			
+				o char is fine
+				
+!		I define the inserts?
+			all widgets upper left anchor because resize
+			widget size?
+			only some widgets work
+				
+				xxx
+			right insert just automatically takes 3 chars and cuts them out
+			o left insert
+			
+			o inline insert
+				
+		moving as object=
+			I'd need a renderer, I simply move it
+			
+			
+			as verts? unless it important, no
+
+
+o	
+need to know where cursor is - call the functions in order:
+	paragraph - paragraph, line
+	line - word, char
+	(distance to chars?)
+	or just
+	
+	o 
+	pointCast(mousePosition) all necessary variables are local to the text body atm
+	
+x
+need to know where indents are 
+	technically I do when it's first created.
+	So as long as the widgets don't move, their indent is the same spot.
+	
+
+>
+Any reason (not) to
+	image software imitation
+	try turning text into image
+	
+	?
+	improving old prototype
+	try saving datesim image (smarter saving ability)
+	?
+	
+	understanding font
+	check out custom font in unity, maybe I can 
+	?
+	
+finish it
+	node should have a default size when active
+	let the node move body if it isn't dragged
+	let the node display 
+		a different text if collapsed?
+	the node doesn't move unless it's dragged
+
+Any reason (not) to
+Master this
+o	text - pretty much forced me to learn how vector was implemented
+	texture - is a matter of walking huge lists not unlike the way text is handled
+	vector - is a rather short list of positions now that I think of it.
+
+x
+there is also the expensive operations, gpu and overlay * maybe later?
+
+	x shader - is a language I'd have to learn to program expertly for the gpu (in the end it's all pixels)
+	x after effect - means pixel operations right i'll ignore those for now
+
+
+##PROGRESS AND THOUGHTS
+o I have a text that can simulate chat
+I want to insert anything into the memory list
+	I could insert an option to open a widget (eg collapsed)
+	I could make any widget appear and scroll
+	How about a more standard widget with info transmitted from (user unknown)
+I want to modify anything from source
+	Add scripted values to them
+o I have images that don't need to be modified
+I have widgets that do need to be modified (headers)
+I want to modify things - program them
+
+
+## GOALS ETC
+hub
+proc sets text
+hub on change
+
+o
+I made magnetbubble
+o
+use the actions, make bubble appear, grow
+
+make bubble grow slowly
+o
+a real dialogue box
+o
+the current memory controlling selected and new widgets in its list, and outside its list to some degree
+	This is meant to be organized
+	Know all memories at all times
+
+	all memorybox rects are memories with potential text, and widgets options
+
+	node states:
+		collapsed, anchored collapsable, detached screen-bound, invisible (not in zone or not in use)
+
+memory widgets
+	prevwidget methods select a memory's content and alters it after the text position is calculated.
+		there's not really anything to do to fix this besides rebuilding the text, or never resize/move widgets.
+
+> elements, see: item vs elements
+	memorybox to organize the elements
+	Drag the elements
+	(it's an inventory screen?)
+
+> text generator component (eg not the memory node)
+	something easy to alter/distribute that doesn't rely on node.
+
+> widgets created by mbox
+	properties__________
+	
+	text
+		pad
+		string
+		background
+		outline
+		highlight - if hovered
+		color
+		size
+		font
+	
+		italic, bold
+	
+	
+	non-text? just wing it later

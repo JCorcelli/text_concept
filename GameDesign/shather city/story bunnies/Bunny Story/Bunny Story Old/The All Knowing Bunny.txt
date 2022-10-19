@@ -1,0 +1,89 @@
+The scenery starts out misty and unclear.
+
+Where am I? Where did everything come from? I don't know what's happening. > Can someone help me? / Nobody responds.
+
+You see a  moving shape in the distance and you approach. / > What? What are you? / But it does not respnod.
+
+faint breathing, hooing wooshing noise. You [turn about quickly 0] [hide 1]. / > Who is there? / No one.
+
+> You look really [dumb -0/ smart -1]. /o.o/ > If the things could talk they would talk circles around you. 
+
+o.o
+
+A silly fluffy thing is here. 
+
+> I'm the boss of you. Pet me.
+
+[you don't 0/ you do 1]
+
+> Well.. then that's settled.
+
+It's a person. The fluffy, bossy person hops away diagonally twice and glances back at you for [just a moment -0/ until you follow -1].
+
+Once you progrss to the next area, you caught up.
+
+> Hey. You aren't hopping right. You need to hop like me! / The fluff ball does a zigging jig around.
+
+++You start to zig like him. Whether you want to or not.
+
+> Look there a felled branch. / It noms the branch, saying nothing for some time.
+
+You [nom branch 0], you [don't nom branch 1]
+
+> [You catch on quick. ++You gain mimic -0], [tch, you're joyless ++You gain idle -1] / After some time the journey continues.
+
+> Check this out! / Something stupid happens / > See that? // ++ habit experience
+
+[yes -acquire habit] [no -repeat] [leave]
+
+> Ok here's another [continues until you leave or all habits acquired 0]
+
+[> Come on let's go. By the way, you're really fun +0 -- authority]
+
+> Alright let's get this straight. You can't talk once you leave this place. It's just a rule, it can't be helped. You shouold get it all out of your system now. 
+
+[> I'd like to give you something.  You get something -0]
+
+You enter a playground.
+
+> If you take a rest, get under cover first. The bunnies here are serious and we mean serious business.
+
+.. long discourse about his beliefs [leave 0 / listen 1]
+
+> The fact bunnies rule the world is evidence of that. [ ++everything wears bunny-ear ]
+
+[-0]
+
+You finally have a chance to roam around freely.
+
+options {
+There's an annoying bunny. To your immediate right is an engraved rock. Behind the bunny and all around you is tall grass.  There's a tree close enough you can see the bottom of its canopy above you.  There's a jungle beyond this.
+
+ You think the annoying bunny has more to say.
+
+Upon closer look the rock is very well made. Even closer look and... an apple. [ you ponder about apple]
+
+The tall grass smells wonderful. [ you know the smell of grass ]
+
+You wander off
+}
+
+You must traverse a small patch of blue roses to proceed.
+You can optionally guide a few bunnies for a gift.
+
+Tentative: 
+There's a bunny hole. The hole is occupied and when you step close enough you hear a thump, you thump back instinctively. Out hops a dark tall bunny.
+> Hi there, new friend! Have you ever seen such a beautiful burrow before? Please I must beg you to listen to my cautionary instructions. [yes / no]
+if yes
+	> Take a look at my rabbit hole. You know it is safe, indeed. It smells perfectly normal, remember this. 
+	I was guarding the entrance because there is no backend, you should always have a buddy guarding the entrance in case there's a cave-in who else can rescue you? when intruded who else will warn you? / Out hops another bunny / > You see? Remember this.
+	> We are great friends now, so you know the hole is safe, because I dug it you may use it as well. Remember this.
+	> Sometimes a hole isn't safe because it's bottomless, you should never go exploring in caverns without a whole team, and never ever jump off a sheer cliff. Remember this.
+
+Would you like to take a look inside?
+[ if yes the other bunny is still leaving as you try to enter ]
+[ if not then you find practice holes, easily skipped ]
+
+> Hey I see you're headed onwards. If you have some time would you help me dig this tunnel?
+(I think the player would have been on long enough to be urged to rest)
+> You should get some sleep. It's been a big day for you. Come on, there's a cool place right here, or you can sleep in a tunnel, I can keep watch and take turns with my friend while you're "out."

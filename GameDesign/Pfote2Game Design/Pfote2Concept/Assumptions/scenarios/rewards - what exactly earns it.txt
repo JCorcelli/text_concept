@@ -1,0 +1,485 @@
+based on (ultimate power.txt)
+otter cuteness - meta decision, it's a secret new game option
+	magic power			-otter magic book, no limit
+	plane walker	-spirit power, with teleportation skill
+	law ignorance		-no law visible, no law change
+	inviolable shield	-no social feedback, no strife
+	
+being cute - decision
+	passive buff for social manipulation
+
+
+killer cuteness - discover the hug flower and be cute
+	enable deadly options
+
+
+pet - basic
+	you'll be pet and treated well by your owner
+	
+friend - have many positive interactions with owner (one day's effort)
+	trusted
+	your owner won't follow you around
+	
+desirable - well acquainted with multiple 'owners', positive social endgame
+	you can visit their house
+	some services in Shather become available like voluntary tutors
+	your friends will try to show you new things
+	
+thief -
+	basic actions that imply theft
+	
+	pilfer - take from person
+	plunder - take from house
+	source killing - like burning a book, or eating it and 'forgetting' details
+
+confident -  being a bit of a kleptomaniac
+	scam - specifically stealing cash with business.
+	goose - increasing other animals' threat level. implicating them with a honk.
+	
+	housenapping - sleeping in the main bed of a stranger's house
+	
+beyond reproach
+	
+	kidnapping - taking an entire person
+	some other godly stealing skills
+
+	
+stealth - standard skill
+	hiding
+shadow meld - skilled in stealth, learn from black bunnies
+	disappear in shadow, passive
+	grow a shadow
+	shadow stepping between any shadow
+shade - acquired by training shadow meld, allows wraith and photokinetic powers
+
+ninja - standard skill
+	jump
+	parkour
+	throw
+	
+elusive - skilled at parkour
+	can't be held
+	more power
+	double jump
+	
+
+kinetic - skilled at jump
+	bounce, no fall damage, jump as high as you fall from
+	multiple jumps propel higher
+	
+zone - basic
+	using interfaces
+	
+insightful - learned passive zone skills
+	
+	slow mo
+	reveal signals
+	places to jump to
+	visible objects
+	map
+	inventory
+	
+empowered spirit - learned all insightful skills, solved [] puzzles
+	like killer cuteness, only you don't need help from people to open signalled objects
+	
+thought	- "age" plot point
+	thought bubbles
+	thought inventory
+law smith - discover the laws
+	remove or replace excess laws
+	item conversion
+	receive bounties
+	
+no law king - 
+	law immunity, local laws have no effect
+	
+	can disable the third law (may leave bunnies comatose)
+	can craft natural laws, mind over matter
+	
+
+memory - basic
+	memory log
+	
+story manip - the story manip skill is a fun puzzle element, so you gain more options through dialogue
+	opinions
+	truth
+	alter other people's mind
+
+transcended - meta decision
+
+	see stats
+	
+	new game + 
+	
+	start from day 1 as baby
+	carry stats from previous file
+	"metalog" compares new log versions to past
+	
+	
+	
+dream - basic
+	dream world challenge (roguelike)
+	
+wings - complete the Dream World challenge
+	indoors, if you can see B standing at A, you can get to B in a click
+
+dream invasion - reach level [] in dream state
+d. wraith - invade all dreamers
+	access dream laws
+	alter consciousness in animals
+	recover heart
+	
+explorer - basic, about the same time of thought
+	access locations
+lawful - complete one challenge with its rules
+	access higher difficulty
+hero - complete all challenges with its rules
+	monster
+
+personal hoard - gather a pile of [] in a saved space
+	hoard menu
+	idle game
+	... subordinates?
+	
+idle tycoon - enable "real" idle game effect and invest in it
+	your pile of [] generates []
+	
+item - basic
+	carry one item in hand
+	carry consumables
+
+tinkerer - purchase a bag and you can learn the craft system
+	individual items
+	manipulate items with initiative and signals
+	
+mastery - practice a craft
+	level tutelage, dialogue, tutorials
+	free hybrid skills (ie thought conversion, writing, smell items)
+	
+	level of exam (dialogue?)
+	level of challenge
+	master rights
+	
+potency - max first craft
+	gain extra experience
+	any basic action halved
+
+eat - basic
+gourmet
+	some small gain for every food
+	ability to sense food locations
+	
+	cooking ideas
+	opinions
+	more favorite/dislike slots
+	
+	identify effects as well as flavors
+	
+[100%] food genius
+	no dislike penalty
+	permanent bonus
+	full heart recovery
+	hybrid food thoughts (cash from air)
+	
+	
+bomb - decision
+	attack is switched with bombs great for digging, also deals structural damage
+demo - req. items, pass a dig master course
+	you get access to upgraded bomb
+	
+
+null bomb - erases all things, except bunneh
+
+paw - basic
+	throw
+	grab, push (head technically)
+	kick
+	punch (bunny)
+
+hand - get a mutation (3)
+	swing / throw
+	wield
+	pull
+	punch (otter)
+	
+	
+sapient - master hand use
+	can push buttons
+	can open doors 100%
+	can play keyboard and clicker minigames on any computer
+	can use all custom tools (bunny size)
+	
+	some small vehicles
+	
+humanoid - get a mutation (lab)
+	morph into a small person, with some bunny characteristics
+	
+	honorary human status, sleep on a bed
+	human skills
+	
+	human transportation
+	
+magic use - acquire skill from ??? and magic item
+	wand of
+	enchanted potion
+	
+magic creation - requires writing skill
+
+hallow - build, cast a ritual spirit pact
+	hallow, below 25 threat you're sacred
+	
+	
+	magic sight - also available as lens, curse (but he hides from this spirit)
+	
+	magic sense (hear, talk) - allows him to trust a spirit
+	
+	
+	get a grimoire of ultimate powers
+		anti-magic, magic immunity
+		status immunity
+		
+		
+		vanish, invisible + intangible
+		ghost movement
+		teleportation, recall
+		warp to known location
+		
+		KE Blast, air bomb
+		
+		unnatural flight, jump in the air, about 3 times maybe
+		
+		unbind spirit
+		
+(based on skill item obs monster cheatsheet)
+
+read - not eating books
+	finish a simple yes/no dialogue to not eat a book
+	"read the book", take a while (reading skill)
+	"eat the book", quick, imprints to memory
+	put the book back
+	
+facts - from books, and log entries
+distorted facts - 
+	hearing reference, but lacking details 
+	old facts
+	
+gardening - finding your way into any yard that has a good spot
+
+puzzling - this would be slang for 
+	fogger movement
+	knocking things down
+	solving random problems
+	reading dialogue
+
+survival inventory-
+	food, fruit, veggies, ???
+	purchase
+	pick
+	cook, enhance food
+fun inventory
+	toy
+	self grooming, minigame, effect, noise maker, doll
+	
+	2d widget - tend to be around, they mostly show you realtime info
+	
+	training weight
+	educational widget
+	
+	given as presents from friends
+	find
+	purchase with bank account
+	earn skill
+	
+weapon inventory
+	paw: club
+	teeth: sharpies, fangs, stick, rope
+	hand (+above): handles, blades
+	
+	find
+	craft
+	enhance, purchase or trade
+
+tool inventory
+	paw: digging, grab mitts
+	teeth: brush, bucket, bag, orb
+	hand: shovel
+	
+	earn
+	purchase or trade
+	
+projectile inventory
+	pew pew
+	noise, kunai, yoyo 
+	catapult, slingshot
+	ground trap
+	
+	hand: gun, boomerang
+	
+	earn
+	decide
+	trade
+	
+treasure - most is stolen, but sells for high amounts or makes your hoard way bigger
+
+equipment
+	harness - a lot of bravery and a little cash gets you inventory
+	eyeglass - ?
+	
+	relic / totem - probably some monster drop
+storage
+	bag, box, container - purchase or find 
+	cart - find a trader
+	express cargo - learn the phone number
+	thought inventory
+	magic book - explore magic quest
+key item
+	exclusive to stories, 
+	see cheatsheet for growing list
+	see [mock story details]
+	
+story articles
+	gifted to owner
+	purchased by owner
+	
+	found in houses
+	newspaper
+	
+	read / listen online
+
+location
+	safety - basic
+	room - door, tunnel in, wait for it to open, or figure out a better way
+	dream - sleep, rest long enough
+	
+	secret - follow the side-quest route [mock side-quest details]
+	
+	dungeon - dig one yourself
+	
+(based on exp system)
+
+time dreaming - should be more of a merit, but if you can control thoughts than why not control the dream?
+	either you lengthen it with points earned
+	you get trapped in dream state
+	or it's a shot game that you 'pay' to play, like a 'token' game with... tickets 'points'
+	
+hearts - extra lives, refers to extreme actions and debilitating status penalties
+
+experience - time, practice
+
+stamina - non heart related actions that need a linked cooldown
+
+step taken - terrain mastery - would make sense that longer time on it earns you skill, passive 
+
+walk - some stability by default, status can make you run when you want to walk quietly
+run speed - various status can alter this
+
+gardener
+	seeds - 
+		are pooped out after you eat of course
+		skill and carry a bag
+	plants -
+		found
+		bought, common
+		location research
+	prune -
+		you nibble a plant without holding e
+		tools
+		
+	pick - practice eating new plants for a while
+
+stealth	
+interest points - should be player visible, like a glint, a shine. In zone they highlight if you mouse over them.
+
+stealth skills - learned through experiment, tutorial or observing...
+
+ninja
+shadow swap - default
+	enhance by exploring the black bunnies
+	
+wall tech - default, but effective levels vary
+
+invisibility - elusive ranked ninja is hidden for a time after exiting hiding, many stealth skills are buffed
+
+disable noise - ways to effect this: ear plugs, shoot, puzzle
+
+explorer
+quests - discovered with some effort, rarely given to you
+secrets - discovered with great effort
+
+
+merit - discvoer, dig, bomb, experience
+
+truth log - effort, events add more logs
+
+emotional
+heart containers - found after a significant hardship
+
+opinion - learned from experience, finding something that evokes said opinion
+	danger - sharp objects are dangerous
+	harmless - soft objects are harmless
+	likes - bunneh's natural attraction
+	dislikes - annoying or gross things
+	more...
+
+knowledge - 
+	noun, pronoun, verb: learn to replace the vague title with the real one
+	
+	eg experiencing a status learns its effect, but maybe not the word?
+	
+	unknown effect
+		bad / good (or random association)
+	known effect
+		slow/ light
+
+signal command - 
+	signal 1: requires LOS with bun
+	signal 2: requires empowered spirit
+	
+skill speed - practice
+art - practice and player ability
+stomach - explore, eat a lot of food
+	special abilities, uhh
+	
+ears - practice listening
+	could probably get some items that replace ears
+	
+story - personal / player experience all have a drastic effect 
+	dialogue
+	events
+	distortions
+	log entries
+	decisions
+	
+(based on story challenge)
+key item -
+	1 standard key item - some necessary ability to complete multiple goals
+		discover as exciting
+		weak version - upgrade it
+		unique buff
+		work for it
+		being observant of mundane things
+	
+	2 limited ... item
+	its location changes, and you search for it until there's a proper clue
+	
+	time starts - then you go hunt for it
+	
+	3 rarity - a consumable or losable item
+	4 derivative / fake - you craft or invent it, it works as well as the original
+	5 key lite... only available for this case, may be op
+		get a version that works everywhere!
+	
+being a boss - I mean beating a boss
+keeper - they have specific locations, and won't stray without a warning
+	1 don't, just take items you need
+	2 kill it (makes you a 25 threat target)
+	3 befriend
+challenge - an exact location, some can be retried
+
+prestige goal - more or less 
+	1 a rumor you can spread
+	2 action you can really do
+	3 altering data
+	4 opinion that the goal was worthless
+	
+see progress rewards for more

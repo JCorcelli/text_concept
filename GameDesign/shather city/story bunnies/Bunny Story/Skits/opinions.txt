@@ -1,0 +1,11 @@
+an emotion, can become a vex ( cause, command, lie )
+
+
+fact: doesn't like carrots
+description: hate carrots
+says: carrots are bad
+belief: can't eat carrots
+
+lie: nobody likes carrots
+cause: destroy carrots
+command: can't eat

@@ -1,0 +1,41 @@
+SCENARIO: OVER REACTING, LEARN ABOUT HORSE
+
+You read about unicorns
+nouns
+	horn - sharp
+	horse - 4 legs, approximate appearance
+	
+Does it need the story?
+
+observe unknown [dog]
+has 4 legs
+no horn
+
+the horse is short
+
+safety check, get closer to it? sure. it's smelly and you don't think you should mess around any longer.
+
+read multiple sources until
+
+You read about dogs
+
+noun
+	dog - 4 legs, approximate appearance
+	domestic - friendly to humans
+	pet - found in human house
+
+You go out and see a real horse, probably. you don't want to get closer.
+
+
+Access log, 
+line " I saw a horse, horses are :smelly" horse > dog
+line " I saw a dog, dogs are scary"
+
+safety check, get closer to horse? sure. it completely ignores you and chews on grass. you could probably ride it. Harmless. You don't like horses.
+
+
+Access log,
+"... don't like horses"
+Access self image, likes
+like 5/5 things. don't like 2 / 3 things. 
+Hint: Go to safety to modify opinions.

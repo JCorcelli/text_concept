@@ -1,0 +1,50 @@
+is there some way to intentionally allow emergence in all aspects of game experience?
+
+example of learning a real world craft in game (courtesy of legendary moonlight sculptor)
+
+sculpt in VR (with your hands) = sculpt a mesh
+or guide generates a predefined preference, enhancing your skill
+then you bring them to life and they behave like NPCs do
+mesh manip = make your own models
+bring to life = models are essentially playable characters
+
+pro - you do learn, you craft a path of victory
+con - it takes time to earn, you're free labor for the dev team
+...
+some from my book
+
+example of emergent puzzle system
+log event (exact event order are 'rare')
+log becomes unique
+log manip = define your character
+low diary = write your own story
+
+pro - you are becoming critical thinking, you can use what you learn in game. You're not limited to that.
+
+con - it's limited to restrain you at first, and later it's a triviality to be a hypocrite that can't make up their mind and procrastinate on what to try next before resetting the game
+...
+example of emergent code/game rules
+
+standard law = standard behavior game
+law manip = choice of game
+pro - you can partially alter the core behavior of the world
+con - not everything you want will be there
+eg.
+	"dreams are real"
+	"city laws don't apply to bunnies"
+	"bunnies aren't pets"
+...
+
+emergent npc behavior, pretty much every light novel
+"artificial intelligence"
+...
+emergent plot
+choose your character = motive
+choosing a starting world = setting
+your actions in the world = defining the character
+
+pro - your possibility space is infinite.
+con - the above creates a story with the premise of emergence, but without a unifying story
+
+... 
+if all else fails put game modding tools into the game

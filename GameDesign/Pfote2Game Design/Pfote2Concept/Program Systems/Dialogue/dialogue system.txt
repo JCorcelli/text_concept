@@ -1,0 +1,55 @@
+
+Interfaces allow interaction with something that is far removed from the dialogue system.
+
+ JUST WRITE, AND I WILL PARSE IT LATER, THEN I WILL WRITE THE METHODS
+ 
+DBoxAction for text, pretty much covered
+
+	
+StaticDialogueHub
+	StaticDialogueHubHook - for callback
+	
+	
+Dialogue Text...
+xTextMesh, idk how to use it yet
+Dialogue Box - parse, organize, visualize, getting pretty close to the seven senses of the body
+
+Static D. BoxAction - ease of use
+
+In abstract terms
+	User = Resource, Target, Scripted 
+
+	Stream = Sense, Use, Parse, Display
+
+
+Hierarchy coupling
+Source 
+	string
+	origin
+	
+FakeUser (scripted event )
+	Source
+	BoxAction
+	D Action
+	
+Object > D. User
+	Source {Mutator}
+	BoxAction
+	Text 
+		Storage {Mutator}
+		Users
+		Source
+	
+ > Character (scripted NPC)
+	
+	BoxAction
+	Storage
+	
+	Register Available Actions
+	
+ > Player
+	
+	Stream
+	Box {eye, ear...}
+		RedParser {Mutator?}
+		MediaProc {Mutator?}

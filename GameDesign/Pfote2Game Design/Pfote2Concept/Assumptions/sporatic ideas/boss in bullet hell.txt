@@ -1,0 +1,17 @@
+If you have an environmental hazard
+you have an effect that causes environmental effects
+the effects can cause hazards
+
+So primary examples
+	tut
+	there's a hazard
+	pc know to deal with it
+
+	boss
+	create hazard
+	attack
+	retreat
+	
+	or repetition
+	pc disables hazard, boss resets hazard
+	

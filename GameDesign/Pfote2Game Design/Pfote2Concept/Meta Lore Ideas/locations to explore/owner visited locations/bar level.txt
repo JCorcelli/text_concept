@@ -1,0 +1,22 @@
+BAR LEVEL, TAVERN
+
+some owners might go to a bar
+the bartender job has shifts, with the bar owner taking over when there's a free spot
+
+FOOD
+
+Alcohol
+
+Juice - a staple ingredient
+Milk
+Served Ice - cold water
+
+GAMES
+Table Game
+	1 People will be playing local card games and don't mind a late joiner
+		yes
+		
+	
+Social
+	owner might meed people here for business or to share
+	

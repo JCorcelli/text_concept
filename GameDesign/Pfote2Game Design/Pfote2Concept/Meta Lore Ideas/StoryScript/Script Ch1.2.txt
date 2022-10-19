@@ -1,0 +1,49 @@
+[[need something translates to program]]
+
+Act 1.2
+setting (covered by the view in game): Jerri's 17 year old apartment. Late in the day.
+
+cast: bunneh, jerri
+
+GAME START 0:00 fadeout
+load scene
+fadein
+Enter view of bedroom.
+Cut to bunneh.
+Bunneh eats hay. 
+Closeup of bunneh.
+Reveal bunneh thoughtbubbles, interactable in scene (low pri).
+Add cross-section camera of door. Door opens [snapshot, audible]. Door closes. Footsteps.
+Bed creak.
+From bunneh's side of cage, viewing human above, on bed. Add fuzz and glow over time[overlay on camera]. Add bunneh emotes.
+
+Human opens a laptop on bed. Click, button [visual, audible].
+
+Caption: [Bunneh, 4 years old.]
+
+Wood stick breaks in distance [image, audible]
+
+Bunneh thumps [closeup on feet]
+
+Human laughs [ text ]
+
+Exchange Camera glance at Bunneh,
+Bunneh shifts weight. Licks lips.
+
+Camera back to human. Jerri smiles.
+
+Caption: [Jerri Mercury, female human, 17 years old.]
+
+Keyboard clicking stops. Computer noises become eccentric and repetitive.
+
+Camera looks at textbooks near Jerri.
+
+Enable all routines.
+
+Main loop. Ends with the timer running out, or when player quits.
+
+Continue
+Setting: Jerri's bedroom. At night, outside the cage.
+
+Bunneh pees on the floor.
+Jerri imposes bunneh's first rule. 'Stay in cage at night'.

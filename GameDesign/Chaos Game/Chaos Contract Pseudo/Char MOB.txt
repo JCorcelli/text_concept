@@ -1,0 +1,69 @@
+what I actually list are vulnerabilities
+
+thinking humanoid
+vitals
+	health
+		permanent: pain, energy loss
+	
+		brain    ... intelligence checks, body coordination
+		stamina  ... allows actions.
+		vitality ... quality of actions.
+		
+		brain
+			sleep
+			pain reduction
+			activity / enjoyment
+			
+		stamina
+			food
+				fruit
+				protein
+				vitamins
+			water
+			
+		vitality
+			misc. status ailments
+
+	body
+		arms, legs, head, connected organs
+		
+thinking bloboid
+vitals
+	health
+		permanent: regen
+		
+		overall ... determines if bloboid is alive, awake, active
+	
+		brain
+			activity / enjoyment
+		stamina 
+			food
+				whatever
+		vitality
+			damage
+	body
+		temp
+			
+thinking robot (artificial or cyborg)
+	health
+		permanent: painless, energy loss
+	
+		brain ... motive, function
+		stamina ... allows action, power on
+		vitality ... quality
+		
+		brain
+			status
+			activity / enjoyment
+		stamina
+			power (charge)
+		vitality
+			circuit
+				wire
+				board
+				mods
+				
+				anything that effects electronics
+	body
+		armor
+		connection

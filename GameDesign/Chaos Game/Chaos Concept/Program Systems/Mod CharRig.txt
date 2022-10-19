@@ -1,0 +1,37 @@
+
+
+character rig
+	body
+		rb
+		mesh
+			arm
+			torso
+			head
+			
+		variable colliders
+			wall
+			door
+			floor
+		
+	resources
+		behavior state
+			saved states
+			ui (inactive)
+				reskin
+				shortcuts
+			ai
+			logical reference - shared data
+				calculator
+				spawn location
+		remotely positioned triggers/ targets
+			body
+				feet
+				middle
+				forward
+				backward
+			arm
+			torso
+			head
+				[sounds]
+				[sprites]
+

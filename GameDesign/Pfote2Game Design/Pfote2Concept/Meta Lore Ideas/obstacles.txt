@@ -1,0 +1,35 @@
+
+
+annoy - makes bunny move away, hide, add status, or move penalty
+	noise
+	quick movement
+	ramming furniture
+	
+attractive - cancels bunny's movement, distract, directs camera
+	dropped items
+	familiar
+	
+	food
+	
+	
+more importantly what situations does this make sense?
+
+annoy
+	clock alarm - once per day
+	falling toys - by bumping
+	human feet - bumping
+	
+	human turns TV on - random
+	
+	environment pests
+	a chair leg - running into it makes noise, and hurts
+	a close bird - scary
+	
+
+attract
+	someone laid a trap
+	called by a voice
+	
+	edible food
+	silly humans drop random thing
+	playful humans

@@ -1,0 +1,58 @@
+during effects bunneh might have a strange thought
+
+basic 
+pressing space will "zone" the zone is a slightly different ui.
+
+Unguided zone (space)
+Bunneh: Display an effect
+	"Why's?"
+	"Intense pondering!"
+	"I'm Bunneh."
+	"What hap?"
+	"Aaaah..."
+	
+Game Forces Zone (time freeze)
+	- none - Narration and cues
+
+Bun Thought (2.2 on) - has a valuable ability to change Bunneh's behavior or the current room.
+	
+Bun Points (1.2 on)- unintelligible thought bubbles, collecting or idling gives points
+	
+	"If big bunny eats, little bunny eats."
+	"Hey... Hay. MMmm. Hay."
+	
+	Poem consisting of colors and foods
+	Can if, of whose, water back blues.
+	
+	...
+	Red rabbit.
+	Green rabbit.
+	Oh dear oh dear.
+	Black rabbit.
+	White rabbit.
+	Please come over here.
+	Eat this carrot.
+	
+	
+Bun Talks - some dialogue on screen, very attention grabbing
+
+Bun Decisions - Big decision time. A menu of special items and actions that harness the cosmic power are presented.
+	This serves as a reminder that the game can be taken differently.
+	
+	1 None - zoning allows regular interactions no downsides.
+	
+	2 Cute - zoning causes onlooker to admire and carry you, your wish is granted.  May cause hyper neurotic boredom ending the game early.
+	
+	3 Rampage - no knockback, an attack will break things. Bunneh makes a terrible racket and fails jumps, cannonballing, or crashing horribly.  Bunneh will not behave. Bunneh, why?
+	
+	4 Pew pew - zoning makes things cute and bunneh teleports if dragged, clicking things shoots them with deadly hearts. Can disable noises and stun observers with hearts.
+	
+	5 Extrapeculiarthoughts - chaotic laws in every bubble (req. laws)
+	
+	6 Wings - while running, bunneh will jump randomly, jump higher, float. Fear propels him up.  He runs at immense speed in zone and turns on a dime, collisions and status are negated. Press shift to brake.
+	
+	7 Formula - bunneh gets a safe speed boost exiting hiding, grazing walls.  Zone starts a run, and slows turn to a drift. Will crash into walls and knock things over with his speed. Press shift to slam the brakes.
+	
+	8 Bomb - bunneh can't settle for digging.  He has one bomb.  He's a demolition expert and zoning shows areas you can't put it. 
+	
+	9 Honeybadger - bunneh becomes immune to status and seethes red, can only interact with a goal.

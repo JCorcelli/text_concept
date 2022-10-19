@@ -1,0 +1,21 @@
+
+
+
+Bunny
+	routine
+		1:	observe in order: nearest visible food, direction indicator
+		2:	has target? go to target
+		3:	touch food? eat food
+		4:	touch human? kiss human
+		5:	timeout? go to cage
+		
+		
+		
+Human
+	routine
+		1:	observe resting area, reach to bunny
+		2:	go to bunny, pick up bunny
+		3:	call bunny, reach to bunny
+		4:	touch bunny? pet bunny
+		5:	hold bunny? kiss bunny
+

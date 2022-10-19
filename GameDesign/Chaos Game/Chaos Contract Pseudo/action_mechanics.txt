@@ -1,0 +1,25 @@
+
+{
+#per action (in case there's no base action)
+Actions
+	#Each action opens a menu, activates instantly, or starts a timer that activates it later
+	
+	
+	state: in hand, out of hand, custom other
+
+	combine: use an item on another one
+
+	select: click item
+	alt select: right click item #some popup
+		
+	steps:
+		#menu
+		check if a menu is already open
+		open it
+		[player closes menu]
+		
+		#action
+		check if an action is already timed
+		do it
+		[action is interrupted]
+}

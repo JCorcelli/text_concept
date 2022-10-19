@@ -1,0 +1,114 @@
+INVENTORY MASTERY
+ALCHEMIST MASTER COURSE
+
+sales pitch:
+I expect you value versatility, magic, and have a bit of greed.
+
+You may be an organized genius. Your craft skill is adequate.  If you haven't thrown a draft, you will. If you've never encountered true magic, oh, you will.
+
+inventory
+	--- physical inventory
+	storage
+	cart
+	bag,magic book
+	
+	--- inventory menu (it's like magic)
+	
+	alter the UI state -
+		if every click were a jump and arrow moves it'd be very different
+	self options (char)
+		ghosting - disabled 
+		thought > self
+		close-up - if safe
+		
+	menu style
+		item list (page)
+		item squares (bag)
+	key items
+	
+	--- sub inventory (it's really like magic)
+	shortcut list (selected items)
+	
+	
+	
+	skill
+	held item (max 1, initiative ready)
+	
+	thought item - comes out of a thought bubble
+		
+	item bubble - like having extra equipment, always in hands (max 3)
+
+--- item use guide
+	one held item at a time
+	basic sort
+	items in a bag
+	
+Item context (also toy blocks, can't be stored)
+	basic
+	signal - observe
+	tap e - pick up / touch
+	hold e - eat
+	q - store item / open inventory
+	drag (initiative) - store / use on / swap/ take out of inventory
+	
+	use consumable - alt signal inv. ("yes") / tap e / shortcut
+	take out - q, signa /, e + shortcut
+	take out last - e + q
+	throw - hold f + mouse
+	drop - tap f
+	
+	store / assign (A > empty slot)
+	use on (A > B)
+	swap (B > A)
+	
+	
+	social passive (cute)
+	offer - stand (A> B)
+	beg - stand (B > A)
+	
+	s. aggressive
+	stow item / splash on- fighting stance  (A > B)
+	steal - fighting stance ( B> A)
+	use on, force drink - (A > B)
+	throw at - hit / splash
+	hit - f. stance + click
+	
+	held bag - 
+		signal to open in zone
+		empty to ground - i Bag > Ground
+		aggressive throw empties bag
+		
+		store in bag - A > Bag
+		
+		--item in bag
+		click to put in hand
+		alt click to activate submenu
+		store in bag - A > Empty space
+		
+	any container - signal to open in zone
+	
+item uses
+	survival -
+		heart recovery
+		status alteration
+		...
+		heal
+		sooth
+		anger
+		
+	fun
+	weapon
+	make noise
+	throw- make noise
+	smoke
+	
+	artisan skills- practical knowledge
+	....
+	cook
+	idea man - thoughts
+	magician
+	hoard - generating a physical pile
+	crafting
+	
+	augment - equipment
+	

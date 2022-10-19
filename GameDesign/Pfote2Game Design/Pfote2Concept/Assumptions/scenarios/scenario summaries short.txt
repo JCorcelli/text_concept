@@ -1,0 +1,23 @@
+Alright I have written a bunch of different things down, each of which are worthy of being a game, they are completely unrelated.  So this is more like flavor text to me, learning the systems makes up most of the gameplay.
+
+"SOCIAL STORY"
+There's one main story that I already wrote a tutorial for and it is the backbone of the game. It'll have a frame of time in which it develops. 
+
+It's somewhat summarized by the end of the game if you (somehow) miss it.  You'd have to go out of your way to miss it, really.
+
+None of the code will be procedural, and it's not a roguelike or random story, but I expect emergent stories based on vanilla gameplay and experts if anyone decides to exploit the systems mentioned.
+
+
+"PESONAL STORY"
+Personal stability, memories fade and distort, it's really intriguing.
+
+Well, there's an innocent little bunny to consider.  If he starts to feel bad that's almost a game over. Number one conflict confirmed, take care of the bunny. Number two conflict, it's fun to hack reality?
+
+
+Some basic level building systems for improving various skill and quirky encyclopedic knowledge. Bunneh can become powerful for pleasure AND profit. 
+
+Exploration -heroism, exploitation, foolish choices. It takes on many forms.
+
+I wrote a linear low conflict (optional) puzzle adventure that... you will probably veer off the time sensitive story because this one's a bit easier to comprehend.
+
+Also there's an important thing. Being cute is for the truly underhanded, or beginners, and it's an option.

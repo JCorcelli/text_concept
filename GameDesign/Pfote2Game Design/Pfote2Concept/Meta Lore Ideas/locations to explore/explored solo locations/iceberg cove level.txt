@@ -1,0 +1,51 @@
+ICEBERG COVE / BEACH
+
+EXPLORATION
+	sandcastle - there's a "giant sand castle"
+	ice castle - there's an iceberg
+	water level
+	
+terrain
+	slippery
+	some melted, away from the iceberg
+	completely dug out areas in / around the iceberg
+	
+platforms (OH, ICE BTW)
+	sand rolling
+	water curents
+	smaller boats
+	fallen timbers
+	
+	sand carving
+	ice carving
+	
+obstacles
+	water pits
+	sand dunes
+	
+	widely dug areas
+	large shells
+	
+	sometimes an ice sheath slides off the iceberg
+	
+	
+TOYS
+	these can be too big to pick up
+	toys off the beach
+	toys on the beach
+	
+FOOD
+	popsicles... it's a beach
+	slushie drinks
+	
+POWER
+	you could probably even make ice appear, permanently
+	
+HIDDEN WORLD
+sandcastle 
+	although the sand castles on the beach are pretty benign, you get a huge one to enter
+ice castle
+	deeper in the iceberg
+ocean deep
+
+water level - well, maybe not

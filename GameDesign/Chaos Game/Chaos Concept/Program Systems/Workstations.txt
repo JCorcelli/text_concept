@@ -1,0 +1,17 @@
+
+
+
+Preferences for workstation layouts can be memorized and recreated when the tool or workstation is open.
+
+
+	
+the 2D spawns should be exactly like 3D spawns when entering any given scene. 
+
+
+However
+
+For sanity, having them appear onscreen colliding without warning is painful.
+	The spawnable should behave like a workstation that's been switched off.
+	
+	???? hackers?
+		If there's no server, forget security.

@@ -1,0 +1,36 @@
+
+If actions would generate data...
+	Fame ( scoreboard )
+		basic stats
+			beauty - clothing
+			strength - displayed carry ability
+			intellect - crafting skill
+				minutia
+			wealth - stuff seen from inventory
+			
+		renown
+			positive action
+	
+	Nexus - 
+		Generally a way to get to them even if you can't reach them.
+		Micro - detected but not mapped since it can be turned on/off
+		
+	
+	Dungeon - 
+		nexus rules, blueprint, danger, wealth spent, complexity
+	
+	
+	Hideout (no data)
+	House - 
+		shared mapping by travelers, investigators, and merchants (they should get paid for discovery)
+		Houses aren't hidden for long.
+		
+	
+	Orders - I suppose, no important information can go on them if it makes a paper trail.
+	
+	Locking
+		number lock : memory probing and paper copy
+		key lock : key copies (losing key naturally voids the dungeon).
+		meta lock : hacking or destroying, probably
+	
+	

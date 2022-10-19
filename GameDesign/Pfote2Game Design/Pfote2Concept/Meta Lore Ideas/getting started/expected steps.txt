@@ -1,0 +1,24 @@
+1 click move
+look
+
+
+???
+
+
+e use laptop
+space zone, cancel, exit
+
+q, i exit laptop
+
+2 click icon start app
+option
+	setting
+	start date
+	x
+	minimize
+	
+date - wait mode
+	select option
+	continue
+	end date
+	quit (app)

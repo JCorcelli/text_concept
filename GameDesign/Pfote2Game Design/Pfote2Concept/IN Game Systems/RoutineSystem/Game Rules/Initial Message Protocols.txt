@@ -1,0 +1,33 @@
+Interrogative Message Headers
+*	who			: Character
+*	doing what	: Action
+*	when		: Timestamp
+*	where		: Location (eg here, in station)
+*	why			: reasons  (eg : bumping into the wall, a routine about making cake )
+
+Action Manager Protocols 
+- usually called by keyword actions
+#	silent		: this is not recorded
+#	empty		: there is no data
+- called by macro actions ad-hoc (multiple times)
+#	alter		: change a record
+#	insert		: add records
+#	delete		: erase a record
+
+Keywords
+Some kind of predetermined keyword for a game environment
+
+Routine Protocols 
+- usually called by actions
+#	busy		: it's impossible to try an action
+#	beginning	: an action is starting
+#	interrupted : passive action, this is interfering with the routine
+#	completed 	: an action is ending (Add Keyword success or failure)
+
+
+Routine Status 
+- stored in routine.currentStatus
+#	running		: in progress
+#	stopped		: interrupted
+#	active		: between routines, checking conditions
+

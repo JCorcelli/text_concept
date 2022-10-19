@@ -1,0 +1,46 @@
+more like progression variables
+
+
+media storage
+
+	
+	mutantmedia.*
+	analogue (better than human memory)
+		random - A.I.
+		99% - source written, taped, in-game story
+		100% magical source
+		
+	biological (brain, muscle memory)
+		delta wave - subconscious, perfect fidelity
+		alpha wave - insightful, high fidelity
+		beta wave - direct, situational
+		theta wave - high mutation proc. chance
+		
+mutation types
+	mutator.* 
+	concrete
+		encoded - scripted, key mutation
+		
+	volatile
+		remembered - brainwave mutation
+		damaged media
+			torn paper
+			broken tape
+			bad program - analogue ai
+			
+		
+	analogue 
+		recorded media
+			written
+			video
+			time travel - nvm paradoxes
+			
+		order magic
+		lawsmith
+		
+	decimate
+		chaos magic
+		
+	destroy
+		forget - lossless, can always remember
+		overwrite - faulty mutation

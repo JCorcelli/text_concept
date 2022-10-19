@@ -1,0 +1,93 @@
+control all elements with a program
+
+ dragged elements
+
+ 
+have a minimized tab widget - for remembering
+
+have that cool... ahem
+o make the box bigger with text
+? maybe make the box big when I select it?
+make the memory behave like an everyone edits gravity lane, or a water stream
+
+
+RUMINATION (already posted)
+o The icons (simply copy an icon)
+
+o I went and put an icon in the top like it's a widget... it looks better than what it was already, nice and neatly placed.
+
+
+o widgetinsert calculations. 
+	node.newline should check if a character is intersecting one of the inserted widgets and move the char.
+
+doublecheck - and adjust to icon standard
+o	inline adds the blanks - pretends it should sit in middle of line
+	
+o	insert ... add line breaks
+	
+o	left margin _ add indent spaces
+	
+o	right margin / reduce the line wrap position by width;
+
+The widgets in Memory Main Box
+o inline - simple the rect position/parent
+	
+o
+	
+	newline - this is a break in the capture
+	
+o
+	make a cell object and contemplate how new nodes could appear on it
+		I decided it'd be like what I wrote next
+	
+	
+	
+insert without dialogue- MemoryBox can check the current and see if it's running. If not...
+pseudo:
+	no dialogue, no bg,
+	inserted widgets are 'floaty' lacking mnemonic activity
+	
+	dialogue, add bg, text, icon, header, user names	
+	insert widgets are 'stuck' inbetween the lines strongly linked to the activity
+	
+	dialogue ends
+	
+	
+	! non-memory items entering the list is a different kind of thing entirely. And it's a bad idea. As long as they exist outside there's no damage done.
+	
+The big text (it's like normal text) but it's a much BIGGER CUE that someone's talking aloud.
+
+	I want a row on the bottom for the new text to appear, when appropriate. 
+	
+	There is a middle part of the screen for major contextual activity. eg dialogue zone
+	
+o
+	I wanted decent control of text. Mousing over any text, looking good. (the auto-wrap isn't nice enough)
+o
+	I wanted a list. I (stopped using autolayout) got it.
+o
+	I made a single cursor thing that could be used for other cursor things.
+
+I want widgets that break up the text to appear. this is not just a chat box, although it debuts as one. it will have variety.
+o
+	I want to be able to insert widgets into the text, I programmed it to do that, but I don't believe I thought it through yet.
+
+o
+	the chat box could grow to accomodate words instead of auto-wrapping.
+?
+so... alternatively. make an expanded chat at some point?
+x
+I want to be able to make bubbles and widgets all mix into this memory list, they forcefully intermix if the player doesn't participate in organizing.
+	x-> instead the bubbles will be handled in a less organized setting
+	
+later ?
+the half-witted system of remembering things will make widgets text reappear
+
+also, everything has some connection to this remembering idea, if you've got a hardcopy of information or a terminal near you then you reference it, instead of your mind.
+
+the opposite is true
+if you remember a tool you don't have, it won't work to try using it.
+
+real application use?
+I'm sure at some point I want to test it as a real accessibility system that can cache common choices and suggest 
+

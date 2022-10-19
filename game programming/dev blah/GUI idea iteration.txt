@@ -1,0 +1,25 @@
+I got the start menu on the laptop interface to display early this week, it's not the fact it displays but it's a prototype for how buttons will work at the moment. So, I can see the atomic scale of work in action. It's a little lackluster still.
+
+I've begun to put the variable capacity of the system to practice. Ok, that's all you really need to know but I like to write a lot. Here are more details.
+
+...
+
+I've had to relearn what I'm working on. Here is what I learned.
+
+The basis of the game is augmented dialogue. I wrote a calculator so dialogue and physical filters intertwine. The game industry calls the approach I use systemic design.
+
+GUI generated from text is an amazing idea for this circumstance where I already wrote a dialogue calculator. Specifically, the text can be copied, altered, and display generated graphics with randomized flaws later, and because it's a GUI that can turn a useful prompt into something confusing or broken.
+
+
+I am programming widgets now. Things like radio buttons...
+
+The system I modeled emulates a real-life context: 1 interface, n apps. There's a slight differentiation between the two in code. In practice, interfaces determine how apps are displayed and accessed, ie a laptop shows us software, and software has icons and it's stored in a hard drive, etc.
+
+I wrote this at the beginning of the day. Now, what I wrote at the end of the day.
+...
+
+The way that I interpret GUI has changed quite a lot as I iterated. I just finished understanding how it works all over again.
+
+The concept of shared resources often calls on HUBs, subscriptions, and limited scopes. Ok, I don't know where the heck things were going to be while I wrote the system, so I wrote search methods instead.
+
+And then there are variables with global scopes, literally, they will affect everything. Is the laptop plugged into a powered wire? Or How's its battery? Both amounting to, is the laptop powered? And if so Is the laptop off? (yes it's off) Then I shouldn't see the screen. The OS emulation needs to go through a boot sequence if it's turned on again later. The apps should all be off. All progress should be lost, but a player character will remember everything. My attention to detail here might be a bit much, I haven't implemented this yet. Vice-versa, turn off the app normally and it auto-saves. Nothing changes but the player character, an emulation of semipermanent changes in behavior, and soon to discover that the app does in fact auto-save, to a particular player character's relief.

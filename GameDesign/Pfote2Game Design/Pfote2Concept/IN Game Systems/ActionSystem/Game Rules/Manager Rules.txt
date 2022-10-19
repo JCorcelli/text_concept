@@ -1,0 +1,38 @@
+Every action registers to the manager
+the manager keeps a record of 
+
+who, doing what, when, where, why, how?
+
+example of readable format: 
+	Simple
+	Human reaches to bunny from bed
+	Bunny hides in cage
+	
+	Verbose by Time
+	[6:45 pm]
+		Human in bed: Human sees Bunny
+		Human in bed: Human reaches to bunny for fun and enjoys it
+		
+	[10:10 pm]
+		Bunny: Goes to cage
+		Cage: Bunny enters
+		Bunny in cage: hides in his hiding spot because he's tired
+		
+	
+name, action, location
+
+
+    Who did that?
+    What happened?
+    When did it take place?
+    Where did it take place?
+    Why did that happen?
+		
+who: 		name
+doing what: action
+when: 		timestamp
+where: 		in the open, or station
+why: 		reasons (eg collision), or routine
+
+
+messages:	message system protocols

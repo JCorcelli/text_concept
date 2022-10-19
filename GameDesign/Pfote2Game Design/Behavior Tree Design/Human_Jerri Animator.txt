@@ -1,0 +1,54 @@
+
+walk 
+
+	state = 0
+	and
+	look
+		head weight (layer override)
+			parameters:
+			left = -x
+			down = -y
+	reach
+		similar to look
+	carry
+		reach using carry parameter
+		
+	fall
+
+static
+	set weight 1+2 to 0, or the overrides will make it funny
+{
+in bed
+{}	Does it start by crawling? hmm
+	Perhaps by default I transition to crawl, then enter bed
+	eg. (crawl, in bed) and a sleeping position is chosen
+
+
+	state = 1
+	and
+		reach
+			substate > 0
+			parameters:
+			forward +x
+			down - y
+		
+
+kneel 
+	state = 2
+	
+	and
+		reach = kneeling_reach pose + substate > 0
+			parameters:
+			standing = 0y
+			kneeling = -1y
+
+emote
+	pose.stand 
+		.admire (look down)
+		.stretch (look up)
+}
+
+crawl
+	state = 3
+	
+	#	If I start crawling on the bed I should be able to transition to bed animations

@@ -1,0 +1,18 @@
+
+ROUTINES
+
+the NPC's direction indicator points where it's intent on going.
+
+Movement / Traversal by player is handled by selecting a location.
+
+Stealth is a system of safe areas and outside those, LOS detection towards enemies.
+	Hiding is an NPC function, checking for safe areas within LOS if he's tired. Remaining hidden while in safe areas is a given, although sometimes rules can be broken.
+	
+Search is an NPC function, checking for targets within LOS, and random positions to move to in-range. When seeking a specific {var}, the search is always on.
+
+Idle is lack of intentional movement. Player idleness doesn't predict NPC behavior.
+
+Sleep is predicated by absolute safety while tired.
+Eat is predicated by a presence of food while hungry.
+Play is predicated by total energy.
+Seeking {var} is predicated by a desire to have {var}. It can override reason.

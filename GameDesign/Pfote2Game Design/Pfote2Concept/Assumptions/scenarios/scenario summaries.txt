@@ -1,0 +1,75 @@
+scenario ideas
+
+stories
+social story - 
+	It's easy to be nice, you should be nice.
+	
+	pros
+	
+	the good life
+	
+	cons
+	
+	stress can get to an innocent bunny
+	grief and consequences await poor choices
+
+personal story - immaterial world, truth
+	The immaterial, the truth. What matters is what you make of it.
+	
+	your memories fade
+	your reality is distorted
+	nobody else will notice
+	
+	
+	pros
+	it's a fun reality hack
+	
+	cons
+	
+	it could be hard to decide
+	random elements intermingle with memories
+	
+
+intrigue -
+	Pleasure or profit, which do you prefer? You just need some talent, and go earn it.
+	
+	change the world
+	raw power
+	
+	
+	pros
+	skill growth reveals additoinal options
+	work at your own pace
+	more than you really need
+	
+	cons
+	roguelike, missteps are dangerous
+	challenging
+	all eyes on you, at the top
+	
+	
+	
+exploration -
+	
+	be a hero... follow a code
+	
+	be cute
+	
+	
+	pros
+	
+	you don't have to play by the rules
+	
+	cons
+	not everyone plays by your rules
+	curses
+	crimes
+
+the cute option - 
+	it's easy, intentionally
+	
+	pro
+	shortcuts
+	con
+	invincible
+	

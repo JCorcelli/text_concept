@@ -1,0 +1,98 @@
+[Initialize]
+(health = 2)
+(link death animation)
+[see alien]
+[intro]
+
+
+
+/// ###################################
+/// STORY ARCS #########################
+/// ###################################
+
+private IEnumerator PlayStory()
+{
+	tch.
+	...
+	
+	Effect("PointAtScreenPoint", "buttonImage");
+	Effect("PointAtWorldPoint","buttonModel");
+	
+	// need timelimit
+	while (!clicked && patience) yield return Sleep(2); // maintaining position uncomfortably?
+	
+// Skit can be alternate coroutine
+// An alternative path can be a new file
+	if (patience <= 0) 
+It seems I broke my navigator and I'm here alone.
+I'm not sure how long it will be before I can repair it.
+This is certain to be a trecherous journey all alone, without technology to guide my hands and feet.
+	
+	clicked late
+You're alive! I mean you're functioning! Why didn't you say anything? Oh nevermind, you aren't designed to carry a conversation. Just give me directions and keep me motivated.
+	
+	Effect("PointAtScreenPoint", "buttonImage");
+	Effect("PointAtWorldPoint","buttonModel");
+	
+	while (!clicked && patience)
+	
+	if (patience <= 0 )
+It seems my navigator is not reliable. There must be spyware. It's starting to make my computer system lag.
+
+...
+
+I should have never opened my email at work.
+
+I shouldn't be playing around.
+
+die FULLRESET
+}
+	
+	//////CHECKPOINT//////
+	
+I think you have the hang of it");
+Look around, there are some strange things everywhere. I really like to get to know my surroundings");
+
+Encourage me, comfort me.  That's why you're my co-pilot. Co. is for comfort.
+
+
+You can also give up.  I'll try to manage without you. But I don't think I... are you still there?");
+
+No that's fine, that's fine just give up if you want. I'll tell you how things when when you get back.
+yield return Sleep(5);
+
+	//////CHECKPOINT//////
+
+	// reveal "take a break"
+	
+	You've been such a good sport.
+	yield return Sleep(1);
+	Now I have a more positive outlook.
+	yield return Sleep(1);
+	You can \"take a break\" anytime.
+	yield return Sleep(1);
+	
+	
+	////// PLAYER CONTROLLED PORTION /////
+	////// THE ALIEN IS NAVIGATED /////
+	////// THE ALIEN IS HELPED /////
+	////// THE ALIEN MAY /////
+	
+	////// FALL
+	////// 		BE ABDUCTED AND DIE
+	////// 		FALL AND DIE
+	////// ESCAPE
+	////// BE ABDUCTED
+	
+	
+	////// DO SOMETHING POINTLESS
+	////// 1. SOLVE A 2D PUZZLE USING A 2D UI
+	////// 2. SOLVE A 3D PUZZLE USING A 2D UI
+	////// 3. SOLVE #2 AFTER BEING POSITIONED PROPERLY
+	////// 4. TAKE A BREAK
+	
+}
+/// #######################################
+/// END STORY ARC #########################
+/// #######################################
+	

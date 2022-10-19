@@ -1,0 +1,39 @@
+Techo
+	
+	carbon
+	sugar
+	gravity
+	solid
+	rare earth metals present, glimmer
+	
+Muto
+	carbon
+	sugar
+	
+Warmonger
+	-
+	
+Entertain
+	
+	carbon, synth
+	
+	*Detach req. some variable
+	
+Lago
+	carbon
+	solid
+	malleable materials
+	
+Elemental
+	variable
+	
+	Kinetic = physical
+	Exceed = high adaptation separate from organics
+	M-Tap = dim'not
+
+Solo
+Adventurer
+Steampunk
+	Exotic material may be required
+Abnormal
+	-

@@ -1,0 +1,101 @@
+After the GM emulation system is built. For the second generation of empirical cloud games to begin, the first generation of empirical cloud games has unofficially ended. The system now understands all it needs to tell stories and follow loosely defined game logic. It is only guaranteed to communicate through text, but text can be very useful.
+
+What comes next?
+
+
+NEW EXPECTATIONS
+This is a new twist. I have been writing about expectations for the system. Now I have expectations about what developers will do.
+
+Someone will program a game that runs on human logic, but not by directly entering player's text to the system. This is very likely to happen even in the first generation, before it's grown much at all. It will talk to the system like a human, it will tell the system what the player is doing, although the player is on a mainstream graphical based game. Cool right?
+
+This is flawed. The system talks back to the game, and the game would only have an inkling about what's happening after parsing what it understands. This would be an awkward conversation, although it may meet the needs for the game.
+
+What developers need is for the system to begin running on specific phrases. The system will need to begin interpreting itself. The system may need an upgrade.
+
+I base the following on the expectation that the system does need an upgrade.  There is no way for it to be prepared until after the first generation, when it finally learned human language.
+
+
+
+THE SECOND GENERATION, EXPLANATION
+
+
+When planned empirical cloud games become more popular than player interpreted (imagined) text based games, I believe the second generation will have begun.
+
+This is a developmental transition from text to graphics that already took place in game history. It is self-evident that this will repeat. The system had no way to interpret graphics before it could understand words.
+
+_______
+The true end of the first generation may occur when evolution trends become predictable, which means there is another step up in flexible game design ready to be made.
+While writing this, the author doesn't have the vaguest idea what that step may be. Some new improved system, or a quantified use of all game metrics? There's always the next best thing.
+_______
+
+GROWING GRAPHICAL DEMAND
+Games that use graphics instead of text, games the developers have greater control over, and games that need to be interpreted for the system's own benefit; all of these games are required to circumvent the system's inadequate understanding of all processes in the game to achieve the desired result. Developers will think of ways to make it work before its time.
+
+This is likely to already have been happening during the first generation. The solution to end the need for any workarounds wouldn't be finished for some time.
+
+THE SECOND GENERATION, START
+The GM emulation system contains many stories, and understands all the logic required to recreate stories. Games would benefit heavily from translated human-readable text. In turn, the player actions would be communicated back to the system.
+_______
+From the end of the first generation, this would be blatantly obvious. I considered this for some time.
+The system would benefit from graphical games more than the games benefitted the system, but there is an ideal solution for the benefit to be mutual again. Observe the seeded games.
+_______
+
+SEEDED GAMES REVISITED
+"This concept is similar to drawing an animation. Game designers will be able to provide key elements and some related content. They may define rules and the importance of each rule. They may force specific events to occur in an exact order. They can specify an effect no matter how improbable will occur if something were to happen. Then the in-between can be filled.
+
+"The system will be able to produce this with little effort on the designer's part because it is able to fill in all gaps with random content while the player is playing the highly flexible randomly seeded game/story."
+
+Not only telling the story. The system has the ability to conversationally describe the logic behind every story. These are actions a person takes, an understanding of things that change behind the scene that the player isn't aware of, dialogue, character development, and available story content. This is the logic that all games run on without the per-pixel explanation of what things are, graphics.
+
+This is the part where the text becomes graphics, and it will take a long time to get this right.
+
+
+INNOVATIONS TO THE SYSTEM
+
+
+Text can be interpreted as other languages. Info can be simplified as generalizations. The system understands human-readable text almost perfectly now. The system may be missing the ability to simplify its stories, or to translate itself exactly.
+
+At this point there must be new innovations to translate the system differently from human readable text, such as scripting languages, or machine code. How is beyond my explanation.
+
+The system is gaining player metrics that it probably never was programmed to reuse outside of the games that create them. It may not even have uses for this information if the developers don't want it reused in their game.
+
+GAME LOGIC
+Learning to talk to games, as well as the players in them, that is the easiest way for the system to be helpful.
+
+The system could have its vocabulary reduced to fit into coded game logic, and the system would understand it's talking with a machine by this point for the interaction to be meaningful.
+
+More importantly, these interactions will have meaning for the system, the metrics will be understood in a new way, and the other games that use them will be able to use the exact same vocabulary.
+
+
+THE SECOND GENERATION - INTERMEDIATE
+
+When a player simply acts out a new solution to a game, the new metric is recorded. The game developer's assistants, a special user, a programmer, an artist, one of the end users, whatever they may be referred to later can learn someone tried something completely new, and ludicrous, and wrong, and then they will create content to make it right.
+
+Innovations to generate new content from player actions will be a common occurance. Example: if many players carve status, or scar their enemies a particular way, build up some storyline that they share, or have some effect that is worth lasting; that very same game or similar games will be able to reuse the player's actions in new stories. It is all logic stored as new content. The games continue to evolve from player input.
+
+
+REVERSE GAMING
+During the first generation you could revisit old sections of a story and continue from there, specialized users would be able to create a 'what if' scenario that may alter the rules and change the story completely. In a sense, every story told could be read backwards sentence by sentence or paragraph by paragraph.
+
+Now that the system works with graphics in a very similar way, maybe even exactly the same way, you can see this all happening.  It would be like you are traveling through time.
+
+It is possible for a story to be told backwards word for word in graphics, and the rules could be altered so the player is out of sync. This would be utterly disorienting in text because the syntax would make no sense. In graphics, it may still be utterly disorienting, but we only need to understand what our eyes see.
+____
+There are games that depict similar but they only need to display an interpretation of time travel, reverse gaming would be more literal, any game's story told backwards.
+____
+
+
+END OF SECOND GENERATION?
+
+I have not been able to predict the end of the second generation of empirical cloud games. No doubt there is one, but the requirements aren't all met, such as a concrete concept of a third generation. There is no definite logical continuation for me to even hypothesize. But I am sure I will.
+
+GM EMULATION SYSTEM MATURED?
+
+Perhaps this is the pinnacle of the first GM emulation system's growth. Which would mean it must begin to evolve into a more intelligent system, one that uses new technology, such as technology developed from itself. This is the cycle of life, afterall.
+
+
+SELF REFLECTION - PAUSE
+
+The reality of the system is a cold hard fact in my mind. I have explained the most immediate uses that the system would have for game development. I have satisfied my urge to unleash the concept on the world.
+
+This is not a guaranteed final entry about games that evolve from player input, but I don't think I'll feel quite as driven to write about this one concept more.  Everything that needed to be written to express a full understanding and allow someone else to understand already has been. That was my goal.

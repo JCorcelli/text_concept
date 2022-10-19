@@ -1,0 +1,39 @@
+CC1 searching
+{
+from floor
+	reach/look 
+		is close enough (override +/-)
+		direction x/y
+	
+from bed or from kneel
+	(override -)
+
+}
+	
+CC2 movement
+{
+#walk
+
+Navigate
+
+(Want to go to bed)	
+	#near bed
+
+	close enough to get in
+		bend
+	
+in bed
+	#movement by nav agent
+	transition to
+		crawl
+	
+	#movement by transform
+	transition to
+		edge
+			?searching from bed
+
+	(in bed, and want to go somewhere)	
+	exit bed
+		edge of bed / crawl
+		stand up
+}

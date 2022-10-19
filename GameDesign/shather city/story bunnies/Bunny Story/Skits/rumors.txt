@@ -1,0 +1,36 @@
+stuff that's told in the game by dialogue
+
+PLOT
+immortality
+paradise
+soul mate
+character
+
+USEFUL
+recruit
+law smith
+near direction
+any landmark
+near safe
+
+
+VEX
+stories
+lies - a false rumor
+cause
+immutable law
+command
+
+GROUP INFO
+bunny wants to fight boss
+bunny missing
+weird bunny sighted
+weird bunny bit
+bunny got hurt
+rules are conflicting
+bunnies frolic
+bunnies stay here
+weird bunny joins [can become boss]
+weird bunny went home after saying thanks [selects new boss]
+
+event location, distance

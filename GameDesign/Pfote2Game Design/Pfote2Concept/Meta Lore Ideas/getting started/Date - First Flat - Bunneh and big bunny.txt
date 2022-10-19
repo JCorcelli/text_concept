@@ -1,0 +1,101 @@
+assumptions
+	you know the basics mechanic,
+	signal, move, rotate camera
+	
+step 1
+find laptop
+use the laptop
+there's a sim date app
+set the date scene on the laptop : location, day of the week, event; subtle hints 
+start a date
+pick a mode
+
+step 2
+you're informed that the date requires you to enter continue on the app, and a real-time test is necessary to graduate.
+
+choose: enter the dialogue display
+here you should be able to examine jerri
+some basic stats from the date app are visible for convenience
+
+step 3
+go through the steps of a date with dialogue window or by using the laptop app
+
+interest	the topic
+		
+	jerri will begin a dialogue
+	her choice is a semi random topic
+	also non-verbal behavior
+	amusement
+	bunneh
+	say weird things
+	
+generous	
+	information of the topic
+	escalating with touching
+	
+greed		test
+	something in the room
+	ignore for a minute
+	hold
+	demand kiss
+	let you rest on her
+	
+guilt		just an extra step
+	good
+	she'll pet you
+	extend the greed
+	
+	bad
+	send you to cage
+	put you in cage
+	
+there must be a program that offers options every time jerri makes her move. They're intended to be fun and no major difference in outcome yet.
+
+tip:  you can skip this and take the test	
+
+step 4
+take the test
+
+it is very similar to the previous, and jerri makes her moves without warning, when you aren't even near the laptop.  This adds a few issues.
+
+interest
+	you can leave and she'll give up early
+generous
+	during escalation she can get really annoyed if you don't pay attention
+greed
+	she'll get up just to grab you
+guilt
+	
+step 5
+something something, relationship status?
+
+You get a real world taste of the obscure relationship status in Shather.
+
+Acquaintance - you know eachother
+	before the dating app
+	
+Friend - you have a bond
+	any use of dating app
+	jerri is nicer?
+	
+Date - you've gone out
+	you take the test
+	jerri is asking to play the app more
+	
+Together - now you're basically doomed
+	you pass the test perfectly
+	jerri starts the app and forces you to play with her!
+	
+step 5*
+sim dating app ending (jerri in the lead)
+
+interest
+	explains that she used the app
+generous
+	pets nose repeatedly
+test
+	takes out a (fake) gun
+	the room becomes a heart shooting game (like the pew pew choice)
+guilt
+	"You're so cute bunneh. By the way, we're moving. I hope you're comfortable in the new flat."
+	something to that effect

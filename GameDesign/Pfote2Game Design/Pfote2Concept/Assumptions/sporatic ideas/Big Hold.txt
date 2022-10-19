@@ -1,0 +1,10 @@
+Summarized
+
+	You're held by a big person.
+	
+	Either struggle or let them carry you.
+	
+Assumed Use
+	Anything that can hold really needs a holding animation.
+	
+	Enable holding behavior.

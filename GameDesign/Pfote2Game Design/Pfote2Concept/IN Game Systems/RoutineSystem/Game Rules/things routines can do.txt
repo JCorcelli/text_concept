@@ -1,0 +1,70 @@
+inherit abstract routine
+
+custom routine receives callbacks every time a message is sent
+
+simple routine
+	a reaction
+	
+	example:
+	a touch can trigger an action
+	an interrupt causes an action to stop so the routine may check conditions
+
+
+COMPLEX ROUTINES
+ WITH LOOPS AND CONDITION CHECKS
+  AND GOALS
+	Goal of complex routines
+	get to one Action L by performing a routine sequence of other actions
+
+
+	example:
+	Bunny can "eat"
+
+
+	bunny wants to eat
+	the routine will go through every other necessary check and action in order to eat.
+	Once it is possible to eat, the routine says eat.
+
+MESSAGES IN A COMPLEX BEHAVIORAL ROUTINE
+	
+	example:
+	Bunny 
+	There are main actions like "move" "sniff" "eat" which use resources
+	There are parallel actions like "smell" "see"
+	There are effects like "nose wiggle" which require -nose- resource
+	
+	There are routines like "bunny searches"
+	
+	nose wiggles
+	A routine of "bunny searches" begins "at 2:20pm" 
+	An action "bunny moves" is called "at 2:20pm"
+	An action "bunny smells roses" is called "at 2:20pm"	desire of smell
+	An action "bunny sees plant pot" is called "at 2:21pm"	desire of sight
+	An action "completed" is called "at 2:21pm"				because bunny is curious
+	
+	a routine of "bunny tastes plant" begins "at 2:22pm"
+	An action "bunny goes to plant pot" is called 
+	An action "completed" is called "at 2:22pm"
+	An action "bunny sniffs plant leaves" is called 
+	nose wiggle stops
+	An action "completed" is called "at 2:22pm"
+	An action "bunny eats plant" is called "at 2:23pm"
+	An action "completed" is called "at 2:23pm"
+	
+	nose wiggles
+	a routine of "bunny searches" begins, repeat
+
+REENACTING A COMPLEX ROUTINE	
+	this can be read minimally as 
+		"Bunny searches. 
+		Bunny smells roses. 
+		Bunny sees a plant pot. 
+		Bunny tastes a plant.
+		
+		Bunny searches."
+		
+	this can be displayed minimally as
+		"Bunny wiggles nose. 
+		Picture Roses, Plant Pot. Excited bunny.
+		Bunny eats plant. 
+		bunny wiggles nose."

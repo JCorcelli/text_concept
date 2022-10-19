@@ -1,0 +1,20 @@
+These are forms of general companies. For more specialized types see "Befriending Wild Bunnies".
+
+scouts - info and recon.
+
+scribes record the daily memory into a physical object (rocks, paper)
+
+foragers would be functional necessity in deserts
+
+something for camping
+
+masonry could ... ahaha
+
+Generic Task
+	the bunnies in your loction can perform any generic task.
+	
+Directions
+	I picture them, pointing you to food, safety
+	
+Guarding
+	a number of bunnies can get between you and harassers

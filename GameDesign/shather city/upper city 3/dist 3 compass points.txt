@@ -1,0 +1,30 @@
+There are 18 sections of the district. But They can be grouped into N, S, E, NN, WNW, SS, and Center.
+
+CENTER
+This is the core, contains energy, and life giving nutrients. Surrounding that are several courtyards, market locations, and industries, making the location's purpose doubly important.  There are roads and inns, free and some reserved.
+
+There is a restricted zone which has direct access to core epicenter.
+
+There is also a built-in tunnel that allows animals direct access anywhere between district one and four.
+
+N
+This is where the most humanoid art is.  Topiary gardens, wooden and stone. The houses are wooden and appear rustic with fancy designs carved in.
+
+S
+This is where most of the trees are. There are smaller wooden houses and many interesting plants.
+
+E
+An aqueduct is intentionally dug out of the landscape here. The fish which spawn are odd, and bulky.  When a hungry carnivore waits near, they tend to be a bit moody, only thinking of dinner.
+
+NN
+Restricted
+A constant dawn shines brightly from this direction. The source of light being a large parting in the upper-level surface, meaning there's no roof or walls here.
+
+WNW
+Restricted
+This is the most technologically advanced region. There's an elevator mechanism leading straight outside and other directions. 
+
+SS
+Restricted
+
+The skyline is crowded here with the most interesting designs of trees. The animals have their own works of art, developed for centuries, which easily beat the humanoids' efforts.

@@ -1,0 +1,23 @@
+Basic controls
+
+arrow (wasd) - move
+Mouse
+	move, run, look
+shift to get ready to jump, click
+hold shift, for fun useful effect
+
+space/escape to cancel any selections or multiple step actions
+
+space to zone
+zone has a big impact, changing the screen into a collage of selectable objects. select bunny here and click to move.
+
+ctrl to alt zone
+c for camera
+q / i for inventory
+number keys for shortcuts
+e / enter to use / consume
+f - defend / skill use
+hold f + click - throw
+
+Escape will pause if you're safe, otherwise it's only useful to quit
+

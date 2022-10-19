@@ -1,0 +1,33 @@
+MOB BLOCKS / TOYS
+
+		
+	any block
+		hold e - sniff, eat
+		idle - may eat
+		init signal - observe (get menu)
+		
+		
+	mob block (A)
+		move = no effect
+
+		e - pick up or push
+		init B > A - use B on A
+		init A > bun - swap position
+		init bun > A - stand on
+		
+		Add Force
+		attack + direction - force in direction
+		
+	held block
+		held
+		move = slowed
+		
+		e - swap with
+		F - drop
+		F + mouse + direction - throw
+		init A > B - store in, place on, combine
+		init B > Bun - swap A with B
+		init signal - context (get menu)
+		
+		q - store in inventory (eat)
+		

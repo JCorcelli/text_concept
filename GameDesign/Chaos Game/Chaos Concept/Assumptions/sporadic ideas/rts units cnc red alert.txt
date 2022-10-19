@@ -1,0 +1,7 @@
+in rts
+
+the cnc red alert design was
+
+everything you made went to one output of that unit type, multiple building speed it up
+
+the reason this looks good is because you could repeatedly order units to build from a menu that was basically "building" | "unit"

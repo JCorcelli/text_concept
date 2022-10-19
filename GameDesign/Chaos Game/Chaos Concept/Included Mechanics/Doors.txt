@@ -1,0 +1,8 @@
+
+	Doors
+	o start with a door that opens if you touch col
+	o use a key code on col
+	o pick up a key
+	o animate the key, just add an animate trigger to the trigger that addded the keyyy + I made it generic item
+	
+Door is similar to anything obstructing that can be removed

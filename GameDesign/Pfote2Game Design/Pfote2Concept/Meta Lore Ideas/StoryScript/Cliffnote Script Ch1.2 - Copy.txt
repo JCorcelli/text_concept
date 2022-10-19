@@ -1,0 +1,53 @@
+Event	--->	How To Implement
+	--->	
+[[need something translates to program]]	--->	
+	--->	
+Act 1.2	--->	named scene
+setting (covered by the view in game): Jerri's 17 year old apartment. Late in the day.	--->	models
+	--->	
+"cast: bunneh, jerri"	--->	models
+	--->	
+GAME START 0:00 fadeout	--->	"overlay view with a black gui, alpha + over time"
+load scene	--->	
+fadein	--->	"overlay view with a black gui, alpha - over time, then turn it off"
+Enter view of bedroom.	--->	camera default
+Cut to bunneh.	--->	camera 1
+Bunneh eats hay. 	--->	"eating animation, hay in mouth"
+Closeup of bunneh.	--->	camera 2
+"Reveal bunneh thoughtbubbles, interactable in scene (low pri)."	--->	camera 3 zoomed out, enable thought bubbles (prepare empty thoughts )
+"Add cross-section camera of door. Door opens [snapshot, audible]. Door closes. Footsteps."	--->	"sound, image"
+Bed creak.	--->	bed sound effect
+"From bunneh's side of cage, viewing human above, on bed. Add fuzz and glow over time[overlay on camera]. Add bunneh emotes."	--->	"fuzzy gui, alpha + over time
+camera angle"
+	--->	
+"Human opens a laptop on bed. Click, button [visual, audible]."	--->	"human animation.
+Sound effect"
+	--->	
+"Caption: [Bunneh, 4 years old.]"	--->	"gui, or text alpha+ over time"
+	--->	
+"Wood stick breaks in distance [image, audible]"	--->	"sound, image"
+	--->	
+Bunneh thumps [closeup on feet]	--->	c. main zoom or proxy
+	--->	
+Human laughs [ text ]	--->	"sound, cmain zoom"
+	--->	
+"Exchange Camera glance at Bunneh,"	--->	proxy
+Bunneh shifts weight. Licks lips.	--->	proxy
+	--->	
+Camera back to human. Jerri smiles.	--->	proxy
+	--->	
+"Caption: [Jerri Mercury, female human, 17 years old.]"	--->	"gui, or text alpha over"
+	--->	
+Keyboard clicking stops. Computer noises become eccentric and repetitive.	--->	"sound, very small human animation"
+	--->	
+Camera looks at textbooks near Jerri.	--->	proxy
+	--->	
+Enable all routines.	--->	give control to player
+	--->	
+"Main loop. Ends with the timer running out, or when player quits."	--->	script
+	--->	
+Continue	--->	script
+"Setting: Jerri's bedroom. At night, outside the cage."	--->	darken ambient light
+	--->	
+Bunneh pees on the floor.	--->	sound
+Jerri imposes bunneh's first rule. 'Stay in cage at night'.	--->	text

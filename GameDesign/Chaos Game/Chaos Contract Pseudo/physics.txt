@@ -1,0 +1,32 @@
+physics
+
+
+obstacle
+gravity
+
+
+stats
+
+sense? (, touch, see, hear, )
+touch (opposed: stun > 2, ghost, phased skill)
+see (op: blind, distance)
+hear (op: deaf, volume / distance < 1)
+
+move?
+terrain, move, mod
+	(stable) ground, walk (opposed: stun > 3, frozen, stuck)
+	(unstable) ground, walk, magic shoe
+	air, fly, float
+	
+	misc, teleport
+	
+mod
+	move
+	magic shoe (turns terrain into stable ground, or vice versa)
+	float (turns terrain into air, but you only move at float speed)
+	vehicle (circumvent terrain)
+	
+	
+	etc.
+	misc. resistant clothes
+	misc. magic clothes

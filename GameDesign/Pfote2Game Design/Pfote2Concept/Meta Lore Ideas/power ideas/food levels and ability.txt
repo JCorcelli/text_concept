@@ -1,0 +1,265 @@
+level ideas
+
+TERRAIN SEGMENTS
+HIDDEN
+house
+
+nature
+mist flowers - ornamental flowers cause you to be hidden
+	cue some stealth notice because I don't think this will be obvious.
+	
+hollow trunks - trees that can be traveled through like hiding spots
+	
+premade tunnels - dangerous. dug by roots and bunnies, work as points of fast traversal
+
+big leaves - are a natural cover system if you just walk under them you've not visible
+
+grass - edible and bunnies chew on some just to keep going. tall grass is good for hiding.
+
+power granting food - varies, see food monsters and ability
+
+PLATFORM SEGMENTS
+furniture 
+	can be moved
+	can fall over
+	edible furniture could grant powers
+	tends to be a lot of artificial food, which is as good as "artificial" segments
+artificial
+	floor can move 
+	trampoline
+	spring
+	
+	formula can be used for any ability, mutation, or status
+	
+	artificial monsters can exist in these areas, but nothing like the nightmare types
+	
+	
+	spinning - like a wheel
+	wavy - like the ocean
+	
+	oscillating, pistons
+	
+organic formations
+	"big" trees, tree branches
+	bridges
+	vines that grow up trees
+	
+	plant ceiling like trees or bushes bunched up
+	bigger than average plants like mushroom, stalks
+	lilypads
+	
+	
+unstable terrain
+	uneven ground
+	rolling rocks
+	crumbling: bridge, snow, building
+	changing terrain "event"
+	storm
+	
+abnormal terrain
+	clouds physically solid
+	water that bounces like a trampoline
+	celestial voids
+	
+	greasing familiar solids - behave like anything else
+	
+liquid floating, don't fall in
+	water can carry floating platforms
+	swamps suspend
+	
+	swirling - like a vortex
+	
+	surface of liquid - depending on what the liquid is, things could come out of it
+	
+	spouts - push objects into air
+	waterfall - flows down
+	reverse waterfall - flows up
+	
+OTHER
+abnormal furniture
+	floating in liquid
+	artificial terrain effects
+	a junkyard can have functional electronics
+	
+hidden scenarios, real locations that unlock dream-like levels (original "Assumptions\locations to explore\fun people location ideas.txt")
+	
+arcade - artificial
+
+	cola sugar gives speed boost > race course 
+	real world games, minigames
+	
+	
+	hidden world-
+	coin, pinball
+	prizes
+	rivals - potentially monsters
+	glitches
+	back alley "cat mafia" - cute animals
+	
+bar - furniture
+	alcohol causes nightmare - bartender
+	ice cubes
+	idle people standing around
+	
+	cigar - bad smelling tobacco
+	
+	hidden world-
+	paper notes - eat for tidbits
+	drunk dream world, nightmares
+	zombies
+	
+circus - artificial
+	older kids throwing balls
+	kids who can catch you
+	
+	candy - cotton candy, confectionery stalls
+	
+	rides
+	prize games
+	people lines
+	
+	
+	hidden world - 
+	kids together
+	behind the scenes action
+	illusion of fortune
+	angry, bored kids
+	
+	
+club - furniture
+	al-cola > race drunk
+	
+	moving people, and cramped people
+	
+	music - dj booth
+	dance floor
+	
+	seating booths
+	
+	fancy bar
+	
+	hidden world-
+	cars
+	vallet parking lot
+	the front entrance
+	the back entrance
+	
+	events
+		costumes, dating, fashion, etertainment
+	
+boutique - furniture
+	things bought or sold can be here
+	minigames
+	video games
+	toys
+	
+	hidden
+	high theft
+	rare market items
+
+library - furniture
+	bbooks
+	
+factory - artificial
+	conveyors - move
+	ball bearings - slip
+	stockpiles - collapse and shift
+	
+	busy hands in lines
+	
+	
+	hidden
+	large quantities of streamlined goods
+	materials you can't buy
+	
+	vehicles moving in and out of loading docks
+	
+	
+bakery - furniture
+	artificial foods
+	customers
+	
+	hidden
+	orders as paper
+	rare ingredients
+	animal market
+	
+	customers have cash
+	
+misc - hiding spots
+	ceiling
+	floorboards
+	tables
+	chairs
+
+iceberg docks - water, ice
+	travel by sea
+	
+	hidden
+	cruise - date - unstable furniture
+	get some relevant information 
+	the iceberg cave entrance
+	
+iceberg cove / beach - unstable terrain
+	sand rolls downhill to the water
+	water pits form as though high tide
+	
+	water currents push timber elegantly between the beach and jostling boats
+	
+	floatation toys
+	shells
+	
+	hidden world -
+	sand castle - generic
+	ice crystal castle
+	water level?
+	
+	sea mammals
+
+sandcastle - artificial
+	like a mini temple
+	walls can easily be dug through
+	
+RARE LOCATIONS - few visitors
+temple - artificial
+	outside the sand is incredibly thick
+	terrain is mostly rock, can be bombed
+	archeology
+	
+	hidden
+	a variety of undiscovered traps
+	moving platforms
+	
+	special encounters
+	
+	relics
+	
+low shrine - artificial
+	doctored landscape mean to appear natural
+	oddly grown vines
+	trees grow, bearing loads, opening passages
+	
+	animals take 
+	
+	hidden
+	technology which hints at the world of upper shather
+	stone tablets that can only be read
+	
+upper Shather - various
+	natural through artificial environments
+	high tech laboratory
+	great number of residence
+	
+farming - natural
+	big groups of food
+	
+sports - natural, with some neatness
+	games, the terrain is colored or neatly arranged for equal play
+	
+extreme solo sports - abnormal terrain
+	games where the terrain has been greased
+
+extreme fighting - abnormal terrain
+	events where a keeper has greased the terrain, and it's really to their advantage so you can't fight head on.
+	
+	

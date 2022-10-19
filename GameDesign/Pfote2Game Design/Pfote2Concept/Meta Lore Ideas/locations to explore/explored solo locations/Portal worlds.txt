@@ -1,0 +1,36 @@
+Portal - puzzle
+
+an escape the room type setup might work
+also location based "hidden worlds" vary 
+
+examples: 
+
+1 non-interference: level 2
+
+pick up item, use on next location
+examine places with signal
+	find hidden
+	see better
+	get a hint?
+
+	
+2 pseudo stealth puzzle: level 2
+hiding spots only, you traverse a room completely unseen
+or if you're seen nobody cares
+your normal items aren't available
+
+there are items to collect to escape
+you can cause things to happen by selecting objects
+
+3 improvised puzzle: level 5
+keeper in the room - if it sees you it'll attempt to catch
+you can steal things and use items you carry directly
+
+4 simple run away: level 2
+leave a space, by running or carefully hiding
+
+5 cinematic scroller: level 15
+a space gradually changes, and you must react to survive it
+
+6 skiller: level 20
+this is a highly skill oriented challenge. It may teach a specific skill like mixing a potion.

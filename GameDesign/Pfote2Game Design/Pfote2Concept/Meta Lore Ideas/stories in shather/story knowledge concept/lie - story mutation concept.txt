@@ -1,0 +1,32 @@
+lie mutation...
+bad mutation concept.
+
+SOURCE: The quick brown fox jumps over the lazy dog.
+
+it's a limerick, and it's fiction. it's true.
+
+STEP: replace any word with another
+MUTATION: 
+The quiet brown fox jumps over the lazy dog.
+
+it's false.
+
+STEP2: Form a distortion of it. 
+
+It's short enough to be a title. 
+LIE:
+The quiet brown fox jumps over the lazy dog. - by Billy Gee
+
+A brown
+brown
+fox
+
+Oh why are you so brown why are you not blue.
+Oh hush, be quiet, brown fox. lazy dog, fox jumps
+
+WHY WOULD THIS HAPPEN
+someone likes to hear themselves talk
+reading random things
+
+DISARM MUTATION
+learn, practice the source, duplicate, and make direct references

@@ -1,0 +1,56 @@
+[Initialize]
+(health = 2)
+(link death animation)
+
+(fadein)
+[start with alien]
+[intro]
+come on come on help me help meh
+
+
+loop{
+	use these
+	[display mouse and keyboard]
+
+	click there
+	[display floor button](onclick = break)
+}
+
+i just gotta get outta this cave
+
+[incident]
+ey
+ma
+ey
+ey
+ey
+
+ey
+no
+
+
+ey
+
+END
+[see girl]
+I come in peace.
+
+[girl hits alien]
+(NOOO!)
+
+girl: &#w*!@?3
+girl: ^!$% !@@@# ^&*($@@#
+[girl abducts alien]
+
+
+OPTIONAL
+[fall from dangerous height]
+
+NOOO!
+( -1 health )
+( death animation)
+Ahh
+ehh
+uugh
+( check health, 0 = fadeout, restart)
+

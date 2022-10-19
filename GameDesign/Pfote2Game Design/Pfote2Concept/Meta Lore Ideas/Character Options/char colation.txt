@@ -1,0 +1,16 @@
+
+flags
+simulated time (day:minutes)
+	
+bunny
+	(character)
+	hearts
+	stamina
+	
+	(modules)
+	knowledge
+	dream games
+	
+	
+human
+	behavior state

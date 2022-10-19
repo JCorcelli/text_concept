@@ -1,0 +1,16 @@
+Actors:
+	Trianna Smith
+	Eclaire Smith
+	Jeref Smith
+	Grumpies
+	Cooper "Light"
+Display
+	Find the hidden bunny game with Grumpies.
+	
+Eclaire finishes playing with the Grumpies and they're tired so they stand around.
+
+Cooper informs them that bunnies are made of light, and so all but the border of their bodies becomes transparent making them difficult to see.
+
+Eclaire and Jeref hide the bunnies including Cooper who remains awake.
+
+When Trianna walks in she finds this to be amusing and starts gathering the Grumpies back together in a pile. Cooper may or may not remain idle. After a minute Trianna will give up if Cooper keeps hiding where she last looked.

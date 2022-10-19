@@ -1,0 +1,39 @@
+three kinds of message rigs
+1
+group hub. {onConnect, onMessage,delegate,variables}, is parent of...
+	game object send/listen
+	radio object message
+
+2	
+static hub. {onConnect, onMessage, delegate, variables}, is static
+	may be used to introduce variables
+
+3
+hook object. to static hub {send ping, store target object}
+
+target listener object. to static hub {connect on ping, connect on start, [message,delegate,variables]}
+	behaves as hub to hooks
+	
+local
+group
+	object
+	object
+	
+hook
+menu (hub)
+	element (hub), radio
+		element
+		listener {target1 and target2}
+	element, radio
+target1
+target2
+
+
+static (I hook objects to a hub, but this could also be used with global variables)
+
+object
+group
+	object
+	
+group
+	object

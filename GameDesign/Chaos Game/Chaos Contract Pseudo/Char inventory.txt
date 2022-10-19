@@ -1,0 +1,93 @@
+
+# it is inventory abstracted from assumption that a character has humanoid properties and manners of transportation. bag, pocket, clothing, etc.
+
+
+class item
+	# any damn thing, even if it can't be held
+	selectable = 0
+	size = -1 #can't be held
+	holder = null
+	die
+		holder.remove(this)
+		
+
+		
+class boxanoid organism
+	#based around humans
+	
+	item_holders list[arms]
+	
+	#item_slots 
+	#abstract ring list[8], left to right pinky-pinky
+	
+	lose slot
+		drop equipment, set item slot to severed/dead
+		
+	#clothing list[7]
+	#real
+	hat_slot		hat       #Clothing
+	glove_slot		glove     #????
+	shoe_slot		shoe      #????
+	suit_slot		suit      #????
+	eyes_slot		eyewear   #????
+	ears_slot		earwear   #????
+	back_slot		backwear  #????
+	
+	check arms, 
+		if arm missing, drop
+	
+
+
+class item_holder
+	#hands, tentacles?
+	#contains ambiguous items of size
+	
+	size = 0 #holds size 0 items
+	maxPossible = 1 # holds 1 item, probably shouldn't change this?
+	
+	dropItem
+	dropAllItems
+	
+	add(newItem)
+		if item != null return false
+		if newItem.size > this.size
+			return false
+		item = newItem;
+		return true
+	
+
+class item_slot : item_holder
+	#contains specific type items
+	item_whitelist = []
+	typeof = ""
+	item = ""
+	connected = true
+	sever
+		connected = false
+		if item
+		
+			update dropped item
+			# dropItem? item is still technically in the holder
+			
+	connect(item slot)
+		if (slot.typeof == this.typeof)
+			connected = true
+		return connected
+	
+	add(newItem)
+		if !(base.add) return
+		
+		if item_whitelist && !item_whitelist contains newItem
+			return false
+		else if newItem.typeof != this.typeof
+			return false
+		item = newItem;
+		return true
+	remove(itemName) # don't know if there's an item
+		if item == "" || item != itemName
+			return false
+			
+		return true
+	
+class item_list object
+	contains list[]

@@ -1,0 +1,610 @@
+
+#	There should be a Border2D for any 2D physics
+#
+#	static hub for updates, otherwise apps have to check for updates manually
+#		dictionary <string, GuiDict> game
+#
+#"user traps"	
+#proximity trigger enabling app
+#altering mouse behavior
+#no cancel ( literal trap  )
+
+#Interface GameObject, [activator] only use activator to make it appear / vanish
+Interface, LaptopInterface
+{
+	activator = [power_on = 1], [top_open = 1], [battery_charged > 0], [timeofday < .8], [signal = 1]
+	
+	owner = "Unknown"
+	# canvases. it should be a given
+	Proximity, ZoneProximity, [zone_on = 1] [proximity = 1] {  
+		#| ascii window code |
+		Gui, ProximityText{
+		width = 100
+		height = 25
+		|there's a laptop| 
+		}
+	}
+	
+	screen
+	
+	Idol, Laptop {
+		#Resource, Ob / Scan Name, activator, options
+		Resource, Power Cord { plugged_in = 0 }
+		Resource, Screen {top_open = 1
+			[screen]
+		}
+		Resource, Speakers {speakers_on = 1}
+		
+		buttons = mouse 1, use, cancel
+		OnUse()
+		{
+			signal = 1
+		}
+		OnCancel()
+		{
+			signal = 0
+		}
+		
+	}
+	
+	# put a defined app or variable in braces "[a]"
+	# adding @ could have greater meaning, but I'll add random data to the folder for now
+	
+	Installs = Funsies64, Datesim# this could avoid verbose file declaration, ie: installs OS can setup the basic file system
+	Autorun = #[n app]
+	
+	# file in quotes, folders are variable
+	Files {
+		Replace ( @, RandomFiles() )
+		C {
+			ProgramFiles {
+				Datesim{
+					
+					Datesim as "sim.exe"  # renamed main app file, the file name shouldn't matter the "app" is just a link anyway
+					Datesim.vars
+					readme.txt = "have a fun game!" # make a string in place
+					}
+				Weather {Weather ".exe" ,Data {@}} 
+				Calculator {Calculator ".exe" }
+				Users {}
+				Default  {Desktop}
+				[owner] { 
+					Desktop { 
+						Datesim.lnk ="C/ProgramFiles/Datesim/sim.exe"  
+						Crash as "Manilla Folda"
+						Calculator ".exe" # append .exe to the name, and if the app doesn't exist it's just a string
+						Weather ".exe"
+						}
+					 Downloads  {@ }
+					 Favorites  {}
+					 Music      {}
+					 Pictures   {}
+					 Videos     {}
+					 Documents  {}
+					 AppData    {}
+					 }
+				Funsies {
+					System { 
+						WindowView
+						"kernel.bat"
+						@
+						}
+					}
+				}
+			}
+		D {
+			"Aee.music"
+			"Be.music"
+			"Ci.music"
+			Crash as "Dee.music"
+		}
+	} 
+	
+	Window, Desktop { #Grid
+	
+		parent = Screen
+		#local definitions?
+		Icons {a = Datesim, b = Crash, c = Calculator, d = Weather, e = RecycleBin, f = Scribble, g = Notepad, h = WindowView}
+		
+		Default_Ext { file = WindowView, txt = Notepad, bmp = Scribble, web browser = TorFox, music = Muzac }
+		
+		bu = Gui, Buttons {
+		|[Power Button][ ][Reset Button]|
+		}
+		Window, Canvas {
+			|BG|
+			
+			+---------------------------+
+			|                           |
+			| [ desktop               ] |
+			| [                       ] |
+			| [                       ] |
+			| [                       ] |
+			| [                       ] |
+			| [                       ] |
+			| [                       ] |
+			| [ Taskbar               ] |
+			|                      [bu] |
+			+---------------------------+
+			
+			
+		
+		}
+		desktop = Window, Desktop { # could also try a RandomGrid(a,b,c,d,e)
+			+---------------------------+
+			|[a][ ][ ][c]               |
+			|[b][e][ ][ ]               |
+			|[ ][ ][ ][d]               |
+			|[ ][ ][ ][ ]               |
+			|                           |
+			|                           |
+			   
+			   
+		}
+		
+		s = StartMenu
+		Gui, Taskbar {
+			|L[s][search][[home][cmd][       ]][tasks] R[hidden][mute][datetime]|
+		}
+		#apps = a,b,c,d,e
+		#app2 = c, @, b, @
+		Window, StartMenu  { # [mode] row col or grid
+			    +-----------------+
+				|[a      ][c     ]|
+				|[b      ][@     ]|
+				|[c      ][b     ]|
+				|[d      ][@     ]|
+				|[               ]|
+			    +-----------------+
+				
+		}
+			
+	
+		Replace ( @, RandomFiles() )
+	}
+	
+	
+}
+
+
+
+#Inherits the interface activators
+#App Name, [key = Name], [activator]
+# key variables: callback, files, g / global, icon, taskbar, [hidden = 0], [background = 0]
+# for futher realism, the interface must implement changes in variables by subscribing to the app's callback, a generic uninstall app can be implemented
+
+
+App, Datesim, [app_on 1] { 
+# making an imitation of a premade game
+
+
+	
+	# App dictionary key = autogenerate
+	# globals = keys
+	global hasPlayed, scene, stage
+	
+	
+	icon = Image, DateSimIcon
+	Taskbar, DateSimTask, task = {[icon][title]}
+	
+	file_vars = {global}
+	
+	path = C/ProgramFiles/Datesim/
+	files = {
+		Path Datesim".exe"
+		Path data/file_vars
+		
+	}
+	
+	window_ASCII = "
++--------------+  
+|              |
+|              |
+|              |
+|              |
+|              |
+|              |
++--------------+ 
+
+"
+
+	
+	
+	#[var = ]Window, name , activator, parent [default: local element]
+	#if var is present, the window doesn't appear at current level until var is used
+	
+	
+	scene_window = Window, Scene
+	title = "Play Bunneh Sim Date"
+	Window, MainWindow, visible
+	{
+	
+		titlebar = Gui, Title 
+		{L[icon][title]    R[-][+][x]}
+		
+		# main app window, for nesting I create a scene_window variable
+		+--------------+
+		|[titlebar    ]|
+		|[scene_window]|
+		+--------------+
+	}
+	
+	
+				
+	
+	#Inherits the interface activators
+	#activator = {power_on, top_open, battery_charged, timeofday, signal}
+	
+	
+	Window, StartMenu, [scene 0], {
+		parent = scene_window
+		
+		#[variable =] Button, [name,] text, activator, method or operation
+		#unassigned button is displayed in place
+		b1 = Button, Continue, [hasPlayed], [scene = 3]
+		b2 = Button, New Game, [!hasPlayed], [scene = 2]
+		b3 = Button, New Game+, [score > 1], [scene = 4]
+		b4 = Button, Settings,             , [scene = 1]
+		b5 = Button, Start Over, [hasPlayed], [ResetApp()]
+		
+		# it almost seems natural, I could click these like they were buttons
+		+---------------+     +-------------- +
+		|               |     |               |
+		|    [b1   ]    |     |    [     ]    |
+		|    [b2   ]    |     |    [b3   ]    |
+		|    [b4   ]    |     |    [     ]    |
+		|    [     ]    |     |    [b5   ]    |
+		|               |     |               |
+		+---------------+     +-------------- +
+		
+		
+	}
+	
+	datescene = Window, DateScene
+	altered_s = [datescene] # not sure
+	Window, Settings, [scene 1],  {
+	
+		parent = scene_window
+	
+		
+		w1 = Window, Step1, [step 1] {
+			Gui, Week {
+			["day"] 
+			["event"] [Button, RandomWeek()]}
+			Gui, Sky {[ScrollHorizontal, ,SetSky()]}
+			Gui, Location {[ScrollHorizontal, ,SetLocation()]}
+			Gui, Random { [Button, RandomLocation()]}
+		}
+		w2 = Window, Step2, [step 2]{
+			Gui, Ambience {
+			[ScrollHorizontal, ,SetAmbienceGroup()]
+			[ScrollHorizontal, ,PickAmbience()    ]}
+			
+			Gui, ShowAll { [Button, ShowAllAmbience()]}
+			Gui, DoesNothing { [Button, DeselectAmbience()]}
+			Gui, ClearAmbience { [Button, ClearAmbience()]}
+		}
+		w3 = Window, Step3, [step 3] {
+		
+		t = "Original"
+		acc = "Accept Changes?"
+		tt = AmbCount
+		
+		# a scene 'picture' couldn't display in high fidelity this way but a description of it could, and still hovering could make an image pop-out
+		 +-------------|                
+		 | [t ]  [tt]  |                   
+		 |[datescene ] |               
+		 |[          ] |               
+		 |[          ] |
+		 |[          ] |
+		 |     [   acc]| 	
+		 +-------------|
+		}
+		
+		s1 = Button, StepSelect, , [step = 1]
+		s2 = Button, StepSelect2, , [step = 2]
+		s3 = Button, StepSelect3, , [step = 3]
+		sel = {[s1][s2][s3]} # fill selector, no margins
+		
+		
+		#datescene on left
+		#altered_s on right
+		
+		b1 = Button, All random , , SetRandom()
+		b2 = Button, Undo All   , , SetUndoAll()
+		b3 = Button, Clear All  , , SetClearAll()
+		
+		
+		# step ?
+		b6 = To Title, Exit, [step 1], [stage = 1]
+		b8 = Button, Back, [step > 1]
+		
+		s= "Settings"
+		
+		settings = Window, Options {[w1],[w2],[w3]} # , makes them completely overlap, this behavior is similar to radio
+		
+		# with many small moving parts, it really makes more sense to use 'small images' rather than text, and still, clicking on one element of the text could generate the next, and the next
+		+---------------------------+
+        | [  s ] [b1 ] [b2] [b3]    |
+        | [        [sel ]         ] |
+        | [settings  ] [altered_s ] |
+        | [          ] [          ] |
+        | [          ] [          ] |
+        | [          ] [          ] |
+        | [          ] [          ] |
+        |               [b6] [b8]   |
+        |                           |
+        +---------------------------+
+        
+    
+        
+		b7 = Button, Submit, [step 3]
+		b9 = Button, Next, [step < 3]
+		
+		# rather than redrawing this, I do math
+		SetPosition(b7, b6)   
+		SetPosition(b9, b8)
+        
+		
+		
+		
+		
+	
+	
+	
+	}
+	waitButton = Button, WaitMode, , [scene = 3]
+	realTimeOption = Text, Teaser, {Real Time Mode}
+	teaserButton = Hover, TeaserHover
+	{
+		exit {[realTimeOption]}
+		enter {|You should play first.|}
+	}
+	returnToTitle = [row][-------------------]Button, Return To Title,,[scene = 0]
+	
+	Window, Starting Date, [scene 2] {
+	
+		parent = scene_window
+		b1 = waitButton
+		b2 = teaserButton
+		re = returnToTitle
+		 
+		
+		+-------------- +
+		|"Have fun."    | # this should add a text object
+		|[b1   ] [b2   ]|
+		|[     ] [     ]|
+		|[     ] [     ]|
+		|               |
+		|        [re]   |
+		+-------------- +
+		
+
+	}
+	
+	# these lists are parsed to the global dictionary
+	
+	topics = TextAsset("date_topics", ">>>")
+	quips content = TextAsset("date_topics_content", "\r\n###########\r\n")
+	quips = SplitArrays(quips content, "*****")
+	
+	# seems like I have to parse the file
+	response content = TextAsset("date_topics_response", "\r\n###########\r\n") # ey
+	#
+	responses = SplitArrays(response content, "*****")
+	greetings = {
+	1 = TextAsset("wait_stage1", ">>>"), 
+	2 = TextAsset("wait_stage2", ">>>"), 
+	3 = TextAsset("wait_stage3", ">>>"),
+	4 = TextAsset("wait_stage4", ">>>")}
+	
+	ChangeTopic()
+	{
+		Random(topics)
+		quip = quips[Random.prev]
+		response = responses[Random.prev]
+	}
+	
+	# it's global?
+	stage_reached = 0
+	quip = QuipWidget, Quips, headers {
+		bgColor = defaultColor
+	
+		Comment, [stage > 0] {
+		
+		Flash(stage)
+		
+		[stage_reached > stage] #activate
+		
+		[stage_reached = stage]
+		greeting = greetings[stage]
+		header = Random(greeting) # better replace \\n with \n
+		body = Random(quip)[stage]
+		
+		Sleep(1)
+		header = @"Bunneh"
+		body = Random(response)[stage]
+		}
+		
+	}
+	# program "signal button"
+	# wishful thinking atp
+	hoverColor = .8f,.1f,.3f,1f
+	failColor =.8f,.1f,.3f,1f
+	startColor = 1,1,1,1
+	activeColor = .8,0,0,1
+	
+	usedColor = startColor
+	
+	pressedColor = startColor
+	defaultColor = 1,1,1, 165 / 255
+		
+		
+	signal = Signal, SelectOption {
+		bgColor = startColor
+		text_color = black
+		selected = 0
+		amt = .13 # this should be defaulted if unspecified
+		OnEnter() {
+		
+			bgColor = hoverColor
+			BackToWhite()
+		}
+		OnSignal() { 
+			[response_stage >= stage]
+			{
+				FailAddColor()
+			}
+			[response_stage < stage]
+			[response_stage = stage]
+			selected = 1
+			bgColor = activeColor
+			[relation += amt]
+		}
+		
+		OnReset() {
+			bgColor = startColor
+			text_color = black
+			selected = 0
+		}
+		
+	}
+	# type, go name, activator, , modifier
+	selected_options = 0
+	options = RadioWidget, Date Option, , {
+		#go name, activator
+		Stage1, [stage 1] {
+		
+		#bullet, widget
+		[signal], , amt = 0 [option = 1]{"1""I quit. I hop away. Bunneh off bed."}
+		[signal], , amt = 0.2 [option = 2]{"2""Flick feet in distaste."}
+		[signal], , amt = 0.5 [option = 3]{"3""Stare meaningfully."}
+		[signal], , amt = 0 [option = 4]{"4""Stare meaninglessly."}
+		[signal], , amt = 0 [option = 5]{"5""Pretend you're alone."}
+		}
+		
+		Stage2, [stage 2] {
+		[signal], , [option = 1][ChangeTopic()]{(Change topic.)}
+		}
+		
+		Stage 3, [stage 3] {
+
+		[signal], , [option = 1]{"1""(thump)"}
+		[signal], , [option = 2]{"2""(Look angry.)"}
+		[signal], , [option = 3]{"3""(Charge!)"}
+		[signal], , [option = 4]{"4""(Kiss.)"}
+		[signal], , [option = 5]{"5""(Don't Flinch.)"}
+		}
+		Stage 4, [stage 4] {
+		[signal], , [option = 1]{(Get off the bed.)}
+		}
+		# defaults to
+		No Options  {
+			|Start the game|
+		}
+	}
+	Window, DateOn, [scene 3], {
+		
+		parent = scene_window
+		|[datescene]| # I want to copy the object here
+		
+		
+		#variable = Button, Continue, [hasPlayed], [scene = 3]
+		# assigned button must be called
+		b = Button, Back, [stage > 0], [stage--]
+		
+		s = Button, Start, [stage <= 0], [stage++]
+		c = Button, Continue, [stage < 4], [stage++]
+		q = Button, Quit, [stage = 0], [scene = 0][app_on = 0]
+		e = Button, End Date, [stage = 0][scene = 6]
+		
+		# Gui, Go name, activator
+		date = Gui, DateAppGui {
+		+-------+  #+-------+
+		|[b][ c]|  #|  [s]  |
+		|[q][ e]|  #|       |
+		+-------+  #+-------+
+		SetPosition(s, c, b) # actually I like it. The variables n.. can be anonymous too, leaving blanks on the page
+		}
+		
+		op = options
+		+-------------------+
+		| [op   ]           |
+		| [     ]   [quip ] |
+		| [     ]   [     ] |
+		|           [     ] |
+		| [     ]           |
+		| [date ]   [     ] |
+		| [     ]           |
+		+-------------------+
+
+	}
+	
+	
+	realtimeButton = Hover, RealTimeHover
+	{
+		exit {[realTimeOption]}
+		enter {
+			# text has a black bg?
+			Text, Text,[relation <3] { You aren't ready. (relation < 3) }
+			Button, RealTime, [relation>=3],[scene = 5]
+		}
+	}
+	
+	Window, Starting Plus, [scene 4] , 
+	{
+	
+		parent = scene_window
+		
+		wb = waitButton
+		mb = realtimeButton
+		rt = returnToTitle
+		+-------------- +
+		|"New Date+"    |
+		|[wb   ] [mb   ]|
+		|[     ] [     ]|
+		|[     ] [     ]|
+		|               |
+		|        [rt]   |
+		+-------------- +
+		
+		
+		
+	}
+	Window, RealDateOn, [scene 5],  {
+		parent = scene_window
+		{Jerri.RealDate} # this should execute if the window activates, and only then
+		
+		
+		wb = waitButton
+		mb = realtimeButton
+		rt = returnToTitle
+		+-------------- +
+		|  [a   ]       |
+		|  [b   ]       |
+		|               |
+		|     [c    ]   |
+		|               |
+		|        [rt]   |
+		+-------------- +
+		
+	}
+	Window, EndDate, [scene 6],  {
+		parent = scene_window
+		
+		End = "End of Date Status"
+		title
+		it = "Title"
+		comm = comment
+		+-------------- +
+		|[End   ]       |
+		|[      ]       |
+		| [it]  [title ]|
+		|       [comm  ]|
+		|       [      ]|
+		+-------------- +
+		
+		|Button, ReturnToTitle, ,[scene = 0]|
+	}
+	
+}

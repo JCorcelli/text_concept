@@ -1,0 +1,15 @@
+There's something I can be a little happy about. When I was first trying to find programming tools I don't know why but it was incredibly difficult... I probably know why. But now it's like I'm not even trying to look for one anymore, and it's that much easier to do so many things.
+
+It's like the API people programmed for themselves didn't really make any sense, and that was when I actually managed to reach a download.
+
+I understand there are communities dedicated to discussing these things and the fact I barely ever found one made finding an API that I liked that much harder.
+
+Thankfully, notepad doesn't take a million years to load, and Unity compiles with a tiny message in the corner. There's room for improvement there, I think, good luck trying.
+
+I found this, this I'm typing on right now, probably just as good as notepad with really arbitrary syntax highlighting.
+
+I guess the main thing people try to make with an API is some way to detect whether code works before it doesn't. Useless.
+
+When I look for tutorials on a language without spending 2000 dollars for a college course. Useless. This is where I start to think someone took the free information idea and ran the other way. Information is free, good luck finding it. People can find where you live for free, are you sure this is the away an intelligent society works or is it just another way someone thinks they're actually better than other people?
+
+Well, now when I don't look for a programming language, I write my own and I get a few dozen videos of people discussing programming languages I'll never be interested in until there's actually one that does something different.

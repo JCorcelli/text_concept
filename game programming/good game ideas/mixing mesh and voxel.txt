@@ -1,0 +1,13 @@
+Problems
+	Mesh looks like crap close up. 
+	Big voxels look like crap close up. 
+	Small voxels render too slow. 
+	
+Solution. Small voxels can be in a confined area, close up. Vector-Mesh can be everywhere else.
+
+mesh in vectors is cheap to render
+voxel is detail
+
+voxels up to a distance for greater detail and atomic scaled realism
+
+mesh farther away generated from the voxel data

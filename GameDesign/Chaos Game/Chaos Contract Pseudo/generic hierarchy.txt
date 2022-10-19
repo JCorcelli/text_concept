@@ -1,0 +1,38 @@
+## * = incomplete
+## ** = abridged 
+c item : support clicks and basic actions
+
+	key
+	keyring : a list of strings referencing the keys
+	
+	minitech_basis : self explanatory
+			: check use(target, tech)
+			: check upgrades(tech)
+		
+		minitech_door
+		minitech_squareDoor
+		minitech_wallDoor
+		minitech_lockedDoor
+		minitech_keyLock
+		minitech_keyLockedDoor
+		minitech_numLockedDoor
+		minitech_symbolLock
+		minitech_symbolLockedDoor *
+		
+		
+		
+		
+	construction_material **
+	construction **
+	
+	
+c boxanoid : [placeholder] organism
+
+c item_holder : bags of anything
+
+	c item_slot : specific items only
+
+c item_list : [placeholder] list menus of any size referencing items or inventories
+
+verse
+verse_item_basis

@@ -1,0 +1,77 @@
+created 8/12/2012
+
+Summary: this is a game about leading a follower back home.
+
+mouse game mechanic:
+if you guide someone under their willpower they can be attracted to other objects
+
+additional nuance:
+You (the mouse) are a lightsource, with predictive ability, you can see things that a person following can't.
+
+NPC generalization:
+All characters follow the same rules.
+All NPC, not just the MC are attracted to your mouse
+They will follow until distracted or caught off guard.
+
+cast of characters:
+MAIN CHARACTERS (CHAR):
+THE LIGHT (TL):
+	probably will look like a fairy/navi ripoff
+
+	Ghosting mechanic, movement:
+	Can pass through solid matter, more transparent or porus surfaces are quicker
+	
+THE FOLLOWER (TF):
+	A person/interested harmless
+	
+	Follows THE LIGHT
+	REQUIRES GUIDANCE
+	
+THE NUISANCE (TN):
+	They attract TF
+
+THE BRATS (BR):
+	They try to bother or interfere TF
+	Those able will trap TL to take TF's attention
+	
+	REQUIRES DISCUSSION or an ITM
+
+THE BRUTES (BS):
+	They follow TF
+	If they see TL they follow TL instead
+	BS are affected by all that affect TF
+	
+	NO ACTION REQUIRED
+
+THE SLIPS (TP):
+	They inherit all properties of BS
+	They gain traits similar to TF
+	
+THE JOKES (TB):
+	Note: this came out before 2010, when TotalBiscuit didn't even exist to my knowledge
+	
+	TF will follow
+	They gain traits similar to TL
+	
+	
+MYSTERY (MYST):
+	They will talk with TL, but only with SP.
+	
+	SP enables MYST to have group sex with TL if TL will allow it
+	
+THE ITEMS (ITM):
+	Produce various effects
+	
+THE JOKES (JK):
+	Offer guidance to TF
+	Tell tales related to things inside the game.
+	Give ITM
+
+PUZZLES (PZL)
+
+Plot:
+
+JK are prominant
+BS are easily subdued
+
+there was a short synopsis that I tossed out

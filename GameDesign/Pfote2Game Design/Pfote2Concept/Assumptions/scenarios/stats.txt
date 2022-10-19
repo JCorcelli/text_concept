@@ -1,0 +1,25 @@
+
+Statistics were thought of (stastistics in full.txt)
+TECHNIQUE
+	general
+	physical
+	gardener
+	stealth
+	ninja
+	explorer
+	merit
+MENTAL
+	thought
+	law
+	truth
+	emotional
+	command
+PERSONAL
+	toy
+	stomach
+	description (prompted)
+STORY
+	owner
+	progress
+	story manip
+	social manip

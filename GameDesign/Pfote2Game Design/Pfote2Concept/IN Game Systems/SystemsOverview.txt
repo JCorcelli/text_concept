@@ -1,0 +1,50 @@
+Hardware
+Standard Keyboard, Mouse
+
+
+
+UI
+	
+
+	Selection - requires Player Input, EventManager, Selectable, SelectionScript, Collider, SelectionManager
+
+	GUI System - Vector Fonts, Scalable Pixel Graphics
+
+
+Core Features
+	Physics System	(?)- Collider, Rigidbody
+	
+	Sound - Mixer, Audio Clip
+
+	Animation (Mechanim) - Animator, Model, Animation Poses, AnimationScript, AnimationManager
+
+	Particle System (Shuriken)
+	
+Game Features
+
+	Action System
+	
+		action examples
+		NPC Touch/Trigger Stationary Objects - requires Stationary Object Actions
+		Select Stationary Actions - req. Stationary Ob. Actions
+		Select NPC Actions - req. NPC Actions
+	
+	Routine System - requires Basic Actions, ActionManager, MessageProtocol
+	
+	NPC Routines - requires NPC Actions, Routine System
+	
+	->
+	Player Guide (Soft Routine System) - requires Select Actions, Routine System
+	
+	// NPC status/ /character sheet?
+
+	// Activity Planner - requires Routine System
+	// Story - requires Activity Planner
+
+
+Managers
+
+	EventSystem
+	
+	ActionManager
+	// GameManager - requires Save, Load, Progress

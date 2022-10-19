@@ -1,0 +1,7 @@
+
+	concept: 
+		gather -> react -> record
+		pre-record gathers data from everything writing to a data slip
+		on-record has all the details, it is possible to add messages
+		post-record is a chance to respond to all modifiers including messages
+	

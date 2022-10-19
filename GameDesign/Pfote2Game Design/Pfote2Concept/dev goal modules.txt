@@ -1,0 +1,42 @@
+if something works independent of another it's separate
+
+ui context
+	"info vs input"
+	ooc
+		music
+		hud
+		start menu
+
+	ui state
+		interacting
+
+	
+effect
+	pop-out sprite, text, or particle
+sound mix
+
+
+activity dialogue
+	skill select
+skills
+character state
+	
+physics
+lighting
+stealth
+	cover
+	hiding spot
+	
+puzzling
+dialogue
+	dynamic box
+	static box
+	prompt
+conversation
+journal
+story
+	
+	trigger
+	events
+		explore skit
+		social skit

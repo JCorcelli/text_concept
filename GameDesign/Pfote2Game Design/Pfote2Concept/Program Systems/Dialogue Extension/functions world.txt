@@ -1,0 +1,64 @@
+functions world
+
+ JUST WRITE, AND I WILL PARSE IT LATER, THEN I WILL WRITE THE METHODS	
+		
+non destructive mutator
+	{SoftMutate [chars] [replace]}
+destroying or altering marks
+	
+	part of text could be messing up a memory
+	How do I target it? 
+	
+	find " "
+	replace " "
+	remove " "
+	
+	It's process of elimination since there can be nested or barred.
+	
+	I think mutators could do this. If I just program mutators to perform a splice operation it's fine.
+	
+
+
+"COUNTDOWNS"
+	example: {CountDown 10} count its parameter down to 0, performing a function each call.
+	
+*
+	{sleep [n] } set advance to 0 for n seconds
+	
+*
+	{wait [n] [text]} after n seconds the broken out [text] is acted. Sseful for sequences.
+	
+	
+"ESCAPED TEXT"
+	example: {escapefunc param [text]} get escaped leaving [text]
+	
+*
+	{randomtext ["text","{cps 12}wha..{cps}"]}
+
+DESTRUCTIVE	COUNTDOWNS
+	
+*	
+	{Chaos 30 "text"}
+	continuously replacing "text" with chaos 
+	
+*
+	{EscapeAfter 30 {Destroy 100}} 
+	count its parameter down to 0, then destroy 100 text characters.
+
+	
+PARSER
+I
+targeting certain Streams by method
+	{think holy cow} display at an indent nearly instant
+	{say holy cow} main text
+	{* cough} instantaneous
+
+	affect
+	but actions like think or say prevent them from performing something.
+
+II
+param variable altering
+	{text IsClever bool}
+	{user IsClever bool}
+	{stream IsClever bool}
+	{storage IsClever bool}

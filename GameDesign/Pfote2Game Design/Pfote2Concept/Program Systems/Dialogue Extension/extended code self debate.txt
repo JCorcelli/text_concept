@@ -1,0 +1,28 @@
+It's like lambda
+
+"" text
+{method params} lambda function
+
+I thought I want namespace
+{using wiki/user} at the base of the string could change the namespace, which means all future function calls are "wiki/user"
+
+many possible namespaces
+	World - pretty much for debugging
+	Magic - magic spells
+	Law - a restrictive wordplay
+	
+	Wiki - the wiki code imitator
+	Memory - the log that probably uses basic DBox stuff
+	
+DECLARATION
+A better idea is to make a name convention
+
+DAction("Magic.Box") is not DAction("MagicBox")
+Wiki/Main.Box would refer to drawing a box in the wiki.
+
+WORLD FUNCTIONS
+
+{DBox.NewLine} could just be {NewLine} because DBox was first, and currently the only organized text generator.
+
+CONVERSION?
+DText => Wiki ? No. Only the functions are different. No point.

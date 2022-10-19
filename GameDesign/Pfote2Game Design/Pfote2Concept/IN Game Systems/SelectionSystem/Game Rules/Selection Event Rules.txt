@@ -1,0 +1,33 @@
+Direction Indicator Move
+	Select
+		Tile
+			Move by selecting tile
+		Restricted Tile
+			Move near by selecting tile
+		Station
+			Move into by selecting
+		Locked Station
+			Move near by selecting
+		
+Bunny
+	Select Idle Bunny
+		Options
+			1 pet
+			2 push
+			3 cancel
+
+	Touch Other
+		Hidden Tile
+			While bunny is in hidden tile he will not be visible.
+		Cage
+			While bunny is in cage he eats sleeps and looks at big bunny
+		Dig Spot
+			While bunny is in dig spot he scratches it and tries to push dirt away
+
+	
+Station
+	Select
+		Activate
+	Touch Other
+		Register Other
+		

@@ -1,0 +1,21 @@
+NARROW PUZZLER TRAINING
+
+
+frogger training ( 4-direction maze)
+
+f controls:
+	arrow to point
+	shift + arrow to move
+	idle shift to spring 2 tiles
+	
+	ctrl turn camera
+	space - zone, initiative, "ninja jump" diagonal and "ledge hang"
+
+	jog a maze (example)
+	
+	jog a platform maze, transition to normal space
+
+	obstacles of misconduct (speed stealth), touch reduces heart until he gives up
+	
+	--
+	platforming of another kind (3D frogger logic), dodging dangers, moving platforms, heart reduction, position resets

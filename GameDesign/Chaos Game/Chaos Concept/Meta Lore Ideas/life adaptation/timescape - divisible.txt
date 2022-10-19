@@ -1,0 +1,377 @@
+divisible
+	
+
+	final name
+		""
+		divisible
+		""
+		
+	skill - 
+		multiply
+		make heat
+		
+	name - cell
+	
+	0.1
+	conflict - suspended fluid
+	adaptation - growth
+	0.2
+	conflict - nemesis
+	adapt - communicate, rapid growth
+	
+	1.0
+	Skip along the evolution to multiple cell organism
+	
+	rename - bacteria
+	adapt - cell walls
+	
+	World dominated
+	
+	2.0
+	
+	conflict - poison
+	adapt - poison resistant life
+	
+	3.0
+	
+	mutation - optimized cells
+	rename - cannibal
+	
+	(following this logic it's similar to earth)
+	4.0
+	
+	mutations - 4th dimension mitosis, cellivore (4th dimension feeding)
+	
+	rename - 1st prestige "quantum life"
+	
+	4.1
+	
+	growth to edge of accessible environment "alien conquest"
+	
+	4.2
+	growth beyond edge of accessible environment "migration"
+	
+	random interlocking mitosis conflicts with fauna and flora
+	
+	5
+	co-evolution with fauna and flora
+	
+	rename - 2nd prestige "ghost"
+	
+	5.1
+	current world state:
+	higher life is like a tangled weed
+	macro-scaled organisms (not pretty to look at)
+	fauna and flora
+	streamlined versions (smaller, and even worse looking)
+	
+	Ghost bacteria strewn about is second most common life, after the streamlined airborn poison producing stuff
+	
+	5.2
+	
+	A higher lifeform establishes a form of eating behavior pattern that out-paces ghost multiplication speed
+	
+	6
+	
+	mutation
+	faster multiplying
+	
+	conflict - all life dies
+	
+	6.1
+	
+	conflict - most ghost dies
+	
+	7
+	repeating cycles of evolution until -
+	
+	parasitic lifeform feeds from ghost
+	
+	8
+	life renews
+	
+	9
+	conflict - macrophages
+	eats its own flesh, eating the ghosts
+	
+	the self digesting life are composed of ghost, parasites, and their own cells
+	
+	10
+	conflict -
+	viral infection attacking ghost
+	
+	11
+	size of complex entities increase
+	complex neurological bodies form
+	
+	life encounters discomfort, and it is deemed sentient
+	
+	ghost enters the nerves of sentient life
+	
+	12
+	competing forms of sentient life diverge
+	herbivorous, carnivorous, etc.
+	
+	competing forms of ghost evolve
+	
+	communal ghost transmit short distances and show sympathetic 'share' tactics
+	
+	13
+	mutation - A neurological cell of ghost begins to control connecting cells through a network of bacteria and nerves
+	
+	rename - 3rd Prestige "gears"
+	
+	13.1
+	INTELLIGENCE EXPLOSION
+	the hosts easiest to manipulate are the first to be modified. They didn't suffer sentience. Ghosts easily programmed controls into it.
+	
+	they worked their way to mastery of biology at the speed of artificial intelligence. the memory of all life was accessible in an instant telepathic communication
+	
+	13.2
+	Varying populations of kin resembling mass deaths are observed killing the host organism. Exotic parasites are unpleasant.
+	
+	Disease control is impossible, and the optimal life expectancy and time to transfer memory is calculated. At that time they share their memory with their next of kin, cloning their mind.
+	
+	14
+	
+	new life - independent host
+	An uplifted species with cells that can self-regulate divergent.
+	
+	This new life can reject the communication, preserving individuality. It was bio-engineered by the 'mother'.
+	
+	Their first individuals move slowly and eat dirt and tonnes of plants.
+	
+	14.1
+	
+	Individuals are produced in many subjects and manners.
+	
+	Rather than a single host per individual, a group of minds form per host and this 'divergent' thought colony production becomes a way to rapidly increase sense of self.
+	
+	14.2
+	
+	A rapid EXPLOSION of counterfeit, and cannibal colonies repeatedly destroy and recreate the divergent species.
+	
+	14.3
+	
+	A single vaccinating thought of paranoia stops the greatest threat against individuals.
+	
+	14.4
+	
+	A massive 'demon brain' entity takes over vulnerable hosts and it retains them with low processing.
+	
+	This is when 'sentient' can take on a new meaning. The individuals uplift their host to avoid getting killed by the demon.
+	
+	14.5
+	
+	Autonomous hosts are produced and despite the indirect communication, recognized as 'guardians'
+	
+	Some still contain demon brain colonies
+	
+	14.6
+	
+	A 'tribal' war begins. Individuals, paranoid, untrusting; fight, diplomacy, and fall prey to the demon.
+	
+	Greater minds... a form of antivirus that observes colony behaviors.
+	
+	14.7
+	
+	Some great internal war. Purging the demon completely from each guardian, or killing the guardian in the process.
+	
+	.
+	The rate all this happens within a host is instantaneous. Communication across hosts takes some time.
+	
+	15
+	guardians and their food sources mutate gradually until the environment is a danger
+	
+	conflict - weather, food, technology
+	
+	15.1
+	
+	guardians adapt to use tools to gather food
+	bury themselves
+	hide from conflict and weather
+	
+	16
+	extinction of ancient demon virus primarily due to weakened hosts
+	
+	mutation - dormant demon virus cells
+	
+	17
+	paranoia among divergent cells lessens
+	
+	conflict - psychic guardians are forced to empathetic bonds of nature
+	
+	17.1
+	
+	tribal hostility ends
+	
+	17.2
+	
+	the great peace movement begins without a conscious thought from a guardian as the individuality of weakened gears are lost
+	
+	sentient food is safeguarded
+	
+	17.3
+	
+	Some individuals eat sentient foods, causing pain in unified entities
+	
+	invention - Physical communication
+	
+	those in communication and in pain begin to display social habits
+	
+	18
+	
+	conflict - Individual Development
+	"Consciousness"
+	Psychological Traits that increase survival prove to win over altruism
+	
+	rename - divisible "Final"
+	
+	18.1
+	
+	conflicts - 
+		telepathy
+		blending
+		racism (multiple guardian races)
+		ideology
+		eugenic (physical, psychological)
+	
+	individualism is an observable phenomenon
+		
+	18.2
+	conflict - demon virus outbreak
+	
+		the dormant demon virus is awakened and mutates
+		
+		unity takes on an offensive meaning
+		
+	18.3
+	technology - language
+		basic recognition of organized vocalization
+		
+	morality?
+	language identifies friend and foe, sometimes being cute...
+	
+	18.4
+	mutation - gradually most animals size reduces
+	
+	tech - early civilization
+		organized groups
+		fighting
+		boundaries
+		construction
+		basic tool (clothes, bags)
+		
+	18.5
+	advancements until... 
+		medicine
+		
+	observing cell mitosis
+	
+	parasite removal greatly extends life
+	###
+	the health of individuals can easily be seen on their skin, but it is the same for all things
+	
+	after removing parasite the change is reversed until the mitosis occurs again, this procedure results in massive life extension
+	###
+	
+	18.6
+	genetics is cracked 
+	
+	different cells observed
+	demon, ghost, gear
+	
+	"all things touch" 
+		a media is published 
+		theories why similar populations all die at the same time
+	
+	"solo mode"
+		a lot of individuals with parasite therapy start living in secluded regions
+		
+		this may also include rich people who are tribal
+		
+	18.7
+	"psycho biosis"
+		a form of telekenisis, and energy production common in guardians
+		
+	research into psycho bioenhancement
+	
+	18.8
+	
+	tech
+		4th dimension connection
+		4th connection
+		'4c'
+	
+	the quantum trial and error
+	
+	18.9
+	
+	conflict - war 
+	"Demon War"
+	
+	the viral cell known as demon were a common enemy 
+	any interaction is incredibly dangerous due to the infectious nature and the quick loss of individuals
+	
+	tech - growth from wars increased ways to fight without direct contact
+	
+	eventually the war ended but the myth of a demon possessing friends and strangers remained
+	
+	18.10
+	
+	tech - unique skill of the divergent race
+	
+	"divergence"
+	
+	the phenomenon of 4d mitosis was observable in some individuals
+	
+	the split individuals retained a direct connection which never completely fades
+	
+	"re entry"
+	
+	death of a divergent body, the cells will attempt to retreat to living bodies which directly affect and weaken them
+	
+	"emergence"
+	
+	a manipulation of one's own ghost cells. near instantaneous regenerative abilities, as well has a host of self-induced biological mutations.
+	
+	"murmur"
+	
+	a transmission of gear cells. transmission of information to others
+	
+	"demon virus"
+	
+	all infected by demon cells carry this burden until they give in.
+	
+	may be malignant, dormant, or infectious at any point.
+	
+	TIMELINE SUMMARY
+	~ 
+	0 Single celled life 'cell'
+	
+	4 Quantum transmission
+	
+	5 Fauna and Flora inclusion
+	prestige 2 ghost
+	
+	7 Parasite becomes killer of ghost cell
+	
+	11 Sentient giants
+	
+	13 prestige 3 gear
+	Uniform data is transmitted through networks of gears
+	Data found in sentient life drastically increases
+	
+	14 independence
+	strife
+	demon brain nemesis
+	tribalism 'greater minds'
+	
+	15 optimizing and environment struggle
+	
+	16 demon virus weakens, becomes dormant
+	
+	17 great peace (and veganism)
+	
+	18 prestige final divisible
+	the modern era

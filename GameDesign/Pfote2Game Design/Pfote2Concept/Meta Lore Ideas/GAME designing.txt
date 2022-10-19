@@ -1,0 +1,50 @@
+BASIC mechanic use
+	Showing the player things, showcase, then making them available.
+		1. avoid interfering with player
+		2. highlight new thing
+		Reveal/ itemize/ iconize/ game
+	
+	
+
+UNITY info
+
+	Things need to be scaled to dimensions of their real-world counterpart, 1 unit = 1 meter in Unity.
+	
+	
+GAME design	
+	
+	POSSIBILITY SPACE
+		Whatever is created in possibility space eventually enters player space.
+		
+		Story
+		Concept Art -> Writing, Imaging
+		
+		Game Abstractions
+		Descriptions -> Diagrams ->
+		
+			Design Systems From Abstraction
+			System Doc -> Game Rules -> Program Pseudocode -> Program Prototype
+		
+		
+		
+	PLAYER SPACE
+		
+	
+		Level Design
+		3D geometry -> Level System - Game Mechanics
+		
+		UI Design For Level Sections aka Scenes
+		... Game Mechanics -> Game Features -> UI System -> GUI art -> Basic Mechanic Use * (above)
+		
+		Character Design
+		Concept art -> 3D model -> Animate -> 2D Effects -> Activity Sy
+		
+		
+		
+		Finish
+		Adjust automated systems
+		
+	
+		
+		
+	

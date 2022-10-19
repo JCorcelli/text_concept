@@ -1,0 +1,17 @@
+bottom of screen
+_____________
+<nothing>memorybox
+
+dbox > memorybox
+memorybox has a specific organization goal to slide down the right side of the screen and stay organized while it isn't being used. Each memory is a button that slides out when focused.
+
+resource user BUNNY
+	storage  DStorageMind/Bunny[] 
+	mutator  DMutatorMind/Alpha (possibly set for wave type)
+	
+	
+activity scenario
+	dboxAction.Select Bunneh.Memory (the memorybox)
+	
+	stream to it
+	

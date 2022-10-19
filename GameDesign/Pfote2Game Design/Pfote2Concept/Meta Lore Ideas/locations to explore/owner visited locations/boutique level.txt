@@ -1,0 +1,21 @@
+BOUTIQUE (DEPARTMENT STORE)
+an owner as a cashier
+an owner might come to sell or peruse
+
+JOBS
+cashier
+stocker
+security guard?
+	
+	
+ITEM
+market - yes
+	buy human goods
+	sell items
+	play / buy video games
+	
+ELECTRONIC GAMES
+
+THEFT
+maybe the owner's a bit of a shoplifter
+	

@@ -1,0 +1,7 @@
+SPORTS
+
+the human accessible games
+	
+eg BASEBALL FOOTBALL BASKETBALL
+
+

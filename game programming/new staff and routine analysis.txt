@@ -1,0 +1,24 @@
+There is a work day
+
+Main loop
+
+There are different teams
+
+Classes
+
+The day begins and every member of each team signs in.
+
+Class Lists
+
+Each team member has their own duty they perform
+
+Instantiation
+
+
+##########################
+
+The high level cycle using delegates: gather, react, and record; allows actors outside of an individual team to supply a hub. Each cycle's result may be recorded for later use.
+
+Gather
+
+

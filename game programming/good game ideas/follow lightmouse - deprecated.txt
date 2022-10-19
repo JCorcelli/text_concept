@@ -1,0 +1,249 @@
+created 8/12/2012
+by JC
+
+Brief about mouse maze-like game mechanic:
+if a person irl hits a wall, they fall over and become disoriented
+if you touch a wall with your mouse cursor you lose it
+combine: if you guide someone into a wall with a mouse cursor they'd fall over and become disoriented.
+
+additional nuance:
+You (the mouse) are a lightsource, you can see things that a person following can't.
+
+NPC generalization:
+Someone is attracted to your mouse
+At least at first. 
+They will follow until distracted or caught off guard.
+
+cast of characters:
+MAIN CHARACTERS (CHAR):
+THE LIGHT (TL):
+	A light. ? (probably will look like a fairy/navi ripoff)
+
+	Ghosting mechanic, movement:
+	transparency with ease /  window,  translucency / plastic.
+	
+	reflective magical objects teleport / portal / mirrors / water 
+	
+	opaque slowly permeable or porus objects 
+	
+	other? situational
+	
+THE FOLLOWER (TF):
+	A person/interested harmless
+	
+	Bumps into everything that isn't clear air, and sometimes even then...
+	Trips over things that aren't clearly there.
+	Follows THE LIGHT directly.
+	REQUIRES GUIDANCE
+	
+ANTAGONISTS (ANTI):
+THE NUISANCES (TN):
+	Calls to THE FOLLOWER
+	Waves at TF
+	Gets in the way of TF intentionally
+	REQUIRES RESPONSES
+
+THE BRATS (TB):
+	Trips or Scares TF
+	Those able will trap TL for just a short time
+	REQUIRES TOOLS
+
+THE BRUTES (BS):
+	Aggressive toward TF
+	Inherits characteristics of TF
+
+THE SLIPS (PS):
+	Aggressive toward TL
+	Inherits characteristics of TL
+	
+THE THINGS (TS):
+	Inherits characteristics of PS AND BS (WITH TL AND FL)
+
+MYSTERY (MYST): 
+THE PUZZLES (PZL):
+	Produce ITM that must be accessible. Accessible: found outside the scope of a solved PZL.
+	PZL may be hidden by another PZL
+	
+THE ITEMS (ITM):
+	Formed for a puzzle
+	Produce various effects
+	
+THE JOKES (JK):
+	Offer guidance to TF
+	Tell tales related to things inside the game.
+	Ask for guidance from TL
+	Give useless ITM
+
+Plot:
+
+
+BEGINNING
+
+TF IS LOST
+setting: dark arena, one spotlight on TF
+Enter TF
+TF: Help I need to get ...somewhere
+More spotlights mark a path
+Control TF
+Spotlights are dim
+TF: I.. can't it's scary
+Lose Control of TF
+TF weeps
+
+Enter TL
+Control TL
+TF: Hu?
+With TL gain control of TF
+TF watches TL until it is close enough to follow
+TF with TL close enough follows no matter how far it goes if it stays in sight
+
+Travel a tight path where TF slows down thinking he'll hit walls.
+Travel near water and listen to TF complain about slipping.
+TF slips if TL goes too far away.
+Travel near a pitfall where TF stops if TL shows him too much at once.
+
+The group reaches a window that is lit. TF stops to look through.
+TF: I don't know how I got here, but I want to be back outside.
+Find a door. TF won't acknowledge it.
+TF: I can't see what you're showing me, let's keep going.
+Find a dusty window and TL goes through it to display light from the other side.
+TF: Ooh. 
+TF wipes off the window.
+TF: There's nothing here. Please just show me which way to go and I'll follow blindly.
+TF now chases TL at an even quick pace when TL goes far
+When TL goes out of sight TF either rushes into an object head first or reaches out.
+TF: Were you trying to show me something earlier? Take me there please.
+TL return to the door with TF eagerly following.
+TL shines over the doorhandle and vanishes.
+TF trundles forward and smacks the door.
+TF: Ow!
+TF gets up and feels the area and TL reappears.
+TF: When you left me I just stopped thinking, but I would have figured it out.
+TF opens door and a bright light washes over.
+TL leaves.
+TF is safe.
+
+END /BEGINNING
+
+
+PART 2
+TL is introduced in a fairyland. Others like him are around.
+The other TLs are doing things which TL may imitate.
+
+One is adjusting its brigtness and flying past a plant that reflects its light.
+Another is passing through water and appearing somewhere yonder at a different puddle,
+with lightning speed.
+Some simply fly in circles or race.
+Along the path are some "solid" obstacles which have a range of difficulty.
+Most obstacles are easily surpassed.
+TL must pass plants that'll grab at him if he's too calm.
+TL must pass other plants that crowd him when he's bright.
+Some vines simply wrap around and get in the way but a simpler path is available.
+
+There is a place where TL may travel on wisps of pollen in this area.
+TL immediately hops on and flys where it takes him.
+
+PART 3
+TL sets down near a bustling town, currently invisible.
+TL listens in on chatter.
+A JK is whining because he can't reach a backpack.
+When the JK sees TL he seems confident.
+JK: Hello fly, wherever you go I'll follow until I get what I want.
+The JK follows as long as he sees FL a specific distance from him.
+The backpack is in a locked closet.
+JK: I'm here, but where's the spare key?
+JK searches but the true entrance is air duct
+TL flys to duct and JK enters.
+JK takes a backpack and then exits.
+JK: Awesome.
+
+
+TL sees a group of kids who stop talking and stare. TL moves
+TB start advancing murmering subtly.
+One TB takes out a bugcatching net and swipes, 
+TB advances like a fencer and swipes again.
+TL is caught, 
+But only for a moment, he passes out of the net
+Another wants to put 'it' into a jar.
+TL brightens enough to become a glare in the sunlight
+TBs look away as if glammered. 
+TB look around to find TL again
+
+
+PART 4
+
+TF is alone in his house but he wants to go out.
+TF gets on a bike and does a few stunts.
+TF throws a boomerang
+TN calls to TF so he goes to talk.
+TN asks for a few bucks and TF loans his bike.
+JK kicks a soccer ball over to TF and asks for the best kick back possible.
+TF returns the ball and JK screams because his face was hit
+JK stand still screaming and TF is stuck barely moving
+
+TF starts to leave when a flashy car appears.. 
+Out strolls BS and starts leading TF around by the arm.
+BS listens to dialogue from JK
+TN leaves
+TL shows up
+TF sees TL
+TF moves toward TL 
+When TF starts to talk
+TF: "W...."
+BS: Hey get back over here and don't move!
+TF: Yes sir.
+BS continues talking
+TL must tease JK until JK stops crying
+JK pretends nothing happened
+BS gently twists TF's arm until he agrees he was wrong.
+BS leaves but not before he takes any weapons TF has.
+
+TF: ?
+TF follows TL
+
+TF is dragged off by a wagon full of BS
+
+PART 5
+
+TL Returns home.
+Something strikes TL's small world and the landscape is skewed.
+What once was a remarkably simple obstacle course and fun factory.
+Now broken
+Some of the flowers can frighten TL when he's too fast.
+TL becomes hungry and must feed from flowers.
+Others like TL behave shy and scared, no longer playful.
+TL must leave when PS start gathering other TLs 
+TL encounters MYST without the ability to solve alone.
+
+PART 6
+
+TL returns and looks for TF
+Some flowers in the city may stave the hunger of TL.
+Some low level ANTI now traverse the dark streets.
+TF is clearly not there, but he had a son, whome he passed his beliefs to
+TF's son is now TF
+TF wakes up at the light of TL
+TF wordlessly follows TL like in a dream.
+
+PART 7
+TL's actions now dictate TF's decisions to a huge degree
+It becomes evident that there are MYST in the world TF grew up in
+The ways ANTI pass between TF and TL are thorougly introduced
+The outcomes of poor ANTI handling will be made apparent
+Some BS will return TF back home during PZL sequences and reset
+the progress, resetting ITM with reason.
+Some PS can control TL in ways rendering a normal situation dangerous.
+PS are especially annoying if they attack TL when TF is visible
+TF is a motionless coward unless a situation is totally controlled.
+
+PART 8 & ABOVE
+MYST and ANTI grow in degree and difficulty.
+TF is not adept but may use items under controlled conditions.
+
+OTHER IDEAS
+BS are appropriately scaled 
+PS are extra sneaky because they're not detectable without direct line of sight.
+TS have a hand in altering MYST while they are correctly handled, although
+for game purpose the MYST can still be solved.
+
+BONUS JK

@@ -1,0 +1,60 @@
+
+DATE SCENE - CRUISE SHIP
+
+There are locations that are shared
+ICEBERG DOCKS 
+this is a between, when the date is going to cruise or the cove.  They talk and wait.
+
+BAR
+RESTAURANT
+DANCE CLUB
+OUTDOOR SPORTS
+QUARTERS - behaves like a flat
+GALLERY - carnival?
+
+Available - Friend (or solo)
+
+MAIN ATTRACTION
+	Each place has its own rules...
+	the captain's pretty obsessive about his ship
+	
+FEATURE
+	once people are on board, they stay, unless they die or something really strange happens
+
+
+DECK OF THE SHIP / GUEST LOUNGE
+
+This can share the bar, gallery, tables, depending on the time of day, and must be passed through to enter quarters.
+
+ON THE DECK - 
+	INTEREST
+	encountering people
+	
+	GENEROUS
+	offering your time
+	
+	GREED
+	getting a date
+	
+	GUILT
+	getting away from the date to reflect
+	
+DATE SCENE USING DECK - 
+	plan
+		mention going
+	adventure
+		they go to the deck
+		observe if it's crowded
+		try to eat or talk
+	finish
+		they get a result
+	rest
+	
+		take a break
+		
+		go somewhere more comfortable
+		
+REST USING DECK - 
+	arriving 
+	they sit or find it's full
+	go to quarters, or plan next date scene

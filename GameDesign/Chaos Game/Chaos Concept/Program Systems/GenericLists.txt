@@ -1,0 +1,117 @@
+lists
+	level spawns
+	saved item preferences
+	
+	(future multiple *hot* selected items / item preferences)
+	
+	necessary (future saved inventory preferences)
+
+BOIL DOWN
+DETS creator.list has many methods, better check the interface exposed in GenericListBuilder
+
+	have item select set
+	know when I select (a callback will let scripts rest)
+	know what I select
+	- select by search method
+		
+GENERIC LIST IN GUI
+	Goal
+		
+			
+	##progress
+		mar 27
+		list
+			use reference to item preference saves
+				o add
+				o delete
+				use... eg load
+			
+		
+		o Make a generic menu list
+			o display a list, string select and say "OK" to perform action
+		
+		mar. 20 2018 the creator connects by taking a node.list reference. 
+		It can spawn an instance and immediately go to work.
+		
+		---
+		prototype done, highlight and select
+		
+		vertical scrollbar, 
+			reflects window, list, element size (any order). 
+			moves browser-wise vertically. 
+			updates continually while focused.
+		
+		(GUI BASIC) extra: discovered mask. added group selection.
+		
+		Unity buttons are dumb.* Can't drag out without clicking them.
+		
+		can drag the window
+		
+		a string search
+		
+		xx the ability to drag strings... Try to be practical now. See HSCDrop
+			
+	DoneList
+	{##########
+	The list will auto sort until told otherwise.
+	
+	menu activity to load preference
+	user press i
+	i item menu: select one form:  spawn / close menu
+	spawn form: select load / close form
+	load list: select element 
+	
+	
+	think "" so far I can reuse what I've added to the forms/loading menu for just about anything. Right up until I reference the Spawnables, no doubt.
+	
+	
+	problems:
+	hub needs to wait for one to close before opening another
+	now the damn buttons break due to some subsequent animation glitch, when I turn gameobject off (multiple animations)
+	
+	Manager/God Class
+	o need to create the list, and the thing making it can control it all. 
+	o maybe check if list is open var, dereference it then.
+		node references hub, so if I care I can check that
+		
+	When I click the X, the list tries to close, but it should signal that it's done. 
+		The HUB
+			Thus it's safe to close.
+		
+		
+	aaaah
+	 or 
+	x set the script scrollTarget (doesn't it select?)
+	x open a new list with similar names (windows ver, guarantee not much space)
+	
+	next order: 
+	o auto sort? I should let the player move stuff if it doesn't.
+		decision in the making
+	
+	o search for similar strings in the list, 
+	o select to force it to scroll (the way it works)
+	
+	o optimizing: Could setactiveFalse the objects that aren't visible in large lists, now that I know when they'd be visible. Won't that mess up the drag scrolling?
+	
+	
+	
+		generic list builder populate
+			generic list only cares about displaying strings
+			add/delete element
+			
+			the interpretation of what a string is will vary
+		
+		The group selection easily knows what has been clicked on, 
+		
+		
+		Something parallel (it can be scratched up)
+		o make list
+		> access builder
+		o Create list
+		o populate list - everything I'll need to know a thing
+		> access group selection: check selection
+		o add/ - 
+		
+		o delete/ (delete key? Probably shouldn't without an undo, separate element could save the deleted string, but the ACTUAL object would have to be loaded)
+		
+	##########}

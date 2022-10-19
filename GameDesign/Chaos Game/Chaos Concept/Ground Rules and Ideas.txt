@@ -1,0 +1,15 @@
+optional view
+
+No complex AI
+
+Graphics limited (only) to decrease iterations
+
+
+verse : represent a field of play
+atom : smallest item detected in this zone (microverses contain smaller atoms)
+macroverse : bigger zone, encompasses this
+microverse : pocket within this zone
+
+As the power of the universe unfolds things that were once an unfathomable challenge start to feel mundane. -nice quotes
+
+You're puny, and shit one player accomplishes doesn't matter. -fucking stupid quotes

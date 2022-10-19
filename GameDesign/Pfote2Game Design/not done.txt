@@ -1,0 +1,58 @@
+
+player
+{
+mediaproc.parser doesn't have a filter yet
+	superuser > user.
+					 sensor.media
+				     use() > media
+					 
+	but media is input and output
+	
+	I think it needs a filter that takes player input
+	
+player resource eg. it will be gamified
+#	see: wiki proposal.txt
+	linked text, *selectable* text, highlighted text
+	prefabs work fine too
+}
+filters alter the sounds and sensations of the moment, maybe they should be called moment filters
+		
+		? will there be processor markup?
+		? will there be filter markup?
+
+ 
+NPC behavior tree from script
+
+text behavior that can reference another text or transclude it for wiki
+
+UI enables
+	change displayed text, DText I mean
+	change storage
+	improve interface to list storage and stored te
+
+o display
+
+I think I got this in concept
+Memory Design Features\DText operation concepts.txt
+	split stream, fake user
+	modify, DText ... endmodify
+	mediaproc, real user
+	join stream
+	just run a method
+
+	 	
+	
+improve cursor game
+
+	It's not entirely done, and I need to port the code into a slightly neater package.
+	cursorInfoText might as well be cursorMemoryBoxNode (but I can ignore that) it doesn't make sense that it's selection system though
+
+>
+respond to 
+
+options, changing click response
+
+knows the memory node to call
+? drag behavior
+touch behavior (Unless physics is ok)
+

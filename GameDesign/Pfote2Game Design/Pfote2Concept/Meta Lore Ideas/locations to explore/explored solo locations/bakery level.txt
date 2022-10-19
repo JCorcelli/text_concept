@@ -1,0 +1,39 @@
+BAKERY
+FOOD
+	ingredients
+	artificial made foods
+
+	false. of all the places, this should have the biggest variety of all food
+	
+	true. bakeries tend to rely on a limited range of ingredients to make large amounts of artificial foods
+	
+BAKING TYPES	
+	grain + sugar + butter = bread
+	
+	chocolate + any = chocolate
+	sugar + bread + egg = cake type
+	cake + frosting ...
+	
+	and so on
+	
+ARTIFICIAL POWERS
+	bunny bread
+	chocolate colored buns
+	cake face
+	frosted cake face
+	bunny glaze donut
+	
+	are these real powers?
+	
+PEOPLE
+	customers from all walks of life
+
+HIDDEN WOROLD
+	paper orders - you can switch them, or eat them
+	
+	rare ingredients - some special order in advance may mention rare ingredient
+	
+	
+	animals of all walks of life, like the customers
+	
+	cash order, easily stolen

@@ -1,0 +1,73 @@
+This is an abstract about symbolism in game
+
+Skip to line 24 for concrete examples.
+
+
+SCREEN EDGE******
+Similar items, not important
+	looking is just as effective, no symbol other than a category or '?'
+	Like, dislike, etc.
+	
+Important item (like a person)
+	a specific person like the owner, or the friend, or the enemy.
+
+
+noise-makers / scenery that repel bunny (phone, radio)
+	1. a noise-wave effect
+	2. a rattling phone
+	3. a pulsating radio
+	4. television bleeding watery light
+	5. swirling blackness
+	6. hard textures
+	(icon) bell, red light, spiky cloud, neg. words, droopy ears
+	(anthro) pained expression
+	
+lures that attract bunny (food, plant)
+	1. ball
+	2. particles
+	3. musical notes
+	4. unusual/ new things
+	5. soft textures
+	
+	(icon) pos. words, sun, "?", arrows, plants (food), hand, uppy ears
+	(anthro) vibrant colors, smile
+	
+	
+HOW THE GAME HANDLES THE LOGIC***********
+maybe
+thinking of a trap
+	a trigger initiates the effect sequence
+	initial animation plays forcing a target in/out
+	
+	display effects
+		
+	a more forceful barrier is placed, can't be passed
+
+Disengage a lure if it fires frequently so they aren't so dumb
+
+I could disengage the repel by moving the target indicator to the desire indicator's position, outside the influence.
+
+
+
+SYMBOLISM BRAINSTORM***********
+Realistic
+Bunny -> 
+	Feeling, Ears (H* Face), Temperature, Texture, Shape, Brightness (H* Color), Movement
+
+Unrealistic (Cartoony)
+Human -> 
+	Flashback, Emote, Emotion waves (color, wavelength, banding), Arrows, Spikes / Clouds,  Lights, Negative Lights, Deep lines, 
+
+H* human
+
+
+EFFECTS THAT SIGNAL THE PLAYER***********
+Force  -> Desire -> Direction
+TRY COMMON SENSE THIS IS COMPLICATED
+
+
+
+
+(for human) bright colors, smooth textures, positive words, soft shapes
+
+*******End of brainstorm

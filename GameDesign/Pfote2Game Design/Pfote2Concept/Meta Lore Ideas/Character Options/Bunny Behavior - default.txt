@@ -1,0 +1,28 @@
+Moving
+
+Human
+	Comfort
+	Pet
+	Food
+
+Cage
+	Food
+	Safety
+	Sleep
+	
+Hiding Spot
+	Hide
+	Safety
+
+Shadow
+	Hide
+
+Personal Menu
+	Idle Play
+	Options
+
+Uneven Ground
+	Dig
+	
+Portal
+	Magic

@@ -1,0 +1,77 @@
+there are obstacles A,B,C
+completing the activities [a],[b],[c]
+
+escalation for interest gain
+
+Initial control experimented, I progress
+
+
+escalation 1- 
+	goal, conflict
+	
+	
+	1 I want to [b] now
+	2 I want to [b] now, but have to [a] first to survive A
+	
+	A prevents [b]
+	
+	
+	I thought
+	"midway through level 2 or 3"
+	
+	
+escalation 2-
+	
+	A stops me from progressing
+	I learn how to [a]
+	
+	I [a]
+	I [b], and get something
+	i want more B and less A
+	
+	A is between me and B constantly
+	I [a] encounter B
+	
+	I'm expecting A>B [ab] and...
+	
+escalation 3-
+	
+	Introducing C, is in my way
+	Now I have to [c]
+	
+escalation 4-
+	
+	now there's more A.
+	
+	C>A>C>A>A, and no B in sight
+	
+this pattern is super mario bros. 1-1
+
+there are a few "bonus" interactions that add incredible depth
+A, goomba, can be killed with good aim
+B, ?Block, gives you a power for touching it
+
+
+[a], jump
+[b], touching (approximately)
+[c], [jump] climbing skill
+
+all these things are jumping
+
+beyond escalation-
+	Warp pipe
+	
+	Pits
+	
+	Invisible blocks
+	
+in conclusion super mario bros. silently tutors their players within seconds, and the rest of the game is based on the knowledge and cultivating this skill
+
+another design step is the domino, multiplicative gameplay. 
+
+action [db] can have the same result of [aaaa,b]
+kicking a shell into 4 goombas and a ?block, and the shell comes back at you, fast A.
+
+
+If the game was a question it'd be, how do I reach Z?
+the answer is [a], but it'd be easier with [a-y].  It teaches you [a] very well.  As for how you [z]. That's everything.

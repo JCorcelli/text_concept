@@ -1,0 +1,15 @@
+PARADISE 
+
+Digger
+	I've heard: practice makes profect.
+	obsessive: "remember"
+Boss
+	I'm Boss. I'm in front.
+	obsessive: boss.
+	
+Light
+	Bunnies are made of light.
+	A cause is just a fun lie.
+	Curiosity: Randomly generates lies.
+any	
+	I need to be strong, or else my fur will hold me down.

@@ -1,0 +1,47 @@
+use case clueless player.txt
+
+This is a basic techo species. Heavy on building and researching. Low on immediate action.
+
+Index
+	start small
+	build small and find efficient ways to build
+	build larger
+	destroy it
+	Patches?
+
+from nothing...
+START SMALL
+
+	scout
+	gather
+	build hole
+	find item
+
+	take a long time and lose interest incomplete game
+
+from something...
+build small and find efficient ways to build
+
+	scout
+	gather
+	build small
+
+build larger
+	research
+	build large
+	find more efficient ways to do all this
+
+	
+destroy it
+	destroy something
+	find more efficient ways to destroy something
+
+Patches?
+
+	something update comes this way...
+
+	new research
+	small things get easier (modular after all), but more complex
+	large things change
+
+	destroying things... changes

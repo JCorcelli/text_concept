@@ -1,0 +1,75 @@
+FACTORY (GENERIC)
+
+FOOD
+refrigerator - people's lunch at work
+
+POWER
+hmmm
+
+OBSTACLES
+platforms of all linear,cyclic movement
+
+believable platforms
+	1 rails with platforms on wires
+	2 rails with trolley
+	3 small dumb elevator
+	4 gears
+more abstract
+	magnets
+	lifting / dropping
+	
+	
+terrain	
+	ball bearings
+	conveyor
+	
+people
+	factory workers
+	hands on a conveyor belt
+
+HAZARDS
+heat sources
+	oven
+	furnace
+water
+crushing
+
+
+material stockpiles 
+	sand
+	wood
+	blank paper rolls
+	plastic
+	metal ingot
+	cogs
+	
+
+recycled stockpiles
+	pulp - paper
+	paper shears
+	wood chips
+	broken glass - junk pile
+	premade plastic trinkets
+	metal nails / screws / gears
+	
+HIDDEN WORLD
+loading docks
+	oTruck
+	oflatbeds
+	importing materials
+	
+	obox
+	ocrates
+	export goods
+	
+computer database
+	workers
+	customers
+	material names, quantities
+	product names, quantities
+	
+	
+dream world
+	like a factory, except everything's stupidly arranged and deadly
+	
+	monsters are robots, hulking maniacs, and some of the hazards

@@ -1,0 +1,9 @@
+
+
+Phase 1: review system and interacting characters
+
+Phase 2: determine what actions are guaranteed for a given character and desginate generalized names
+
+Phase 3: program the scripts
+
+Phase 4: add stations / options that desginate specific actions (context sensitive)

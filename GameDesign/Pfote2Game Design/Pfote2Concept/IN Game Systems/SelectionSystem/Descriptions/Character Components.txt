@@ -1,0 +1,16 @@
+
+
+
+Bunny
+	follows routine
+	routine 1: observe targets
+	routine 2: go to visible target, touch target
+	routine 3: go to cage and quit
+		
+		
+Human
+	follows routine
+	routine 1: observe area, pet bunny
+	routine 2: chase bunny, pick up bunny
+	routine 3: call bunny
+	

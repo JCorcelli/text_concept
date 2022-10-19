@@ -1,0 +1,4 @@
+story - narrative and dialogue
+mechanic
+	characters movement - fluid character based movement
+	mouse

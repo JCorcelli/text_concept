@@ -1,0 +1,14 @@
+
+	catalogue - A menu type ( like form )
+	o made catalogue list
+	
+	o make the item set
+		make a card version
+			top: icon, bottom: name
+			it's fine, but the text take up space
+		make a list v
+			left: icon, right: name
+			see if you can make all the cards turn into this
+			I did, I like it 
+			
+			can also easily change to icon only, or text only

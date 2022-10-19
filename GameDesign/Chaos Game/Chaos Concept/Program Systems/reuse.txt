@@ -1,0 +1,18 @@
+Recent
+	load
+	preview
+
+
+From Pf
+	added useful gui widgets (ie cannibalized old scripts)
+		? timer, how long am I spending in each menu?
+		HUD / level title (start of scene)
+		[after updates this is v.nice] a tutorialized animated menu widget
+		
+		xxx	didn't add bunny menu because it simply had 
+		xxx		onbutton "space"
+		xxx		some gui clickable buttons
+		
+		sprite magnets omega has magnet use examples, these are GUIs that move. (something loading before compass caused it to flicker)
+		
+		bill is a sprite that spawns based on a 3d position

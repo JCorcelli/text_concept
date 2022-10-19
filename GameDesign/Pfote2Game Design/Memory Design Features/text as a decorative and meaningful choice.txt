@@ -1,0 +1,32 @@
+This is leading up to decorative tags, as seen on web pages
+
+Deprecated: when it's too long a word wraps after it's written.
+
+1 precognitive
+	wrap ahead of time for each word
+
+2 asinine, base method
+	if a word is too long it makes the container wider. 
+	ver long will wrap without moving.
+
+3  Decorative functional formatting
+
+	font 
+	size 
+	highlighting 
+	coloring
+	skew
+	boldness
+	curving the line
+
+4 Retroactive Fitting
+
+	resize the text after finishing a line to use up the maximum amount of space
+	
+5 Proactive fitting
+	alteraing the text before it's displayed
+	
+6 decorative abstract
+	delimited only
+	text is seen as equal in all but size, shape, and order. 
+	It's positioned and rotated to fill a rectangle, ignoring the line

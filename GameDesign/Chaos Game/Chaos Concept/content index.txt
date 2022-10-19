@@ -1,0 +1,164 @@
+content index.txt
+
+doodles<> - Images trying to capture the desired visuals of game
+3Doodles<>
+
+Chaos Concept<Folder>
+	content index - this
+	
+	Program Systems<> - change rapid
+	Included Mechanics<> - rapid
+	
+	Assumptions<>
+		o describe game Content
+		name
+		
+		scenarios<>
+		sporadic ideas<> - varies
+		
+		use cases (Group)
+			clueless player
+			scenario checklist
+			skirmish (fish vs human)
+			
+		outlines ()
+			Skirmish Outline
+			
+	
+	
+	Meta Lore Ideas<> - meta about gameplay, eg game styles involving alien races
+		technology<> - art and science
+			o minitech construct notes (concepts for pseudo)
+			
+			(+ available tech)
+				(+ verse) (+ dungeons)
+				(+ items) (+ forms)
+			
+		fauna flora<> - verse based ads, algorithm
+		
+		
+		(game meta.)
+		Mishaps Dangers
+		Special caveats
+		game meta - alien potentials, game mechanic meta
+		
+		(alien meta.)
+		Adapt Schemas - fauna, flora
+		
+		Category of alien race - xeno aliens
+		Trades
+		Secret Power
+		Alien category staples
+		Training
+		Action Stats
+		
+	todolist (exists)
+	updatelist (??)
+	donelist (things updated and removed from this)
+	ground rules and ideas
+
+Chaos Contract Pseudo<>
+	minitech_basis
+	minitech_door
+	construction
+	construction_material
+	o verse : A hierarchy system, 1 parent M children
+	o verse_item_basis : A loophole which allows a verse to have a defined location and react when its macroverse dies
+	char_MOB #? process loop ai what?
+	char_inventory
+	x main_loop
+	x physics
+	action_mechanics #control feedback actions (this is interface design)
+	
+	
+Construction (programming and graphics)
+	#large tech 
+	# singular visible unmodified items
+	
+	Clothing
+	
+	Flooring LIST - involves terrain effect?
+	Obstacles LIST
+	# Movement modifying things
+		Stairs
+		CatClimb (no support, no insulation)
+		Scaffold (cat and wall)
+		Strut (support, no insulation)
+	Roof
+	Wall
+	
+	Box
+	Bag
+	
+	material
+		wood
+		rock
+		fabric
+	
+	
+	#combustibles 
+		oil
+		reagents
+		gas
+		dust
+		crystal
+		*superheated
+	
+	# high tech - requires higher thinking, less tinkering, could probably idk wall it
+		cloner
+		portal
+		nexus
+		chassis (vehicle, plane, engine)
+		metal box (computer)
+	
+		propulsion 
+			wheels :make chassis go
+			propellant :make chassis go faster
+			engines :make chassis magic
+				refined combustible fuel
+
+# Minitech (this is a set of modular items that alter the way large constructions function). 
+Probably going to just call them upgrades though.
+
+	
+	hideout : make a weak microverse literally anywhere
+	 > tunnel : connecting exits
+	house : make a weak spawnpoint under any shelter
+		# requires race to be defined
+	nexus : 
+		vr - computer interface
+		pocket - another reality
+		micro - high tech hideout
+		macro - discover you're not the center of the universe
+
+	locking
+		door : turn a wall into a door
+		number lock : make a door that won't open
+		key lock : make a door that really won't open unless it's broken into, or you're some kind of dungeon key master
+		meta lock : make a meta door, very smart door
+	comms
+		radio : equip things with a radio
+		screen : for the hard of hearing
+		voice : for the hard of seeing
+		telepathy : got a brain?
+		
+		
+Standard Interface
+	item
+	accessed items (eg held in hand)
+	inventory : your pockets and stuff
+	
+Workspace Interface
+	menu
+	saving
+	
+	item designer
+		saved preference (exp, memory)
+		requisition form : tech inventory
+		physical item kit : when you are a designer
+	level builder
+		saved schematics
+		holo prototype 
+		/ blueprint : basic measurements to auto-build level
+		level builder : for direct level building
+		world projection: depending on verse, topology you may be encroaching on others

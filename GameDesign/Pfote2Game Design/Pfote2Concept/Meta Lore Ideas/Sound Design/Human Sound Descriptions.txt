@@ -1,0 +1,45 @@
+title, description
+
+walk
+	"doi doi" gentle feet in slippers or on rug
+	"thunk" bare feet hard step
+	"clunk" shoes
+
+
+eat [ similar to bunny ]
+	"crunch" first bite
+	"chew" in mouth
+
+drink
+	"glug" downing a large amount at once
+	"sip" taking a little sip 
+	
+grooming
+	"shhika" rubbing with palm of hand
+	"stica" itching head with nails
+	"snick" scratching skin harshly
+	"bwah" brushing clothes
+
+
+taunt
+	human laugh
+	"cat purr"
+	o saying "bunny"
+	"mmhm" a grunt imitating bunny
+	o "nomnom" observing bunny eat
+
+o
+Sleep
+	"hnnn" various (does not snore)
+Command
+	"kush kush" comforting bunny, asking for kisses
+	"eh!" cage
+	
+Petting bunny
+	"sssh" barely audible
+	
+SPECIAL? Ref. Bedroom Objects
+Laptop
+Door
+	"aah" shoo bunny away
+Cage

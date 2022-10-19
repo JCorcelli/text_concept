@@ -1,0 +1,6 @@
+
+have character climb things easily his height (this is mostly for easy stepping)
+		x it can also be used to climb up a wall (if it's in the default plane) if the step height is high enough.
+		
+optional improvements:
+	parkour! if the character should show some skill?

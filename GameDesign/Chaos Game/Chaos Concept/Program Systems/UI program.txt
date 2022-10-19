@@ -1,0 +1,68 @@
+Indicator (Incl. Point and click) functional
+1 a program element recognizes the input should be targeting a single "front" element (*may be invisible)
+	eg unity's event system - also has many streamlined classes
+	
+	#1 user- input context (non-finite context)
+	This requires a response to the user input with incredible flexibility, per case basis. programmer intensive.
+	
+	#2 focus indicated element
+	I use a window system that focuses every window up the hierarchy (if intended), and keeps track of current focus
+		switching focus is left flexible
+	
+
+Data transmission
+2 a hub system that relays information from a local scope (safe). important that everything auto connects.
+
+	info relayed:
+	i simple version: the objects in the system "connect" from a ping command. All connected objects retrieve data from their object goal at will.
+	
+	ii guarded version: the objects send coded messages
+	
+	
+	derivative
+	2A.
+	 a hub system for buttons
+
+	resource safe: like simple version with a message sent on click, which informs connected objects to update
+	
+	2B.
+	 limiting choice (radio buttons)
+	a "radio" style hub for
+	a closed system, pretty simple
+	
+	it goes on...
+	An old version used a hub for a single action, where this version displays the true power.
+
+future system
+	static hub aka a data manager
+		reason: search and find functionality, although similar, lacks the directness of any singleton class instance.
+	
+	present: incomplete:
+	the action system (actor, data recorder)
+		pretty much records every action that  results in a stat change, and predict future game behavior
+		
+		stats - yeah...
+		
+	
+Data viewing functions
+A list that has information displayed and produces dynamic UI output
+	1 Generic list is this, for string output.
+	
+	2 Object list is this, for a pre-existing gameobject
+	
+	The data references is really programmer dependent
+	
+	Req. component
+	Text field - Unity UI for keyboard inputs (buggy cursor support)
+
+preliminary systems
+	forms
+	
+	save files, with list
+	
+	catalogue
+	
+future systems
+	drop list, simulated option slot
+	quick inventory, use icon
+	open inventory, icon and text

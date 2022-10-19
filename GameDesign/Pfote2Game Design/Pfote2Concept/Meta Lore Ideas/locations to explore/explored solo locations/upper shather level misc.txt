@@ -1,0 +1,42 @@
+UPPER SHATHER
+1 GROUND FLOOR
+	animals
+	artificial
+	nature
+2 LOUNGE
+	animals
+	furniture, like a rest area
+3 UPPER CITY
+	humans
+	animals
+	houses
+	magic
+4 CREATIVE ZONE
+	mutants
+	houses
+	unnatural terrain
+	
+5+ UNPARALLELLED CIVILIZATION
+	unknowns
+	keeper territory
+	terrain "gods"
+	seeded powers - you have power from being there, so you don't need to be 'adapted'
+	
+50 + 
+ SKY REALM
+ note at this point the "floor" has no indication of height or direction, SIMPLY EXISTS
+ 
+	same as above and...
+	research
+	seedlets "mini powers"
+	magic development - capturing seedlets mostly
+	
+	angels - the main reason for the difference
+		they recharge on seedlets
+		they work on magic
+		they employ others for research
+	
+somewhere in the void weaved by the elitist world builders
+new world
+	seeding rituals
+	angel pantheon

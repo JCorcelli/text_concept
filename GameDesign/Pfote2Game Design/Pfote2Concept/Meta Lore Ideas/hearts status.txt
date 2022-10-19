@@ -1,0 +1,28 @@
+Something like a health bar
+
+white = full
+brown = empty
+
+hearts could be a "fuel"
+otherwise I'd have to seriously think about love, food, energy
+
+heart container, refillable permanent buff
+
+extra hearts, special food, being pet
+
+
+pro: adds a management challenge
+con: could be very difficult to play a fun game, and gain the social manip you desire
+
+One Heart - can't intentionally set zero hearts.
+Zero Hearts - out of hearts
+	On trigger become upset, flee, startled, or attack.
+	
+	Rests immediately in safe area.
+	
+Energetic - invincible, never rest, initiate play automatically
+
+Scared - lose a heart
+Play - use a heart?
+Sleep / Eat Hay - replenish heart containers
+Eat Veggie / Fruit- gain an extra heart

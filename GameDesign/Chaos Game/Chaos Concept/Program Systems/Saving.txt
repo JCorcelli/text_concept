@@ -1,0 +1,152 @@
+
+spawned items and preferences (item templates)
+	It's string and transform data.
+	
+	There's Scene Data - "persistent" objects in a scene.
+	
+	There's CustomPreferences Data - reusable, exists, but doesn't load without committal
+	
+		
+		
+
+loading path
+	data class: DungeonSave
+	load start: DungeonVars.Start
+	change scene: LoadingTreeExit > LoadingTree.Load(level, additive)
+
+	
+
+basic save options
+	SAVING FOR THE FUTURE
+	########
+	# o erase level option, to reset an individual level, 
+	# > stop autosave
+	# x create level (future)*
+	load
+		problem: lack of save file selection
+		
+	xNew Game
+	x	restart the saved progress
+	
+	New Level
+		restart the progress of a level
+	##############
+	
+
+issues with gameplay:
+	PREFERENCES
+	Pretty much done, and almost a no-brainer. Preferences would be like a new game+ feature.
+	
+	DUNGEONS
+	REUSING SAVED DESIGNS
+	pro if a design is particularly complex it'll be easy to reuse
+	con if an RTS feel was the goal
+	
+	AUTO SAVING 
+	pro in single player / creator modes, never lose progress
+	
+	the world HUB should auto save
+	the dungeons only have one true state, and 
+	
+	
+initially accepted credence:game should autosave changes over time
+		
+	save (with timed auto-saving)
+		I force a backup save manually, and load the backup manually (shift S / L, preferably load from a menu)
+		
+		? load the autosave on play
+		
+		
+		
+SPAWN/ITEM/SAVE ongoing
+	{##########
+	
+	
+	o now there's a saved preference, for checking recent save. and a selected preference for item selection
+	
+	
+	Faulty pref bug: It was buggy, but that's all done. 
+	
+	Made a single custom item appear in game and save all its preferences. The menu affecting gameplay just right.
+		o i set up a prototype graphic with "unity buttons"
+		o I made it look cooler, and it stays on screen because adv. physics
+		
+		o script the buttons to change an actual undeployed item,
+		o save it
+		
+		o an item menu to open (only 1 item atm)
+		
+		load it in game
+		
+		deploy it in 3D
+			o The stupid animation and "click" on a button aren't 1:1, click is called on release, and only if the button is there (released fast enough, if the animation vanished). 
+			o SCRIPT MADE TO OVERCOME! Can also force hold. Went back immediately and fixed bugs.
+			
+	o saving preferences from a form
+		o PUT TEXT ON THE FORM ON LOAD
+	
+	custom item menu prototype
+
+	saving the game - means saving the stats
+	
+	TESTING
+	E#####
+	o test dynamic gui interface in testing chamber. 
+		*it will be novel and annoying each difference, like anything new, but doesn't really seem important now
+	
+	o try a 3d with a window pop
+		o make a window pop-out (or appear) when I select the object, 
+			I can make a whole stack of my rb interface appear, looks fine
+		o or a single part of the object? single window. 
+		x or a 3D tool widget/handle (case specific)
+		
+	try an organized 2d
+		FOR SANITY AND DEBUGGINGs, also, 
+	... make it work
+	
+	E######
+	
+	
+	o I want to place a pre-made scene, and enter it. 
+	o The scene will be saved (temp or otherwise)
+	
+	o I want multiple saved scenes I can load at runtime
+		current limitation are the number of scenes. Limited memory space would make this harder.
+		
+	This of course requires 
+		o a virtual scene # the default scene(s) already there
+		o a list of items to be spawned per instance # in the scene
+			eg
+			o Dict string scene instance name : List spawned items
+				<- interface to save the current scene instance
+					? keyboard's ok for starter, likely to interfere with special actions later though. maybe the F- keys are better
+	---
+	
+	o ass to spawned items
+	o I can save the parameters in the ExitS class into the spawned items list (with many duplicates), one found in every dungeon. Or custom preferences dictionary
+	
+	o save ass spawned items, see save
+	
+	o save (vanilla) s/l saves loads
+	
+	o now theor. I can spawn an(s) exit	
+		x {select item}
+		o shift click (set some location, in this case the generic cursor center)
+		x {future: walk on it for parameter interfaces}
+		 spawn building (enter key)
+		
+		
+	o removed dungeonvar inventory (fake) and cycle inventory (fake)
+	o set up 
+	DungeonSave
+	and DungeonSaveClasses
+	
+	O Made shift a stationary hold. for ambulant climber 
+		qe o some way to select an item in the inventory.
+		enter o use the item
+		
+		
+		o an inventory.
+		o 1 any item list can be in dungeonvars
+			it's not really safe, but it is persistent
+	##########}

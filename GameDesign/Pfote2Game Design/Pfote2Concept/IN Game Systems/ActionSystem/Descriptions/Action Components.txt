@@ -1,0 +1,22 @@
+Action
+	registers to ActionManager
+		who, doing what, when, where, why, how?
+		
+	types of actions
+		using action
+		doing action
+		change action
+		ad-hoc macro : save/load individual state
+		
+		
+	changes something in the program
+
+Action Manager
+	Action registers to manager, manager keeps record, this is readable
+
+Station 
+	
+NPC Action
+	
+Select Action
+	done with select system

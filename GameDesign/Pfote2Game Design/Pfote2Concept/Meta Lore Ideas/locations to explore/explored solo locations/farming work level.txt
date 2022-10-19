@@ -1,0 +1,11 @@
+FARMING
+
+this is when you discover a location with other people farming
+
+EXAMPLES
+	peop
+	animal
+	
+FOOD
+	crops growing
+	cheap seeds

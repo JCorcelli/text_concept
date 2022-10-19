@@ -1,0 +1,57 @@
+CLUB
+
+may have a bar
+
+FOOD
+	drink - 
+		al-cola
+		cola
+		whisky
+		
+POWER	
+	melodious beet juice - enables you to see the music
+
+	hops - forces you to hop each beat
+		
+OBSTACLES
+furniture - 
+	empty rooms full of furniture
+people - 	
+	moving people
+	cramped
+	dancing
+	seated
+	booths
+	
+
+MUSIC AS OBSTACLE
+	a timed beat can be used so many ways
+	platforms that teleport
+	people move at time
+	
+floor warp - the dance floor and some platforms are greased and spring from certain beats
+
+MUSIC AS NOISE
+	the dj booth can be used to crank the volume up too high
+	
+HIDDEN WORLD
+the cars 
+	street is cramped
+	lot is bustling
+	vallet parking
+	
+scenes
+	front entrance
+	back entrance
+	dance floor
+	the people talking at booths
+	
+EVENTS
+	social dating
+	costume party
+	fasion show
+	entertainment - varies
+	
+dream state
+	musical themed monsters
+	obnoxious musical repellents

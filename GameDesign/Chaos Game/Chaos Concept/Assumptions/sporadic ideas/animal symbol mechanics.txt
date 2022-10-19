@@ -1,0 +1,18 @@
+This is the idea that I could set an intention to behave like an animal.
+
+Game 1 you play as a bunny
+
+I can reference the bunny's innate actions with the bunny symbol. It'll avoid contacting targets and stick to quickly dart between hiding spots.
+
+By dragging it into something it'll try to hide in it or sniff. Somewhat passive.
+
+lie: bunnies can be aggressive. bunnies aren't really that stealthy, although they have quiet back feet.
+
+
+
+? Cat
+In contrast if I use a cat symbol it's innate action is to stalk when around targets and scan. Dragging it into something makes it break open or pounce. Somewhat aggressive.
+
+lie: cats are timid. cats don't understand "inside" as well as a bunny.
+
+difference? cats can swipe at things, cats can fall gracefully. bunnies can't.

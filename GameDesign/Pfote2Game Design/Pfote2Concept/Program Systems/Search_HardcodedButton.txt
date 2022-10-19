@@ -1,0 +1,129 @@
+In MainProject...
+
+
+Search "Input.GetButton" (37 hits in 12 files)
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Camera\CameraHolder.cs (4 hits)
+	Line 39: 				if (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 39: 				if (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 54: 			while (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 54: 			while (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Camera\Swing\CASwingMain.cs (6 hits)
+	Line 57: 				if (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 57: 				if (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 76: 				if (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 76: 				if (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 91: 			while (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 91: 			while (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Camera\ThrowStone.cs (3 hits)
+	Line 30: 			bool up = Input.GetButtonUp("mouse 1") || Input.GetButton("mouse 1");
+	Line 30: 			bool up = Input.GetButtonUp("mouse 1") || Input.GetButton("mouse 1");
+	Line 32: 			bool dn = Input.GetButtonDown("mouse 1");
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\DemoBunnyScripts\Bunny Menus\BunnyPetting.cs (1 hit)
+	Line 39: 			pressing = Input.GetButton("mouse 1");
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\DemoBunnyScripts\Bunny Menus\BunnyPushing.cs (5 hits)
+	Line 60: 			if (Input.GetButtonDown("mouse 1") || Input.GetButtonDown("mouse 2"))
+	Line 60: 			if (Input.GetButtonDown("mouse 1") || Input.GetButtonDown("mouse 2"))
+	Line 68: 			else if (Input.GetButtonUp("mouse 1") || Input.GetButtonUp("mouse 2"))
+	Line 68: 			else if (Input.GetButtonUp("mouse 1") || Input.GetButtonUp("mouse 2"))
+	Line 101: 			if (Input.GetButtonUp("mouse 1"))
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\DemoBunnyScripts\BunnyActions\HideInsideProp.cs (1 hit)
+	Line 41: 			if (isOccupied && Input.GetButton("mouse 1"))
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\DemoBunnyScripts\BunnyActions\PlaceTargetWithMouse.cs (3 hits)
+	Line 38: 			if (Input.GetButtonDown("mouse 1") && EventSystem.current.IsPointerOverGameObject()) blocked = true;
+	Line 40: 			if (Input.GetButtonUp("mouse 1")) blocked = false;
+	Line 44: 			if (PlayerInterface.locked || !Input.GetButton("mouse 1")) 
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\DemoBunnyScripts\BunnyActions\SelectSomethingWithMouse.cs (3 hits)
+	Line 60: 			if (Input.anyKeyDown && !(Input.GetButtonDown("mouse 1") || Input.GetButtonDown("mouse 2"))) 
+	Line 60: 			if (Input.anyKeyDown && !(Input.GetButtonDown("mouse 1") || Input.GetButtonDown("mouse 2"))) 
+	Line 62: 			if (!Input.GetButton("mouse 2")) return;
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Dialogue\CharacterLabDialogue\CharacterLab_VirtualSandbox.cs (2 hits)
+	Line 337: 	m1Down = Input.GetButtonDown("mouse 1");
+	Line 338: 	m2Down = Input.GetButtonDown("mouse 2");
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Selection System\Events\AbstractButtonHandler.cs (3 hits)
+	Line 19: 			if (Input.GetButtonDown( buttonName) ){
+	Line 35: 				if (Input.GetButton(  buttonName) )
+	Line 37: 				if (Input.GetButtonUp(  buttonName) )
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Utility\Triggers\HoverxSelectToggle.cs (2 hits)
+	Line 43: 			if (Input.GetButton( buttonName)) pressed = true;
+	Line 50: 			if (!(pressed && !Input.GetButton(buttonName))) return;
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Utility\Waypoints\AStarWMInterface.cs (4 hits)
+	Line 53: 			if (Input.GetButtonDown("mouse 1") && EventSystem.current.IsPointerOverGameObject()) blocked = true;
+	Line 59: 				if (Input.GetButtonDown ("mouse 1")) stopped = true;
+	Line 60: 				else if (Input.GetButtonUp ("mouse 1")) {
+	Line 75: 			else if (Input.GetButtonUp("mouse 1")) blocked = false;
+Search "Input.GetButton" (54 hits in 21 files)
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Models\Animation\Cage\AnimateDoorFlap.cs (1 hit)
+	Line 17: 		if (Input.GetButtonDown("mouse 1"))
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Camera\CameraHolder.cs (4 hits)
+	Line 39: 				if (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 39: 				if (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 54: 			while (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 54: 			while (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Camera\Swing\CASwingMain.cs (6 hits)
+	Line 57: 				if (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 57: 				if (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 76: 				if (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 76: 				if (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 91: 			while (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+	Line 91: 			while (Input.GetButton("mouse 1") || Input.GetButton("mouse 2") )
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Camera\ThrowStone.cs (3 hits)
+	Line 30: 			bool up = Input.GetButtonUp("mouse 1") || Input.GetButton("mouse 1");
+	Line 30: 			bool up = Input.GetButtonUp("mouse 1") || Input.GetButton("mouse 1");
+	Line 32: 			bool dn = Input.GetButtonDown("mouse 1");
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\DemoBunnyScripts\Bunny Menus\BunnyPetting.cs (1 hit)
+	Line 39: 			pressing = Input.GetButton("mouse 1");
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\DemoBunnyScripts\Bunny Menus\BunnyPushing.cs (5 hits)
+	Line 60: 			if (Input.GetButtonDown("mouse 1") || Input.GetButtonDown("mouse 2"))
+	Line 60: 			if (Input.GetButtonDown("mouse 1") || Input.GetButtonDown("mouse 2"))
+	Line 68: 			else if (Input.GetButtonUp("mouse 1") || Input.GetButtonUp("mouse 2"))
+	Line 68: 			else if (Input.GetButtonUp("mouse 1") || Input.GetButtonUp("mouse 2"))
+	Line 101: 			if (Input.GetButtonUp("mouse 1"))
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\DemoBunnyScripts\BunnyActions\HideInsideProp.cs (1 hit)
+	Line 41: 			if (isOccupied && Input.GetButton("mouse 1"))
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\DemoBunnyScripts\BunnyActions\PlaceTargetWithMouse.cs (3 hits)
+	Line 38: 			if (Input.GetButtonDown("mouse 1") && EventSystem.current.IsPointerOverGameObject()) blocked = true;
+	Line 40: 			if (Input.GetButtonUp("mouse 1")) blocked = false;
+	Line 44: 			if (PlayerInterface.locked || !Input.GetButton("mouse 1")) 
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\DemoBunnyScripts\BunnyActions\SelectSomethingWithMouse.cs (3 hits)
+	Line 60: 			if (Input.anyKeyDown && !(Input.GetButtonDown("mouse 1") || Input.GetButtonDown("mouse 2"))) 
+	Line 60: 			if (Input.anyKeyDown && !(Input.GetButtonDown("mouse 1") || Input.GetButtonDown("mouse 2"))) 
+	Line 62: 			if (!Input.GetButton("mouse 2")) return;
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Dialogue\CharacterLabDialogue\CharacterLab_VirtualSandbox.cs (2 hits)
+	Line 337: 	m1Down = Input.GetButtonDown("mouse 1");
+	Line 338: 	m2Down = Input.GetButtonDown("mouse 2");
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Selection System\Events\AbstractButtonHandler.cs (3 hits)
+	Line 19: 			if (Input.GetButtonDown( buttonName) ){
+	Line 35: 				if (Input.GetButton(  buttonName) )
+	Line 37: 				if (Input.GetButtonUp(  buttonName) )
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Utility\Triggers\HoverxSelectToggle.cs (2 hits)
+	Line 43: 			if (Input.GetButton( buttonName)) pressed = true;
+	Line 50: 			if (!(pressed && !Input.GetButton(buttonName))) return;
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\MainProject\Scripts\Utility\Waypoints\AStarWMInterface.cs (4 hits)
+	Line 53: 			if (Input.GetButtonDown("mouse 1") && EventSystem.current.IsPointerOverGameObject()) blocked = true;
+	Line 59: 				if (Input.GetButtonDown ("mouse 1")) stopped = true;
+	Line 60: 				else if (Input.GetButtonUp ("mouse 1")) {
+	Line 75: 			else if (Input.GetButtonUp("mouse 1")) blocked = false;
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs (3 hits)
+	Line 115: 			return activeInput.GetButton(name);
+	Line 121: 			return activeInput.GetButtonDown(name);
+	Line 127: 			return activeInput.GetButtonUp(name);
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs (3 hits)
+	Line 16:             return Input.GetButton(name);
+	Line 22:             return Input.GetButtonDown(name);
+	Line 28:             return Input.GetButtonUp(name);
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\TestProject\Scripts\Character\SelectSomethingWithMouse.cs (2 hits)
+	Line 58: 			if (Input.GetButtonDown("mouse 2")) // down once
+	Line 63: 			else if (!Input.GetButton("mouse 2")) return; // no button at all
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\TestProject\Scripts\MiscPrototype\HotSwapCamera.cs (1 hit)
+	Line 19: 			if (Input.GetButton("mouse 1")) return;
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\TestProject\Scripts\TestCamera\CameraAssistants\CAFlying.cs (1 hit)
+	Line 32: 			m2 = Input.GetButton("mouse 2");
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\TestProject\Scripts\TestCamera\CameraAssistants\CAFlyingMKII.cs (2 hits)
+	Line 39: 			m2 = Input.GetButton("mouse 2");
+	Line 40: 			m1 = Input.GetButton("mouse 1");
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\TestProject\Scripts\TestCamera\FlyThrough.cs (1 hit)
+	Line 32: 			m2 = Input.GetButton("mouse 2");
+  C:\Users\Diamond\Documents\Unity Projects\Pfote2\Assets\TestProject\Scripts\ThrowStone.cs (3 hits)
+	Line 30: 			bool up = Input.GetButtonUp("mouse 1") || Input.GetButton("mouse 1");
+	Line 30: 			bool up = Input.GetButtonUp("mouse 1") || Input.GetButton("mouse 1");
+	Line 32: 			bool dn = Input.GetButtonDown("mouse 1");

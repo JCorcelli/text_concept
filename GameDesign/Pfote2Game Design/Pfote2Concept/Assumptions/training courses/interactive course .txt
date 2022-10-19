@@ -1,0 +1,62 @@
+INTERACTIVE ESSENTIALS
+BIG OPEN PLAYPEN
+
+
+basic examples
+	sticky notes, for cheap dialogue
+
+	toy
+		edible
+		mob
+	
+	
+	samples of other courses
+		4 direction plat
+		3d platform
+		
+	inventory
+		(something to drop, hold, equip, activate, or menu)
+		
+		key item
+		magnet
+		dirt
+		flower
+		snake
+		
+	
+	environment
+		hiding spots
+	
+		buttons to stomp
+		
+		things to knock over
+		obstacles
+	
+	terrain
+		floor tiles
+		lighting
+		
+	cloud space - clouds that intersect all clicks
+	
+zone sticky notes "PRESS SPACE AND LOOK AROUND"
+	signal examples - some basic hover, click, and drag
+	
+	initiative reminders - "drag bunneh to this"
+	
+	prompts - 
+		a
+		b
+		c
+		
+	ADV Dialogue
+		1. listen
+		2. interrupt
+		
+		journal
+
+"danger" and "safe" triggers to see how status affects 
+
+UI shifts - minigame and menu
+
+
+hint drop - secrets are found, not taught. Remember to try interacting.

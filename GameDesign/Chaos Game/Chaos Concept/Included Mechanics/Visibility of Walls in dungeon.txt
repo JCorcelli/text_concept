@@ -1,0 +1,5 @@
+issues: removes colliders, I guess you could see through a wall for no reason if I don't fix this.
+
+scripts required: RemoveWall <- SeeTarget, VisibleRoom
+
+quickly compiles straight corridors for an accurate dungeon visibility, currently blocked by "barrier" layer

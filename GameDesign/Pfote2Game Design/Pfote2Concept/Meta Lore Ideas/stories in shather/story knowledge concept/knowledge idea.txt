@@ -1,0 +1,51 @@
+KNOWLEDGE IDEA
+
+
+SELF IMAGE (KNOWLEDGE OF SELF)
+this would really make character creation a thing
+
+restriction
+1 is a fake law. can be seen in laws.
+2 mental effect, limit ability
+3 physical effect, prevent interaction
+4 hides other laws, never overrides
+
+self opinion, modifier
+1 is a self-directed change in behavior
+2 alter effect of food
+3 change goal; gain, lose, replace
+4 change social options
+
+KNOWLEDGE OF WORLD
+
+fact or fiction
+true, false, or lie
+
+nouns
+verbs - skill or "use"
+adjectives - modify, opinion
+etc.
+
+If I could I'd put it all in form, but it only makes sense to create as I go.
+
+USE
+everything you don't know about defaults to "sniff" or "observe"
+
+when you know something you gain the "use" power, which might not work
+
+when you know how to use something, and you brought the right tools, you can really "use" it
+
+LOGS
+with knowledge you learn opinions, possibilities, goals; and you default trust it until it's revealed to be fact or fiction.
+
+when you learn a fact directly you can test it unless it's really bad
+
+CREATE KNOWLEDGE
+theory creates possibility, they come from 
+	thoughts 
+	observation
+	random scraps people share
+experimenting may reveal facts
+
+DISMISS
+very poorly formed knowledge, bad mutations, can be dismissed, removing any effect.  This also requires you to learn it again though.

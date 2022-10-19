@@ -1,0 +1,35 @@
+General idea of physical locations. 
+
+Level is a general location, 
+number is difficulty, 
+entrances as child, 
+explanation after dash.
+
+level 1: First room (req.)
+	Exit
+
+Level 5: Second flat
+	Exit
+	Yard
+
+
+Level 0: Grove - shown by popins
+	Wall at night
+
+Level 5: Cavern - probably any black bunny encounter
+	Tunnel, following black bunny
+
+Level 5-10: Outdoors
+	It's like a world hub
+
+Level N: Portal world - single rooms with physical puzzles, easily failed
+	??? undecided
+
+
+Level 3: Imaginings - in dreams, and at rest
+	resting, idle, being picked up
+
+Level 1- 20: Magical Dreams - scaling
+	sleep, portal worlds
+	
+Level 1 - 30: Tutorials - at start screen, in dreams, before big events

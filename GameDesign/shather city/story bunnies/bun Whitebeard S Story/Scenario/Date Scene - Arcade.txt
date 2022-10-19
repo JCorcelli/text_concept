@@ -1,0 +1,95 @@
+DATE SCENE - ARCADE
+
+The arcade is a fun place where gamers visit
+
+Available - Gamer / Friend of gamer
+
+defining features
+	big games
+	skilled players
+	noise
+	
+other factors
+	challenges
+	tokens
+	illegal gambling
+	
+	
+BEHAVIOR TO IMPLY RELATIONSHIP
+
+meeting gamers (stage 1), INTEREST
+	if a gamer comes here, they'll meet other gamers
+	if a non-gamer comes here, they're with people
+	
+friend (stage 2),  GENEROSITY
+	laughing a lot
+	trying to simulate 
+	experiencing all the games
+	
+date (stage 3),  SELFISH
+	
+	
+competitive date (stage x),  GUILT
+	drawing a crowd
+	
+MEETING GAMERS 
+interest
+	comes to play a game
+	doesn't expect anyone
+	
+	goes through these motions with various people
+generous
+	anyone who comes close gets a shot to play
+selfish
+	trash talk!
+guilt
+	(good)
+	get their contact
+	try to meet them later
+	(bad)
+	think they're so shit, you're a little worried
+	
+FRIEND EXPERIENCING ALL THE GAMES
+	
+interest
+	games they expect
+	games they see on entry
+generous
+	big spending, focus on the player
+selfish
+	redirect towards the non-gamer
+	see if they're absorbed
+guilt
+	destroying people's lives one score at a time
+	exhaustion
+	(bad) blame the arcade, or the staff
+	(good) relationship plus
+
+DATE SHOWING OFF GAME SKILL, PRIZES
+interest
+	prize
+		mention prizes
+		focus on the game with points
+	skill
+		talk about the game they're best at
+generous
+	not focusing on the game
+	trying to get the best out of other
+selfish
+	pick prizes
+	try to score points for it
+	use a lot of tokens
+guilt
+	win or lose, effort
+	win gives prize away
+
+COMPETITIVE DATE, odd PRIZES, VIEW TOURNEY?
+interest
+	game they both know
+generous
+	really tease the crap out of them
+selfish
+	trash talk
+guilt
+	loser pouts
+	winner, idk

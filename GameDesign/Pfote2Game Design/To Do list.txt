@@ -1,0 +1,171 @@
+IDEAS (PLEASE COPY TO UNUSEDINCOMPLETE.TXT):
+
+PLZ PATCH: i realize in editor I can click off edge of screen so do I just auto detect that and set the uiSelect now?
+
+
+TIPS I READ
+layout groups use getcomponent a lot
+more canvases are better
+disable the canvas, not the object
+  USE, future of 
+zone proximity: put things in a list
+	
+menu control/ screen real estate
+  only one thing should consume the keyboard inputs at a time
+  
+  
+ACTIONSYSTEM: conglomerate of use interfaces
+  "use" is ambiguous but it's more elegant than mousing, face it
+use: show everything nearby in a list if necessary.
+	
+	
+FUTURE for Dialogue System
+KB...
+knowledge base expansion!
+laws, restriction
+manipulation: opinion (adjective), logic (reusing, training), dismissing, copy/altering(lie)
+noun sense safety, verb (use) mastery, self opinion
+observation (various objects are users)
+thoughts (knowledge behaviors)
+experimenting (validating), and creative source fact or fiction
+
+
+WHAT I JUST DID (PLEASE COPY TO CHANGELOG.TXT):
+	dialogue system 
+		foundation programming see dialogue in program system
+		
+CURRENT FOCUS:
+	memory wiki
+	
+	
+	?? 3D blocking terrain
+		blocking terrain is something in the way
+		
+		1 hide blocking terrain any of the "actors" pass behind
+			1 partitioning rooms in a house
+			2 remove objects I'm under o
+			
+			3 (cq large) always have a side that I can cut out, and zip to the expert camera
+			4 (cq small) the small objects should have a see-through texture
+			+toggle mesh-renderers
+		
+		walking terrain is something I can climb/ stand on
+		
+		2 walking terrain needs to be click ignored (default)
+			1 always, if it's too high (with some warning it's ignored)
+			2 enabled if there's a ui shift like jump/climb/fly
+		
+		3  a designated key to use
+
+	
+	#########	
+	the characters
+	o movement and camera
+	some animation shouldn't run until it's a certain frame - 
+	*floaty turn animations (jerri) are super awkward
+	
+	*I've been using animation to "move position" what it should be doing is adding force
+	root motion, additive?
+	
+	x bunny "routine altering status" via bunny design.txt
+	
+	
+	x emotes. have icons, have animation poses
+	x text+inline magnet (could I script this)
+		x? this has become speech ideas
+	
+	b. interaction
+		freeroam
+		petting
+		personal menu
+		minigames 
+			dungeon .. demo game
+			
+	NPC dialogue
+		
+		
+	file: story options . txt
+		various behaviors for bunny
+		bunny.context.txt for active player 
+		cooperative actions" minigames"
+		scripted game flow for idle player
+		routines for idle NPC
+		canon stats
+		 
+		 
+	forced perspectives
+		look (up) at something as bunny
+		
+		
+	Camera practical use (need to review old ideas, these are what I think atm)
+		keep angle level
+		height should shift up to look outward
+		
+		everything else is a little iffy
+	
+	BillA (this is polled image / text) 3d version of text that appears over people.
+		
+	
+	+ rigidbody3d physics + SpriteMagnet display
+	
+	
+	action system conglomerate (when everything else works, I can make interfaces)
+	
+NOT QUITE THERE, SO FAR AWAY:
+	
+	human materials (so many)
+	
+	bunny state animations for sniffing, crawling
+	
+	OFF: options, as selectable? collider off until ready to trigger animation.
+		reason: i didn't like seeing the targetindicator flicker to the option as I touched it.
+	OFF: bunny routine. needs to be calibrated for actual game
+	
+	
+
+	saving item
+		
+		
+	tracking bunny uses an obtuse number of moving parts
+
+	closeup idle, bunny zoom
+		the pivot rotation is all what matters, so I could set it to the current main camera facing on enable, it won't care.
+		+ something scary focused
+		+ bunny interest
+	
+	Digging
+		texture / tunnel image / shape of room
+	
+		Is it visible?
+		
+		No, Nothing there:
+			disable selectable colliders.
+			blend in with wall
+	
+		Yes, 
+			display an entrance
+			when close enough
+				display interior
+				force a side view from distance
+		
+		Deeper / repetition abstraction of previous actions
+		
+	
+	
+	game story script, using animator
+		script ch1.2.txt
+	player interface. global lock is risking bugs.
+	
+	
+	
+Program the things the player will do
+	memory
+	petting
+	story
+	
+Program the things the npcs will do
+	o dialogue system
+	using the d. system
+	
+Making the text super fucking sweet
+	with join split args user target ...

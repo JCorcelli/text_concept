@@ -1,0 +1,24 @@
+(SPOLER)
+ADVANCED GAME MECHANICS
+so I think...
+
+you can talk, throw, sneak, or jump your way out of a lot of situations
+
+What if a player really wants to pick up and throw things all the time? would it ruin the game? 
+
+A: Probably not. But there's little depth in the final story that was about thrown items. Maybe humor can be worked in by the player. It is probably easy to do, but close to impossible to master, as a bunny.
+
+
+Q: ON talking, there's a mechanic that some other creatures slow your progress with dialogue. Does it encourage bad decisions?
+
+A: The section slows you down if you're avoiding conversations, yes. If you play for a social manipulation there's a big difference.
+
+Q: Jumping is for getting places. Why is this the only time a skill has one use?
+
+A: IT'S NOT TRUE, IT'S CUTE AND FUN.
+
+Q: Sneaking.  It's another way to avoid talking or fighting. It's a different kind of jump, that's even better. Why is it downplayed?
+
+A: You get new travel options when you're skilled at movement, something you can rarely earn by talking or fighting. The stealth system is fairly important because of how all the npcs react to your behavior, it's not that simple, I am putting much test time into it.
+
+Some abilities are easier in situations and get a result you prefer, it's just like that.  You could be stealthy the whole time, and experience a monster around the corner sense of danger because of your choice.

@@ -1,0 +1,205 @@
+
+FOOD POWERS
+so the idea is you get an ability for eating. it's primarily for fun or exploration.
+
+combines with other
+
+process:
+	a "problem" and a "solution" is much better
+	
+	invent a power, a food, an animal, and a dream state monster
+
+	
+EASY EXPLORER MISCHIEF
+SWORD BUSTER - carrying a sword that strikes like a spear at a distance, or a gun if charged
+	TERRAIN - causes pain status
+	sharp gras
+	blade grass, knife, sword...
+	
+	saber greens - a wild grass
+	
+	POWER
+	grass
+		passive hard fur
+	blooming sabre - 
+		grants weapon powers
+	
+	
+	ANIMAL
+		
+	sword behavior - 
+		bumps you (default)
+		attacks if hostile
+		large groups shoot hostile
+	
+	MONSTER
+	
+	metal knights - oppressive demi-human sentries that shoot if they see you
+	
+	sword fiend - a sharp deer
+	
+
+BANNER EFFECT - it's intended to make you feel less confined
+BANA - holding a banana, or some lure
+	
+	banana - [] steals it, [] come to ask for it
+	bana fruit group - various animals crowd
+	music
+	
+	smell lures - curious animals appear
+	shiny - distracts bird mostly try to grab it until it's gone
+
+	flag - white flag, a signal of peace and surrender
+	
+	TERRAIN - there's some goal
+	
+	POWER - 
+		holding a bana causes animals to steal it from you
+		it has some alternative group effect like generate a crowd, or stall the threat effect
+		
+	ANIMAL -
+		they can hold a bana, and bunneh will give a signal to try looking at it
+		
+	MONSTER -
+	gate - locks you into territory
+		
+	siren - is a bana
+	
+	keepr - tends to use bana to find you, as well as trap you
+	you're a bana to most monsters
+
+
+CAPTURE - certain moving platforms only stop if they're forced to. Vice versa, you'll stop, no matter how fast you run.
+BURST CANCEL - (oxymoron) fast running and energetic lasers, cancels movement of other things
+
+	TERRAIN - control loss, run to safe location, lose momentum
+	
+	bitter berry
+	hyper shroom
+	
+	POWER
+		zone becomes pew pew zone
+		continuous ray freezes objects mid-air
+		
+		run faster
+		dash far
+		spring, ram causes things to get stuck momentarily
+		
+	ANIMAL
+	burst behavior - 
+		they use a skill a short distance repeatedly
+		they fire beams, no target
+		
+		hostile, they'll fire beams at the ground
+		
+		run away very fast
+		
+		obstacle, use shout to make you stop
+		
+	MONSTER
+		turret
+		cancel bolt - a ranged monster that casts stop bolt
+		
+		moving walls - common obstacles, not edible
+		
+		shout [] = an aoe shout ability, causes you to stop moving
+
+BASIC SOCAL MANIP EFFECT - 
+COZY GROOVE - induce a sleep state
+		
+	TOY
+	stuffed beetle
+		a toy that forces a non-hostile receiver to sleep (drugged)
+		
+	ANIMAL
+	soothing animals - put a willing receiver to sleep (eg bunnies touch)
+	
+	MONSTER
+	demon harbinger - dream monster, force you into a nightmare
+		
+BASIC STATUS MANAGEMENT
+SUN HEART - recover heart
+	sun berry, common
+	heart berry, uncommon
+	concentrated juice, refined
+	
+	ANIMAL
+		self-healing
+		energy
+	
+	MONSTER
+	themed
+	burning darkness - an antithetical harbinger of the sunberry, black, but full of heat and anger
+		vanishes in the dark
+	
+	themed
+	crimson brightness - red, but chilling sadness
+		vanishes in the light
+
+COLORING / TERRAFORMING- you need to touch things, and this will alter color, behavior, and reality
+
+MAGIC GREASE - 
+	grease family 
+	1
+	vines - greasing green
+	tree root - sap slime
+	odd flower - powder pink
+	2
+	smudgeberry- pulls terrain, and sound
+	whirltoot - causes the terrain to move around
+	plat forma - ground splits and rises
+	sink grass - sink under
+	swamp grass - sludge
+	3
+	blue peach - turns to water
+	red crimson fang - lava 
+	brown pear - carpet / dirt, trees
+	snowcap apple - ice, can melt to water
+	golden carrot - gold blocks
+	green grass - grows random vegetables
+	cosmic jewel - makes a physical zone that has no distance
+
+	POWER
+	level 1 - greasing, change color
+	level 2 - smearing, the terrain has a behavior, like water flowing downhill or bubbles floating up
+	level 3 - tear, the fabric of space and volatile terrain effect
+	
+	ANIMAL
+	they will take level 1 or 2 to perform a trick, and revert the changes
+	
+	hostile animals can walk in front of you or try to revert your coloring
+	
+	protective animals prevent you from eating harmful food
+	
+	MONSTER
+	
+	has potential, to create hazard as they move
+	
+TRIVIAL EFFECTS - should make some fun ones that aren't serious
+WATER JET - you shoot water, most animals hate this and have something cutting to say before running off
+	dig out watery tubers, not the leaves
+SPARKLE - shine
+	carbonated water
+	
+RITUAL (CHALLENGE) - you could "eat" at the start of a race and	run to a finish line.
+
+RACING
+	challenger formula - a product of magic, contestants for racing like rockets
+	
+	dizzy junk -a byproduct of digging mushrooms, amplifies the difficulty of doing anything 
+	
+COVER MAZE
+	maze - you eat some corn to start a maze challenge
+	
+METAMORPHOSIS
+	for later.  When I make an animal I'll need to define it anyway.
+	
+	human - bunny becomes a short humanoid (not fully human)
+	
+THE POWER OF AN ANIMAL.
+	HMM. Stealing power from animals sounds mean.
+	
+	Kirby vortex - devour an animal, max size?
+		get a 25 threat level.
+		if the animal has any special abilities you gain them
+		

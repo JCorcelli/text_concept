@@ -1,0 +1,20 @@
+I think it'd be cool if something auto-generated like a meta-ball mesh, but it'd have to correctly set space to walk on eg. erase what's there 
+
+big
+zoom out
+expand a wide area and place decals randomly
+
+have npcs alter it, like a biome, so it's like the place grew and became inhabited
+
+small
+alter the decals
+cutting holes through mesh
+raising platforms
+
+physics
+it'd have to be like time is frozen
+I could decide if something needs to move
+I could turn the physics on for an area
+
+npcs
+I'd determine which ones get special traits. So yeah, all npcs would have to share a common makeup

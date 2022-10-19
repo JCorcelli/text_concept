@@ -1,0 +1,49 @@
+
+CAMERA
+
+limit view (get closer)
+
+Effects?
+zoom closeup.. 
+	only zoom to specific items
+	
+	go to a specified point on the map if possible
+zoom..
+	irregular scene (challenge) = director placed camera angles
+	side-on view (restriction) = panning sideways
+	flat ground (allowance) = turn camera in general zoom direction until wagon path obstructed
+	close quarters (challenge) = keep important things in view'
+	
+
+-> smooth_zom (slow tracking), zom (zooming, fast tracking), connected to cameraholder to track an assistant on screen.	
+	
+Angle Rigs (para)
+
+
+Camera Holder
+	Camera Assitant -> OnEnable calls CameraHolder
+		Default -1, 
+		Specific View 1
+		Camera.Swing 0
+			SwingArm 0
+			Frame and Target 1 ( a targetting system) Currently look at "mouse 2" zoom command
+			
+Target Priority
+	
+	Primary Holder -> that would be an upper level priority, like cutscenes
+	
+	NPC's Choice -> if and when there's something grabbing attention
+	
+	
+	Player's Choice -> if and when the player chooses
+	Position(Collision)-Based angles -> always on, at least one angle
+	Default -> if I need one
+	
+CAMERA ASSISSTANT
+cameras with different behaviors in different regions of the game
+swap-assistant a motion to transition between current to new assitant without breaking the immersion
+
+
+SwingArm Assistant. A mechanical system with a pivot and arm. effective, simple to calculate, and looks nice.
+
+SlideInRegion. A mechanical part that uses a fast camera and adds a flexible anchor.

@@ -1,0 +1,83 @@
+I really hope when it's done I can call it a zone designer, not limited to buildings or hidden tunnels.
+
+I noted 3 tiers of design for "true dungeons" which are definitely skill based. 
+
+Although it stems from placing 3D modules, the final product will have.
+	2D designer - to quickly scale up
+	
+	3D designer - do anything the 2D can, plus adjust vertical positioning of decorative items
+	
+	3D designer (avatar) - an avatar limits movement
+	
+	Freeform Plans - No LOS. essentially a world builder, when the terrain only matters to you.
+	
+	Gov. Plans - mark terrain for goal and zone sites. When the terrain can be contested.  But your purpose is to ideally improve conditions, and need to convey the info both directions.
+	
+	Tower - a deadly defense which marks the user as a powerful territorial player, for:  exploited zones (pk), private (base), restricted - military (gov), and team combat (scenario)
+	
+	If the dungeon is the muscle then...
+	Vault - the stomach
+	Workspace - the mind, easily the most vulnerable intellectual component
+	Worker - The blood (can be robots)
+	
+	Items - Main components from catalogue, placed items have limits (they can't block movement like a wall)
+
+Done ::
+	o save the dungeon
+		>o a distinct save name
+			I can set the default dungeon name 
+			it's "TestLevel"
+		o a list of spawned items
+			options
+			?1 make new spawnable, or 
+			o 2 anything that just needs to be instanced and posititioned can have a generic spawnable
+				the Save method needs to be called, or the loading breaks down instantly
+			x Now what would be nice is if changes in position were saved (i'll worry about this when they actually move)
+		o saveee itt
+			I should be able to leave and enter a different dungeon after
+			
+Donelist
+DUNGEON DESIGNER
+	########
+	3D build mode
+		there is an avatar in 3d build mode
+		I just need tools
+		A starting block 
+			a starting block / spawn point in case there's no entrance. It's ok not to have an entrance, as long as there's an exit. 
+			
+			Think dungeon could be a trap.
+		
+		Tools
+		o 1 remove wall to add room
+			add room > add "remove wall" at the selected cue position
+		o 2 add wall can hide rooms
+			remove "remove wall" > add walls it removed back. 
+			
+			
+		o 3 remove room will add all the walls back, hiding the room
+		
+		? You might "undo" a hidden room, I don't want to delete it just in case. Recreating unique objects can always move them.
+		
+		o 4 save
+		
+	o change ceiling to barrier
+	o  I have to change floor colliders to barrier while they're invisible (to avoid mouse blocking)?
+		alt I segregate/disable entire sections of the dungeon
+
+	o LOS checks
+		x get the room the wall is part of, set the xxxroom activexxx
+		o set the mesh visibility state
+
+		o items use LOS nodes
+		
+	o multi-level dungeon
+		incredibly complex dungeon is possible, like a multi-layered
+		maze. But I think I should keep it simple and finish control setup with a run through.
+		
+		
+		
+	I can make an easy edit mode, 
+	o	remove a wall with a modifying collider
+			+B force player to finish it
+			+c auto-check, and if things don't connect?
+	#########

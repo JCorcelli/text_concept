@@ -1,0 +1,100 @@
+BASIC
+move, jump, eat 
+zone, initiative
+attack, stomp
+dig, bomb
+sleep, repair
+
+TECHNICAL SKILL - USER ENHANCED
+ninja, frogger
+stealth - useful on keepers, invaders
+theft
+
+read
+clouds
+
+cursor powers: menus psyche spirit
+
+social manip - base story
+
+gardening
+puzzling
+
+story manip : knowledge
+	thought bubble
+	law
+	opinion
+	
+	facts
+	truths
+	
+inventory uses : micro managing
+	survival
+	fun
+	weapon
+	throw
+
+
+FURNISH
+cage
+room
+misc. locations
+
+ITEM
+treasure
+equipment
+	shoe
+	eye
+	weapon
+	relic - totem
+	tool
+	harness / belt
+storage
+
+	bag - storable
+	box - carry
+	big container - push
+	cart, pack mule - follows
+	express cargo - phone
+	
+	thought
+	magic book
+toy
+	self-groom plushy
+	misc.
+	
+consumable
+	food
+	potion
+	magic item
+	
+key item
+story article
+
+
+LOCATION
+safety
+room
+dream
+hall
+tunnel
+cave
+dungeon
+
+OBSTACLE
+door
+furniture
+noise
+keeper trap
+
+misc. terrain effect
+
+MONSTER - AGGRO
+sanctuary keeper
+mob
+invader
+
+NPC
+shopkeeper
+owner
+pet

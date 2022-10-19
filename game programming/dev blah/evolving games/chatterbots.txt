@@ -1,0 +1,101 @@
+More Comparisons, and The Random Paradox.
+
+
+GOOGLE AND... CHAT-BOTS CHATTERBOTS CLEVERBOT
+This began with me deciding "It's been a few months now. I wonder how Cleverbot has improved."
+
+For those who aren't aware, Cleverbot is a program that anyone can chat with. The program repeats only what it hears from internet users.
+
+I asked Cleverbot "Why is this so repetitive?"
+
+Several minutes passed.
+
+I typed into Google "Cleverbot thinks too long"
+
+It returned several matches. I clicked on the 4th one down because according to Google the link I found most interesting was only the 4th relevant. Not bad anyway, I have to say.
+
+Then Cleverbot responded "Because you are." Ooh, such a burn, I remember that one from Kindergarten, it was all the rage. But a kid would have responded before they even had to think about it. A kid knows they're in an internet chatroom, Cleverbot doesn't.
+
+This gets me thinking, never mind Cleverbot, does Google meet the standards of an empirical cloud game? It has all the player input any system could desire. Well, no. I concluded it doesn't because the content doesn't really change, it rates content by very helpful language algorithms and player metrics.
+
+I would have to go out on a limb to say that if 100,000 people clicked on the fourth link down, the program can put it into first. But the system is so different from the one required to add content without being aware of it, there is no way to submit a relevant link as a response. Eh, whatever.
+
+I typed into Google "Why is Cleverbot so slow?" with and without quotes more recently. Well that was fun, Google's fun, people have the silliest ideas about Cleverbot and how it works. Never mind that, I already know they're making things up because they wish it was smarter.
+
+More about that original search,  "Cleverbot thinks too long" without quotes, the fourth link down.
+
+Here it is:
+http://singularityhub.com/2010/01/13/Cleverbot-chat-engine-is-learning-from-the-internet-to-talk-like-a-human/ (Aaron Saenz, 01/13/10)
+
+The article discussed chatterbots. Paraphrased: "People are fascinated by chatterbots." Ok, I have a confession, I never have been interested in talking with someone of the intelligence of a chatterbot for longer than a couple of minutes in English, so I do get it, because I even bothered chatting at all.
+
+I thought at some point, I should go try out some other chatterbots. Sorry, I can't find any in a reasonable amount of time. Even the Sherlock Holmes one from 2010 is absent.
+
+I have, still, some preconceptions that are hard to disprove. The bots are very limited in the sense there's no context, everyone interacting with them will do nothing but treat them like crummy Google engines, or a virtual pet who floats around on electric power lines. The bots observe and parrot the search behavior and appear to ask questions, but we can't be sure if they know they asked a question, and because of the context issue the responses won't necessarily be answers. The bots suffer from immaturity, that is not a dig meant for internet users. I mean the bots have very limited lifespan and they won't grow so they are stuck in childhood.
+
+_______
+These bots that exist as chatrooms are similar to the stand alone system I described. They lack content, and they don't seem to be able to follow rules because of immaturiy. Maybe they aren't sophisticated enough to appear human. There's just something wrong with them, they could be mistaken for a crazy person all the time, simply because they respond, more on that later.
+_______
+
+
+
+
+GOOGLE / VERY COMPLICATED LANGUAGE ALGORITHMS
+When comparing Google to empirical cloud games, I see it's a very clever design, but it doesn't really change its content. The spiders that gather content don't qualify as players by any means. The feedback is used by Google's algorithms, but it generates no new content.
+
+
+
+
+CHAT BOTS
+When comparing chatterbots, it gets fuzzier. Really fuzzy. At least at first.
+
+They appear irrelevant because they don't follow rules, they don't understand context, there is a huge missing chunk of intelligence required to GM a game. However, they meet one piece of the puzzle, they imitate the players, the chatterbots are therefore able to change from input gradually over thousands of transactions.
+
+Someone programming a chatterbot may think they are making a game, but here's where the fuzzy logic becomes self-defeating. The game is: teach the bot. The content is: what the bot learned. The game is for players interested in chatting with someone who isn't human.
+
+Is someone ever going to pay for this out of pocket? Maybe, but not everyone.
+Can you stick advertisements on Cleverbot? sure. I even checked its url metrics, over 400-thousand monthly visits. Maybe this has allowed it to achieve sustainability.
+
+It almost looks like a game that is nothing but one randomly clamoring person/chatterbot meets the requirements of an empirical cloud game. This has allowed me to discover that the standards I wrote earlier were missing a component. Randomness.
+
+Chatterbots make sense, they respond, they'll surprise you, sometimes. This is only because they are following a very complicated algorithm. The algorithm itself may appear valid if every human response taught it. But in the end, when you sit down to chat with the chatterbots, you have no reason to do so. It becomes a meta game, not what you expect, your randomness vs its. Humans are all able to be a little insane, but computers are much better and can do it non-stop.
+
+
+
+
+THE RANDOM PARADOX
+Think about a random generator, or rather a random word generator.
+
+A random word generator can be a game. A random word generator can store player input. A random word generator would therefore be a game that changes from player input. - No.
+
+It's still a game, but it's using what it gets without context or rules. It's repeating what I said, or what someone else said, but it doesn't have a rhyme or reason. So it's a game that is not a game. It's a game paradox. It's a game that teaches us nothing, it only learns, nobody wins.
+
+
+
+THINKING ABOUT IT
+A chatterbot may be an incredible algorithm hooked up to a random word generator, or an incredible algorithm with incredibly logical responses. It's indistinguishable while playing, I know. But there's a clear difference, which means I can't conclude which is which.
+
+Something that relies on fooling people is a magic trick, not a really a game at all. But it's an enjoyable experience for some.
+
+
+I am considering that this means there are many shadow standards for empirical cloud games I hadn't even thought of. Many even require acknowledgement, so I might as well acknowledge their existence now.
+
+Randomized content without reason does make a game, and yet it is meaningless to the extent it does not meet game standards, like screaming for no reason just because you thought it'd be fun. This is easily interpreted as insanity.
+
+'A game can't be entirely random nonsense' probably exists already so I wish to avoid redundancy. I finally found something I hadn't considered ahead of time.
+
+Unfortunately, the only chatterbot 'game' I can find is Cleverbot, which leads me to believe that the rest of them die out quickly.
+
+Also, bots within a game are not games themselves, they are interacting with another medium, so a bot moderator is not really a game, although chatting with the bot moderator quickly becomes one.
+
+
+
+CONCLUSION
+There are many comparisons that can be made, and hidden standards worth mention. Hopefully I took care of the most important ones today.
+
+I couldn't help but mention insanity. There's a problem, insanity is a matter of opinion. The definition may change from view to view. For this one case, I refer to insanity as actions taken without context. Everyone is capable of it, and it is not easily faked. Humans have limited randomness, limited insanity, their capacity to ignore context is limited.
+
+A chatterbot that is able to follow rules seems to be the closest link to empirical cloud games, I am sure such a thing exists in limited context, without bugs. But it would have a very limited learning capacity even compared to the contextless bots. So a chatterbot that follows different rules based on the context is the next step. It sounds possible. I doubt this would be created lightly. It just means that eventually the bots would have to grow to the point they match or exceed my expectations a GM emulation system would meet. I'll have a hard time concluding otherwise right now.
+
+______
+For the first time while typing I discovered something, which I had to label a paradox. It's a non-qualifier, which may fool people into believing empirical cloud games already exist before reading this, that's all.

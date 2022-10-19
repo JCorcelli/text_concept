@@ -1,0 +1,304 @@
+Staistics. How can they be used?
+
+list of all statistics
+
+TECHNIQUE
+"GENERAL"
+
+ninja skills used n times : n
+stealth skills used n times: n
+strength used n times: n
+hopped n times : n
+visibly cute n times: n
+listened n times: n
+consumed knowledge: n
+log time open: n
+inventory used n times: n
+gardened n times: n
+
+"PHYSICAL"
+
+time awake: n
+
+fell asleep n times: n
+time asleep : n
+
+time dreaming: n
+
+steps taken (total) : n
+steps taken : n
+puzzle-platform steps taken: n
+distance traveled (total) : n
+run distance: n
+walk distance: n
+times jumped : n
+times dodge (slide, dive): n
+distance jumped (fall) : n
+
+longest distance jump : n
+
+
+distance flown : n
+longest distance in air : n
+
+
+carried objects: n
+carried steps: n
+
+push steps: n
+
+force exerted, carried, pushed, thrown, hit (kick, punch, attack), stomp, and leap (weighted) : n
+
+
+"GARDENER"
+unique plants found : n
+seed planted: n
+watered: n
+fertilized: n
+
+foraged: n
+examine plant: n
+pruned: n
+picked: n
+
+"STEALTH"
+interest points found (signal): n/n
+hidden inside n containers (self): n/n
+times hidden: n
+
+total dives: n
+hidden dives : n
+light dives : n
+light dives observed : n
+
+hidden swap: n
+hidden swap observed: n
+
+time under cover: n
+time in light: n
+time in dark: n
+
+hidden object n times: n
+invisible time: n
+
+suspicious : n
+
+
+discovered n times (retrieved, light, lost cover, caught in boxes): n
+
+
+
+"NINJA"
+wall tech use n times : n
+stealth tech used n times: n
+noise triggered n times: n
+noisy n times : n
+thrown item n times: n
+ranged item n times: n
+club with item n times: n
+ 
+"EXPLORER"
+locations found: n/n
+secrets found: n/n
+chests open : n/n
+tunnels found : n/n
+
+safe tunnels : n
+dangerous tunnels : n
+
+keepers seen: n/n
+keepers evaded (boss wins): n
+monsters seen: n
+
+treasure stockpile : n
+
+"THIEF"
+locks picked : n
+pocket picked : n
+
+loot stolen : n
+food stolen : n
+
+value looted: n
+
+
+"MERIT"
+minigames found: n/n
+minigames completed: n
+
+
+fun puzzles completed: n/n
+random fun puzzles completed: n
+
+buttons pressed: n
+
+doors used: n
+
+dig n times: n
+dug n tunnels: n
+
+explosive n times: n
+dirt blocks moved: n
+
+bank earned : n
+bank spent : n
+bank total : n
+
+MENTAL
+"THOUGHT"
+
+thoughts: n
+thoughts signalled: n
+
+"LAWS"
+laws active: n
+
+
+"TRUTH"
+log was corrected n times: n
+log was broken n times: n
+log was altered n times: n
+truthful log entries : n/n
+fake log entries: n
+
+distortions: n/n (format to %)
+
+log entries: n
+
+decisions: n
+
+"EMOTIONAL" 
+heart containers : n/n
+red hearts used: n
+
+extra hearts found: n
+x hearts used: n
+
+
+opined n times: n
+
+unknowns discovered: n/n
+unknowns inspected: n
+unknowns remain: n
+
+dangers touched : n
+dangers perceived : n
+true dangers : n/n
+false dangers: n
+
+likes touched: n
+likes perceived : n
+
+dislikes touched : n
+dislikes perceived : n
+true harmless: n/n
+false harmless: n
+
+
+discomfort (eg struggle when held): n
+one heart n times: n
+zero heart n times: n
+zero heart status n times : n
+
+groomed self n times: n
+groomed by other n times: n
+groomed other n times: n
+
+"COMMANDS"
+zone used n times : n
+signal n times: n
+camera n times: n
+
+initiatives made: n
+
+
+
+PERSONAL
+
+"TOY"
+toys touched: n/n
+toy swaps (self, other): n
+
+
+times you store in container: n
+times you remove from a container: n
+
+"ARTIST"
+items collected: n
+items in inventory: n
+used items: n
+
+"STOMACH"
+
+smells discovered: n/n
+food discovered: n/n
+food tasted : n/n
+food eaten : n
+food liked: n
+food disliked: n
+
+kcal eaten : n
+kcal burned : n
+
+"EARS"
+heard noises: n/n
+identified noises : n
+noise liked: n
+noise dislike: n
+
+"DESCRIPTIONS" (PROMPTED)
+muscle desc. : fit, flabby, weak
+image desc. : cute, tough, nice
+nickname : owner - big bunny
+
+STORY
+"EMOTES"
+unlocked n emotes : n/n
+use emote n times: n
+
+
+"OWNER"
+#stealth
+time in view : n
+day time in view : n
+day suspicious level : n
+max suspicious level : n
+
+owner called you n times: n
+owner found you n times: n
+owner looked for you n times: n
+owner relationships (name - -100: 100): John - n, Burk - n
+
+owner happiness (-100:100): n
+owner found you n times: n
+
+"PROGRESS"
+days: n (pretty much a linear story)
+days missed: n ( a missed day makes owner sadder)
+
+
+
+"STORY MANIP"
+total articles (book, news, audio): n/n
+
+eaten articles: n
+read articles: n
+listened to n articles: n
+
+story puzzles completed: n
+
+"SOCIAL MANIP"
+social n times (greet): n
+emails sent: n
+gifts sent: n
+puzzles (good ending): n
+
+asocial n times (avoid, go explore): n
+puzzles (bad ending): n
+
+
+antisocial n times (attack): n
+indirect attacks: n
+direct attacks: n
+
+

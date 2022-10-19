@@ -1,0 +1,54 @@
+In this school of thought change is effect.
+
+global (player input)
+	HUD general appearance
+	Accessibility, restrictions / additional commands
+	Minigame
+	Scene
+	Camera view
+	Time scale
+
+Effect
+	change state
+	
+		enable a behavior
+		appearance
+		animation
+	instant
+		sound effects	
+		trigger a single action
+		apply physical force
+			
+Action: local (sender)
+	send global event
+	target a script
+	
+	Effect
+	Timing	
+		advanced warning
+			proximity
+			color change
+			
+	Reflection
+		delay until next effect
+		related effects
+			during
+			on finish
+		
+		values
+			influence next action 
+				criteria for effectiveness
+				detection of criteria
+	
+Reacton: target (receiver)
+	
+	Conflict
+		Pause
+		warn
+	Resolution
+		Effect
+		(end or death)
+	Reflection
+		Profundity
+		Consider better actions to resolve the conflict
+	

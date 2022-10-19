@@ -1,0 +1,23 @@
+LIBRARY
+	I'm worried that a full library is a bad idea.
+	
+contents
+	shelf
+	some books
+	interior stairs
+	
+(ABANDONED LIBRARY)
+
+
+KEEPER
+	you won't have enough time to nibble on even one book here, because even if the old customers are gone, the keepers are vigilant
+	
+BOOKS
+	fewer than expected
+
+STORIES TALL
+	stairs
+	
+HIDDEN WORLD
+	magic items
+	special travel options

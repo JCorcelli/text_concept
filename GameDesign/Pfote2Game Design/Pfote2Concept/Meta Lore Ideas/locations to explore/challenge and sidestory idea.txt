@@ -1,0 +1,53 @@
+I should ramp up the "story" to make locations interesting. Otherwise this sounds boring.
+
+
+starter house - hub world, necessary, small, easy to navigate
+
+explorer challenges (dig tunnels, stealth, platform)
+	
+	unfamiliar building, big and oddly shaped - audio books
+	
+	grove - plentiful foods, gardens, 
+	
+	hedge maze - food, regrowth, landscape can change, making the escape difficult
+	
+	stone building - few locations to dig, lots of objects to carry or push
+	
+	metal maze - the heaviest things, unbeatable without exp bonus 
+	
+	stow away - navigate through people without getting caught or hit
+	
+	triggered:
+	owner is missing
+	
+boss challenges, escape, avoid or defeat
+	pyromaniac - 
+	aquatic - 
+	small bomberman
+	
+	sneaky burglar at my house
+	
+	
+puzzle challenge, magic
+	irrigation lane digging - get magic water bowl
+	apprentice for alchemy - get alchemy book
+	magic sanctuary - get magic book, store ideas
+	
+
+	triggered:
+	hypnotist attacks owner
+	magic sloth
+	
+puzzle, equipment ?
+
+
+keepers, nonviolent
+	
+	owner
+	bipedal giant
+	friendly cat
+	clean robot
+	annoying birds
+
+quest giver?
+crafting challenges ?

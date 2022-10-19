@@ -1,0 +1,19 @@
+
+// Register events that something else can call
+
+// This needs to respond to or call the events
+
+
+
+public class NewBunnyActions : MonoBehaviour, IActionHandler
+	// ActionCallback is subscribed to manager or multiple callback functions
+	
+	public BunnyEat // Pre and Post are recorded directly to the Action Manager
+		PreAction();
+		
+		PostAction();
+			
+	public BunnyMove // by calling this repeatedly other things will update just as often
+		OnAction();
+		
+		

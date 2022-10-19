@@ -1,0 +1,18 @@
+Moving
+Wait
+
+Bunny
+	Comfort
+	Pet
+	Food
+
+Cage
+	Feed Bunny
+	
+Bed
+	laptop
+	sleep
+	
+Door
+	wait for bunny clear
+	shoo bunny

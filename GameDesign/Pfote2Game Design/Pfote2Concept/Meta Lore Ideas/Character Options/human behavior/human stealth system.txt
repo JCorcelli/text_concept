@@ -1,0 +1,21 @@
+Bunny is the only variable here
+"memory"
+	last seen
+	last heard
+	known locations
+
+visual stealth system
+	seen
+		last seen location = location
+
+audio
+	heard
+		last heard location = location
+
+known location list
+	last seen
+	last heard
+	most likely
+	nearest room
+	
+	search known locations

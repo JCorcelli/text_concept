@@ -1,0 +1,33 @@
+FUTURE "Statistics" and "Filters"
+
+
+see story mutation etfc.lnk for expanding ideas
+
+knowledge base
+	
+	filter: knowledge filter is functional only after user generates knowledge
+
+	noun sense "specific" vs "generic"
+	verb (use) mastery, 
+	self opinion
+	tools:
+		experimenting (validating)
+		creative source fact or fiction
+
+laws, restriction
+	filter: law is functional whether user is aware or not. That includes physics, anatomy, and magical.
+	tools, magic:
+		law magic
+
+manipulation:
+	filter: subjective filter based on interaction
+	
+	tools, mindware must be acquired from knowledge
+	
+	tools, mindware:
+		opinion (adjective)
+		logic (reusing, training)
+		dismissing spam
+		copy/altering(lie)
+	
+

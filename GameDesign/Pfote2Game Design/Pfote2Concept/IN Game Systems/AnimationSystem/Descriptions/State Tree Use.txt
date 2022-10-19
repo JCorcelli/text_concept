@@ -1,0 +1,30 @@
+using state tree
+
+there are entry and exit nodes which allow easy reusability
+each state has a default node which branches out into sub-states
+
+
+currently:
+Transitions are being tweaked, a <script> in specific states modify parameters for feedback
+	
+parameter integer GeneralState
+parameter integer SubState
+
+base{}
+base-state defaults to Idle
+States
+Idle = GeneralState 0
+Active = GeneralState 1
+
+Idle{}
+Idle state defaults to Ease-down
+over time it enters monorail
+
+Alert{}
+Alert state defaults to Rest Standing, 
+
+Rest =	SubState 0
+Walking = SubState 1
+Running = Sub 2
+
+parameter bool IsBusy, if the animator is busy that means it's in a transition

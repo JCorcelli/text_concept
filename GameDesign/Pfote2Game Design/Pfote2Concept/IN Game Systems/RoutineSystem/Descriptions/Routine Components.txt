@@ -1,0 +1,32 @@
+Debug
+	check a list of keywords
+
+Basic Routine
+	Reaction: condition -> action
+	toggle enum: hook object / hook manager?
+	
+	routine loop:
+		call default action
+		
+		listen for routine condition keywords, modify routine
+		
+		action stops, lookup conditions, call action
+		
+		repeat
+	
+	Interrupt:
+		wait for resume
+		
+		lookup conditions
+
+NPC Routine
+	customised for one NPC type
+	hooks one Actor for conditions
+	calls Actions
+	
+	
+Soft Routine
+	customised for one scene, or one segment of a story that invokes a delimited keyword
+	hooks the ActionManager for condition statements
+		e.g. "rosebush wilts"  result: Rosebush.wilt() // animation
+		e.g. "{KEY_FORESTBLOOM}" result: ForestBloomEffect.enabled = true;

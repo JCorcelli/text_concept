@@ -1,0 +1,47 @@
+
+1	mousebutton moves indicators on screen, moves indicators in 3D world
+2	indicators may have a signal to screen, screen position is updated to reflect 3D position
+
+3	
+
+	touch script: touch station, calls move to location on enter & exit
+	
+	
+4
+	SmoothRotate in CameraSystem namespace -> makes it look smooth
+	CameraHolder -> queues assitants by priority
+	CameraAssistant -> 
+		CAOnEnable, calls the camera holder when enabled, releases camera holder when not
+	
+		
+5	selection global: stores player interface variable
+	
+6	soft routine script: 
+		listens for any event with a character name and calls CallToAction
+	
+	used by environment: change while scripts. when character is doing a specific thing, the script is active.
+	
+	("routines" are the event portion of an AI)
+	
+7	abstract manager - calling its function from many different objects, passing a variable to avoid making a list. I could have made a list, but that takes longer.
+
+8	IThirdPerson ->
+	BunnyThirdPerson ->
+		it's basically the animated portion of an AI
+		
+9	Stealth
+	System with lights.  Presently uses the action system.
+	LightDetection ->
+		(at angles or not at angles) Utilizes "shadow" colliders at height of the hidden subject.
+	
+	StealthCalculator 
+		Personal calculator ~ only really cares if the bunny thinks he's visible. Submits a SetVisibility action under actor name.
+10	Desire
+	DesireForce -> Uses force to repel / attract DesireIndicator
+	TriggerHUB -> Animator
+	
+11 abstract HUB -> many different objects subscribe to react to it
+
+12 Menu/ SpriteMenu -> 
+	Menu HUB -> "showmenu" sets animation on/off, sets interactable on Unity type Selectable
+		

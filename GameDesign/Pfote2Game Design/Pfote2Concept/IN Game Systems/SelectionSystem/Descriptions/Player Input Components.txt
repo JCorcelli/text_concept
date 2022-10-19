@@ -1,0 +1,12 @@
+Mouse
+	selects 3D targets
+	selects UI
+	
+
+3D targets
+	places target location, opens UI
+	
+
+UI
+	dives into menu, activates option
+	

@@ -1,0 +1,58 @@
+hitprwn
+
+The purpose is to view information, interact, and receive feedback with a goal to create, change, or destroy.
+
+info classification:
+1. Instructions - to perform action
+2. Command - what is or isn't permitted
+3. Advisory - weak command
+4. Answers - response to enquiry
+5. Historical - of a variable
+6. Predictive - complex, examine a variable
+
+I Make scripts communicate
+
+static variable (data holder, load with runtime)
+
+object (data holder, virtual program)
+	object (scripted)
+	
+script
+	variables
+	use the static functions
+	use object reference variables
+	
+	
+II User interface
+
+Context
+	selected option + modifier
+	...
+	object
+	menu
+	shortcut keys
+
+III Game Terms
+UI Context
+	IC avatar 
+		use tool = selected option
+		target = object
+		
+	OOC
+		
+		music
+		hud
+		start menus
+		
+
+Actions	
+	interaction - set up triggers
+		user
+		touch - physic
+		timer
+		flags
+		random
+
+	events
+		information
+		alterations - plot, setting

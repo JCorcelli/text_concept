@@ -1,0 +1,27 @@
+Main concept 
+
+UI State - It's the current way things work.
+
+UI Shift -
+A significant change to the interface and view, the UI state changed a lot.
+
+UI Zone - UI that has taken focus. An expected change of the state.
+
+Zoning - the press of a standard button.
+
+
+Alternative
+Static Box - predefined low-significance position of screen.  Can't block input. It's well-known.
+
+Dynamic Box - gets in the way of input, allows options or dragging.
+
+Hi-traffic Static Box- A part of screen that only shows info.
+
+Dialogue Prompt - Overlap the screen with a box, make a UI shift, require a unique interaction.
+
+no interaction -
+a dialogue without options.
+
+
+
+Puzzling - significant choices from any UI, or puzzle solving behavior, warranting a response from dialogue.

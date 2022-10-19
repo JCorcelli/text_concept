@@ -1,0 +1,14 @@
+goal: intro
+
+walk around until
+
+
+a nice scenery catches the eye
+	objective 1: admire the scenery
+
+	objective 2: set up an organic extractor (+1 food per minute)
+	objective 3: build a starter house out of construction material
+	
+	objective 4: set up a baby spawn (5 food), baby has no knowledge but retains ancestry
+	
+you can begin working on art to gain knowledge

@@ -1,0 +1,46 @@
+RECURRING LAW OBSESSION
+You have a 'vision' which makes you feel the world around you changed
+
+Tier 1 instinct
+	Getting harassed by an animal. You heard / smelled it so it is there.
+	Rain. You smelled the rain, so it comes.
+	Buddy runs away. You enter an area so dangerous a bunny won't go in.
+Tier 2 foreshadowing
+	By changing something ambient, environment, sound
+Tier 3 deja-vu
+	You dream you have to do something you've done before, like a replay
+	Laws and stories are randomized for you. They can be sorted after awaking.
+	
+TESTING THE STORIES
+Just one story ex.
+Akb says a bunny needs to zig-zag. When the story is untested it do not zig, when the story is fact bunny zigs +1 happiness and other bunnies my imitate the zig, when the story is false it gains +1 movement speed.
+
+Just one stereotype ex.
+It may formulate a sterotype that the shadowman is a man. 
+At the same time it is important to listen to people.
+	By default they are both fact, but Eoromwello can reset them to a neutral state.
+	Shadowman is sometimes a woman. Some people are men.
+	It is important to listen to some people.
+
+LAWSMITHING
+From time to time you meet a bunny like akb who is a storyteller or lawsmith.
+
+They warp your mind, create illusions, change the way the game works. It's probably best to write up a minigame first.
+
+WORLDLY MAGIC
+By understanding humans, a bunny can act based on gathered knowledge.
+By growing old, a wild bunny can sacrifice to feed a family.
+A man who is not just a man.
+Black bunnies with magic tunnels.
+Computers. Internet.
+Sense of danger, bunny sense.
+
+ODD BUNNIES
+Odd bunnies are scattered around in some locations and they will follow you within the zone. The place they want to go is indicated.
+
+THUMB BUNNY
+There is one type of bunny with a thumb. Special bunny.
+
+SKY BUNNY
+Instead of paradise or the wild, bunnies can also be birthed in the sky. They share the story, but it is very scant since they came straight down to earth, the best place for bunnies.
+

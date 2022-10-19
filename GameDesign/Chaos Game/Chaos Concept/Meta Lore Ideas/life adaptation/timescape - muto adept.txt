@@ -1,0 +1,313 @@
+(copy of civilization timescape. 
+up to nomad it's indifferent.)
+ugar
+	
+
+	final name
+		""
+		Adept (Kok, Perfect)
+		""
+		
+	skill - 
+		vocalize
+		mold any digested matter
+		
+	name - ugar
+	
+	faith - water, light, green
+
+	0.1
+	conflict - swamp
+	
+	0.2
+	conflict - thinness (hunger)
+
+		Thinness is social stigma. Overeating becomes necessity.
+	
+	1.0
+	trend - k' (k - stop) sounds nice to many ugar
+	
+	rename race - uukar
+	
+	identify pleasant things -
+		ululate k'
+		
+		literally makes k' sound to identify pleasant things
+	
+uukar
+	1.1
+	trend - naming
+	race. some want uk'glar, ug'kar, unkgar and few actually refer to themself as uukar. This is a sign of mind diversity (pop 50+).
+	
+	self. while most refer to their race, some want a name to differentiate their family from others.  This is a sign of internal conflict.
+	
+	1.2
+	thinness (danger) escalation - 
+	
+	thin people get sick
+	
+	thinness becomes an excuse to excommunicate people
+	
+	many die from stigma and poor health (pop 35)
+	
+	hunting becomes a necessity since scavenging is limited
+	
+	
+	1.3
+	stereotype -
+	hunters are denoted as thin, they are given a name
+		ououo (thin/ hunter)
+	
+	
+	thinness is further stigmatized out of desperation
+	
+	culture - 
+		a culture of grouping
+	groups ranked - best - worst
+		fatties, the in-group
+		hunter, multiple groups
+		thins, excommunicated
+	
+	identify bad things -
+		ululate ou (ow)
+	
+	1.4
+	
+	discovery - trappable animals
+	
+	revolution - hunters begin a booming culture
+	
+	refinement - imitating the natural traps
+	
+	new job - trapper
+		tries to catch similar animals in one local area
+	
+	new artisan - trainer trapper
+		called k'ouo
+		
+		shows anyone the trapper skill out of delight
+		
+		
+	
+	
+	job separation
+		trapper (animal farmer)
+		hunter (animal finder)
+		
+		scavenger
+			picks up dead animals and free growing vegetation
+	
+	1.5
+	
+	hunter towns (pop 250)
+		a mix of thin and hunters
+	
+	scavengers (pop 15)
+		a mix of "fat" upper class.
+		now they are becoming thinner
+		
+	conflict - grossly outnumbering fat scavengers the thinner people stop contributing.
+	
+	1.6
+	culture shift - fat scavengers become trappers if they can
+	
+	class divide - 
+		fat - revered people in individual tribes are notably fatter, and receive gifts
+		worker - people who enjoy work
+		moderate - people who raise children and work some of the time
+	
+	1.7
+	conflict - class strife
+		fat v moderate
+		fat people entice moderates and begin to quarrel as their behavior is similar, but their treatment is different
+	
+	1.8
+	discrimination
+		workers are discriminated, despite the fat v moderate divide a scapegoat is determined
+	
+	New class - 
+		nobles
+		commoner
+		
+	land claims
+		The nobles declare land arbitrarily
+	land deprivation
+		commoners can no longer rest on land owned by the nobles
+	migration
+		commoners leave the ancestral easily habitable landscape and form nomadic tribes
+		
+		The nomadic tribes call themself uoukok, eventually.
+		
+	1.9
+	conflict - culture extinction
+	
+	the nobles become thin. They are wiped out when a nomadic tribe discovers the ancestral land and sack it.
+	
+	2.0
+	Nomads split off and form uoukok, which comes to mean nomad
+	
+uoukok (means: nomad)
+	2.1
+	Meritocracy - competition, and increases secrecy inside tribes. Artisans are coveted and knowledge is shared less often.
+	
+(end/ timescape nomad) begin Muto seed(see training)
+	
+	Risk venturing in dangerous contests of strength and willpower grant enormous social merit.
+	
+	Self-improvement quickly emerges in a race to be the strongest, smartest, and most powerful out of each clan.
+	
+	Traits of the deadliest foes were marked, and seen as favorable when anyone imitates them. Speed, deadly poison, biting, weapons, all is allowed in even the friendliest combat.
+	
+	2.2 Blood Feuding
+	Great warriors with deep run bloodlines struggle endlessly for dominance.  When they're unable to get a surrender, they fight to the death.
+	
+	The nomadic tribes survive constantly on the move, but also in disarray because of their boisterous gut rending nature secludes them from all others.
+	
+	The greatest killers are always on top.  Always leaving, with the merits of their victory burned, bitten, bruised, and cut right into their thick hides.
+	
+	They'll grow fur and thick skulls, advance their appearance of age and toughness through harsh conditioning.
+	
+	Basic Merits
+		Remaining as Pack leader
+		Counted battles
+		Warrior kills
+		Children borne
+		
+	Skill in anything wasn't measured any way other than combat.  Knowledge was only as good as it kept you alive, outside a fight, or exiting one.
+	
+	2.3 Blood Sports
+	The longevity of seemingly indestructible clans and their wandering leaders scour the mindscape and of their world.  They are practically gods of their time, gods of the apocalyptic nature of their race, feasting on everything, animals, slain foes, weaklings. Nothing holding them back.
+
+	Young are borne with more and more destructive tendencies. An inborn desire to kill eachother. An intellect to wield and fight that's unmatched.
+	
+	The fearless nature of the young warriors intermingle on smaller battlefields with a strong desire to dominate the resources not given, but taken in this world. 
+	
+	2.4 Gene purity
+	
+	Eons pass. An evolution of the mind takes part.  Lineage is recognized to yield different children, some who kill their parents, some who remain innocent.
+	
+	The gene purity clan lead by an honor and nature faction grow sick of fighting children. They dare to kill off weaklings of their own, but are unable to kill off the strongest of the others.
+	
+	This is the reason why.
+	
+	Gene Clans
+		Purity (Supremicist)
+			Nature - Longer Life
+			Honor - Strength
+		Number
+			Water - Natural swimmers
+			Rat - Rapid reproduction
+		Skill - A valuable sect with unusual talents worth studying.
+
+		Intellectual - Hidden in long ages. When they emerge, they are natural leaders.
+	
+	The clans would engrave themselves and attempt an organized purge. It was very easy to forge for even the simplest child of intellectual class.
+	
+	new artisan, purity engraver - identifies tribes by marking skin
+	
+	??
+	Conflict - Clan warfare
+	
+	The purity clan took the most aggressive stance and heavy casualties quickly mounted on them.  This was not worth their time.
+	
+	Rat clan recruit the water faction into a clan of numbers, it seems the rats dominated every forest and stream.
+	
+	Intellectuals worked from the shadows to avoid detection.  They worked within the other clans, gradually manipulating outcomes.
+	
+	Finally, each region had a sect with outlying skills of different nature.  Although dangerous and warlike, they behaved defensive and bartered the most powerful clans.
+	
+	
+	2.5 Oligarchy
+	
+	The clans are meted into equal parts with intellectual state heads.
+	
+	Then, through continent wide taxation, resources are funnelled out of the skilled sects.  All of it goes to the leadership who hoards and redistribues to the tribes.
+	
+	The VERY fat kings
+	
+	With the resources pouring in some Uoukok become noticeably larger, fatter, or stronger the more food they consume.  It is thought these traits belong to the honor clan for their objectively big stature. Contrary to that belief, geneology was developed in secret. The rubber banding growth genes were brought to the intellectual side.  Once someone became so big they were unmistakable in stature, they were promoted to clan leader if they simply thought to say so.  This trick was good as any to prove leadership worth outside the intellectual clan.
+	
+	The Spectres Myth
+	
+	In the wild there was an unusual trickster that was barely visible. Legends of this spectral entity created a stir that lasted some time, and every time it recurred the clan leaders gathered to discuss some important matter.
+	
+	2.6 The Mounting Threat Narrative
+	
+	Due to observed phenomena wild animals are regarded as a hostile threat.
+	
+	Pets and farms are raised with more robust livestock to survive the inevitable invasion. 
+	
+	A true threat never came.
+	
+	Bloodsports rise again, so the clans would have greater, deadlier warriors.  Many times the bouts were merely diversion. Children trained this way, it got tedious for them, and they tended to make death pacts and such.
+	
+	When news of treachery brewed it was stamped out quickly.  Trials by combat grew rampant.
+	
+	This unusual form of government lasts.  The diversion tactics kings made were calculated in secret meetings every time. 
+	
+	2.7 (Muto) Homonculus - Seed of a future
+	
+	The intellectuals grown vast in number begin a long cycle of genetic research.
+	
+	New Artisan (Muto) Genecrafter - Quite capable of manipulating genetic traits, the jewel of science.
+	
+	New species ?.?
+	New alien species are generated all the time by a genecrafting race.  They constantly judge and alter self and surroundings.
+	
+	With the initial motive of robust animals, random mutations, and furthering the species, dangerous monsters were concocted and realeased to the wild, enough to be real challenges.
+	
+	Conflict - Mutant Farms
+	Not just wild animals but the farms raising animals came in conflict with survival interests. When cattle revolt or a cat grows wiley the owner needed an army to hunt it down.
+	
+	
+	Evolution - 
+	3.0 Adepts (Ukito) - The new intellectual race. Capable of bio-manipulation and genetic self-perfection.
+	
+	4.0 Drones (Ukiu)- an adept floral species that harness and mutate the land mass, secreting substances of calculated nature.  Quite capable of self-mutation, and manipulating surrounding animals and other plant life.
+	
+	
+	Considering the pinnacle of life in their image. The intellectual clan play with their own nature and something of a natural mad scientist arises.  The adept strive to pervert the nature around them and control the clans, at all time.
+	
+	It is uncertain if the adept could be considered the same species, genetically, they're no longer Uoukok.
+	
+	
+	
+	
+Muto Homunculus Drones Ukiu
+	4.1
+	
+	Their surroundings were instantly changed.  It all became perverse and indescribable. The ground grew soft and uneven, the plants died momentarily before getting warped into deadly razors and fuming pillars.
+	
+Muto Homunculus Adepts Ukitu
+	3.1 
+	Spawning not unlike the species Uoukok from a single germ sized origin the genetic knowledge flooded their senses and they began to ensure that their birth would be immaculate.
+	
+	They emerged as the most beautiful creature ever seen.
+	
+	Great Memory, The Ukitu -
+	The crowning achievement of genetic manipulation.  Perfect mind, perfect form.  The common sense of an adept eludes even the forefront of logical science.
+	
+	Many intellectuals volunteer to convert, emerging from a crystallis as something more with their memories intact.
+	
+	
+	3.2  The adept, psychic virus
+	
+	With a goal, the adepts had full bioconversion in mind, but the virus only affected those of their race they had long studied.
+	
+	The virus adds a brain structure to the next child borne.  When developed they gain a psychic receiver, so they can be controlled.
+	
+	An initial psychic control is designed and used by adepts, because a more useful system would overstretch their means.  Although the limit is soon overcome through self enhancement.
+	
+	3.3 (4.1) Terror plant
+	
+	The landscape is transformed and distorted, nothing is like it once was.
+	
+	The remaining rebels are easily sniffed out.  Those who serve no purpose on this world are at their end.
+	
+	3.4 Space - Limits - And Macro body invasion
+	
+	The desire to extend to more resources grows strong and space-faring aliens are borne from the adept's hand.  The land-borne adept could only create, and not convert to a space capable race.
+	
+	This startling revelation left them miserable for some time.  They then created massive creatures, like none ever seen, living colonies that could reach space from the surface of the planet with very little waste. From there vessels could fly into space on a whim.  They made the vessels, then they converted orbiting bodies into space colonies. The colonies were repurposed for space flight production and they began invading every last physical body.
+	
+	??? Sort of an evil ending

@@ -1,0 +1,20 @@
+When you adjust the item you're about to deploy it will always be saved like you are carrying physical paper, assuming the game is saved
+
+NOT DONE
+
+Load UI 
+	(Starters: A big select list)
+	Style points: literally a bunch of files from a drawer
+Save As 
+	Could open the same File list
+	In some cases I could compare what I'm overwriting by pulling the old file (ready to be renamed)
+
+Saving UI (animated and scripted)
+	DungeonItems
+		Loaded Customization (backup list<prefab>, current list<prefab> found in dict<prefab, save>
+		
+			
+UserInput
+	Saving UI
+	Customizable Item [set, activate]
+	Spawned Exit

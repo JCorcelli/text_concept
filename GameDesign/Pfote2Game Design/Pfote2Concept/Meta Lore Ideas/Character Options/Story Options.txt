@@ -1,0 +1,13 @@
+
+NON-SEQUITOR
++npc actions.
+	implements: animation, movement
+	
+	COoperative actions
+	bunny + human
+		comfort
+		pet
+		simultaneously fooded
+		play/fight
+		human holding bunny
+		

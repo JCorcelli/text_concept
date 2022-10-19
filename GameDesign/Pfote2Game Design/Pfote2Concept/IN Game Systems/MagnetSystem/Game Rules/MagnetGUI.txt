@@ -1,0 +1,46 @@
+a figment and 2D interface
+
+
+
+
+figment- not physical, but imaginary
+2D- screen or camera space, possibly projected on 3d Plane
+
+
+gui state:
+	active	- selecting imaginary, any misc. contex involving
+		appear: solid, animated
+		events: drag, click
+	idle	- not moving
+		appear: faded, alt animation
+		events: hover, select
+	disabled - moving, selecting real objects, not selectin imaginary objects
+		appear: invisible
+		events: no
+		
+		
+Discovery use
+	magnet is found
+	GUi is enabled, magnet is selectable
+
+Placement use case- 
+	gui is selected and expands
+	magnet is pulled out
+		magnet is "dropped" in 3D location on screen
+	
+Remove use case-
+	magnet is on-screen
+	gui is selected and expands
+	magnet is stored in gui
+	gui is deselected and shrinks
+		
+Gimmik alt use (npc)-
+	npc takes magnet out and noms it :9
+	
+alt use for utility
+	spawn 3D object
+	combination of magnets, like alchemy
+	
+	setting placing
+	holding button press on magnets/ activation
+	keybinding magnets/ activation

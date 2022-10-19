@@ -1,0 +1,51 @@
+Begin.
+
+You are NOT the bunny, but an observer.
+
+The bunny is in a garden. He exits and runs to a branch to chew on it.
+
+The wind "WOOSH-es" causing the bunny to stop for a moment. Then he turns and looks around.
+
+> You look really dumb / a text on screen declares / > If the things talk they talk / the unknown interjects while revealing himself.
+
+The two bunnies bond for a moment with a cadance. The newer one is fluffy and extra silly looking. It has gold and green fur.
+
+> I'm the boss / he indicates this as he nudges the first bunny with his nose.
+
+The bunny does lick him.
+
+> It's settled. I'm the boss. / It then hops away glancing back / > follow along.
+..
+> You aren't hopping the right way, hop like this, it's fun! / A zigging jig is displayed. / Both bunnies participate in the jig.
+
+> I'm taking a break. / so does the other silent bunny. / > you catch on really quick.
+
+> Check this out next! / he thumps the dirt of the ground / > try it / and the other bunny does.
+
+> Also this / he yawns / so does the other bunny.
+	
+The duo enter a playground with a few other colorful bunnies.
+
+> Rest in places like this. It feels. / the wise bunny then rests
+> Let me tell you about where we're going.
+	> story: yada dyadya. Shather.
+	
+	/ You learn about Shather but also are misinformed about it.
+	
+	> story 2: See all these bunnies. Look at our accomplishments now. It is proof that bunnies rule the world.
+	
+	/ You are misinformed about the bunnies place in nature.
+	
+	> hints: bunch of prejudice
+	
+
+FREE ROAM IN PARADISE
+
+The original bunny roams freely, responding to your clicks. What he senses appear in little thought bubbles above his head. The tall grass smells wonderful. 
+
+There is a rock with a chiseled out shape of an apple. Upon cloer inspection, by the player command an apple tumbles out.
+
+"shortcut"
+A small patch of blue roses blocks the way surrounded by annoying birds, the bunny can enter the roses, and go past the birds unnoticed. Then if he's mischievious he can pop his head out to scare them away and save a second on a return trip.
+
+A single small bird arrives and doesn't bother anyone.

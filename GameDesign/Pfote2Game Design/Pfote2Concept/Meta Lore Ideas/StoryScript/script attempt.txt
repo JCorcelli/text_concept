@@ -1,0 +1,40 @@
+I think I need parsers on all the time, and they record whatever is there. what they record may not be dtext ?
+
+hwo awkward could a multi-threaded conversation be?
+
+user jerri
+user dave
+user john
+
+{user jerri}
+How about...
+{user john}
+Why don't we walk to the tree?
+{user jerri}
+We could...
+{split "
+{user dave} 
+I thought..."}
+{sleep 3 }{user jerri}
+How about a quic k rest?
+
+
+
+
+How about...
+
+Why don't we go to the tree?
+I thought...
+We could...
+
+How about a quick rest?
+
+
+Jerri: How about...
+
+John: Why don't we go to the tree?
+{Combine
+jerri: I thought...
+Dave: We could...
+}
+Jerri: How about a quick rest?

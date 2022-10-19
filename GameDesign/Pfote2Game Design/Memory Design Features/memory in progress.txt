@@ -1,0 +1,126 @@
+o Make a folder about memory wiki
+
+memory wiki folder
+
+make UI attempts
+	o i have pictures
+	
+	o I think if I use the memory box to 
+		1 display stuff happening
+			the boxes aren't thread safe
+			the icon and title isn't parsed
+			
+			VERBATIM
+			//////
+			card' = memory node, displayed on right side
+
+			1 a new card in deck, start blank, play at deliberate speed
+			2 a new card overwrites old
+			3 a card text is combined with another
+			4 a card weakly denotes a new thread is combined, with a randomized break pattern.
+
+			5 a widget may be in place of a card, or text. Widget is anything.
+			//////
+			
+			
+		2 memorable options
+			if I make a widget it should use the body
+	ooooo
+	open/close
+	o widget/history ascending order from bottomright
+	
+x	DON'T BOTHER SHOWING WITHOUT TITLE AND SUCH
+		I think I made a Physics metaphor a long time ago. eg The coordination to hop stairs must be trained.
+	
+? MAKING CHAT BUBBLES
+	i need variety of chat boxes that'll play the text.
+	
+	1	the dialogues start - the parser recording all events.
+	
+		x with mind reading you could see what happened, or a recorder was in the room.
+
+	dtext user? text is a combined stream so I'm not sure if 'user' is an appropriate or meaningful variable in dtext. maybe participants
+		
+	2	if I encounter it, a dialogue could form - the parser recording streamed text
+		
+		head bubble (ICON ?) indicating 3D speaker, known or unknown
+		a chat at the bottom.
+		
+	3	the UI generates a memory widget in zone. selection should start the chat zone
+	
+	This offers potential
+		options
+		camera
+		and easier to read text, in wait mode or realtime
+	
+	
+	ISSUE AT THE TIME OF THIS 
+		1 The conversation bits SHOULD BE one merged thread for each occasion.
+		
+		2 this program has a one parser formula. 
+		
+		3 a single parser handles real events. 
+		one parser per npc is needed to mutate memories
+			
+		4 one thread can look like two people if I split their actions up
+		
+		5 as long as text is organized, it won't matter how many people there are.
+		
+		
+	
+	4	when it's the end - 
+		observed - the memory sticks. available bits in wiki?
+		
+		unobserved- only the proc remains, in case it needs to quickly setup a scene
+		
+		special effects
+			in zone - the dialogue visibly moves into memory at the bottom of the event stacks.
+			
+			outside -there can be an event notice approximately at new memory location
+			
+			either. the head bubble's completion could have a flair
+	
+	5	memory. events, icons, widgets populate a scrolling side bar
+	
+	BUBBLE ICON
+	o have chat-indicators that display and float like the magnets. fighting for screen space and merging with a bulk experience.
+	
+	future?: I'm curious if I could get a metaball/bubble merge effect LATER
+	
+>	MEMORY LOG...? MEMORY QUIPS
+	bstorm
+	chat, zone chat, events, re-memories
+	collapsable organized (dbox) text, expandable icon
+	
+	So I thought that each memory in the list would be a saved grain, now the idea is I should make a generic list of all (memory items). it should reload like an energy shield
+		*wiki can bolster this as a deep thought mechanic, informatic and chat logs
+		
+	it, and other things like it that display chat need the core text commands - methods from dbox
+	
+	DESIGN
+	dialogue
+	{newline}
+	tab
+	>icon | title (user, event, widget)
+		  | text
+		  | [options, mad inserts]
+	end of dialogue
+	[options, mad inserts]
+	 
+memory wiki, 
+	
+resource user BUNNY
+	ref to all storage type 
+	primary "MemoryStorage"
+	
+			
+add stuff to memory, I'm clearly listening
+
+stream a DText, not just the memory... 
+	
+...
+Datesim?
+datesim isn't really a person, although it might act like one? It can insert text. It's just there making a very deliberate stream of text, and I know exactly what options I've tried.
+
+events from datesim... could be bottom dialogue, it is definitely a memory
+

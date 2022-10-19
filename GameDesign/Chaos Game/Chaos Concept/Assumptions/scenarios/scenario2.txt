@@ -1,0 +1,12 @@
+goal: skill tutorial
+
+### It would make sense to say hey there's 1000 things to do, so find out what's good. Some stupid idle game appeal won't cut it.
+
+
+tutorialize what you can be done, or let the player figure it out?
+
+
+endgame
+	Now a present game sandbox is open to you, you can build whatever you want.
+	
+	it gets boring if you think it's just this

@@ -1,0 +1,7 @@
+My calculator (4 years). It fakes Bayesian networks, information theory, and NLP with parameters acting as contexts such as story, objects in scene; with medium-related physics and other analog filters like character experience. Lambda methods embedded in text being parsed are triggered based on context. Etc.
+
+My parser (4 months), one of the three, generates GUI based on preprogrammed rules. Inserting interactive elements from a grid-oriented abstract language that can read in four directions or along a chain of connected chars. For scale, it also changes rules with a parameter.
+
+Code and comments can be embedded inline with both custom languages.
+
+An autoclicker. It plays an offline game. It executes strategies that require constant focus, hours of grinding, and lightning reflexes.

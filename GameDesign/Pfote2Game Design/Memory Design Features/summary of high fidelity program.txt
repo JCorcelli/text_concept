@@ -1,0 +1,90 @@
+Game features, or is this an editor?
+
+DIALOGUE
+text program helps the developer me to gradually implement various ludic interfaces in-game
+	program - is very slow and really the only path for original features
+	
+	lambda script - source dialogues are ultimately the 2nd most flexible coding feature in this system
+	
+	virtual media - books, app, browser, billboards, subtitles on videos. This is going to be regarded as the least volatile form of knowledge scripted into the game.
+	
+	abstract dialogue panels - speech, thoughts, and onomatopoeia, stuff you'd only depict in a comic book is made visible. This is the most volatile form of knowledge scripted into the game.
+	
+	interactive text - Like a GUI, hovers, clicks, and related content extend the functionality through deeper programming.
+	
+	
+lambda in source dialogue
+	widgets are softcoded while writing for a programmer to figure out what to do with
+	
+	text decorators, animations, text behaviors (speed, font, color) are in place for display manipulation.
+	
+	* coding an intricate dialogue is a harmony between the two
+	
+	
+	user feedback and user inputs are game-behaviors
+
+		opinions, responses, names
+		immediately visible options are saved, and not always meaningful
+	
+		parametric options will include drag and drop, multiple choice lists, as well as typing your own answer in
+	
+
+creative in-game tools (tentative)
+	paint - player's choice visuals may be stamps, or a paintbrush utility
+	
+	text editor - dictate your fantasy story is verbatim, but it is not the same as magic see below.
+	
+	vector editors - modifying the way things look and move may involve some simple vector utilities
+	
+	magic word - when text is used it may have some other effect, may be confused with psychic or arcane
+	
+creative developer tools
+	dialogue source (could be written in game if I load it)
+	scripting ???????
+	programming - nope, no reload
+	mod support - I don't know how or even if it's possible.
+	
+PHYSICAL STRUCTURE (3D)
+3rd party developer tools
+	architecture, implied uses is a practiced skill and I haven't practiced.
+	
+	sense, space, applied uses. If there is no flat surface, it will hard to stand still or feel safe.
+	
+	other stuff...
+	movement and shape
+		animation
+		vector, simple physics
+		voxel
+		mob and static design
+	graphics,
+		shader
+		material, texture, color, light, appeal
+
+contextual content (simple version)
+
+	sense "use", push button, click
+	moving objects. It just needed to work.
+	
+	doors are quite impossible for a bunny to open but they know everything that's happening on the other side.
+	
+	containers are easy to hide in
+	
+creative in-game tools, contextual content
+	what tools are at the player's disposal?
+		I'm working on including these, and they're common, well known, artistic approaches.
+		
+		
+	movement and shape - 
+		primary predictor of what something is
+		just look, click it
+	
+	
+	material - 
+		secondary predictor of what something is
+		by feel, touch it
+
+	color - primary expression, easy to alter. (eg Red is danger)
+	
+	light - secondary to expression creates mood, drastic. Dark is safe but noise makes safe even worse.
+	
+	space - an object in a fixed size location. With smaller objects gives it greater meaning. Pretty easy to miss this level detail.

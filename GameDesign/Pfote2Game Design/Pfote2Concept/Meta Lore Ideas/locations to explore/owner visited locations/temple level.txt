@@ -1,0 +1,7 @@
+TEMPLE
+
+sure an owner can work digging stuff like this up but it's going to be time based
+
+JOB
+	archeologist
+	

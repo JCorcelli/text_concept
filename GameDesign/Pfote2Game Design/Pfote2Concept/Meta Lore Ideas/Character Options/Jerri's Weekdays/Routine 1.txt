@@ -1,0 +1,62 @@
+Weekday routine (boring kind)
+
+*** MORN
+if BunnyInCage 
+	mad = no
+else
+	Check for piss
+	
+Open Cage
+	
+If mad..?
+	Change Routine
+	
+Morning Breakfast
+	Deliver Carrot
+	Prep food
+	eat at table until [time]
+	
+Call Bunny
+if Kissed
+	kissed = yes
+	
+Prepare exit
+
+at [time] Leave # goes to work
+
+*** MID
+standing animation sequence of work
+
+*** EVE
+enter at 5:40 pm
+Change clothes
+
+Open Cage
+Add food to cage
+Random Add [vegetable]
+
+Evening Meal
+	Prep food
+	Eat on bed
+
+Get tired
+Petting Bunny
+	Get tired +1
+	
+Sleep when tired 100
+
+at [random time] visit porch garden
+Feed Bunny grass
+
+*** NIGHT
+Demand kisses
+Send Bunny to cage
+	Point at cage
+	Call bunny
+	if BunnyInCage
+		Close
+	else
+		CageBunny
+
+GoTo Bedroom
+Sleep

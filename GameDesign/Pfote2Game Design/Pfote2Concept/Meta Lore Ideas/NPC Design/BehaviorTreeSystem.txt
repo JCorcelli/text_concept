@@ -1,0 +1,11 @@
+
+NPC.HUB
+	Behavior State HUB (lookup table)
+	StrategyHUB (active strategies)
+	
+ShubAdd (with individual strategy lists)
+Behavior Decorators / wrappers
+
+Lookup Calculations
+
+Procedures

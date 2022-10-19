@@ -1,0 +1,86 @@
+
+
+
+public delegate void ActionCallback ( IActionHandler sender );
+
+
+// public class ActionDetail // use to write the details, so the handler can be destroyed
+public interface IActionHandler // interface
+	public event ActionCallback preAction; // called before
+	public event ActionCallback postAction; // called after
+	public event ActionCallback onAction; // called during
+	// required for manager
+	public string		who 		= NPC. name
+	public string		what 		= this.action
+	public string		when 		= Clock. timestamp
+	public string		where 		= in the open, or station
+	public string		why 		= reasons (eg collision), or NPC.  routine
+	public string		how 		= NPC. items, knowledge, skill, emotions [,misc detail]
+	
+	// decorative text strings
+	
+	protected OnAction()
+	{
+		if (onAction != null)
+			onAction(this)
+	}
+	protected PreAction()
+	{
+		if (preAction != null)
+			preAction(this)
+	}
+	protected PostAction()
+	{
+		if (postAction != null)
+			postAction(this)
+	}
+	
+
+
+public class ActionManager  // listener
+	public static ActionManager instance;
+	
+	public ActionCallback preActionCallback;
+	public ActionCallback postActionCallback;
+	
+	Awake
+		make singleton
+		
+	Start() {
+		// at startup we get a full list of everything that implements IActor
+		
+		foreach a in list of ActionHandlers
+			{
+				 a.preAction += PreRecord;
+				 a.postAction += PostRecord;
+			}
+	}
+	
+	protected PreRecord( IActionhandler action ){
+		if (preActionCallback != null)
+			preActionCallback( action ); 
+			
+		read from action
+			who: 		NPC. name
+			doing what: this.action
+			when: 		Clock. timestamp
+			where: 		Manager Location. in the open, or station
+			why: 		reasons (eg collision), or NPC.  routine
+			how?: 		NPC. items, knowledge, skill, emotions [,misc detail]
+			
+	protected PostRecord( IActionhandler action ){
+		if (postActionCallback != null)
+			postActionCallback( action ); 
+			
+		read from action
+			who: 		NPC. name
+			doing what: this.action
+			when: 		Clock. timestamp
+			where: 		Manager Location. in the open, or station
+			why: 		reasons (eg collision), or NPC.  routine
+			how?: 		NPC. items, knowledge, skill, emotions [,misc detail]
+		
+		
+		
+		
+	}

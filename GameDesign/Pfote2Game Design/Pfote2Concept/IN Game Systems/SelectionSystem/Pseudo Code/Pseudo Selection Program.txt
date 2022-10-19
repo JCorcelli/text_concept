@@ -1,0 +1,41 @@
+
+
+Class SelectionManager
+	String selected = "None";
+	bool locked = false;
+	
+	Select(Selectable s){
+		// is this locked?
+		if (locked = true) {
+			// is it the right group?
+			if (s.group = selected)
+				s.OnSelectAction();
+				
+			else
+				no action?
+		}
+		else
+			s.OnSelectAction();
+	}
+	
+
+Class Selectable
+	SelectionManager manager;
+	String group; // unique select group name
+	
+	OnSelect() {
+	
+		// defer to manager or take control
+	
+		manager.select(this)
+	}
+	OnSelectAction() {enable, disable, play sound, animation, setactive, lock manager}
+	
+			
+		
+		
+	
+	
+
+	
+	

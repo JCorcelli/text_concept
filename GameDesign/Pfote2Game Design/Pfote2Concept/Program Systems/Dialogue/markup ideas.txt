@@ -1,0 +1,191 @@
+markup ideas.txt
+BASICS
+
+there are local actions
+	incl. but not limited to:
+	user
+	parser
+	display
+	
+there are global actions
+	if an action is registered, any stream will use it
+	
+there are parsers
+	redparser, local and global
+	mediaproc, local
+	streamparser, local
+	display, local (drops the lambda)
+	
+and lambda looks like
+{method params}
+
+written concept
+JUST WRITE THE TEXT
+THEN WRITE THE METHODS
+
+
+any object
+	act = new DAction("name")
+	act.Add(Method) 
+	# Method(string s);
+	# Method parses string "[param param]"
+	or "", just ignore it
+
+REGISTRY
+DAction auto- registers and when I run the program returns a no-method error message
+
+
+GLOBAL METHODS NAMING
+	Name it World: alter game state
+
+	Name it Mind: alter npc state (behavior tree, to alter DText use join)
+
+	Name it Magic: accessible to player
+
+	Name it Law: special directives
+		
+	
+combined with other text an escaped code could be powerful. But there must be some way to make DText, reference DText, Users, or storage without spending a long time cookie cutting the methods.
+	
+localaction is like a namespace
+for globalaction use Magic.GoTo
+
+SOME CONCEPTS
+
+{split stream, fake user}
+	parallel DText, it should spawn a fake user, it can have any properties
+	
+	
+{modify, DText} ... {endmodify}
+	like a mediaproc, targets a DText to store this in as it reads.
+	this method circumvents filtering
+	
+	it is sensible to behave like mediaproc
+	"add a fresh DText to storage and write to that, it will appear to be like any other DText
+	"
+	or similar to a join
+	"find a recording device (pencil+paper, camera) and target the last DText
+	"
+	this is cryptic
+	"any !readOnly DText not in use, proc or goal
+	"
+
+{mediaproc, real user}
+	trigger a media proc in user with split text
+{join stream}
+	modify DText.storedText, it should target another stream's goal text
+{method}
+	no parsing required? just write a method
+
+
+OLDER CONCEPTS
+user
+	conditional
+	
+	[local]
+	{TargetIfNear "Korna"} - calls a method to search for Korna
+	
+	{user} - changes to currentUser
+	
+	assign user
+	[local]
+	{user Jess} - goaltext.currentUser becomes Jess
+	
+	[local/global]
+	selecting user
+	{User.Select [User Jess]} - the selected user may be stored locally
+	
+mutator
+	assign mutator
+	{mutator.select [type]} - a mutator of type is selected
+	{mutator [type]} - a mutator of type is spawned and selected
+	
+	[local]
+	{Mutate} - adds text to selected mutator
+	
+storage 
+	[local]
+	{storage} - selects current storage
+	{Storage [Storage name]}
+	
+	{store} -  adds text to selected storage
+	
+	adding to selected user
+	{User.AddStorage type}
+	
+	{User.Add text} - ref text in user's current storage
+	
+	{Storage.Add DText} - ref text in the selected storage
+	
+	
+parser
+x	{parser [user name]} - select the user, not the parser
+	c instead of altering parser, alter the filter
+	
+	[global]
+	{Filter.storage  options} # sorts and alters fidelity
+	{Filter.media  options} # real user, local
+	
+	{Filter.red options} # redparser, 'script' global and local actions
+	
+	{Filter.stream options} # streamparser, local
+	
+scope p1. end of scope.
+	The filters check dtext stats so if I set the volume, and falloff of audio media
+	[local]
+	{Audio.setvolume 12} ... {end volume}
+	{Audio.setfalloff} ... {end volume}
+	
+	
+	
+scope p2. wait
+	what about dynamic method usage?
+	
+	wait 5 seconds, and then invoke "end"
+	[local]
+	{setnose true} ... {wait 5 {setnose false}}
+	
+	or do a split
+	
+scope p3. nesting inclusions 
+	If the DText variables would act like the header, I don't need a scope, if I pass one in.
+	
+	inclusions = dictionary<string,DText>
+	[local]
+	{learn greeting "{split waves hand with fingers towards floor}"}
+	# this is an example of a nested dtext
+	
+	hi {include greeting}
+	
+	
+	
+end scope? p4. "nesting DText"
+
+generate DText
+	Well. This is pretty cool sounding. But it's just an extreme version of the above.
+
+DText walkBack
+"{user} takes a step forward
+{split
+"""
+
+{setcovert true}
+
+# reqires viewer to be perceptive.
+
+and then {user} takes a long step the other way, so he's a few feet back from where he was originally.
+
+""" 
+	}
+{join targetUser
+"""
+
+{user} vanishes {vanish}
+
+""" 
+	}
+	
+the result is three separate streams
+	the original
+	a new parallel stream with covert set true
+	an alteration to targetUser's goalText

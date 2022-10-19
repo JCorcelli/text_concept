@@ -1,0 +1,10 @@
+Coded
+
+Actor
+	An object or npc in location
+
+Action
+	Found in actor, when called it is recorded to actionmanager
+	
+ActionManager
+	A record head of location, has a hook to all actors

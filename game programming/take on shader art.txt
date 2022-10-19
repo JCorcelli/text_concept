@@ -1,0 +1,19 @@
+take on shader art
+
+I sort of rambled this off in my head and it sounded good.
+
+The way I am trying to present the game.
+
+I take a few cues from digital art lectures and draw the original image. I make a 3D scene based on this. Regardless of the technical backend/ shaders, the result won't immediately be an image with the qualities of the original. It took some time to figure out the pipeline that translates the 3D into a palettable 2D image. 
+
+
+
+
+
+
+
+There are some proven formulas to 2D drawings. When making an image I can go off those, then I use that as a primer and a goal. I make the 3d forms. If the result doesn't match the world that 2D art it is portraying it becomes something different.
+zzzzzzzzzz
+I can make the 3d in short order, anyone can. But if the result doesn't really meet the expectations of a 2D art form then you have something like a handicap, you can deny it.
+zzzzzzzzzz
+Well the way I resolved this is to take a look at the in-game from different angles, and if it was close or better than how I draw things, it passes.

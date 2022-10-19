@@ -1,0 +1,266 @@
+title: dialogue feature progress
+
+ 
+
+"simulating local resources 2" {
+mono-derivative classes for ingame use
+   selectable media
+
+	proc use
+?	1 if a player-user 'use' something it can proc a media stream
+	{
+		Scannable can be .
+			target to acquire / bounce knowledge off
+			something to instance as real storage, ie a book
+			a superuser performing various activities
+	}
+?	2 if a npc user 'use' something it can proc red stream or media
+	{
+		Downloading files to computers
+		Spreading fliers
+	}
+}
+
+"simulating local resources"
+{
+mono-derivative classes for ingame use
+	p real storage, one storage
+	superuser.
+		o real user, user initializes multiple storage
+		o fake user, storage with peripherals
+	o silent box, no storage, n streams
+
+	o source, i want the spawn method to search for and create a user and storage if it's mentioned in the source
+	
+	o DMediaHub spawns all required source DMediaLibrary{LibrarySource, TextCategory}
+		it gets caught by super user (and filtered?)
+		
+}
+o	superuser (real or fake)
+		resources *gameobjects*- sensor scannable realstorage + anything else
+		 
+filter is the first step to modification of DText content
+{	 
+	o make a dictionary define filters
+>	filter needs component to update its params
+	make a component instance whichever filters seems ok, and they autoconnect to resource hub
+	dictionary > component 
+		> superuser    > parsers   + mutator # if mutators use filter
+		> real storage > processor + mutator
+
+	... 
+	 
+		1 hub.resources{
+			n components{o .filter resource{n filters}
+						.Scannable
+						.Real Storage
+			}
+			1 superuser{o .user {n parsers n storage}
+						o .filterhook
+			}
+		}
+
+o 'stow' the prefabs before altering text, optional of course
+
+x	it's not used by filter
+c	filter alters the goaltext so it can update slowly in tandem with others
+}
+
+
+o	assess shifting endpoints with every insert/remove/replace op in parser
+	
+x	assess display, debug-edit mode can show prefabs, but the game would filter them in passive edits
+
+
+a source parser, see: source action markup.txt
+  
+"general knowledge"
+SimulatedMedia "Library"
+	text asset > text collection > library > source > DUser
+	
+
+self reminder: "SelectAbstract" is an object that can be selected
+
+	sensor because it's a trigger for inanimate stream
+		sensor: Scan(Scannable)
+		
+		the player click a selectable/scannable and it pipes through their selected user.sensor (if it's logical)
+		
+		
+	I want scannable to be a uniform storage/user/dtext statistic
+	
+		What procs action on the scanned object?
+		Iscannable: Scan() is user: return all storage List<DText>
+		
+					Scan() is storage: return List<DText>
+					Scan() is DText : return bool
+		Sensor: just needs a bitmask
+		ScanEnum: human/analogue, doesn't matter, imaginary does
+		
+		
+o system model:
+	Player nRealUser, nFakeUser, nStorage, silent box yes
+	RealUser nUser
+	user nStorage
+		a character with 
+	
+	storage nDText (limit optional)
+		solid or metaphysical container
+	
+	
+	silent box, no storage, nDText, nDBox
+		pure scripting
+	
+	fake user, 1 user, 0-1 storage, 1 DText
+		analogous "display"
+	
+	source, string, generates 1 DText (before parsing)
+	
+	
+x try out textmeshpro. It's obfuscated beta wip.
+
+o front-end display, memory box works
+	
+	potential:
+	If I change any of the text values I'd need to parse and set prefab positions
+		
+! not optimized! I request all the characters each frame to keep them in the atlas. 
+	~obv solution is to have one object with all fonts do that, and the rest borrow from it.
+	
+o stream hub, many streams
+
+
+o ported memory box 
+	lambda 
+		local / global actions
+		parsers decide
+
+o Display Realtime from fake user
+	1 local stream parser
+		o parser
+		o canvas class
+	2 the MemoryBox displays
+
+	
+	o source(script)> user> storage> redparser(actions)> 
+	stream> streamparser(always listening)> user> storage(sort) >  display(player medium)
+
+
+limitless speed might cause lag, cps default:500, worry about it later
+o Display Memory added directly
+	1 reuse parser
+	2 load near-instantly from old storage
+
+	o source(script)> user> storage storage(sort) >  display(player medium)
+
+
+o	reading directly from storage
+o	user.scan> media.flavor "user looks at">media.proc> parser> stream> user
+	
+o	writing directly to storage (just "use" the storage)
+	user.use > user.scan > ""
+
+? simulate the medium
+	consider duplication from storage
+	users who know each other
+
+o reusable parser
+o fix dbox,storage,
+DStreamParser
+	
+o	figure out how daction is interpreted
+	how to filter (listen, or focus)
+o		I made filter class
+
+storage with 		
+o	interpolate streams (words will look better than chars)
+
+o StaticDialogueHub 
+
+	list of stream intersection
+
+	list references to proc, goal, streams
+	
+	proc text, not source
+		creation time  
+		duration  
+		bool:isSource
+	goal text is an immediate mutation representing the medium
+		born mutation
+		start time
+		estimated completion time
+	streamed text are snips of text resulting from all global actions
+	
+		time stamp
+		index of goal text
+		
+
+
+D system
+	stream now
+	o source
+	o action class - DAction
+
+	a user, or faker
+	o source validate text, fail and escapes bad code
+	o text, add source
+	o origin storage? actually first thing I did
+	
+	
+source	
+	o Verify actions typed into a source
+	
+parser
+	1
+	o trim markup, maybe I need to delimit it
+	2
+	storage
+!		use storage params (this is ad hoc)
+	3	
+	
+!	something points to a stream to perform a more direct action
+
+?		1 Scan a stream
+o		2 Use method
+
+c		hub delegate onChange will trigger hooks
+		
+		3 Every stream listens
+x		4 lot of packets die
+c		packets live in stream until they're flushed
+		5NPC behavior? it would be fair to add localactions to the npc that alter behaviors
+		
+		
+Markup (aka action)
+	o write about the markup behaviors
+	o	see markup magic
+	
+	D box parses and displays markup
+		
+		o alter text behavior like it's spoken (cps)
+		? text behavior like it's digital (delete)
+	?alter something text, edit?
+
+o Split the insane d. box and the streams into a test folder
+o	The translator/parser combo are insane and need to be changed
+
+
+o need at least one example of an action outside script altering the text. 
+c this is now handled by DMediaProc
+	
+o knowledge base, concept only
+	DText ?
+	source, pure, fact, truth, distortion
+	
+x memory, concept only
+c dtext in storage represents memory
+	user just needs more storage
+
+o Fake User example
+	component
+		dbox
+o Real User example
+	component
+		user
+
+	

@@ -1,0 +1,14 @@
+vars... ? just needs to know what to do
+
+	
+one game requires realtime
+
+the ambience options for the moment, not there
+	want it to decorate (some animated?)
+	want variables to turn on if there is ambient type [x]
+	final is ambient magnets that I can select and use, in order to alter challenge...
+	
+	
+no music so far
+
+I want effects that move, loop, cause trouble, make minigames

@@ -1,0 +1,16 @@
+SPORTS
+
+ANIMALS
+	tag
+	
+	training
+	play fighting
+	
+GAME
+	a course is arranged so teams are on even starting positions
+	
+	the ground is colored for easy rules
+	
+eg BASEBALL FOOTBALL BASKETBALL
+
+

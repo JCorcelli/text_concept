@@ -1,0 +1,57 @@
+
+#verse
+#	contains list[verse_a, verse_b]
+
+
+
+class verse
+	list(verse) children [] #keeping track of children
+	
+	verse parent = null #parent, null or pocket makes this a pocket verse?
+	
+	item = null #container, null will die if macroverse dies
+
+	add parent(newmacroverse)
+		if (newmacroverse == null)
+			return
+		if (parent == null)
+			parent = newmacroverse
+
+	add microverse(newmic)
+		if !alive
+			return
+		if newmic == null
+			return # item doesn't exist
+		if (children.Contains(newmic) return)
+			children.add(newmic)
+
+	get isMicroverse
+		if (!parent)
+			return 0
+		return 1
+		
+	get isItem
+		if (!item)
+			return 0
+		return 1
+			
+	get location
+		if !item
+			error
+			return 0,0
+			
+		return item.location
+	dieMacroverse
+		if (item == null)
+			parent = null
+			die
+		# items act on death of verse, deciding if this lives, dies, temporarily dies, etc.
+			
+	dieItem
+		item = null
+			die
+	die
+		foreach child in children
+			child.dieMacroverse
+		
+

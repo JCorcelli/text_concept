@@ -1,0 +1,9 @@
+The bosses act like a part of the environment.
+Falling into a pit...
+gates you need to "throw at"
+
+it's all a very narrow puzzle design mixing up attacks and damage, too easy, mechanically.
+
+but it really works.
+
+Game also uses physics, exploitable, but added fun

@@ -1,0 +1,200 @@
+I should be thinking of what actions reward experience. 
+
+Is a real experience system worth it?
+
+What rewards are there? Are there exp pools?
+
+
+
+TECHNIQUE
+"general"
+titles mostly
+	incredible devotion could suggest a desire for recognition.
+
+strength used - stamina, physical exp
+	
+"PHYSICAL"
+
+time dreaming - dream longer, mental exp
+
+steps taken - mastery on terrain, physical exp
+walk - stealth exp
+run - faster, physical exp
+
+times jumped - jump higher / farther, physical exp
+times dodge - recharge dodge faster, physical exp
+
+BONUS - obstacle courses, dreamed or otherwise could grant high exp bonuses
+
+carried objects: object familiar, physical exp... art exp
+carried steps: carry faster
+push steps: push faster
+
+force total: weight (increase force exerted)
+
+"GARDENER"
+gardener exp
+
+seed planted - healthy plant
+examine plant - examine faster, art exp
+prune - stomach exp
+pick - stomach exp
+
+"STEALTH"
+stealth exp
+
+interest points found - increase warning time, visual exp
+
+times hidden - anticipate observer
+total dives - silent movement, initiative exp
+
+hidden swap - initiative exp
+hidden swap observed - stealth exp
+
+time under cover - warning time, anticipate observer
+
+time in light - light tolerance
+time in dark - swap range
+
+hidden object n times - increased blend ability
+	blend skill - appear to be stuffed animal
+	
+	replacement - 4 tile ranged swap with stuffed animal and blend, no move 1 second
+
+	auto hide - become stuffed animal in view
+	
+
+
+
+ONE DAY EFFECT
+day time in view - observer stops annoying you (one day)
+
+(negative)
+day suspicious level - observer stealth level up (one day)
+
+
+"NINJA"
+ninja exp 
+
+dash, dive, slide, dodge, jump, initiative variants - speed, range, height gain
+
+wall tech used n times - 
+	wall grab
+	grip
+	wall climb
+	
+stealth tech used n times
+	invisibility (ninja) - (auto hide if startled)
+
+noise triggered n times -
+	noise resistance
+	disable noise
+	
+noisy n times - 	
+	create noise
+
+thrown item n times - 
+	throw distance
+	
+ranged item n times - 
+	reload speed
+	
+"EXPLORER"
+
+situational advancement. like, a specific danger, a specific keeper?
+
+"MERIT"
+minigames found - could improve dream
+
+dig n times - dig faster
+
+explosive n times - you are a maniac
+
+
+MENTAL
+"THOUGHT"
+"TRUTH"
+log was corrected n times - distort resistance
+log was broken n times - distort increase
+log was altered n times - log speed increase
+
+truth / fake logs have an effect on their own
+
+"EMOTIONAL"
+hearts have an effect
+
+opinion n times -
+	perceive harmless y/n
+	perceive like y/n
+
+(negative)
+dangers touched - fear unknown +
+
+likes touched - like unknown
+
+dislikes touched - dislike unknown
+
+discomfort - double heart strength
+
+one heart n times - recover heart speed (rest)
+
+zero heart n times - 
+
+zero heart status n times - resist status
+
+groom self - status removal speed
+groom other - soothing aura skill
+
+
+"COMMANDS"
+activation speed exp
+zone exp
+
+zone used - zone speed (slow mo), buff all zone attribute skills
+
+signal - signal speed increase (hover time)
+
+initiative - activation speed of most skills, buff all initiative skills
+
+PERSONAL
+"TOY"
+skill exp
+
+instant skill use
+
+toy expert ability
+
+"ARTIST"
+art exp
+used items - item expert ability
+
+"STOMACH"
+energy recovery exp
+
+pretty much a special ability farm
+
+"EARS"
+
+heard noise - associate
+identify noise - identify it correctly
+
+STORY
+
+"STORY MANIP"
+eaten articles - eat faster
+read articles - read faster
+listen to n articles - listening range
+
+"SOCIAL MANIP"
+social n times - increase social gain
+asocial n times - socially stealth skill
+antisocial exp - insight violence
+
+indirect attacks - little bastard
+direct attacks - entertainer
+
+---
+distortions - log's a bit confusing
+log entries - more stuff available in log
+
+decisions - alter the day

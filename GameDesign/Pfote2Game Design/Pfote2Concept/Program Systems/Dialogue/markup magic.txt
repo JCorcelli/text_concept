@@ -1,0 +1,120 @@
+
+markup magic
+
+ JUST WRITE, AND I WILL PARSE IT LATER, THEN I WILL WRITE THE METHODS
+ 
+prefab, command, dialogue
+FOR THIS TO WORK...
+	User Acts - need a dbox, proc to hub
+	Command Acts - like user, but loosly for debug
+	
+	now for, what matters
+
+	Stream /Dialogue Box - set parser, starts the Parser, most data
+	holds and organizes visual elements
+
+	RedParser - 3 DText has the memory of, future, and present (visible in dbox)
+
+SUMMARY
+	i confuse the crap out of myself
+	...
+	pretty much all prefabs are going to be dubbed 'actions'
+	actions are just like program methods
+	
+	things register actions first, then this'll work
+	
+basic vocab.-prefab- action ideas
+GLOBAL
+	1
+	do/ command - a basic action handler, probably for debugging
+	
+	2
+	empowered - a special list of action, god mode
+	
+DBOXACTION -> STREAM (interface worthy)
+what is the context?
+
+some rules
+
+I ANALOGUE
+	PAPER
+	1 
+	Write/append () - writes to loaded analogue. Up as written.
+	
+	2
+	Read () - only read lines visible to reader.
+	
+	3
+	Mark () - add image, anywhere
+	
+	DIGITAL SAVE (AUDIO/ VIDEO)
+	Save, copy... whatever it should.
+	
+	speech, sound, visible - can't save 3D unless...
+	holography
+	
+II BIOLOGICAL
+	ANIMAL
+	1
+	Idea () - fleeting, direct, needs to be used to retain it.
+	
+	2
+	Think () - try to generate an idea from knowledge.
+	
+	3
+	Remember () - old info.
+	
+	4
+	Express () - actions are interpreted if seen. May generate an idea.
+	
+	PERSON / PARROT
+	(complex noise)
+	Say () - streamed words are inserted in any near dbox, appear a 3d world text.
+	say {cps 300} "what the heck?" {/Cps} {sadface}
+
+III SPIRIT
+	MindControl () - enables pk actions.
+	
+	ReadMind () - biological target's direct actions are streamed, and future decisions that aren't done.
+	
+	WriteMind () - the user says or does whatever.
+	
+	Clairvoyance () - any user procs at all are streamed to thought.
+	
+IV ANY
+	1
+	Mutate - alter the mutator of any storage.
+		stop, start, kill, set prefs
+	2
+	Magic () - turns text into a command.
+	
+	
+	
+TEXT
+
+MUTATION
+change 
+{mutate chance float} perma modifyer for text after
+
+ESCAPE PARSER
+"escaped text concept"
+	basically {escapefunc param [text]} get escaped by a parser in the chain, leaving [text]
+
+	displayparser never shows bracket
+
+
+D. ACTION
+a callback.
+
+adding DAction
+	DAction.Registry.AddKey("action name");
+	DAction.Add("action name");
+	
+any object with a method
+	DAction act = new DAction("name")
+	act.Add(Method) 
+	# Method(string s);
+	# Method parses string "[param param]"
+	or "", just ignore it
+	
+	

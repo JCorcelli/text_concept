@@ -1,0 +1,26 @@
+ICE CASTLE
+it's all hidden
+it's a temple made of icy sand, see temple
+	
+terrain
+	walls are slightly hard to move
+	bare sand in some areas
+	
+	slippery
+	
+	some walls are reinforced to decrease the potential total iceberg destruction (you will get 25 threat for attempting)
+	
+	colored walls are not an exception
+	
+platforms	
+	greased objects may float in place, retaining a standard shape for the location
+	
+animals
+	a few very well clothed animals
+	sea mammals
+	
+food
+	only puzzle based effects
+	
+obstacle
+	keepers will stop you if you go deeper

@@ -1,0 +1,84 @@
+
+###ifndef
+##	wood construction material
+##	#FUCK!
+
+minitech_door : minitech
+	description="use on wall or lattice"
+	#door variables open=0
+
+minitech_squaredoor : square
+	open = 0
+	material
+	
+minitech_walldoor : wall
+	open = 0
+	material
+	
+minitech_lockedDoor : door
+	locked=0
+
+minitech_keylockedDoor : door
+	key_id=1 # all keys 1 work on all doors 1
+minitech_numlockedDoor : door
+	code=""
+	
+action selectNumLockedDoor
+	if (code=="") 
+		"Please enter a code"
+		code menu open! #>> program a code menu thing to change the code variable
+	
+
+
+
+number lock
+
+###ifndef
+##	number interface (or input)
+##	#Make the interface
+
+minitech_symbolLock : minitech
+
+	uniquename="symbol lock"
+
+	description= "Keeps things locked up. Has a symbol combination."
+
+
+
+minitech_keyLock : minitech
+	description= "Keeps things locked up. Has a keyhole."
+
+#key lock requires key...
+ 
+###ifndef
+##	key
+##	#Make the key!
+
+key : item
+	name="Key"
+	lock_id="1" # all keys 1 work on all doors 1
+
+	description= "Works on locks."
+#better yet
+
+keyRing : item
+	name="Keyring"
+	
+	lock_ids list[] # a list of strings referencing the keys
+	description= "One ring to rule them. Holds %s keys" %count list
+	
+action addKey
+	if keyring list has key
+		return
+	keyring list.add[key]
+
+
+#key/ring requires
+
+###ifndef
+##	item_holder
+##	#char inventory please
+
+###ifndef
+##	inventory object
+##	#char inventory, bags and boxes and shit

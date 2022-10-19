@@ -1,0 +1,26 @@
+SOME HYPERBOLE EXAMPLES
+
+A giant was 7 feet tall
+
+MUTATION: giant (increase), 7 feet
+FICTION: A giant was 10 feet tall.
+
+LIE: How tall was he? 10 feet.
+......
+
+Stoves can get hot. They can reach 500 degrees Fahrenheit maximum.
+
+MUTATION: get hot > explode, 500 > 1000
+LIE: Stoves can explode.
+
+
+WHY WOULD THIS HAPPEN?
+
+This ought to be the most common mutation.
+observe fire
+hear hot things explode
+know a stove gets hot
+
+DISARM THE MUTATION
+learn not all things that get hot explode
+practice using a stove

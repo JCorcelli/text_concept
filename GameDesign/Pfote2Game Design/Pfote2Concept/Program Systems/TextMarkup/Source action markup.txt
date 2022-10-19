@@ -1,0 +1,82 @@
+
+source action markup
+
+source.
+	start...end
+	origin
+	creator
+
+______I_________########
+
+to avoid wasting time pairs with source end to chop the header off the page
+{source.start}{source.end}
+
+______II_________########
+
+{source.origin name} #make / assign DStorage to source
+
+{source.origin
+name = Thomas Park 
+
+# makes DStorage if NA
++origin #origin stores this DText
+
+analogue     # true if present #[default: False]
+biological   # " " 
+spirit       # " " 
+
+storageLimit = #[default:-1]
+mutator = Age #[default: DMutator]
+processor = #[default: DOrganizer]
+
+
+creationDate =  #[default: System.DateTime.Now]
+currentUser =  #[default: none] #makes user/ user 'uses' origin
+lastUser = 
+creator = Markus
+
++creator #make/add origin copy to creator 
+
+storageType = Book
+media = Ink
+
+location = 0,0,0 # order matters, not the letters,this works "x0 y0, z0"
+health = #[default:100 {0 - n}]
+
++users #[name,name,...] #make user/add origin copies
+}
+
+______III_________########
+
+{source.creator name} #make / assign DUser to source
+
+#####EXAMPLE########
+{source.creator
+name = Thomas Milk 
+
+# makes DUser if NA
+
+localAction = #[default: no actions]
+out   = #[default: null]
+in    = #[default: null]
+media = #[default: DMediaProc()]
+sensor
+isReal = false # if true nstorage is initialized, now use global user.addstorage
+
+location = 0,0,0 # order matters, not the letters,this works "x0 y0, z0"
+
+usestorage = name # #[default: null, if real: brain] make/ give user storage 'name'
+
+
+
+analogue     # true if present #[default: False]
+biological   # " " 
+spirit       # " " 
+magical
+clairvoyant
+
+creationDate = #[default: System.DateTime.Now]
+age = null # calculate creation in reverse
+
+
+}

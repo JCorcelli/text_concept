@@ -1,0 +1,49 @@
+order becomes reversed in behavior tree, goal is lowermost child
+
+Activity (goal)Pet Bunny
+
+Same room
+{
+	pet
+	touch
+	reach
+	near arm
+	near body
+	bear / lock-on, move towards
+	see (or assume)
+}
+want
+
+Activity (goal) Go To Room With Bunny
+
+[Same room]
+Different room
+{
+	goto room
+	room is accessible
+	know (or assume) general location
+}
+want
+
+Activity (goal) Seek Bunny
+[Same room]
+[Different room]
+Seek (Unknown location)
+{
+	discover bunny, panic, or find
+	look
+	listen
+	call
+}
+
+want
+
+Activity Abstract (goal) Find Bunny
+
+Find Bunny
+Seek
+[Different room]
+assume general location
+seek failed
+
+want

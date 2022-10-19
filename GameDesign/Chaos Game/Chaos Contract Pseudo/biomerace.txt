@@ -1,0 +1,32 @@
+
+# requires race to be defined
+check inhabitable (race, targetBiome)
+	foreach param in targetBiome.params
+		if (param > race.biomeParamUpper || param < race.biomeParamLower)
+			return 0
+	return 1
+		
+		
+		
+class race
+	biomeParams
+	abilities
+	stats
+	
+class biomeParams
+	biome biomeParams
+	biome thresholdLower
+	biome thresholdUpper
+	
+class biome
+	
+	heat = 293 # 273K = 0 C. 0 - 3000 Kelvin
+	
+	air spectrum = 10000 # 0 - 300000 # easier than mixing atmospheres chemically. including moisture and visibility.
+	
+	radiation = 35 # 10 - 5000
+	
+	mutation = 0.05 # 0 - 100%, adaptation to new arrivals
+	
+	gravity # look into it
+	

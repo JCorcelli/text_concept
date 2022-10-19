@@ -1,0 +1,109 @@
+EXTREME FIGHTING
+
+A keeper is waiting to fight a challenger. This is an organized version of fight where you'll be hard pressed to win without a plan.
+
+CHAIR
+	don't get caught
+	
+	1 a strong human sits on a chair, knock the chair over
+	
+	2 strong human will sit, he also has magic, knock the chair out of the ring
+	
+	3 the human sits, but the chair won't
+	
+	4K The chair's really the key here. It's trying to push you out of bounds too now.  The human's not even sitting on it.
+	
+DIG BORE PIG
+	there's a digging pig. The ground will bounce anything you throw.
+	
+	1 dig faster than the pig.  The ground refills.
+	you have to run a course and the pig doesn't have trouble going straight through.
+	
+	2 the pig eats magic greens, I hope you can beat him now.
+	pig pushes the terrain at you, creating more obstacle.
+	
+	K3 pig is big. race. There are trees that can collapse in front of you. The space bends like the pig's so damn heavy. It's more of a distorted obstacle course now.
+	
+	K4 pig's ready, this is his swamp, and you can't win. This is a swamp fight.
+	
+	he'll fight
+	timer 3 mins...
+	he pins you, you get muddy. 
+	he stuns you.
+	he throws you.
+	He'll dig so you have to chase him under ground.
+	
+HEAD HOP
+	some animals who don't mind being walked on
+	
+	1 jump on the tough animals
+	for practice
+	
+	2 less tough animals want to dodge you now
+	jump to the goal
+	
+	3 quick animals want to catch you, just hop on the tough ones
+	4 some animals don't want to be hopped on, some do, the others catch you
+	it's a tricky fight
+	
+	K5 another bunny wants to jump on you, 1 hit KO, if you fall off the platforms.  He has no penalty.
+	
+	K6 a bunny that knows kung-fu, don't get kicked. he kicks hard.
+	
+TALL HEAD HOP
+	be sneaky
+	
+	1 there's a human, jump on head [] times to win. The human will walk away.
+	
+	2 a human and bunny pair, the bunny will alert the human, and the human tries to avoid.
+	
+	K3 something's up with the place, and the human is difficult to reach unless you fling yourself. 
+	
+	That bunny's got stickies, don't get stuck 3 times.
+	
+	
+DODGE BOMB
+	each win unlocks harder opponent?
+	
+	1 Pick someone to fight, throwing balls
+	
+	2 or throw pulse bomb
+	
+	K3 this level... this must be the dodge bomb god
+	
+SUPER DODGE BOMB
+	you run a course, and many bombs are thrown at you
+	
+	the active participants can be knocked out
+	
+	1 basic
+	2 platforms included, don't fall off
+	3 the animals are active participants, so you knock them down
+	K4 animals who are sneaky keep trying to push you out of bounds
+	
+SUPER BOMB NOISE
+	avoid being captured until you reach a goal or disable opponents (many waves)
+	
+	you run a course, and there's a ton of wacky terrain, noise generators, and improvised traps
+	active bomb throwing participants
+	
+	Each course is like a gauntlet
+	
+	1 so much stuff pushes you around, it's not fair. Those damn bunnies are dumping dirt on your head and it's pushing you. getting captured is the issue.
+	2 the gravity is kind of weird, but you can hide this time in the broken chunks of floating buildings and hit the animals looking for you.
+	
+	K3 the ground's got hands
+	K4 the hands have a source, the tantamancer, and no finish line
+	
+EAT THIS
+	stuff to eat, grease intentionally
+	1 there's some power-pounding fruit eaters, you can eat it and play for fun
+	2 fruit hoarders are fending you off, the goal's just to finish it all
+	3 there's a SPLAT if you get hit with it you drop your fruit. this time you're on your own if the other animals give up, so try to get them the fruit.
+	K4 A human's got stuff, go eat it.
+	
+LONG TERM
+ALLY/RIVAL
+probably something like the arcade games
+
+each game or world can introduce a playful ally, or opponent.

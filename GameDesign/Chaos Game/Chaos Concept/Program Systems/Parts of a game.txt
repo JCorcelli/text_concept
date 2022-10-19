@@ -1,0 +1,29 @@
+game design
+	purpose
+	goals
+	interaction
+	trigger
+	event
+	narrative
+	challenge
+	
+	
+programming - program should be automatic
+	system
+	functionality
+	
+graphics
+	fidelity (easy on eyes)
+	context
+	ui - text, or gui
+	
+writing (rhetoric)
+	ideas
+	lore
+	ooc - narration, prompt
+	ic dialogue
+	
+sound
+	music
+	effect
+	feeling

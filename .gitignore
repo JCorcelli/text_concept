@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.cs
+!*.txt
+!*.ahk
+
+!LICENSE
+
+
+# ...even if they are in subdirectories
+!*/

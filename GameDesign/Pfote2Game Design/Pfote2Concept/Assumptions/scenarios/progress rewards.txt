@@ -1,0 +1,584 @@
+What rewards are there that'd apply to the basic skills?
+
+Events in the story can have rewards, but I don't even have a list of events.
+
+
+TECHNIQUE
+"GENERAL"
+the titles
+stat list for each title
+complete stat list
+
+"PHYSICAL"
+
+awake state - alarm 
+dream state - wash sounds
+
+walk - 
+	the basic stealth movement
+	train it
+
+	1 speed 
+	2 noise related
+	3 walking on walls (assume run releases)
+	4 standing "man"
+	
+	# end-game consider walk and run equally fast, but run gets a second effect
+	
+run -
+	train it
+
+	1 speed
+	2 noise
+	3 start side-effect
+	4 stop side-effect
+	5 touch effect
+	
+jump - 
+	at first, failing a jump is normal
+	train it
+
+	1 double jump (multi), 
+	2 long distance jump (becomes flight)
+	3 flight (status)
+
+dodge - 
+	some kind of delay would be good
+	
+	1 combo dodge
+	2 auto
+	3 stamina buffs
+
+bounce -
+	unlock
+
+	1 combo jump - higher
+	2 rebound, no fall damage
+
+physical power
+	it's a sign of hard work
+	train it
+
+	1 carry 
+	2 push
+	3 force - attack power? club with item?
+	4 intentional noise
+	5 heart buff
+
+"GARDENER"
+# more like a job sim, most things reward you
+
+books
+automated work
+crafting
+more land
+cash
+bales / bundles / stockpiles
+
+unique plants are a self-reward
+
+fertilizer - eat more, poop more
+	
+foraging
+	1 forage range
+	2 smell more unique plants
+	
+prune is a self-reward (eat)
+pick is a self-reward (eat or sell, get seeds)
+
+"STEALTH"
+
+visual buffs
+	augmented reality tropes
+
+hiding
+	mobile container for hiding
+	mobile cover (cloth?)
+
+action-effects
+
+special items
+	eg smoke bomb
+	
+purchasing more hidden objects
+	eg toys
+
+
+	
+"NINJA"
+
+
+wall tech
+	unlock wall grab
+	training grip is a maybe
+
+	1 distance
+	2 hanging
+	3 see walk, walk on wall
+	4 disappearing into wall
+	5 ghost through walls
+	6 using skill, like you're standing while on wall
+
+stealth tech
+	unlock or purchase
+	
+	1 invisibility cloak
+	2 innate visibility reduction
+		a. hidden ob
+		b. in toys
+		c. fully invisible under cover
+	3 soundless
+
+noise triggered
+	unlock or purchase
+	
+	1 ear plugs
+	2 warning hint
+	3 remove / disable noise
+	
+noisy
+	unlock or purchase
+	
+	1 alternate effect (eg sleep, sooth)
+	2 range
+	3 who hears it
+	
+thrown item
+	
+	different items
+	
+	unlock some infinite thrown item
+	
+	
+ranged item
+	many different guns
+	
+	pew pew is infinite
+	
+club with item
+	claw is default and can dig
+	
+	different items, different effect
+	
+	
+"EXPLORER"
+the "items" to affect other stats can be found *wink nudge nudge*
+
+a lot of this can be conveyed by books
+
+locations
+	1 unlocking new locations through merit
+	2 hint, a map suggesting a location exists
+
+item shops
+	1 rare items - what currency?
+	2 paperback copies shop - copying books to eat
+
+keepers	
+	this would imply there are non-humans
+	
+	upgrade keepers (challenge)
+	highly anticipated stealth challenges
+	
+	
+monsters
+	this would imply there are non-humans that definitely look dangerous
+
+	could drop things
+	can enable thievery
+
+popin
+	they'd behave like guides
+	
+black bunnies
+	gaining trust
+
+"MERIT"
+
+minigame - 
+	1 points?
+	2 powerups
+	3 real world effects, items, stories
+	4 minigame cheats
+	5 dream cheats
+	
+puzzles - 
+	1 more puzzles
+	2 hints
+	
+doors used
+	1 a door stopper - prevent closing
+	2 walking through door
+	
+dig
+	1 digging items...
+	2 shovel
+	3 pickaxe?
+	4 bomb - see below
+	5 pale - free dirt storage, normally it piles up indoor and needs a physical hiding spot
+	
+explosive 
+	1 types of explosives...
+	2 bomb
+	3 dynamite
+	4 blink - silent
+	5 vacuum - noisy, drops one pile
+	6 null bomb
+	
+MENTAL
+"THOUGHT"
+basic
+	single use thought
+auto-collection of basic
+unique thoughts
+	1 new decision
+	2 new item
+	3 new skill
+
+really interesting stories - works just like unique thoughts
+
+
+manipulation of mind
+	self - key item storage?
+	promoting an idea
+	demoting to an idea
+	
+	other - manipulation
+	activate idea
+	deactivate idea
+
+"LAWS"
+warning
+	
+	recognizing a law is about [] before trial and error
+	1 a story
+	2 a person
+	3 a place
+	4 an opinion
+	5 reality
+	
+	
+the many laws visibility
+	basic...
+	like
+	attract
+	hop
+	don't alter first three
+	extras...
+	
+some way to alter laws
+	1 law smith
+	2 introspection
+	
+	3 demote a law - demote to opinion (no effect)
+	4 promote to law - take an opinion make it law
+	
+"TRUTH"
+better interfaces
+	1 clouds
+	2 logs
+	3 catalogue
+	
+	a real world puzzle can be created with these "truths"
+
+"EMOTIONAL"
+red heart containers - 
+	1 bonus
+	2 protection
+	3 alteration? changing to a different stamina bar
+	
+extra hearts -
+	1 love - sad
+	2 food - hungry
+	3 rest - sleep
+	4 grant immunity :)
+	
+	
+opinions - 
+	skills
+	self assertion...
+	assigning / removing opinion
+	
+	puzzle option? an opinion combo may be as powerful as a law
+	
+	
+	life hack...
+	altering others' opinion directly
+	
+	
+	options ( creative laws )
+	
+	good
+	bad
+	delicious
+	angry
+	happy
+	...
+
+special opinions - 
+
+	skills
+	1 identifying opinion
+	2 promoting opinion
+	3 assigning opinion
+	
+	options (alter base laws)
+	law / opinion
+	unknown / known
+	
+	dangerous / harmless
+	
+	likes / dislikes
+	
+	discomfort (status)
+	comforting (action)
+	
+groom
+	owner - a brush
+	self - special toy 
+	
+"COMMANDS"
+zone
+	slow-down
+	coloration
+	
+	many skills are enhanced by zone
+	
+signal
+	misc object (UI) -
+		wall panels
+		puzzles
+		2D minigames
+	
+		
+	object (toy)
+		observing unknown
+		dialogue ref
+			log reference
+			opinion
+		
+	char options
+		entering other character - as ghost (disabled)
+	
+
+camera
+	third person (basic)
+	tactical view (basic)
+	
+inventory (see inventory master course for full guide)
+	
+	held item (max 1, initiative ready)
+	shortcut list (consumable items)
+	
+	rewarding inventory stockpiles
+	
+	inventory type / UI dependent
+		storage
+		cart
+		bag,magic book
+	
+	key items
+	
+	thought item 
+		
+	item bubble 
+		
+	
+initiatives
+	unlock
+	
+	basic movement
+	
+	swapping - ninja
+	dragging objects - telekinesis
+	storing objects - bubbles
+	
+	many skills are enhanced by initiative
+	
+	
+PERSONAL
+"TOY"
+learn about many toys - master them all
+	block
+	ball
+	brick
+	bell
+	keys
+	stuffed bunny
+	stuffed kitty
+	doll
+	...
+
+order toys online
+
+toy effects on use, on swap
+stored item?
+
+
+"ARTIST"
+
+using item menu / tab
+alternate menu styles
+
+item uses
+	survival -
+		heart recovery
+		status alteration
+		...
+		heal
+		sooth
+		anger
+		
+	fun
+	weapon
+	make noise
+	throw- make noise
+	smoke
+	
+	artisan skills- practical knowledge
+	....
+	cook
+	idea man - thoughts
+	magician
+	hoard - generating a physical pile
+	crafting
+	
+	augment - equipment
+	
+	
+	
+"STOMACH"
+
+rule: 
+	1 cooking that contains food A still counts as food A
+	2 food A and food B react, to make food C and maybe D
+	
+smells
+	identify by smell
+	follow a trail by smell
+	
+
+tasted
+	ranking food? higher number of favorite foods.
+	
+	like / dislike can be set in dream
+
+special abilities
+	this could be the "skill unlock" needed for more ridiculous abilities
+	
+xx	example:
+	10% smell unique food
+	50% experience buff
+	90%
+	100% invulnerability
+xx	
+	
+	
+"DESCRIPTIONS" (PROMPTED)
+	see the change you make in game
+
+STORY
+	
+"OWNER"
+the owner is you. your house. a physical body. your future. your provider of treats
+
+
+furnishing - house alterations
+bank - purchase power
+social skill - events available at happiness, and flags
+	sick
+	work
+	phone call
+	acquaintance / friend
+	best friend  (this is ~ where it starts)
+	boyfriends
+	away party
+	home party
+	
+she even buys things if she's happy, and has the money
+purchase skill -
+	family flat (not a feature)
+	rent
+	buy random: light, clothing, books, videos, games, music
+	
+	change room: mood
+	fully alter room: big mood
+	
+
+
+
+
+"PROGRESS"
+
+
+
+# this is chronological game progress
+base story - social mostly
+	time limited story
+common location - easy to discover
+challenges - reach with merit
+
+secret locations - 
+	1 hard to discover 
+	2 special skill required
+	
+final day
+	first journal is closed
+	
+	new game +
+	time warp
+	relive special event (it's a bit of a hack in case people don't care)
+
+"STORY MANIP"
+
+
+articles
+	unlock
+	eat
+	read
+	listen - audio, video
+	
+	write - to various mediums
+	
+	tycoon ;)
+	
+
+"SOCIAL MANIP"
+more direct actions
+being social
+	puzzle plus
+	greeting
+	gifting
+	grooming
+	affectations - emotes
+	initiative (A > B) - excited
+	
+asocial
+	lawful loopholes - ending dialogue with magic 
+	puzzle loopholes - ending puzzle early
+	leaving broken conversations - leaving when gently held
+	
+antisocial
+	puzzle neg
+	interrupting
+	attacking directly - identify immortal opponents
+	
+	
+indirect actions, story puzzling
+online powers
+	gifts
+	email
+	
+what key event/item could happen
+	blackmail
+	witness rare event
+	
+	phone - 
+		kill the call
+		make a silent call (phone# available)
+		
+	email snooping - 
+		send emotional email
+		set date, erase email - waste time
+	travel -
+		stow away

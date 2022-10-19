@@ -1,0 +1,9 @@
+[don't know if this is really relevant]
+
+My current method of determining button presses is ...
+
+having a utton named after its keycode... i could have just checked the keycode. 
+
+I have a bunch of buttons that SHOULD be renamed to their function, rather than the key, so a user will understand intuitively.
+
+I should prevent single button presses from activating multiple things, don't know if I do.

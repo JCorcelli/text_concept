@@ -1,0 +1,24 @@
+Story:
+start -> see 3d room, bunny thinks "Time limit"
+
+learn to dig -> "I don't have anyone to teach me the rules to this game" bunneh needs to make several trips and learn 
+
+beginner -> 1 minute to dig first tunnel
+skilled -> uncover one tunnel "complete a dig with one move"
+expert -> uncover 3 tunnels "dig very fast now"
+legendary -> uncover a ruin
+
+
+After expert ->  , reveal game
+
+simplifying -> see 2d rooms (squares), 2d bunny, tunnels with a 2d signature, animation
+
+
+you can zoom into a room or simply traverse it.
+future gimiks? rooms close to bedroom, rooms near outside, 
+rooms with undiscovered gimiks can be highlighted - need to be examined
+
+Bunneh finds a treasure room "IOU" Bunneh noms it.
+
+
+final question: does this sound fun? ... not quite

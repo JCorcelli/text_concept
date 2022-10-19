@@ -1,0 +1,38 @@
+###
+starter EXPENSES
+
+people purchasing food - frequently are seen holding fruits and disposing it in street-side disposal boxes.  Those with large quantities of goods are returning home and very talkative about what they'll be doing on the weekend.
+
+	
+entertainment is heavily animal and pet oriented. Audio-video devices can be seen but they're usually an ambience.
+
+	
+starter EXPECTATIONS
+
+Cute animals walking around frequently peek at newcomers and come straight out to greet their human friends.  They are a frequent and favored attraction of all residence, newcomers are encouraged to make friends with them.
+
+There are parks and playgrounds which are often empty or full depending on the time of day.
+	
+Talks and whispers about the surrounding mystique are intentionally laid out to make people venture into tourist traps.  The newer people are easy marks and their progress to difficult ares are delayed.
+
+starter EXPERIENCES
+Children spend time with thier animal companions and take time adjusting to the environment.  Once it is deemed suitable or the child expresses an opinion that they desire to stay, their parents can become full residence.
+
+The fruit is so sweet here that candy pales in comparison.  Although meat is expensive it is available in farm chicken and beef.  Preserved unprocessed foods are stored in home.
+
+starter BEHAVIORS
+
+	helpful:
+		aide
+		show
+		teach
+
+	useful:
+		perform
+		rest
+		try (ask)
+
+	entertain:
+		mime
+		laugh
+		create

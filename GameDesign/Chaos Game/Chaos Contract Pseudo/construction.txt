@@ -1,0 +1,115 @@
+
+# requires race to be defined
+#ifndef
+#biomerace.inhabitable
+#damnit
+
+check inhabitable =biomerace.inhabitable
+		
+check issheltered
+	if foreach ob in roofing # obstacles + roof
+		if check exists
+			return 1
+	return 0 
+	
+# >> House
+check housecrib (race)
+	#check per bio frame
+		if (issheltered && ihabitable (race))
+			return
+			
+		destroy # biome turned deadly, and spawn is gone now
+	
+action : build housecrib (race)
+	if !issheltered, check for roof
+		return
+	if !inhabitable (race)
+		return
+	build it
+		
+		
+action : build strut
+	spawn a scaffold that holds up unfinished floors
+	has strut
+		return
+	has !basicbuild
+		return
+		
+	build it ("strut")
+
+	
+action : build roof
+	not sure, it could cap off construction
+	
+	!( hasobstacle ||
+	is targeting wall ||
+	is targeting catclimb)
+		return
+		
+	build it ("roof")
+	
+
+#>> list
+
+flooring list = {stairs, catclimb, scaffold, strut, roof, blocks}
+obstacles list = {stairs, blocks}
+
+#####BASIC
+check floor
+	if foreach ob in flooring 
+	
+		if check exists
+			return 1
+	return 0
+	
+check obstruction
+	if foreach ob in obstacles 
+	
+		if check exists
+			return 1
+	return 0
+	
+check basicbuild
+	has obstruction
+		return 0
+	has !floor
+		return 0
+	return 1
+
+#>>
+action : build it (string objectdef)
+	start object time
+	end instance object
+
+action : build catclimb
+	has !basicbuild
+		return
+		
+	build it ("catclimb")
+	
+action : build obstacle # a square block
+	has !basicbuild
+		return
+		
+	build it ("obstacle")
+	
+	
+action : build stairs
+	has !basicbuild
+		return
+		
+	build it ("stairs")
+	
+action : build scaffold
+	has !basicbuild
+		return
+		
+	build it ("scaffold")
+	
+#>> MISC
+
+action : build box
+	build it ("box")
+action : build bag
+	build it ("bag")
+	

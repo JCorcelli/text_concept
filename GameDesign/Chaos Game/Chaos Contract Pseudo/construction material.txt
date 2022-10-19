@@ -1,0 +1,28 @@
+
+
+construction material
+	#wood
+	conductivity=0
+	transparency=0
+	health=100
+	hardness=50
+
+wood : construction material
+	conductivity=0
+	transparency=0
+	health=100
+	hardness=50
+	
+rubber : cm
+	conductivity=0
+	transparency=0
+	health=100
+	hardness=20
+	
+metal : cm
+	
+	conductivity=100
+	transparency=0
+	health=200
+	hardness=80
+	

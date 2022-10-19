@@ -1,0 +1,71 @@
+This 3D camera experiment turns out to be in a much less explored game design territory than initially assumed. Right, it looks like, I don't know if it is. I don't know enough to understand why. Maybe on-rail cameras are easier? Based on ref. 1 there's clearly a variety in sidescrolling games.
+
+There are some basic physics and object programming which were non-existent in earlier games. Of course, I can acknowledge that.
+
+3 OBJECT CHAIN
+So far, 
+the Camera Holder is given one motion, it moves to match a position and rotation of a character. On click I place the target indicator. The direction indicator is constantly trying to move to the target, bunny follows it, a camera assistant wagon in tow holds a regular over the shoulder camera view.
+
+Basic setup complete.
+
+Also there's a physical arrow I added for the camera to look at and a blue rabbit running back and forth for gratuity.
+
+disclaimer: screenshot edited to look even simpler.
+[img]http://i.imgur.com/rDuNbP0.png[/img]
+
+CONTROLS
+I also had time to review the controls. There's the matter of simplifying player input. My controls start with one-button click only. So that's all I'm going to mention this time.
+
+Clicking to select things and move places is basic functionality.
+
+There's also potential for grabbing the 3d world and dragging, crawling, pushing the edges of the screen, nudging camera. These are not my style as control in every game I've seen, they were extra sloppy.
+
+At ref. 2, I found this interesting.
+ [quote]Automatically rotating the camera to look around the corner for the player as they walk that way. But that removes the control of the camera from the player and is not practical in say, a 4 way tunnel intersection(which way do you rotate without knowing where the player is going?  What if there is something interesting directly in the middle too?).[/quote]
+
+ I was inspired, because I thought this was a good idea for an assistant task as far back as a couple of days before reading it. I had some clumsy results just getting my version of the over the shoulder camera working.
+ 
+ Instead, why not use a macro for the game control? A player could move and indicate any arbitrary direction from the initial selected point (for a camera, or a camera holder, to look) with one button press and dragging. I'm calling this type of macro control a bunny ear (tm), seen in the image as the arrow. Of course dragging could also be used for many other pleasing effects so don't let bunny ears hold you back.
+ 
+ Having a secondary effect or consequence for performing a necessary action is called a side-effect. A bunny ear is a necessary and/or pleasing side-effect which must take the context in which it's used into account.
+
+Now that this ordeal of ingenuity is just beginning, I have some results.
+
+I'm missing methods that would allow indirectly pushing the camera holder or redirecting it. I doubled back and questioned if those are really helpful. Any additional character class can behave distracted or physically get pushed around with better context.
+
+PROGRESS
+While developing any character assisting a 3D camera holder there are distinct problems. 
+1. Mechanical ingenuity. I lost sight of designing the characters while trying to design something that can hold it so that's a major issue at this moment.
+2. Acquiring the camera. This is probably a matter of fine-tuning. Which is the next problem.
+3. Needing context. I won't be able to progress further without being absolutely sure the character is serving a purpose in a given context.
+4. The similarities to having a camera snap and remain constrained on-rails. That's the basic idea. 
+
+If the difference is undetectable by the player, but there's an undeniable quality, then I would be satisfied.
+
+If using a chain of objects to carry the camera or steer your player-character is good enough, go for it. I'm going deeper.
+ 
+More research.
+
+1. Huge blog entry displaying scrolling camera behaviors including 3D camera techniques.
+	
+	This probably deserves a future post or even its own discussion. Good source of camera behavior ideas and inspiration.
+	http://gamasutra.com/blogs/ItayKeren/20150511/243083/Scroll_Back_The_Theory_and_Practice_of_Cameras_in_SideScrollers.php
+	
+2. http://gawaingames.blogspot.com/2011/11/video-game-camera-movement-design.html
+
+3. Unity C# 3rd person game tutorial using a control stick, 
+	mentions an over the shoulder orbitting camera inspired by Nintendo games.
+	
+	channel name John Mac
+	https://www.youtube.com/watch?v=b0PvJ4AWvWQ?
+
+
+4. Towards Real-Time Adaptive Camera Control in Games.
+	A long speech with some examples. This appears to be more of a movement prediction simulation.
+	
+	https://www.youtube.com/watch?v=mbprHB-OIs8?
+
+5. The notion of unmotivated camera movement has never really struck me as anything special until I read this.
+	This article allows me to further the idea that individual Ai/character behaviors directing the camera with their own interests in mind can add a human element to real time scenes.
+	By Paul Schrader in the March/April 2015
+	http://www.filmcomment.com/article/game-changers-camera-movement/

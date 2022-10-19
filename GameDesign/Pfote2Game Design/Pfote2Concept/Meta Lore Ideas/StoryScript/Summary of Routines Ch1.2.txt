@@ -1,0 +1,27 @@
+(Each routine has options)
+Timer
+	end level
+	
+Bunny [see Bunny Design.txt]
+
+	Freeroam
+		Stealth
+		Open
+		Search
+		Action
+	Busy
+		Held
+	Sleep
+	Eat
+	Seek
+	
+Jerri
+	Parallel
+		Observe Bunny
+		
+	Physically
+		Lying on Bed
+		On Foot
+		In Door
+		Outside
+		

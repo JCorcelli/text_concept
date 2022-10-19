@@ -1,0 +1,19 @@
+CRUISE SHIP (it's probably too big, ought to be a LSL game)
+
+DATING 
+	owner on a date?
+
+pretty much the same setup as a few locations
+	
+time limited
+	it's a cruise, it's not out there forever
+
+QUARTERS - y
+GALLERY - y
+BAR - maybe
+DINING ROOM / RESTAURANT y
+CLUB ROOM maybe
+OUTDOOR SPORTS y
+POOL maybe
+BOILER ROOM - only if they work
+

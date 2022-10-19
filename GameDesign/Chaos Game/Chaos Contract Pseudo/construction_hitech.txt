@@ -1,0 +1,64 @@
+
+# >> basic
+check basicbuild
+	has obstruction
+		return 0
+	has !floor
+		return 0
+	return 1
+
+
+check issheltered
+	if foreach ob in roofing # obstacles + roof
+		if check exists
+			return 1
+	return 0 
+	
+# >> constructs
+	
+action : build cloner
+
+	has !basicbuild
+		return
+	#>> needs power on death only
+		
+	build it ("cloner")
+
+action : build portal
+	has !basicbuild
+		return
+	#>> needs to be powered to work
+	build it ("portal")
+
+# >> advancedbuild
+power list {metal, powergrid, conduit, powerline} # say when I add one of these, or anything near them, they check power
+
+check power (target)
+	if target.powered return 1
+	return 0
+	
+check advancedbuild
+	has !power
+		return 0
+		
+	return 1
+
+
+
+action : build nexus
+	has !basicbuild
+		return
+	#>> needs to be powered while building, to trap the nexus
+	has !advancedbuild
+		return
+	build it ("nexus")
+	
+action : build chassis
+	is metal
+		build it ("metal chassis")
+	build it ("fake chassis")
+		
+action : build metal_box
+	is metal
+		build it ("magic box")
+	build it ("stupid box")

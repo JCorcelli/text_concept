@@ -1,0 +1,33 @@
+YOUNGLING
+Small
+very light-fur
+travels as buddy
+Mature after ## days
+encourage it
+
+DIGLING
+frequently scratches the ground and chews at it, digs if you need a buddy.
+
+HAPLING
+frequently goes towards the next event area rather than staying near buddy
+
+CUTELING
+makes buddy feel soothed
+
+SPEEDLING
+extra fast, a great scout
+
+BEFRIENDING A BUNNY
+They show up out of the blue. Then if the bunnies meld they define the hierarchy and follow suit.
+
+Bunnies tend to pair off but it's possible to have extra friends.
+
+HIERARCHY
+When entering, a bunny is unranked and everyone pets it, but after ## days it will establish rank.
+
+It's simple, but bunnies are ordered by charisma. Bunnies with equal charisma don't fight.
+
+HI INTERACTION
+Each bunny answers to one other bunny. Except the leader and tied bunnies who behave and bond mutually.
+
+In this system, you only see your second in command or your current selected buddy.
